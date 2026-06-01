@@ -1,17 +1,14 @@
-
-
 LOAD ORDER:
 
-99\_Cosmology
+99_Cosmology
 
-c\_Kael
+c_Kael
 
-c\_Sera
+c_Sera
 
-c\_Devaar\_Family
+c_Devaar_Family
 
-c\_Parents
-
+c_Parents
 
 Purpose
 
@@ -20,7 +17,6 @@ Define the narrative purpose, emotional function, structural function, and endin
 Unity should be understood through the files above before interpreting this file.
 
 This file assumes cosmology, character behavior, and relationships are already loaded.
-
 
 Function
 
@@ -36,7 +32,6 @@ Narrative climax.
 
 Unity is where all major narrative systems converge.
 
-
 Purpose
 
 Recognition.
@@ -48,7 +43,6 @@ Evidence.
 Not exposition.
 
 Understanding through association.
-
 
 Carries
 
@@ -68,7 +62,6 @@ Carries
 
 - Hospital Ending
 
-
 Reader Effect
 
 Reinterpretation of previous events.
@@ -79,6 +72,61 @@ Understanding through evidence.
 
 Not answers.
 
+Fragmentation Requirement
+
+Fragmentation is required for the system to function.
+
+Separate Fragments produce separate experiences, perspectives, decisions, and outcomes.
+
+The system depends upon these differences.
+
+Unity is therefore not a stable state.
+
+It is a temporary violation of a foundational requirement.
+
+The system naturally returns toward fragmentation.
+
+Sustained Unity cannot exist.
+
+Unity Processing
+
+Unity successfully connects Kael to all Fragments.
+
+The limitation is not access.
+
+The limitation is processing.
+
+Although connected to every Fragment simultaneously, Kael remains a human consciousness.
+
+She can only meaningfully process one life at a time.
+
+As additional experiences enter awareness, information rapidly exceeds human capacity.
+
+Individual lives collapse into moments.
+
+Moments collapse into images.
+
+Images collapse into emotional and sensory residue.
+
+The progression toward colors is therefore not symbolic compression.
+
+It is the failure of localization and processing.
+
+Qalm Intervention
+
+After briefly reaching the layer above Fragment separation, Qalm detects the anomaly.
+
+Kael has entered a state the system was never designed to sustain.
+
+Qalm removes her from the system before the convergence can stabilize.
+
+The connection is severed.
+
+The anomaly remains.
+
+Unity fails to persist.
+
+The system is changed regardless.
 
 Continuation
 
@@ -91,7 +139,6 @@ Not resurrection.
 Not alternate timelines.
 
 The reader should experience continuation before understanding its meaning.
-
 
 Echoes
 
@@ -109,7 +156,6 @@ Evidence suggesting Kael remains somewhere within continuation.
 
 Not confirmation.
 
-
 Prose
 
 Lucreta = Reference Point.
@@ -123,7 +169,6 @@ Reader gradually loses environmental anchors.
 Purpose:
 
 Make the reader subconsciously experience the same loss of anchors Kael experiences during Unity.
-
 
 Hospital
 
@@ -151,7 +196,6 @@ Release for the reader.
 
 Not release for Kael.
 
-
 Beginning / Ending
 
 Lucreta window.
@@ -167,7 +211,6 @@ One is denied the future.
 One proves the future exists.
 
 Story begins and ends looking toward life.
-
 
 Convergence Sequence
 
@@ -197,7 +240,6 @@ Convergence Sequence
 
 - Grey...
 
-
 References
 
 Bright Sky → Shared image across major fragments.
@@ -226,7 +268,6 @@ White → Doctor's Garb.
 
 Grey... → Kael's pale grey eyes → Hospital Girl eyes.
 
-
 Critical Reminder
 
 Unity is not a memory montage.
@@ -240,7 +281,6 @@ Unity is not a lore reveal.
 Unity is continuation evidence.
 
 Meaning emerges through association and convergence.
-
 
 Ending Function
 
@@ -257,4 +297,3 @@ The story begins and ends looking toward a bright sky.
 "I get it now."
 
 "It never ends."
-
