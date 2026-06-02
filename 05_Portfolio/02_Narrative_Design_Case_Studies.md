@@ -24,6 +24,12 @@ A pattern introduced during Unity later reappears in the hospital ending. The st
 
 The reveal becomes participatory. The reader reaches the conclusion through evidence rather than being told what the ending means.
 
+### Related Material
+
+- Prose: `04_Prose/10_Unity/Prose_Unity.md`
+- Reference: `01_Reference/91_Unity_Explained.md`
+- Reference: `01_Reference/92_Bridges.md`
+
 ---
 
 ## Case Study 02 — Showing Connection Without Shared Memory
@@ -43,6 +49,11 @@ A mother expresses affection through playful mistakes and corrections. Later, he
 ### Result
 
 The connection feels human before it feels cosmological. The reader senses that something has continued without needing a direct explanation.
+
+### Related Material
+
+- Prose: `04_Prose/07_Kael_and_Sera/inc_Sera_meets_Kael.md`
+- Reference: `01_Reference/92_Bridges.md`
 
 ---
 
@@ -64,6 +75,11 @@ Unity begins after the central character loses two of her closest emotional anch
 
 The reader experiences the event emotionally before trying to understand it conceptually. The large-scale idea is grounded in character attachment rather than lore.
 
+### Related Material
+
+- Prose: `04_Prose/10_Unity/Prose_Unity.md`
+- Reference: `01_Reference/91_Unity_Explained.md`
+
 ---
 
 ## Case Study 04 — Creating Conflict From Incomplete Information
@@ -84,6 +100,12 @@ Two characters misread the actions of a family trying to save their daughter. Bo
 
 The conflict remains emotionally grounded. Characters are not forced to act irrationally; they act according to what they believe is true.
 
+### Related Material
+
+- Character reference: `02_Characters/c_Devaar_Family.md`
+- Character reference: `02_Characters/c_Kael.md`
+- Reference: `01_Reference/92_Bridges.md`
+
 ---
 
 ## Case Study 05 — Ending With Evidence Instead of Explanation
@@ -103,3 +125,9 @@ A hospital girl survives a condition that should have killed her. Her pale grey 
 ### Result
 
 The ending remains mysterious while still feeling meaningful. The reader is not given a lecture; they are given proof that something has shifted.
+
+### Related Material
+
+- Prose: `04_Prose/10_Unity/Prose_Unity.md`
+- Reference: `01_Reference/91_Unity_Explained.md`
+- Reference: `01_Reference/92_Bridges.md`
