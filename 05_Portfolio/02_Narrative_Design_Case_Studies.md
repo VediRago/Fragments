@@ -38,7 +38,7 @@ Connection is expressed through behavior rather than knowledge. A gesture, joke,
 
 ### Example
 
-Abigail expresses affection through playful mistakes and corrections. Later, Sera repeats a similar dynamic with Kael by mishearing and reshaping her name. Sera does not know she is continuing anything, but the behavior carries emotional familiarity.
+A mother expresses affection through playful mistakes and corrections. Later, her daughter repeats a similar dynamic with another character by mishearing and reshaping her name. The daughter does not know she is continuing anything, but the behavior carries emotional familiarity.
 
 ### Result
 
@@ -54,15 +54,16 @@ How can a cosmological event avoid becoming abstract exposition?
 
 ### Approach
 
-The event begins with immediate emotional loss before expanding into larger structure. Unity does not start as an explanation of the world. It begins with people Kael loves, then gradually widens into unfamiliar lives, images, and sensations.
+The event begins with immediate emotional loss before expanding into larger structure. It does not start as an explanation of the world. It begins with a character losing the people closest to her, then gradually widens into unfamiliar lives, images, and sensations.
 
 ### Example
 
-Unity begins after Kael, the central figure in the sequence, loses Sera and Erit, two of her closest emotional anchors. The sequence first returns to personal grief before widening into other lives, unfamiliar moments, and broader continuity.
+Unity begins after the central character loses two of her closest emotional anchors. The sequence first returns to personal grief before widening into other lives, unfamiliar moments, and broader continuity.
 
 ### Result
 
 The reader experiences the event emotionally before trying to understand it conceptually. The large-scale idea is grounded in character attachment rather than lore.
+
 ---
 
 ## Case Study 04 — Creating Conflict From Incomplete Information
