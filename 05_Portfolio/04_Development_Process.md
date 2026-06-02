@@ -1,6 +1,6 @@
 # Development Process
 
-Fragments developed through iterative narrative problem-solving rather than a fixed outline.
+Fragments was not built from a fixed outline. It grew by solving one narrative problem at a time.
 
 The project began from images, scenes, and emotional impressions: a girl in a hospital, a woman near a window, a silhouette, a collapse, and the feeling that these moments belonged together. The larger structure emerged from repeatedly asking why those pieces felt connected.
 
@@ -55,6 +55,18 @@ Fragments is designed so the reader reconstructs meaning from partial evidence.
 The reader sees separate lives, repeated images, familiar behaviors, and unresolved connections. Over time, those fragments begin to form a larger shape.
 
 This makes the reader's experience mirror the structure of the project itself: understanding emerges through observation, comparison, and pattern recognition.
+
+---
+
+## Early Concept Evolution
+
+The earliest development stage produced several versions of the same core idea in both Portuguese and English: an editorial-style synopsis, a raw story pitch, a chapter outline, and an atmospheric prose attempt.
+
+Those early versions already contained several images and tensions that later became central to Fragments: abandoned girls, a powerful family, recognition without memory, artificial identity, repeated young death, and the idea that separate people might be connected more deeply than they understand.
+
+The current version keeps many of those emotional images, but removes most direct explanation. Instead of telling the reader what the connection is, Fragments lets meaning emerge through repeated behavior, visual echoes, family rhythm, misdirection, and delayed recognition.
+
+This comparison helped separate the project's stable core from the explanations that were no longer needed.
 
 ---
 
