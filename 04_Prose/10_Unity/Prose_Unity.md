@@ -36,69 +36,10 @@ Just a blur until it all settles on Erit's body.
 
 “Ggnha”
 
-She throws the back of her head against machine rolling until it stops at the connection port on her arm. While her eyes gather the distance shes already lifting herself towards the table. Her fingers slide gently over Erit's arm until they reach the cable. In one motion, turning hers while disconnecting.
-
-
-It’s the seams that guide her sight toward a body just ahead.
-
-Her back against the mainframe as her arms brace around her knees.
-
-As each finger slowly curling into a fist—
-
-A tear slips as she raises her arm.
-
-“I—”
-
-Slams it.
-
-Bringing her forehead toward her knees.
-
-“I grr—”
-
-As she lifts her head opposing the tear sliding across her cheek—
-
-“ ”
-
-She opens her eyes—
-
-“U.”
-
-And slams it.
-
-Detaching the tear as the back of her head leans against the machine.
-
-When they meet, the vibration starts soothing her.
-
-Almost free until she opens her eyes to the blinking lights taunting her.
-
-Her arms falter.
-
-No tears.
-
-No hope.
-
-No strength.
-
-A blur as her head rolls to her side.
-
-Resting against the vibration.
-
-They start to open.
-
-Eyes facing the connection port on her arm.
-
-Her legs start to wake up while her hands lift her body.
-
-Standing.
-
-Facing the screen flickering in her eyes.
-
-She’s static.
-
-Her arm slowly raises, grabbing the cable while the other twists to face it.
-
-In one motion—
-
+She throws the back of her head against machine rolling until it stops at the connection port on her arm.
+While her eyes gather the distance shes already lifting herself towards the table.
+Her fingers slide gently over Erit's arm until they reach the cable. 
+In one motion, turning hers while disconnecting.
 
 “You know I don’t like these kinds of events, Mom.”
 
@@ -136,7 +77,7 @@ Pulling her head back—
 
 Pushing her mother away as she walks off.
 
-Shes slowly starts peeking behind a wall. 
+ Peeking behind a wall. 
 
 “Sera!”
 
@@ -148,9 +89,7 @@ As she tries extending her arm—
 
 there is no movement.
 
-A gasp.
-
-As hands fail to reach her throat.
+A gasp as her hands fail to reach her throat.
 
 There’s no throat.
 
@@ -184,7 +123,7 @@ A reflection she has seen countless times.
 
 “No, Vera. Quite the contrary.”
 
-“---- Quite the contrary...”
+“...Quite the contrary”
 
 With a smile that simply persists.
 
@@ -200,15 +139,11 @@ The barrel slides across his face stopping between the eyes.
 
 “The wall needs painting. I wouldn’t waste...”
 
-“The wall needs painting. I wouldn’t want to waste it with a shit brain like you.”
+“The wall needs painting. I don't want to ruin it with a shit brain.”
 
  Falling to her knees with a deafening blow.
 
 “eeeeeeeeeee—”
-
-“Huh....”
-
-“HUh!”
 
 “Julia lo—”
 
