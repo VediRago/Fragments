@@ -58,12 +58,11 @@ The event begins with immediate emotional loss before expanding into larger stru
 
 ### Example
 
-Unity begins from Kael's grief and her connection to Erit and Sera. Only after those emotional anchors are established does the sequence expand into other lives and broader continuity.
+Unity begins after Kael, the central figure in the sequence, loses Sera and Erit, two of her closest emotional anchors. The sequence first returns to personal grief before widening into other lives, unfamiliar moments, and broader continuity.
 
 ### Result
 
 The reader experiences the event emotionally before trying to understand it conceptually. The large-scale idea is grounded in character attachment rather than lore.
-
 ---
 
 ## Case Study 04 — Creating Conflict From Incomplete Information
@@ -78,7 +77,7 @@ Characters make reasonable conclusions based on limited evidence. No one has the
 
 ### Example
 
-Kael and Sera misinterpret the Devaar family's actions because they only see fragments of the situation. The Devaars are also acting from incomplete knowledge while trying to save Erit. The tragedy grows from crossed intentions rather than simple villainy.
+Two characters misread the actions of a family trying to save their daughter. Both sides act from incomplete information, and the tragedy grows from crossed intentions rather than simple villainy.
 
 ### Result
 
