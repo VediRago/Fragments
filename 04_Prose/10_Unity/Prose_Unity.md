@@ -218,29 +218,29 @@ As a sword comes thrusting out of her body and she starts reeling in.
 
 “Does this mean...”
 
-Staring at a bright sky (all)
+Staring at a bright sky 
 
-A reflection in window (kael)
+A reflection in window 
 
-A crown of flowers(lucreta)
+A crown of flowers
 
-A bloody hand(erit)
+A bloody hand
 
-A ripple in.. (sera)
+A ripple in..
 
-A light(ophthalmoscope near the eyes of hospital girls)
+A light
 
 Hands
 
-Cars(the word hospital girl will say after when watching at the window followed by… to show kael remains)
+Cars
 
-People (Hospital girl says with … to show kael still somewhere)
+People
 
-Light( ophthalmoscope near the eyes of hospital girls)
+Light
 
-Black(Kaels eyes)
+Black
 
-White(Doctots garb)
+White
 
 “Grey..
 
