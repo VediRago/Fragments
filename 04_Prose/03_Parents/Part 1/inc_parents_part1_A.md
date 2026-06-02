@@ -1,0 +1,491 @@
+# ~~***A Chance of Luck**
+
+## ~~***Interlude**
+
+~~***"I do."**
+
+With those words, they turn toward the exit of the old church.
+
+The coloured reflections dance across the worn floorboards beneath their feet, interrupted now and then by the flicker of cheap lights hidden behind the painted glass.
+
+The structure hunches beneath the shadows of a city that tries to erase the heavens it once sought to reach, weathered and stubborn against the world pressing in from all sides.
+
+Their footsteps cross the empty chamber, adorned with plastic imitations of carved wood and fading paintings from a long-forgotten era.
+
+Their echo follows.
+
+As the doors slowly open, sirens, horns, and distant shouting press their way inside, separating the moment within from the restless city beyond.
+
+The stench of the city greets them first.
+
+Followed by concrete walls fighting for every scrap of space, thinning the streets into little more than one-way passages. Rows of windows line the lower levels, each leaking a different smell of food into the walkway until they merge into something best experienced in passing.
+
+Getting past them offers little relief. The passages spill into roads lined with stalls pressed shoulder to shoulder, their owners fighting for the same space as the buildings looming above.
+
+Metal grids and walkways crisscross overhead, venting steam into the gaps between buildings before it disappears into the haze. Whatever sunlight once reached the streets has long since been stolen—by the structures above or the fog that devoured everything the city once had to offer.
+
+“You know you have to deal with me for the rest of your life now, right?” he says, reaching for his sunglasses.
+
+“I wasn't aware this was a one-sided deal. Are you saying I've been duped?”
+
+“A gift for the missus?”
+
+The shout comes from the shade of a makeshift stall draped in flowers, squeezed between dozens of others competing for space, paving the path toward the street.
+
+Turning his head toward the tall merchant without breaking stride—
+
+"No need."  
+  
+"Oh, and the flowers?"  
+  
+"She's already got me, thank you." 
+
+As he turns forward, his foot catches one of the bottles scattered beside a homeless man resting against the wall.
+
+Turning her back to the city, she looks toward the church doors.
+
+“Is it too late to go back?”
+
+“You just watched me almost fall within a few steps and already want to go back? Am I supposed to survive this day?”
+
+A child darts through the crowd and bumps into her before disappearing between the stalls.
+
+Phil turns back toward her, lowering his sunglasses.
+
+“Karma here strikes fast, dont you think?”
+
+He follows it with a small wink before settling them back into place.
+
+“Are you always this insufferable, darling?”
+
+He places a hand against his chest and tilts his chin upward.
+
+“It's my middle name. My legacy. My most honed skill.”
+
+Shaking her head, she hooks her arm through his.
+
+“The skills you oughta be focused on right now are the ones that'll make that wreck you call home actually livable.”
+
+Lowering his head, he peers over the rim of his sunglasses.
+
+He slows. She doesn't.
+
+“Am I being duped?”
+
+She turns back, wind pulling hair across her face.
+
+“Maybe.”
+
+The smile comes and goes and she's already walking again.
+
+His gaze drops to her dress. No pockets. The grin settles in.
+
+“Don't tell me you've got a whole list tucked under your bra.”
+
+A trembling hand brushes against her skirt.
+
+“Spare a coin?”
+
+A man in ragged clothes looks up from beside the wall, his hand still outstretched.
+
+She glances down at him.
+
+“Could be a sign of good luck.”
+
+He rubs the back of his head, checks his pockets, and comes up empty.
+
+“I think we're already cursed. You don't happen to have a bill stashed next to that imaginary list, do you?”
+
+“If I was trying to avoid bad luck,” she says, “do you think I would've married you?”
+
+~~***The beggar keeps his hand out.**
+
+Sirens thread through traffic somewhere distant.
+
+The city offers nothing quieter than this.
+
+She reaches up and unclasps the necklace from her neck, setting it into his palm.
+
+He stares at the weight of it.
+
+A gentle nudge shifts her aside as a hand lands on the old man's shoulder.
+
+“Looks like your day just turned around.”
+
+She turns back as the old man retreats into the shadows.
+
+“See? Good fortune. Forever. Guaranteed.”
+
+Leaning slightly in, she adds,
+
+“And do you really need an imaginary list as an excuse to stare at my chest?”
+
+He starts to smirk but it doesn’t fully form as a tightening in the flow of bodies cuts across their path. As they move, people and metal compress around them, forming a narrow passage before the flow opens again without stopping. 
+
+They cross the street. He offers her his hand.
+
+“Let’s go. This isn’t exactly what I pictured for our first afternoon.”
+
+She raises an eyebrow.
+
+“Really?”
+
+He leans toward her ear.
+
+“Keep that up and I’m charging you for the ride.”
+
+
+
+~~***Concrete forms in layered folds, one after another, stacking into distance until the horizon becomes a compressed wall of grey. Above it, jagged building edges cut into the sky as they move through the surge of bodies weaving in every direction.**
+
+She glances sideways at him, one eyebrow lifting. “A quiet spot, huh? Bold claim — considering all this.”
+
+“You doubt me?” He glances at her. “Maybe you should — if that necklace hadn’t bought us a ridiculous amount of luck. Must’ve been worth a fortune.” ~~***A sharp cry slices through the crowd’s low roar, and her attention snaps to it. She drifts right, nearly colliding with someone. His hand closes around her arm before she goes far.**
+
+~~***“Car’s just ahead,” he says, looking at her, but she keeps craning forward, drawn to the noise **nearly stepping into a man cutting the opposite way. “Hasn’t even been a day, and you’re already making a run for it.”
+
+She blinks, turns to him. “What?”
+
+The noise swells; he raises his voice over it. “I was expecting an… ‘Are we there yet?’”
+
+She tilts her head. “Are you calling me impatient?”
+
+“Me?” He pulls her in slightly. “You’re suggesting I go around implying things about people?”
+
+“People?” She gives a small push.
+
+“No.” He stays close. “Just you.”
+
+~~***Laughter breaks between them, light and out of place against the city’s grinding pressure. He guides her through the last press of elbows and shoulders. The car comes into view. She moves fast. Doors close in unison; the street noise drops to a muffle. They sit for a moment in sudden silence.**
+
+~~***Hands on the wheel, he turns toward her. “Ready for an adventure, my lady?”**
+
+~~“***Adventure.” She arches an eyebrow. “That’s it? I expected a hotel — a good one — maybe a spa, a proper dinner somewhere that doesn’t make me want to cry.”**
+
+~~***His head dips; a faint sniff. “Caught. Suppose it won’t be a surprise anymore — you just married a man with one kidney, no liver, half a lung, and I’m still eight thousand and forty-two credits short.”**
+
+~~***She sets a hand on his shoulder. With a tone of mock sadness, she says, “Poor man.” Her voice jumps. “So, since this isn’t exactly what I pictured for our first afternoon married — what’s left?”**
+
+~~***She props her chin on her hand, eyes sliding toward him. “Will it at least be… magical?”He tries for serious, fails. “The only magic you’ll witness today is me, sugar puffs.”**
+
+~~***A laugh shoots from her. “Sugar puffs? Just — drive, get us out of here.”**
+
+~~“***Your wish, your command.” Perfectly straight face. “Commander.”**
+
+~~***He maneuvers out of the parking spot and her head drifts sideways, settling against the window. Thousands of people move just beyond the glass. None of them look at her. None of them look at each other.**
+
+She's right beside him and he loses her anyway. He glances over, just checking.
+
+“Hungry?” he says.
+
+She doesn’t respond.
+
+He drives. Then his hand finds her leg. “Hey… you okay?”
+
+~~***Tired, and something else underneath it. She hears him, but her attention is already elsewhere — past the question, past him — settling on the crowds outside as they streak and dissolve into nothing beyond the glass.**
+
+~~***Her head stays against the window. Her eyes drift from the road below, slowly lifting upward.**
+
+“Where do we go from here?” she says, barely above a murmur.
+
+“From Narev we head south. Still a bit of a ways.” He checks the GPS, then her. “You can sleep if you want.”
+
+The fog sits against every window.
+
+“We aren't even privileged enough to see the sky.” Her eyes don't move from the blur outside.
+
+He leans forward and looks up out of habit. Fog. Only fog. The city has never been without it — no one alive would know the difference.
+
+He lets it go. Silence takes the stage.
+
+An hour since she’s asleep. Daylight thins into something softer, and the city fills the gap, street-glow pressing back against the dark before it can settle. Night comes here but never completes itself.
+
+"I'm hungry," she says, stretching her arms toward him.
+
+"How could you not be." He looks at her.
+
+"You've been asleep for two days."
+
+"Two days?!" She squints at her cellphone screen.
+
+“Instead of jokes, why don’t you sell your other liver — whatever’s left, your brain maybe — and get your wife some food?”
+
+She looks out the window to get her bearings. "How are we not there yet? Did you sleep too?"
+
+"You think?" Fast. Ready. "If I had, you'd be losing your mind right now." A sideways glance. "I didn't sleep, and here you are anyway." He leans back slightly.
+
+"Find me food or I become your nightmare."
+
+"Your nightmare?" His head turns slightly toward her
+
+"I'm too hungry for this. Just — food." She waves him off.
+
+"I was waiting to see if you'd work it out yourself." His eyes stay forward. "
+
+"What?"
+
+"You already are."
+
+~~***Night takes them fully as they push along roads that no map bothers to name. The city's light refuses to die behind them, bleeding at the horizon. Even out here, the noise lives somewhere behind the ears.**
+
+She's on her phone, half-reclined, thumb moving on autopilot, when his voice cuts in beside her.
+
+"Are—" she flinches hard, nearly dropping it. "—eeeee yyoouuu readddyyy? Don't miss tomorrow — the fight between Jo—"
+
+"Stop!" The word slips out before she decides to say it.
+
+"Yeah, I know. I hate long drives too."
+
+The headlights eat the last stretch of dirt road. Beyond that, nothing.
+
+"For a while now, you've been privileged," he says quietly. "Didn't even notice."
+
+Her thumb goes still. The phone tilts, slips, lands in her lap untouched. She turns toward the window. In the glass, he catches the wet shine at the corner of her eye.
+
+"It's… vast," she breathes. The city had left no room for anything beyond it.
+
+The car rolls forward another few meters before slowing.
+
+The lurch rocks her sideways — she's already somewhere else.
+
+Engine off. Lights off. The universe moves in to fill the gap.
+
+"I know you won't enjoy what I'm about to ask." His voice pulls her back.
+
+"I don't care," she says. Too quick.
+
+Nothing visible now but the scattered wreckage of light above them.
+
+"I need you to cover your eyes."
+
+"Okay. Covered." She turns her head away. "You're being weird, by the way. No stupid comments in like forever."
+
+"Hello?" Rustling. Close. She can't place it.
+
+Then his mouth is right at her ear. "I knew you were impatient."
+
+The smack lands before the laugh does.
+
+"You ass!" She drops into a mocking baritone. "So what's the big reveal… oh, I'm sorry, I have to ask you this, blablabla—"
+
+"Can't you see?"
+
+She fires back instantly. "Can you?"
+
+"I'm naked."
+
+Whatever she was about to say stalls completely.
+
+"Are you—"
+
+A light flips on.
+
+A key sits in his palm. She doesn't know what it opens. Doesn't matter.
+
+"If you've got handcuffs on the other hand," she says, "I'll strap you to that tree and leave you there." She points without looking away. "That one. Your tomb. Sleep well, my dearest."
+
+He lets the smirk sit. "This…" The pause, deliberate. "Abby. This is our freedom."
+
+She keeps the pressure on.
+
+"Oh. So we were — what, imprisoned? Enslaved?"
+
+Her face gives nothing. He can read straight through it anyway.
+
+"I should've told you earlier. Give you more time with the view." He closes his fingers around the key. "This is our new home."
+
+
+
+
+
+
+~~***Cold moves softly around her feet.**
+
+~~***She sits at the edge of the stream with her eyes closed, letting the water drift around her ankles while the morning sun slowly gathers warmth across her skin.**
+
+~~***For once, nothing presses against her.**
+
+~~***No traffic.  
+No voices.**
+
+~~***Just water.  
+Wind.**
+
+~~“***Not even a good morning, huh?”**
+
+~~***The words reach her through a voice still rough with sleep.**
+
+~~***One eye is all she gives him as her face turns toward his.**
+
+~~“***Good morning to you too, sugar puff puff,” he answers anyway.**
+
+~~“***See? I know you.”**
+
+~~***Her head falls back into the morning light.**
+
+~~“***From the second you wake up, huh?”**
+
+~~***As he turns toward her, something about her leaves him speechless.**
+
+~~“***So… have you thought about it yet?”**
+
+~~***His eyes capture the movement of her lips as those words fall from them.**
+
+~~“***Thought about what? Should I be reading minds now?”**
+
+~~***Then drift toward her feet stirring beneath the surface, the same way she rests beneath the sun.**
+
+~~“***The name.”**
+
+~~***Tying his hands behind his back, he says, “Oh, pfft. Of course. Frisky.”**
+
+~~***As her hands shift behind her back—**
+
+~~“***Ok…” The word falls with the same stillness her feet break.**
+
+~~***He cracks one eye open.**
+
+~~“***What? You asked if—”**
+
+~~“***Sera.”**
+
+~~***He sits up slightly.**
+
+~~“***Sera?”**
+
+~~***Her chest arches toward the sun, embracing the warmth.**
+
+~~“***To be. To become something. Something like that.”**
+
+~~***A quiet stretch settles between them.**
+
+~~“***You didn’t think about it at all either, did you?”**
+
+~~***Her head starts turning toward him.**
+
+~~“***You didn’t even think—”**
+
+~~***A sudden grip pulls her into him, the motion unleashing a laugh that completes the moment.**
+
+~~“***I want those…” Each letter a step as his sight descends toward her lips.**
+
+~~***A forced shake of her head fails to compose her.**
+
+~~“***Do you n—” The words collapse back into laughter.**
+
+~~***A tear slides across her face. “Phil, stop.”**
+
+~~“***I’m not doing anything.”**
+
+~~***He falls back into the grass.**
+
+~~“***I finished my thesis.”**
+
+~~“***The one you tried explaining to me fifty-two times?”**
+
+~~***As she wipes across her eyes—**
+
+~~“***I didn’t understand a word.”**
+
+~~“***That’s because you refuse to appreciate genius.”**
+
+~~“***Fifty-seven.”**
+
+~~“***You started talking about it in tenth grade?”**
+
+~~“***Seventh.”**
+
+~~“***Tenth grade. Wow, that’s been a while.”**
+
+~~***As she leans over his chest— "I didnt read it" **
+
+  
+Cold moves softly around her feet.
+
+She sits at the edge of the stream with her eyes closed, letting the water drift around her ankles while the morning sun slowly gathers warmth across her skin. The surface shifts in thin lines around her movement, light breaking and reforming as it flows past.
+
+For once, nothing presses against her.
+
+No traffic.  
+No voices.  
+Just water moving low and constant.  
+Wind passing through the grass without direction.
+
+“Not even a good morning, huh?”
+
+The words reach her through a voice still rough with sleep.
+
+One eye is all she gives him before her face drifts back to the stream. The water keeps moving, carrying fragments of sky that never hold still long enough to settle.
+
+“Good morning to you too, sugar puff puff,” he answers anyway.
+
+“See? I know you.”
+
+Her head leans back into the light. The sky above is open and pale, stretching without weight.
+
+“From the second you wake up, huh?”
+
+“So… have you thought about it yet?”
+
+“Thought about what? Should I be reading minds now?”
+
+“The name.”
+
+Tying his hands behind his back, he says, “Oh, pfft. Of course. Frisky.”
+
+“Ok…” His words fall as the surface her feet disrupts.
+
+He cracks one eye open.
+
+“What? You asked if—”
+
+“Sera.”
+
+He sits up slightly. Grass shifts under him as he moves.
+
+“Sera?”
+
+“To be. To become something. Something like that.”
+
+A quiet stretch settles between them. The stream keeps threading past stones, unchanged by the conversation above it.
+
+“You didn’t think about it at all either, did you?”
+
+“You didn’t even think—”
+
+A sudden grip pulls her into him. The grass bends and the water breaks slightly at the edge where they shift.
+
+“I want those…”
+
+Each word falls as his attention drops toward her.
+
+“Do you n—”
+
+A tear slips across her face, catching sunlight before disappearing.
+
+“Phil, stop.”
+
+“I’m not doing anything.”
+
+He falls back into the grass. The sound is absorbed immediately by the ground.
+
+“I finished my thesis.”
+
+“The one you tried explaining to me fifty-two times?”
+
+“I didn’t understand a word.”
+
+“That’s because you refuse to appreciate genius.”
+
+“Fifty-seven.”
+
+“You started talking about it in tenth grade?”
+
+“Seventh.”
+
+A pause settles.
+
+“Wow, that’s been a while.”
+
+“I didnt read it”
+
