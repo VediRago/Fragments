@@ -1,113 +1,115 @@
 # Narrative Design Approach
 
-## Overview
+This page explains how I think about Fragments as a design project.
 
-Fragments is designed around the idea that a story can create different outcomes without changing its path.
+The story itself is about people, connection, loss, and recognition. The deeper structures are there to support those feelings, not replace them.
 
-The story itself remains fixed. The variation happens in the reader's state of understanding.
+The main question I kept returning to was:
 
-Readers notice different clues, trust different assumptions, miss different connections, and arrive at different perceived outcomes. These outcomes are not random. They are guided by a hidden structure that remains consistent underneath the experience.
-
-The goal is not ambiguity.
-
-The goal is controlled uncertainty: multiple reader states moving through one coherent system.
+**How can the same story lead different readers toward different conclusions without changing its events?**
 
 ---
 
-## The Map
+## Meaning Is Felt First
 
-The structure of Fragments works like a map.
+One of the biggest lessons from working on Fragments is that meaning can be felt before it is understood.
 
-Across the story, the reader encounters points of meaning: names, repeated gestures, visual echoes, emotional bridges, misdirections, compressed recognitions, and recurring patterns.
+A reader does not need to understand the whole structure to feel a scene.
 
-At first, these points appear to be ordinary story details.
+They can feel Sera and Kael's connection before knowing why it matters.
 
-They are not.
+They can feel something is wrong before the story explains what is happening.
 
-They are coordinates.
+They can reach the ending and only then realize certain details were present from the beginning.
 
-The reader follows them without knowing they are following a map.
-
-Different readers notice different coordinates. Some recognize patterns early. Some follow partial trails. Some miss the structure entirely on a first reading.
-
-All of those responses are valid reader states.
-
-But the map still points.
-
-The underlying structure remains fixed even when readers move through it differently.
+That became one of the main things I wanted to explore.
 
 ---
 
-## The Key
+## Realization, Not Explanation
 
-The key is the realization that teaches the reader how to read the map.
+I became more interested in realization than explanation.
 
-Once the reader finds the key, they can look backward and understand how earlier details connect. What once felt like coincidence, atmosphere, misdirection, or ambiguity becomes structure.
+An explanation gives the reader information.
 
-This is central to the design of Fragments.
+A realization changes how the reader sees information they already had.
 
-The story is not built to explain itself immediately. It is built to make the reader feel the answer before they can name it.
+That difference matters to Fragments.
 
-The realization comes after the fact.
+The answer may be present from the beginning.
 
----
-
-## The Treasure
-
-The treasure is not simply the ending.
-
-The treasure is looking back.
-
-Looking back changes the reader's perception of everything they already experienced. Earlier scenes gain new meaning. Names, gestures, repeated images, and emotional echoes become visible as parts of the same system.
-
-The title itself follows this principle.
-
-Noeme can be read as "know me," a request for recognition. Looking back, it also becomes "one me," pointing toward the hidden unity beneath separate lives and perspectives.
-
-The answer is presented before the reader enters the story.
-
-It only becomes visible after the reader has changed.
+Recognition comes later.
 
 ---
 
-## Compression and Unity
+## The Reader Participates
 
-Unity uses the same principle at the level of perception.
+Fragments does not use visible branching paths in the usual way.
 
-Throughout the story, environmental description is gradually reduced. Rich sensory detail slowly gives way to dialogue, movement, and character interaction.
+The story does not stop and ask the reader to choose a path.
 
-This compression is subtle enough that some readers may not consciously notice it.
+Instead, readers make choices quietly while reading:
 
-That is part of the design.
+- what they notice
+- what they trust
+- what they ignore
+- what they connect
+- when they realize something matters
 
-Some readers feel the compression subconsciously. Some recognize it after the fact. Some may not notice it at all.
+Those choices can lead different readers toward different conclusions from the same story.
 
-Each response creates a different reader outcome.
+That is the part that interests me.
 
-The structure still points to the same destination.
+---
 
-Unity is tragic because it represents the loss of stable self and perception while existence continues.
+## Structure Supports Feeling
 
-The central fear is not death.
+Fragments can become complex very quickly.
 
-It is losing yourself without knowing you have been lost, and continuing forever.
+There are hidden connections, repeated images, character echoes, and rules beneath the surface.
 
-The reader can look back and recognize the process.
+But the reader should not need to study the structure first.
+
+The reader should meet people first.
+
+The structure matters because it keeps the story grounded. It helps the misdirection feel fair, the tragedy feel earned, and the ending feel connected to everything before it.
+
+Without that structure, the story could easily feel like a cheap trick.
+
+With it, I hope the reader can look back and feel that the pieces belonged together.
+
+---
+
+## Unity
+
+Unity is the clearest example of this approach.
+
+Inside the story, Unity is not meant to be explained like a system.
+
+It is meant to be felt as a tragedy.
+
+As the story moves forward, description slowly gives way to dialogue, movement, and interaction. The world becomes less present on the page.
+
+The reader may not notice that happening.
+
+When Unity arrives, some readers may realize they already experienced a smaller version of what is happening to Kael.
+
+The reader can leave the experience and look back.
 
 Kael cannot.
 
+That difference is the emotional center of Unity.
+
 ---
 
-## Design Principle
+## What I Try To Keep In Mind
 
-Fragments is built so that meaning changes after recognition.
+While working on Fragments, I often found myself exploring increasingly complex ideas.
 
-The events do not change.
+What helped me stay grounded was making sure those ideas eventually led back to the characters and their experiences.
 
-The reader changes.
+If they did not, they did not belong in the story.
 
-Then the past changes meaning.
+The concepts are important.
 
-This allows the project to explore infinity, identity, perception, and outcome through structure rather than exposition.
-
-The variation exists in the reader's state of understanding, not in the consistency of the world.
+But the reader experiences people, scenes, and feelings first.
