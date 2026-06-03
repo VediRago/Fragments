@@ -181,7 +181,7 @@ Black
 
 White
 
-“Grey..
+“Grey..."
 
 The ophthalmoscope lowers from her eye.
 
