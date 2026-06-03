@@ -1,77 +1,119 @@
 # Narrative Design Thesis
 
-## Can a Story Create Branching Outcomes Without Branching Paths?
+While developing **Fragments**, I became interested in a simple question:
 
-Fragments explores whether interpretation itself can function as a narrative system.
+**How can the same story lead different readers toward different conclusions without changing its events?**
 
-Rather than relying on explicit choices or visible branches, the story creates different outcomes through perception. Readers form conclusions from incomplete information, recurring patterns, delayed context, and hidden connections.
+I did not start with a theory. I started with scenes, characters, and questions that kept growing as I worked on them.
 
-Different readers may arrive at different conclusions, but those conclusions are rarely simply wrong.
+At first, I was exploring outcomes. If different outcomes exist, then different states must also exist. As the project developed, I noticed something interesting: the same idea could apply to the reader.
 
-They are reasonable outcomes based on the information available at that moment.
+Different readers notice different things. They trust different details. They make different assumptions. They may leave the same story with different conclusions.
 
-As new information appears, earlier events are recontextualized. Previous assumptions are challenged, but not erased. The reader discovers that earlier interpretations made sense from a limited perspective.
+That became one of the main ideas behind Fragments.
 
-This creates a branching effect without requiring a branching narrative.
+Rather than creating visible branching paths, I became interested in whether interpretation itself could create different outcomes.
 
-The reader is continuously selecting outcomes through interpretation.
+## The Reward Is Being Right
 
-## Controlled Uncertainty, Not Ambiguity
+One thing I became interested in was rewarding attention.
 
-Fragments is not designed around open-ended ambiguity.
+Rather than hiding information completely, I wanted readers to have enough information to reach conclusions on their own.
 
-The story supports multiple states of understanding, but those states exist inside a fixed structure. The underlying reality remains consistent even when the reader does not yet have enough information to understand it fully.
+When those conclusions later prove correct, the reward is not just a reveal.
 
-The final outcome matters because it validates the system.
+The reward is being right.
 
-When the structure is fully visible, the ambiguity narrows. Earlier scenes gain new meaning instead of becoming irrelevant.
+That only works if the structure underneath the story holds together. Misdirection can be useful, but it has to remain fair. A conclusion may later become incomplete, but it should still make sense based on what the reader knew at the time.
 
-The goal is not to let readers believe anything.
+## Realization, Not Explanation
 
-The goal is to guide readers through different perceived outcomes while maintaining a coherent underlying reality.
+A lot of Fragments is built around realization rather than explanation.
 
-## Fair Misdirection
+I became interested in moments where the reader does not receive a direct answer, but suddenly starts seeing the story differently.
 
-Misdirection only works when it is fair.
+The answer may be present from the beginning.
 
-A misleading conclusion must be plausible under the circumstances in which it appears. Later context should not make the reader feel cheated. It should reveal why the earlier conclusion was reasonable, but incomplete.
+Recognition comes later.
 
-This allows Fragments to challenge the reader while still rewarding them.
+Noeme is an example of this. The name can be read as "Know Me" or "One Me," but those meanings only matter once the story gives enough context to recognize them.
 
-The reward is not simply reaching the ending.
+The letters were always there.
 
-The reward is realizing that the structure was present the whole time.
+The reader changes.
 
-## Unity as Perceptual Tragedy
+## Connection Was Already There
 
-Unity extends the same design principle beyond interpretation and into perception itself.
+One of the most useful things I learned while writing Fragments came from Sera.
 
-Unity is not treated as simple death or transformation. It is the continuation of existence after the stable self has been lost.
+Like many new writers, I initially assumed emotional impact required more connection.
 
-The tragedy is that the person experiencing the loss does not recognize it.
+Sera's final scene challenged that assumption.
 
-Throughout the story, environmental description is gradually reduced. Rich sensory detail slowly gives way to dialogue, movement, and character interaction. The reduction happens slowly enough that the reader can adapt to each change without consciously noticing what has been removed.
+While revising the story, I gradually removed elements I thought were necessary. Instead of weakening the moment, I often found myself becoming more engaged with it.
 
-By the time Unity becomes visible, the reader has already experienced a smaller version of the same process.
+The connection was already there.
 
-The reader may realize only afterward that the story has been losing perception from the beginning.
+That observation changed how I approached later scenes. I became more interested in how little could be shown while still preserving the feeling I wanted to convey.
 
-This mirrors Kael's tragedy.
+## Feeling Opens Realization
 
-She adapts to the loss as it happens. She continues to think, feel, move, and exist. But she never reaches the realization that something fundamental has been taken from her.
+The goal was not to explain ideas.
 
-The reader can leave the state and understand it.
+The goal was to use feeling to create the conditions for realization.
+
+That realization is not guaranteed. A reader may miss it. Another may notice it early. Another may only understand it after looking back.
+
+Those different responses became part of what interested me.
+
+Not every reader reaches the same outcome, because not every reader notices the same things at the same time.
+
+## Complexity Has To Return
+
+While working on Fragments, I often found myself exploring increasingly complex ideas.
+
+What helped me stay grounded was making sure those ideas eventually led back to the characters and their experiences.
+
+If they did not, they did not belong in the story.
+
+The deeper structure matters because it keeps the story from collapsing into a cheap answer. It allows misdirection, tragedy, and hidden connections to feel satisfying when the reader looks back.
+
+But the reader does not experience the structure first.
+
+The reader experiences people.
+
+## Unity
+
+Unity grew from these same questions.
+
+Inside the story, Unity is a tragedy. It is not simply an ending. It is the loss of something essential while existence continues.
+
+The challenge was not explaining that idea.
+
+The challenge was making the reader feel a reduced version of it.
+
+As the story moves forward, description gradually gives way to dialogue, movement, and interaction. The world slowly disappears from the page.
+
+Some readers may notice this.
+
+Some may not.
+
+Some may only realize it after Unity.
+
+That difference matters.
+
+The reader can leave the experience and look back.
 
 Kael cannot.
 
-The tragedy emerges from the possibility that something fundamental can be lost without the person experiencing the loss ever recognizing it.
+## What This Project Taught Me
 
-## Design Result
+Fragments is still in development, but working on it has taught me a lot about narrative structure.
 
-Fragments uses structure, perception, and delayed recognition to make the reader participate in the same incomplete-information process as the characters.
+It taught me that meaning can be felt before it is understood.
 
-The story explores different outcomes not only through what happens inside the narrative, but through how the narrative is experienced.
+It taught me that explanation is not always the strongest way to communicate an idea.
 
-The result is a project where interpretation is not just a response to the story.
+It taught me that connection can already exist before I recognize it.
 
-Interpretation is part of the design.
+Most of all, it taught me that complex ideas only matter when they return to people, feeling, and experience.
