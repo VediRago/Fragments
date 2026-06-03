@@ -1,79 +1,93 @@
+# 04_Kael
 
+## Purpose
 
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure
+This act introduces Kael.
 
-Prose Reference:  
-P\_04\_Parents\_Part\_3\_Excerpt
+It should feel like arrival into a world that is still moving even though the people are mostly gone.
 
-Characters
+Kael enters the remains of the world established in the Parents act. The place should feel familiar through its systems, advertisements, and colonization messaging, but empty enough to feel wrong.
 
-Kael
+## Characters
 
-Purpose
+- Kael
 
-Introduce Kael
-
-Continuity
+## Structure
 
 Arrival → City → Displacement Site → Mirror → Warp Room
 
-World
+Kael moves through the remains of the previous world and reaches the place connected to Sera's displacement.
 
-The act takes place on the same world established during the Parents act.
+The act should create mystery around Kael without explaining her fully yet.
+
+## World
+
+This is the same world established during the Parents act.
 
 Approximately ten years have passed since Sera's displacement.
 
 Automated systems continue operating without human intervention.
 
-Advertisements, infrastructure and city systems remain active.
+Advertisements, infrastructure, and city systems remain active.
 
-The world shows signs of decline but not complete collapse.
+The world shows signs of decline, but it has not completely collapsed.
 
-Important
+That contrast matters. The world is not dead. It is still functioning without the life that gave it meaning.
 
-Arrival
+## Important Details
+
+### Arrival
 
 Kael arrives on a ship.
 
-City
+Her arrival should feel quiet and uncertain. The reader is meeting her in a place that already carries history, even if they do not fully understand that history yet.
 
-Remains of the previous world are still present.
+### City
 
-Advertisements and colonization messaging continue operating.
+The remains of the previous world are still present.
 
-Displacement Site
+Advertisements and colonization messages continue operating.
 
-Remains of the virus event are still present.
+These details should echo the Parents act and show that time has passed, but the system kept running.
 
-Mirror
+### Displacement Site
+
+The remains of the virus event are still present.
+
+This location connects Kael to the aftermath of what happened to Philip and Sera.
+
+The scene should feel like Kael is walking into the consequences of someone else's tragedy.
+
+### Mirror
 
 Kael approaches an observation-room mirror near the displacement site.
 
-The mirror breaks as she sees her reflection.
+The mirror breaks when she sees her reflection.
 
-The scene introduces the first visible sign that unusual events occur around Kael.
+This is the first visible sign that unusual events happen around Kael.
 
 The mirror later connects to Sera's dream sequence.
 
-Warp Room
+### Warp Room
 
 Kael discovers the bodies of a man and a young girl near the displacement device.
 
-The scene suggests this is not the same outcome previously seen through Philip and Sera.
+This suggests the reader may not be seeing the same outcome previously shown through Philip and Sera.
 
-Unusual Events
+The moment should create unease rather than give answers.
 
-The act introduces early signs that unusual events occur around Kael.
+### Unusual Events
 
-Prose
+This act introduces early signs that Kael is connected to events the reader cannot fully explain yet.
 
-Environmental grounding remains important due to the introduction of a new world.
+The important part is not to clarify everything immediately. The reader should feel that Kael belongs to the mystery before they understand how.
 
-Description should be reduced slightly compared to Parents Part 3.
+## Prose Notes
+
+Environmental grounding remains important because this act introduces the reader to a changed version of a known world.
+
+Description should be slightly reduced compared to Parents Part 3.
 
 Dialogue should be minimal.
 
-
+Kael should feel isolated, and the world should feel like it is answering her with broken systems, reflections, and remains instead of people.
