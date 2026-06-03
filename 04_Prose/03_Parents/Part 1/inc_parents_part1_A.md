@@ -434,122 +434,100 @@ He closes his fingers around the key.
 
 ---
 
-Cold moves softly around her feet.
+Cool water moves softly around her feet.
 
-Abby sits at the edge of the deck hanging over the lake with her eyes closed, letting the water drift around her ankles while the morning sun slowly gathers warmth across her skin.
-
-The lake holds the sky almost still.
-
-Only the small motion of her feet breaks it, sending thin ripples outward until the clouds lose their shape and return again.
+She sits at the edge do the deck hanging over the lake with her eyes closed, morning sun slowly gathers warmth across her skin. 
 
 For once, nothing presses against her.
-
-No traffic.
-
+No traffic.  
 No voices.
+ 
+“Not even a good morning, huh?” He pushes aside tangled blankets as the words reach her through a voice still rough with sleep
 
-Only water.
+One eye is all she gives him before her face returns, motion of her ankles breaking the still water
 
-Wind.
+“Good morning to you too, sugar puff puff,” he answers anyway.
 
-The wooden deck creaks behind her.
+“See? I know you.”
 
-"Not even a good morning, huh?"
+Her head leans back into the light. Under the sky the clouds like light strokes of white moving slowly.
 
-The words reach her through a voice still rough with sleep.
+“From the second you wake up, huh?”
 
-Phil pushes aside tangled blankets in the grass behind her.
+“So… have you thought about it yet?” 
 
-One eye is all she gives him before her face returns to the sun.
+Using his have to shade his eyes
 
-"Good morning to you too, sugar puff puff," he answers anyway.
+“Thought about what? Should I be reading minds now?” 
 
-"See? I know you."
+“The name.” Glancing back
 
-Her head leans back into the light.
+Tying his hands behind head, “Oh, pfft. Of course. Frisky.”
 
-Above her, the sky opens blue and clean, clouds moving like pale strokes across it. Beneath her, the lake keeps trying to hold the same picture.
+“Ok…” His words fall as the surface her feet disrupts.
 
-"From the second you wake up, huh?"
+A sliver of an one eye opens.
 
-"So... have you thought about it yet?"
+“What? Its how id like my cat—”
 
-"Thought about what? Should I be reading minds now?"
+“Sera.”
 
-"The name."
+He sits up slightly. 
 
-Tying his hands behind his back, he says, "Oh, pfft. Of course. Frisky."
+“Sera?”
 
-"Ok..."
+She arches her back, closes her eyes, tilts her head toward the sun.
 
-The word falls with the same quiet weight as her feet disrupting the surface.
+“To be. To become something. Something like that.”
 
-He cracks one eye open.
+A quiet stretch settles between them. 
 
-"What? You asked if—"
+“You didn’t think about it at all either, did you?”
 
-"Sera."
+“You didn’t even think—”
 
-He sits up slightly.
+A sudden grip pulls her into him 
 
-Grass shifts under him as he moves.
+“I want those…”
 
-"Sera?"
+Each word a step closer as he meets her lips.
 
-"To be. To become something. Something like that."
+Only the birds, the running stream 
 
-A quiet stretch settles between them.
+Until she cracks up laughing
 
-Water threads softly beneath the deck, unchanged by the conversation above it.
+“Do you n—” 
 
-"You didn't think about it at all either, did you?"
+A tear slips across her face as she shakes her headd to regain composure
 
-Her head starts turning toward him.
+blowing
 
-"You didn't even think—"
+“Phil, stop.”
 
-A sudden grip pulls her into him.
+fans her face
 
-The grass bends under them, and the water breaks slightly at the edge where she shifts.
+“I’m not doing anything.”
 
-"I want those..."
+He falls back into the grass. 
 
-Each word falls as his attention drops toward her.
+“I finished my thesis.”
 
-"Do you n—"
+“The one you tried explaining to me fifty-two times?”
 
-The words collapse back into laughter.
+“I didn’t understand a word.”
 
-A tear slips across her face, catching sunlight before disappearing.
+“That’s because you refuse to appreciate genius.”
 
-"Phil, stop."
+“Fifty-seven.” Gently kicking her leg
 
-"I'm not doing anything."
+“You started talking about it in tenth grade?” She throws dirt at him
 
-He falls back into the grass.
+“Seventh.”As he wipes the dirwst from his chest
 
-The sound is absorbed almost immediately by the ground.
+Uses the moment to lean close to his face
 
-"I finished my thesis."
+“Wow, that’s been a while huh?”
 
-"The one you tried explaining to me fifty-two times?"
-
-"I didn't understand a word."
-
-"That's because you refuse to appreciate genius."
-
-"Fifty-seven."
-
-"You started talking about it in tenth grade?"
-
-"Seventh."
-
-He adjusts his face toward the sun.
-
-She leans over his chest.
-
-"Wow. That's been a while."
-
-She falls back into the grass beside him.
-
-"I didn't read it."
+ She falls back into the grass
+ 
+“I didnt read it”
