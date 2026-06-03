@@ -1,354 +1,181 @@
-LOAD ORDER
-90_Cosmology
-91_Unity
+# Bridges Map
 
+This file is a readable map of the major bridge systems in Fragments.
 
+A bridge is a connection that lets one scene, object, motif, or behavior carry meaning into another part of the story. Bridges are not explanations for the reader. They are structural links that create recognition later.
 
+For detailed reader-misdirection logic, see:
 
+`01_Reference/92_Bridges/05_Misdirection_Bridges.md`
 
-Purpose
+---
 
-Define relationships between narrative systems.
+## Core Rule
 
-Define intentional reader misdirection.
+Most major revelations should arrive through reinterpretation.
 
-Define later reinterpretation.
+The reader should first experience a scene emotionally, then later recognize that the scene was carrying more meaning than it initially appeared to.
 
-Assume cosmology, character behavior, and Unity meaning are already understood.
+Connections should function as evidence, not exposition.
 
-Do not repeat character information.
+---
 
-Do not repeat cosmology.
+## Sera / Kael Investigation Bridge
 
-Do not repeat Unity definitions.
+The investigation begins because of Sera, but attention later shifts toward Kael.
 
-Only define connections.
+Sera triggers the impossible identification problem. Her existence creates the first major alert. When Sera and Kael are later found together, Kael is the one visibly showing symptoms, so medical and emotional attention shifts toward her.
 
-Sera ↔ Kael Investigation Bridge
+This distinction matters because it creates later misunderstanding:
 
-The investigation begins because of Sera.
+- Sera is the quieter impossibility.
+- Kael is the visible anomaly.
+- The Devaars follow the correct signal but misread what they find.
+- Kael later interprets their attention as proof that she is valued only because she may help Erit.
 
-Attention later shifts toward Kael.
+Detailed version: `01_Reference/92_Bridges/05_Misdirection_Bridges.md`
 
-The distinction is important.
+---
 
-Sera
+## Mirror Bridge
 
-The identification process reveals an impossible result.
+The mirror connects Kael's psychic nature, Sera's shared perspective, identity instability, and later Unity imagery.
 
-Sera becomes the source of the anomaly investigation.
+Kael first approaches a mirror in the observation facility. As she gets close enough to see herself, the mirror cracks. The reader should understand only that something strange happened.
 
-Fedra
+Later, Sera dreams through Kael's perspective and approaches the same mirror. When the reflection becomes visible, Sera sees herself. The mirror cracks again.
 
-Fedra recognizes Sera's resemblance to Erit.
+During Unity, the image returns as reflection in a mirror.
 
-The resemblance creates the initial emotional connection.
+The bridge works because the image changes function over time:
 
-Kael
+- first: unexplained disturbance
+- later: evidence of shared perspective
+- later still: identity overlap and continuity instability
 
-When Sera and Kael are found, Kael displays visible symptoms.
+The mirror should never pause to explain itself. It should return until recognition becomes unavoidable.
 
-Medical attention shifts toward Kael.
+---
 
-Observation and treatment focus on Kael.
+## Bright Sky Bridge
 
-Function
+The bright sky appears at major threshold moments.
 
-Sera begins the investigation.
+Each Fragment receives the image differently:
 
-Kael becomes the focus of the investigation.
+- Lucreta: sky through a window before collapse
+- Sera: sky through the opening above the abandoned apartment
+- Kael: sky above the ruined world after arrival
+- Erit: sky from balcony / longing / limitation
+- Hospital Girl: sky through the hospital window after survival
 
-The distinction becomes foundational to later misunderstandings.
+The image should not mean the same thing every time. It should carry movement toward an unknown outcome.
 
-Kael later interprets this attention as evidence she is valued only because she may help save Erit.
+The story begins and ends looking toward life:
 
-Condition ↔ Virus Bridge
+- Lucreta looks toward life she will not reach.
+- The hospital girl looks toward life that now continues.
 
-The reader should initially assume the Condition and the Virus are the same phenomenon.
+Same gesture. Different outcome.
 
-This assumption is intentional.
+---
 
-The reader should later reinterpret earlier events.
+## Eye Bridge
 
-Lucreta
+Eyes first appear as description. Later, they become evidence.
 
-The Condition is introduced.
+The Condition gradually removes color from the eyes. The result depends on the Fragment's original eye color.
 
-Abby
+Key appearances:
 
-The Virus is introduced.
+- Sera: vivid green, still healthy
+- Lucreta: pale mint, green fading toward white
+- Erit: pale mint, green fading toward white
+- Kael: pale grey, black fading toward white
+- Hospital Girl: pale grey residue after the pattern changes
 
-Symptoms intentionally resemble those previously associated with the Condition.
+The reader should first notice the eyes visually. Understanding should arrive later.
 
-Kael
+This bridge also supports misdirection. Sera and Lucreta look connected, but the reader may first explain that connection through the wrong mechanism.
 
-Kael displays symptoms similar to those previously seen in Lucreta and Abby.
+---
 
-The assumption continues.
+## Condition / Virus Bridge
 
-Erit
+The Condition and the virus are designed to be confused at first.
 
-The Condition exists in a world where the Virus does not.
+Lucreta introduces the Condition before the reader has language for it. Later, Abby's world introduces a virus with overlapping symptoms. When Kael appears in that same ruined world with symptoms, the biological explanation feels reasonable.
 
-The reader receives evidence that the two phenomena are unrelated.
+The virus is a local catastrophe. The Condition is the deeper recurring pattern.
 
-Function
+The bridge works because the reader is right to notice repeated symptoms, but wrong if they stop at infection as the final answer.
 
-The Virus functions as misdirection.
+Detailed version: `01_Reference/92_Bridges/05_Misdirection_Bridges.md`
 
-The Condition functions as the underlying narrative phenomenon.
+---
 
-The reader should experience confusion before receiving evidence that they are separate.
+## Colonization / Displacement Bridge
 
-Mirror Bridge
+Phil's world introduces the colonization program before the reader understands displacement.
 
-The mirror initially functions as misdirection.
+At first, the program can look like relocation, government ambition, or failed space colonization. Later, Kael's arrival reveals that movement between worlds is part of the larger structure.
 
-The reader should interpret events as strange, unsettling, or unexplained.
+The reader should not receive the full explanation immediately. The bridge should create familiarity:
 
-The connection should only become apparent later.
+- families are promised new worlds
+- people leave and never return
+- Kael later arrives in a world already connected to that imagery
 
-Kael
+The colonization imagery becomes a false explanation first, then a structural clue later.
 
-While inside the observation facility, Kael approaches a mirror.
+---
 
-As she gets close enough to see herself, the mirror cracks.
+## Shared World Evolution Bridge
 
-The moment serves as the first visible evidence of Kael's psychic abilities.
+Lucreta, Sera, and Erit exist in worlds that feel different but related.
 
-The reader should not yet understand what happened.
-
-Sera
-
-While Kael recovers after augmentation within the Devaar household, Sera experiences dreams through Kael's perspective.
-
-During one dream, Sera approaches the same mirror.
-
-When the reflection becomes visible, Sera sees herself.
-
-The mirror cracks again.
-
-The reader receives evidence that the two experiences are connected.
-
-The meaning remains unclear.
-
-Unity
-
-The convergence sequence contains:
-
-Reflection in a Mirror.
-
-The image returns without explanation.
-
-The reader should recognize the pattern before understanding its significance.
-
-Function
-
-The mirror connects:
-
-- Kael
-- Sera
-- Erit
-- Unity
-
-The image functions simultaneously as:
-
-- evidence of Kael's psychic abilities
-- evidence of shared perspective
-- evidence of continuity overlap
-- evidence of identity instability
-- evidence of Kael's poor self-image
-
-Kael dislikes her own appearance.
-
-This later contributes to her attachment to Erit.
-
-The mirror therefore connects identity, self-image, shared perspective, continuity, and later attachment.
-
-Bright Sky Bridge
-
-The Bright Sky appears at major transition points throughout the narrative.
-
-The image is associated with continuation and movement toward unknown outcomes.
-
-Lucreta
-
-Pulled away from the window.
-
-Looks upward.
-
-Bright Sky.
-
-Kael
-
-Arrives on Sera's world.
-
-Looks upward.
-
-Bright Sky.
-
-Sera
-
-Looks through the opening above the abandoned apartment.
-
-Bright Sky.
-
-Erit
-
-Moves toward the balcony.
-
-Bright Sky.
-
-Hospital Girl
-
-Moves toward the window.
-
-People.
-
-Life.
-
-Bright Sky.
-
-Function
-
-The story repeatedly returns to the same image at moments where lives move toward unknown outcomes.
-
-The story begins and ends looking toward life.
-
-The story begins and ends looking toward a Bright Sky.
-
-Eye Bridge
-
-The eyes initially appear to be character description.
-
-The reader later understands they are evidence of the Condition.
-
-The Condition gradually removes color from the eyes.
-
-The resulting appearance depends on the Fragment's original eye color.
-
-Sera
-
-Vivid Green.
-
-Healthy.
-
-Erit
-
-Pale Mint.
-
-Green fading toward white.
-
-Lucreta
-
-Pale Mint.
-
-Green fading toward white.
-
-Kael
-
-Grey.
-
-Black fading toward white.
-
-Hospital Girl
-
-Grey.
-
-The condition is gone.
-
-The residue remains.
-
-Function
-
-The reader should first see the eyes.
-
-The reader should later understand them.
-
-Shared World Evolution Bridge
-
-Lucreta, Sera, and Erit exist on continuities derived from the same world.
-
-History develops differently after divergence.
-
-The reader should feel familiarity before understanding why.
-
-Lucreta
-
-Victorian expression of the world.
-
-Sera
-
-Megacity expression of the world.
-
-Erit
-
-Dynastic expression of the world.
-
-Cultural Residue
-
-Evidence may appear through:
+The relationship should not be explained directly. It should appear through cultural residue:
 
 - names
 - architecture
 - social structures
 - family traditions
-- visual motifs
+- recurring visual motifs
+- similar emotional patterns in different settings
 
-Function
+The goal is for the worlds to feel separate and familiar at the same time.
 
-The worlds should feel different and related simultaneously.
+Familiarity should arrive before explanation.
 
-The connection should emerge through residue rather than exposition.
+---
 
-Colonization ↔ Displacement Bridge
+## Hospital Echo Bridge
 
-Parents
+Unity teaches the reader a pattern:
 
-The Colonization Program is introduced.
-
-People leave.
-
-They never return.
-
-Kael
-
-Displacement introduces arrival from another continuity.
-
-The reader initially sees unrelated events.
-
-Function
-
-The reader should later recognize both events as manifestations of the same larger phenomenon.
-
-Hospital Echo Bridge
-
-The reader learns a pattern during Unity.
-
-Someone speaks.
-
+Someone speaks.  
 Kael echoes.
 
-The pattern becomes familiar before it becomes meaningful.
+The hospital ending reuses the pattern subtly. When the hospital girl speaks in a way that resembles the Unity echo structure, the reader can infer that Kael remains somewhere beneath continuation.
 
-Hospital Girl
+This should remain evidence, not confirmation.
 
-The final line follows the same learned structure.
+The hospital ending should prove change through observable details:
 
-Function
+- survival that should not happen
+- pale grey eyes
+- medical uncertainty
+- movement toward the window
+- final recognition
 
-The ending provides evidence rather than explanation.
+The girl should not explain the system. Her survival should feel like luck first, then outcome.
 
-The reader recognizes the pattern before understanding its significance.
+---
 
-Core Rule
+## Bridge Usage Rule
 
-Most major revelations should arrive through reinterpretation.
+Keep bridges only when they change how a later scene feels.
 
-The reader should first experience.
+A strong bridge makes a later moment land with more emotional or structural force. A weak bridge only proves that the story is clever.
 
-The reader should later understand.
-
-Connections should function as evidence rather than explanations.
-
-Meaning should emerge through recognition rather than exposition.
+Fragments should preserve the first kind and cut the second.
