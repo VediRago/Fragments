@@ -26,17 +26,37 @@ The prose samples are not intended to explain the full story by themselves. They
 
 ---
 
-## 03 — Abigail's Letter
+## 03 — Parents Part 3 / Abigail's Absence
 
-**Purpose:** Communicates love and farewell through established behavior rather than direct exposition.
+**Purpose:** Communicates love, loss, and final action through objects, family rhythm, and interrupted movement rather than direct exposition.
 
-**Shows:** emotional restraint, payoff of relationship patterns, indirect confession, object-based memory.
+**Shows:** emotional escalation, object-based memory, parent-child stakes, grief under time pressure.
 
-**Recommended file:** `04_Prose/03_Parents/Part 3/inc_parents_Abby_Left_part3...`
+**Recommended file:** `04_Prose/03_Parents/Part 3/Prose_Parents_part3_clean_master.md`
 
 ---
 
-## 04 — Sera and Kael First Meeting
+## 04 — Sera Plaza / Street Survival
+
+**Purpose:** Shows Sera's confident, mischievous, leading side around people she accepts.
+
+**Shows:** character voice, group rhythm, survival behavior, humor under pressure.
+
+**Recommended file:** `04_Prose/05_Sera/inc_Sera_plaza_urchins.md`
+
+---
+
+## 05 — Sera Clinic Alert
+
+**Purpose:** Establishes the chip-system alert, Sera's hidden identity conflict, and the chain that later leads others to misidentify Kael as the visible anomaly.
+
+**Shows:** tension escalation, incomplete-information conflict, Sera's survival shift, Tomas' final reversal.
+
+**Recommended file:** `04_Prose/05_Sera/inc_Sera_clinic_alert.md`
+
+---
+
+## 06 — Sera and Kael First Meeting
 
 **Purpose:** Introduces connection through tension, humor, miscommunication, and character contrast.
 
@@ -46,11 +66,11 @@ The prose samples are not intended to explain the full story by themselves. They
 
 ---
 
-## 05 — Unity
+## 07 — Unity / Hospital Ending
 
-**Purpose:** Demonstrates emotional-first revelation and large-scale narrative compression.
+**Purpose:** Demonstrates emotional-first revelation, large-scale narrative compression, and ending through evidence rather than explanation.
 
-**Shows:** grief-driven escalation, sensory progression, fragmented perception, transition from personal loss into broader experience.
+**Shows:** grief-driven escalation, sensory progression, fragmented perception, final visual payoff.
 
 **Recommended file:** `04_Prose/10_Unity/Prose_Unity.md`
 
