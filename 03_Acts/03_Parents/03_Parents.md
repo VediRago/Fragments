@@ -1,92 +1,89 @@
-
-
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure
-
-Prose Reference:  
-P\_01\_Lucreta
-
-
-**World**  
-  
-Humanity lives in an overpopulated hive-like world.  
-  
-Population pressure drives colonization programs.  
-  
-Philip's government work is connected to colonization efforts.  
-  
-Overpopulation causes outbreaks to spread exponentially faster. 
-
-
-## Characters
-
-Philip-Phill
-
-Abigail-Abby
-
-Sera is Philip and Abigail's daughter. 
+# 03_Parents
 
 ## Purpose
 
-Love.
+This act is about love and family.
 
-Family.
+It introduces Philip, Abigail, and Sera before the story begins taking them away from each other.
 
-## Continuity
+The important part is not the plot first. The important part is the feeling of a family that already has its own rhythm, jokes, habits, and ways of showing affection.
 
-Part 1:  
-Leaving Church → Lake
+## World
 
-Part 2:  
-School → Family Life → TV
+Humanity lives in an overpopulated, hive-like world.
 
-Part 3:  
-Philip arrives home → Letter → Lab → Death → Displacement
+Population pressure has pushed governments toward colonization programs.
 
+Philip's government work is connected to those colonization efforts.
 
-## Important
+Overpopulation also makes outbreaks spread much faster, which becomes important later.
+
+## Characters
+
+- Philip / Phill
+- Abigail / Abby
+- Sera, their daughter
+
+## Structure
+
+The act is divided into three parts:
+
+Part 1: Leaving Church → Lake
+
+Part 2: School → Family Life → TV
+
+Part 3: Philip arrives home → Letter → Lab → Loss → Displacement
+
+The act should move from ordinary family warmth toward pressure, fear, and separation.
+
+## Important Details
 
 ### Philip
 
-Uses glasses.
+Philip wears glasses.
 
-Government employee.
+He works for the government.
 
-Always trying to annoy Abby.
+He likes annoying Abby, but it should feel affectionate rather than cruel.
+
+His teasing is part of how their relationship breathes.
 
 ### Abigail
 
-Always returns Philip's remarks against him.
+Abigail gives Philip's remarks back to him.
 
-Green eyes.
+She has green eyes.
 
-Uses intentional mistakes and corrections as affection.
+She uses intentional mistakes and corrections as affection.
+
+This matters because the same kind of behavior later echoes through Sera.
 
 ### Sera
 
-Red hair.
+Sera has red hair and green eyes.
 
-Green eyes.
+She inherits the family rhythm: sarcasm, corrections, and playful resistance.
 
-Inherits sarcasm and correction behavior.
+These traits should feel like personality first and structure later.
 
 ### Family Dynamic
 
-Philip and Abigail use sarcasm to annoy each other.
+Philip and Abigail love each other through banter.
 
-There is an invisible competition between them to win arguments.
+They are always quietly competing to win the conversation.
+
+The jokes matter because they make the family feel alive before the loss arrives.
 
 ### Dumdum
 
-Sera's plushy.
+Dumdum is Sera's plush toy.
 
-## Prose
+It should feel ordinary and childish first, but it can carry emotional weight later because it belongs to the family rhythm.
 
-Family interactions carry scenes.
+## Prose Notes
+
+Family interaction should carry these scenes.
 
 Relationship dynamics are more important than plot progression.
 
-Slightly less description than the Lucreta prose reference.
-
+The prose should be slightly less descriptive than Lucreta, but still grounded enough to make the home, school, church, and lake feel real.
