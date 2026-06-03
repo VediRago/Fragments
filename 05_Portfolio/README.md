@@ -20,16 +20,6 @@ The main question behind the portfolio is:
 6. [Narrative Design Approach](05_Narrative_Design_Approach.md)
 7. [About Me as a Narrative Designer](06_About_Me_Narrative_Designer.md)
 
-## What This Portfolio Shows
-
-- How I approach narrative design questions
-- How I use structure to support emotion
-- How I build setup and payoff
-- How I use hidden information without relying only on explanation
-- How characters and relationships carry larger ideas
-- How the project changed through revision
-- What is implemented and what still needs testing
-
 ## Recommended Reading Path
 
 Start with the thesis. It explains the main question that shaped the project.
