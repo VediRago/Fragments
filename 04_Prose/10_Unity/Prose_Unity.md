@@ -41,6 +41,10 @@ While her eyes gather the distance shes already lifting herself towards the tabl
 Her fingers slide gently over Erit's arm until they reach the cable. 
 In one motion, turning hers while disconnecting.
 
+
+
+
+
 “You know I don’t like these kinds of events, Mom.”
 
 “You know I don’t like these kinds of events…”
