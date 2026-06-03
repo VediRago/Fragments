@@ -1,86 +1,105 @@
 # Development Process
 
-Fragments was not built from a fixed outline. It grew by solving one narrative problem at a time.
+Fragments started on **20/05/2026**.
 
-The project began from images, scenes, and emotional impressions: a girl in a hospital, a woman near a window, a silhouette, a collapse, and the feeling that these moments belonged together. The larger structure emerged from repeatedly asking why those pieces felt connected.
+I build it outside of work while working full-time in glass manufacturing.
+
+The project did not begin as a complete outline. It began with images, scenes, and feelings that seemed connected: a girl in a hospital, a woman near a window, two girls under pressure, a collapse, and the sense that these moments belonged together.
+
+As I kept writing, the project grew by asking one question after another.
+
+Why did these scenes feel connected?
+
+What was actually carrying the emotion?
+
+How much needed to be explained?
+
+How much could be removed?
+
+---
+
+## Early Versions
+
+The earliest files are useful because they show where the project started.
+
+Some early versions were more focused on atmosphere, worldbuilding, and direct explanation. They had more description and more visible setup.
+
+Over time, I became more interested in the people inside those scenes.
+
+The early material is not there to show perfection. It is there to show development.
+
+It shows what changed.
 
 ---
 
 ## From Explanation to Evidence
 
-Early versions of the project relied more heavily on direct conceptual explanation. As the structure developed, the design moved toward evidence-based storytelling.
+One of the biggest changes was moving away from explaining the hidden structure directly.
 
-Instead of explaining what the hidden system is, the story shows consequences:
+Instead of telling the reader what everything means, I became more interested in showing evidence:
 
-- repeated behaviors across different characters
-- familiar images returning in new contexts
-- characters recognizing things they cannot fully understand
-- final scenes that imply change through observable results
+- repeated behavior
+- familiar images returning later
+- small habits that carry emotion
+- scenes that feel different after looking back
+- endings that show consequences instead of explaining them
 
-This made the story less dependent on exposition and more dependent on reader recognition.
-
----
-
-## Bridge-Based Development
-
-Many major improvements came from solving connection problems between existing scenes.
-
-Rather than adding new lore, the process often involved finding a stronger relationship between pieces that were already present.
-
-Examples include:
-
-- turning a family correction habit into a later character behavior
-- linking early visual motifs to the ending
-- using learned reader patterns as payoff mechanisms
-- grounding large-scale events in emotional relationships before expanding them into abstract structure
-
-This approach helped the project feel interconnected without requiring every connection to be explained directly.
+This made the story feel less like it was giving answers and more like it was creating realizations.
 
 ---
 
-## Emotional First, Conceptual Later
+## Connection Was Already There
 
-A central development rule became: readers should feel a moment before they understand its full meaning.
+One of the most useful lessons came while revising Sera's final scene.
 
-This affected the structure of major reveals. Large-scale events are introduced through character loss, affection, fear, or recognition before the wider implications become clear.
+I thought the scene needed more connection to work.
 
-The goal is not to hide information for its own sake. The goal is to let meaning accumulate through experience.
+But after removing parts I thought were necessary, I felt more engaged with the moment, not less.
 
----
+The connection was already there.
 
-## Reader as Participant
-
-Fragments is designed so the reader reconstructs meaning from partial evidence.
-
-The reader sees separate lives, repeated images, familiar behaviors, and unresolved connections. Over time, those fragments begin to form a larger shape.
-
-This makes the reader's experience mirror the structure of the project itself: understanding emerges through observation, comparison, and pattern recognition.
+That changed how I approached later scenes. I started paying more attention to what was already being carried by previous interactions, instead of adding more explanation.
 
 ---
 
-## Early Concept Evolution
+## Complexity Has To Return
 
-The earliest development stage produced several versions of the same core idea in both Portuguese and English: an editorial-style synopsis, a raw story pitch, a chapter outline, and an atmospheric prose attempt.
+Fragments can easily become complex.
 
-Those early versions already contained several images and tensions that later became central to Fragments: abandoned girls, a powerful family, recognition without memory, artificial identity, repeated young death, and the idea that separate people might be connected more deeply than they understand.
+There are many characters, hidden connections, repeated images, and structural rules underneath the story.
 
-The current version keeps many of those emotional images, but removes most direct explanation. Instead of telling the reader what the connection is, Fragments lets meaning emerge through repeated behavior, visual echoes, family rhythm, misdirection, and delayed recognition.
+While working on it, I often found myself exploring increasingly complex ideas. What helped me stay grounded was making sure those ideas eventually led back to the characters and their experiences.
 
-This comparison helped separate the project's stable core from the explanations that were no longer needed.
+If they did not, they did not belong in the story.
+
+The structures matter because they hold the project together.
+
+But the reader experiences people first.
+
+---
+
+## What I Learned
+
+This project taught me that meaning can be felt before it is understood.
+
+It taught me that explanation is not always the best way to communicate an idea.
+
+It taught me that small details can carry more weight than I expected when the connection is already there.
+
+It also taught me that revision is not only about adding more. Sometimes the work improves when I remove what is getting in the way.
 
 ---
 
 ## Current Portfolio Focus
 
-For portfolio purposes, Fragments is presented as a narrative design case study rather than a complete story bible.
+This portfolio focuses on the parts of Fragments that best show my development process:
 
-The focus is on:
+- the main narrative design question
+- selected case studies
+- prose samples
+- early ideas and later revisions
+- what I tried
+- what I learned
+- what still needs testing
 
-- narrative architecture
-- emotional sequencing
-- reader-driven discovery
-- connection design
-- exposition control
-- thematic consistency
-
-The full repository contains deeper reference material, but the portfolio layer is designed to show how specific narrative problems were solved.
+The deeper reference material remains in the repository as part of the working process, but it is not the recommended starting point.
