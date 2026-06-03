@@ -1,73 +1,49 @@
-# About Me as a Narrative Designer
+# About Me
 
-## Focus
+I'm Diogo.
 
-I am interested in narrative design that uses structure, perception, and emotional recognition to shape the player's or reader's experience.
+I currently work full-time in glass manufacturing and I am working toward a career in game development.
 
-My strongest interest is not only writing story content, but designing how that story is discovered.
+My main interest is narrative design, especially character-driven stories, structure, emotional payoff, and the way players or readers discover meaning through experience.
 
-Fragments is the project I am using to explore this approach.
+**Fragments** is the project I started on **20/05/2026** to explore those interests.
 
-It asks whether a fixed narrative can create different perceived outcomes without explicit branching paths.
+It began as a personal writing project and became a way for me to practice narrative design, organize complex story material, and understand how scenes, structure, and emotion can work together.
 
-The story remains consistent, but the reader's understanding changes depending on what they notice, miss, believe, or reinterpret.
+## What I Am Looking For
 
-## What I Want to Work On
+My goal is to enter the game industry and learn from experienced development teams.
 
-I am looking for narrative design work where I can contribute to:
+Narrative design is the direction I want to grow toward, but I am also interested in opportunities that help me understand how games are made in a professional environment.
 
-- Character-driven narrative systems
-- Quest and scene structure
-- Hidden information and reveal design
-- Emotional payoff through setup and recognition
-- Environmental or structural storytelling
-- Dialogue and character interaction
-- Fair misdirection and player inference
-- Narrative consistency across complex story material
+I am especially interested in work involving character, dialogue, quest structure, story implementation, narrative QA, writing support, and content design.
 
-I am especially interested in projects where players are invited to observe, interpret, and discover meaning rather than only receive exposition.
+## How I Think About Story
 
-## Design Strengths
+While working on Fragments, I learned that complex ideas only matter if they return to people.
 
-### Structure and Payoff
+The deeper structure is important because it keeps the story consistent, but the reader does not experience the structure first.
 
-I think carefully about how early details can become meaningful later. I like building setups that do not announce themselves immediately, but become clear when the player or reader gains the right context.
+The reader experiences characters, scenes, relationships, loss, recognition, and payoff.
 
-### Fair Misdirection
+That is the part I try to protect when writing.
 
-I am interested in misdirection that remains fair. A wrong conclusion should still feel reasonable based on the information available at the time. The reveal should make earlier scenes gain meaning, not make them irrelevant.
+## What Fragments Taught Me
 
-### Emotional Continuity
+Fragments taught me to pay attention to how much a story needs to say.
 
-I use repeated gestures, habits, dialogue rhythms, and visual echoes to create emotional connections between scenes and characters. These connections can be felt before they are explained.
+Sometimes a scene becomes stronger when I remove what is getting in the way.
 
-### Reader and Player Perception
+Sometimes connection is already there before I notice it.
 
-I am interested in how people interpret incomplete information. In Fragments, different readers can reach different perceived outcomes while the underlying structure remains fixed.
+Sometimes the answer is present from the beginning, and recognition comes later.
 
-## Current Portfolio Project
+Those are the kinds of lessons I want to keep developing as I continue learning narrative design.
 
-Fragments is an in-progress narrative design project.
+## Current Status
 
-The portfolio does not present it as a finished novel or complete story bible. It presents a vertical slice of the design approach:
+Fragments is still in development.
 
-- A narrative design thesis
-- Case studies showing specific design problems and solutions
-- Selected prose samples demonstrating execution
-- Development notes showing iteration
-- A design hypothesis for the next stage of testing
+This repository shows the project, the prose, the case studies, the early versions, and the working notes behind it.
 
-Some elements have been implemented in prose and structurally stress-tested for consistency. Other elements, such as broader reader response to compression and retrospective recognition, still need human reader testing.
-
-## Role Fit
-
-This portfolio is intended for roles such as:
-
-- Junior Narrative Designer
-- Narrative Designer
-- Quest Designer
-- Interactive Writer
-- Game Writer
-- Story Designer
-
-My goal is to work on narrative experiences where structure, character, and player perception all shape the final emotional outcome.
+It is not presented as finished professional work. It is presented as evidence of how I think, what I am learning, and the kind of work I want to grow into.
