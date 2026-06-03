@@ -1,4 +1,4 @@
-It’s the rainwater beneath Sera’s feet that detaches her from the flow of bodies around her. Each brush challenges balance; the Next pulls her back to center, fixed on footsteps that ripple puddles that never meet.  
+It’s the rainwater beneath Sera’s feet that detaches her from the flow of bodies around her. Each brush challenges balance; the Next pushes her back to center, fixed on footsteps that ripple puddles that never meet.  
   
 A blink. One foot hangs mid-motion.  
   
