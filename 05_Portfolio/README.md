@@ -17,6 +17,8 @@ Fragments explores this by using interpretation as a narrative system. Readers f
 3. [Narrative Design Case Studies](02_Narrative_Design_Case_Studies.md)
 4. [Selected Prose](03_Selected_Prose.md)
 5. [Development Process](04_Development_Process.md)
+6. [Narrative Design Approach](05_Narrative_Design_Approach.md)
+7. [About Me as a Narrative Designer](06_About_Me_Narrative_Designer.md)
 
 ## What This Portfolio Demonstrates
 
@@ -27,6 +29,7 @@ Fragments explores this by using interpretation as a narrative system. Readers f
 - Emotional continuity across characters, timelines, and states
 - Large-scale concepts expressed through reader experience rather than exposition
 - Iterative development from explanation toward evidence-based storytelling
+- Awareness of what is implemented, what is hypothesized, and what still needs reader testing
 
 ## Recommended Reading Path
 
@@ -34,7 +37,9 @@ Begin with the thesis. It explains the design idea that makes Fragments unusual.
 
 Then read the project overview and case studies to see how that idea is applied to structure, Unity, misdirection, emotional continuity, and endings.
 
-Read the selected prose last. The prose samples are included as evidence of execution, but the portfolio is organized around design thinking first.
+Read the selected prose after the case studies. The prose samples are included as evidence of execution, but the portfolio is organized around design thinking first.
+
+Use the development process, narrative design approach, and about page for deeper context on how I think, what I am testing, and what kind of narrative design work I want to pursue.
 
 ## Repository Layers
 
