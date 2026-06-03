@@ -1,43 +1,38 @@
+# 06_Sera — Part 2
 
+## Purpose
 
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure  
-06\_Sera
+This part establishes decline.
 
-Prose Reference:  
-P\_06\_Erit\_Excerpt
+Sera's second family should remain sympathetic, even when their choices become painful.
 
-Characters
+The point is not to turn them into villains. The point is to show how poverty, injury, and desperation can push caring people toward something terrible.
 
-Sera
+## Characters
 
-Tomas
+- Sera
+- Tomas
+- Elena
+- Milo
+- Lina
 
-Elena
-
-Milo
-
-Lina
-
-Purpose
-
-Establish decline.
-
-Continuity
+## Structure
 
 Accident → Decline → Sale Attempt → Identification
 
-Important
+The movement should feel gradual. The family does not collapse all at once. Their options narrow until the impossible choice begins to feel like the only one left.
 
-Accident
+## Important Details
+
+### Accident
 
 Tomas loses an arm in a workplace accident.
 
 The injury prevents him from continuing his previous work.
 
-Decline
+This should feel like the first major break in the family's stability.
+
+### Decline
 
 The family's financial situation deteriorates.
 
@@ -45,13 +40,17 @@ Possessions are gradually sold to survive.
 
 The family struggles to support everyone in the household.
 
-Sale Attempt
+The decline should be shown through ordinary losses: objects disappearing, meals becoming smaller, tension growing, and everyone trying to pretend they can manage a little longer.
+
+### Sale Attempt
 
 The family decides to sell Sera.
 
 The decision is motivated by desperation rather than cruelty.
 
-Identification
+This should be painful because the family did care for her. The betrayal matters more if the reader understands that it comes from fear and survival, not hatred.
+
+### Identification
 
 The sale requires official identification.
 
@@ -61,11 +60,14 @@ System records produce an impossible result.
 
 The anomaly is detected.
 
-Prose
+This moment shifts Sera from a family tragedy into the larger mystery of the story.
+
+## Prose Notes
 
 The decline should feel gradual rather than abrupt.
 
-The family should remain sympathetic throughout the act.
+The family should remain sympathetic throughout the act, even when their choice hurts Sera.
 
 The focus remains on people rather than the larger mystery.
 
+The anomaly should matter, but Sera's emotional loss should matter first.
