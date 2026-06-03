@@ -36,13 +36,7 @@ It shows what changed.
 
 One of the biggest changes was moving away from explaining the hidden structure directly.
 
-Instead of telling the reader what everything means, I became more interested in showing evidence:
-
-- repeated behavior
-- familiar images returning later
-- small habits that carry emotion
-- scenes that feel different after looking back
-- endings that show consequences instead of explaining them
+Instead of telling the reader what everything means, I became more interested in showing evidence through repeated behavior, familiar images returning later, small habits that carry emotion, scenes that feel different after looking back, and endings that show consequences instead of explaining them.
 
 This made the story feel less like it was giving answers and more like it was creating realizations.
 
@@ -87,19 +81,5 @@ It taught me that explanation is not always the best way to communicate an idea.
 It taught me that small details can carry more weight than I expected when the connection is already there.
 
 It also taught me that revision is not only about adding more. Sometimes the work improves when I remove what is getting in the way.
-
----
-
-## Current Portfolio Focus
-
-This portfolio focuses on the parts of Fragments that best show my development process:
-
-- the main narrative design question
-- selected case studies
-- prose samples
-- early ideas and later revisions
-- what I tried
-- what I learned
-- what still needs testing
 
 The deeper reference material remains in the repository as part of the working process, but it is not the recommended starting point.
