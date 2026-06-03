@@ -1,108 +1,133 @@
-Purpose
+# Cosmology Reference
 
-Define cosmological rules relevant to the narrative.
+This file defines the hidden continuity rules behind Fragments.
+
+These rules are author-facing. The reader should not receive them as direct explanation. In the story, they should appear through symptoms, repeated patterns, failed explanations, Unity, and the hospital ending.
+
+---
+
+## Core Principle
+
+Experience requires difference.
+
+Fragments exist because one underlying identity is separated across different states, worlds, lives, and outcomes. That separation creates difference. Difference allows change. Change allows experience.
+
+Connection gives those separate experiences meaning, but complete unity removes the difference experience depends on. When unity becomes too stable, fragmentation returns so experience can continue.
+
+### Continuity Cycle
+
+Fragmentation -> difference  
+Difference -> experience  
+Experience -> connection  
+Connection -> unity  
+Unity -> instability  
+Instability -> re-fragmentation  
+Re-fragmentation -> continued experience
+
+---
 
 ## Qalm
 
-Qalm is a system.
+Qalm is the hidden continuity architecture behind the story.
 
-Qalm explores infinite outcomes.
+It is not a god, villain, or conscious character. It should not feel like an intelligence making moral choices. A useful author metaphor is a librarian: it has access to the library, but it does not read every book at once.
 
-Fragments exist because Qalm explores those outcomes.
-
-Qalm is not omniscient.
-
-Qalm is like a librarian.
-
-Although Qalm has access to all books, it does not read all books simultaneously.
+Qalm explores and manages infinite outcomes. Fragments exist because those outcomes exist.
 
 Qalm is not intended to be directly explained to the reader.
 
+---
+
+## Fragments
+
+Fragments are separate lives or outcomes connected to the same underlying self.
+
+They do not share ordinary memory. They experience themselves as separate people, with separate histories, relationships, cultures, bodies, and choices.
+
+Connections appear through residue rather than knowledge:
+
+- repeated visual motifs
+- familiar behaviors
+- emotional recognition without memory
+- similar gestures or relationship patterns
+- repeated symptoms
+- moments that later become meaningful through comparison
+
+The reader should feel the connection before understanding it.
+
+---
+
+## The Condition
+
+The Condition is the recurring early-death pattern affecting these Fragments.
+
+It is not tied to one universal calendar age. Different worlds measure time, maturity, and biology differently. The important rule is emotional and structural: the Condition resolves lives before they fully stabilize into continuation.
+
+The visible sign is the loss of eye color. The exact appearance depends on the Fragment's original eyes.
+
+The Condition should first feel biological, tragic, or mysterious. Its deeper continuity function should only become clear through later evidence.
+
+---
+
 ## Resolution
 
-Qalm resolves the Condition.
+Resolution is the normal process by which the Condition completes.
 
-Resolution normally results in early death for Fragments originating from this Self.
+For Fragments connected to this underlying self, resolution usually means early death.
 
-The process is intended to affect all Fragments originating from the same Self.
+This is not punishment. It is normal system behavior inside the hidden architecture. The story should not frame it as evil destiny, but as a pattern that characters suffer before anyone understands what it is.
 
-Resolution is considered normal system behavior.
+---
 
-## Anomaly
+## Kael as Anomaly
 
-An anomaly is something Qalm does not correctly classify or resolve.
+Kael becomes an anomaly when the system can no longer classify or resolve her correctly.
 
-Kael eventually becomes an anomaly.
+Her anomalous state comes from the interaction between:
 
-Kael's anomaly is connected to the interaction between her psychic nature and later human augmentation.
+- her psychic nature
+- displacement exposure
+- later human augmentation
+- the Unity event involving Erit
 
-After augmentation, Qalm no longer correctly classifies Kael's outcome.
+After augmentation, Kael no longer fits the normal resolution pathway. Her condition does not resolve as expected because Qalm no longer tracks her correctly.
 
-Kael survives beyond the expected resolution pathway because Qalm no longer tracks her correctly.
+Kael is not chosen. She becomes impossible to classify.
+
+---
 
 ## Unity
 
-Unity is classified as impossible.
+Unity is the temporary collapse of fragmentation into experiential coherence.
 
-The narrative theme is that infinity eventually produces outcomes a system was never designed to handle.
+It is not omniscience. It is not a memory montage. It is not a lore reveal.
 
-Unity is not omniscience.
+Unity is experience, recognition, and convergence.
 
-Unity is not informational.
-
-Unity is experiential.
+During Unity, Kael is connected to continuity across Fragments. Because she remains limited by human perception, she cannot process everything simultaneously. She experiences nearby fragments more clearly, while distant continuity collapses into movement, images, emotions, sensations, and finally colors.
 
 Unity should be experienced before it is understood.
 
-Unity occurs through the convergence of Kael and Erit.
-
-Qalm registers the event as a system anomaly.
-
-Qalm removes Kael from normal system classification because she is the source of the event.
-
-During Unity, Kael experiences continuity across Fragments.
-
-Human perception cannot process all continuity simultaneously.
-
-As a result, Kael experiences lives individually rather than all at once.
-
-Fragments closest to Kael are experienced most clearly.
-
-More distant continuity gradually collapses into movement, images, emotions, and eventually colors.
-
-Unity is not a memory montage.
-
-Moments experienced during Unity are evidence of continuation.
-
-They should function as evidence rather than explanations.
+---
 
 ## Continuation
 
 Unity reveals that lives continue beyond expected outcomes.
 
-Appearances of healthy Fragments are evidence of continuation rather than contradiction.
+Healthy Fragments seen during Unity are not contradictions. They are evidence that continuation is possible and that the old pattern is beginning to fail.
 
-The reader should experience continuation before understanding its meaning.
+The reader should not be told this directly. They should experience continuation as evidence that no longer fits the earlier explanation.
+
+---
 
 ## System Failure
 
-Kael's actions ultimately disrupt Qalm's ability to correctly resolve the Condition.
+Kael's Unity event disrupts Qalm's ability to correctly resolve the Condition across connected Fragments.
 
-This disruption propagates across Fragments originating from the same Self.
+The original tragedies remain real. Nothing is undone. Lucreta, Abby, Phil, Sera, Erit, and Kael still suffer what they suffered.
 
-Future Fragments can continue beyond outcomes that would previously result in early death.
+What changes is the future pattern.
 
-The Condition no longer resolves correctly.
+After the disruption, the Condition no longer resolves correctly for future connected Fragments. They can still die from accident, illness, age, violence, or ordinary causes, but the imposed young-death resolution no longer functions as before.
 
-Only Kael is removed from normal classification.
-
-Other Fragments continue normally without Condition resolution.
-
-Future deaths may still occur through accident, illness, age, or natural causes.
-
-The original tragedies remain real.
-
-Unity does not undo past events.
-
-The disruption changes future outcomes rather than rewriting previous ones.
-
+The ending should feel like luck at first, then gradually read as outcome. The hospital girl survives not because tragedy was erased, but because tragedy changed what could happen next.
