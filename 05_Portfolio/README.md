@@ -1,14 +1,14 @@
 # Fragments — Narrative Design Portfolio
 
-Fragments is a narrative design project about perception, identity, hidden structure, and reader-driven discovery.
+This folder is the best place to start.
 
-This folder is the recruiter-facing entry point for the project. It is designed to show narrative design thinking rather than explain the full story or cosmology.
+I'm using **Fragments** to show how I think about story structure, character connection, emotional payoff, and reader discovery.
 
-The central portfolio question is:
+The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio is to show the questions I explored, the scenes I worked on, and what I learned while building it.
 
-**Can a story create branching outcomes without branching paths?**
+The main question behind the portfolio is:
 
-Fragments explores this by using interpretation as a narrative system. Readers form conclusions from incomplete information, delayed context, recurring patterns, and fair misdirection. Different readers may experience different perceived outcomes while the underlying structure remains consistent.
+**How can the same story lead different readers toward different conclusions without changing its events?**
 
 ## Start Here
 
@@ -20,32 +20,31 @@ Fragments explores this by using interpretation as a narrative system. Readers f
 6. [Narrative Design Approach](05_Narrative_Design_Approach.md)
 7. [About Me as a Narrative Designer](06_About_Me_Narrative_Designer.md)
 
-## What This Portfolio Demonstrates
+## What This Portfolio Shows
 
-- Narrative architecture built around perception and interpretation
-- Branching outcomes without explicit branching paths
-- Fair misdirection supported by a consistent hidden structure
-- Reader participation through incomplete information
-- Emotional continuity across characters, timelines, and states
-- Large-scale concepts expressed through reader experience rather than exposition
-- Iterative development from explanation toward evidence-based storytelling
-- Awareness of what is implemented, what is hypothesized, and what still needs reader testing
+- How I approach narrative design questions
+- How I use structure to support emotion
+- How I build setup and payoff
+- How I use hidden information without relying only on explanation
+- How characters and relationships carry larger ideas
+- How the project changed through revision
+- What is implemented and what still needs testing
 
 ## Recommended Reading Path
 
-Begin with the thesis. It explains the design idea that makes Fragments unusual.
+Start with the thesis. It explains the main question that shaped the project.
 
-Then read the project overview and case studies to see how that idea is applied to structure, Unity, misdirection, emotional continuity, and endings.
+Then read the project overview and case studies to see how that question appears in structure, character scenes, Unity, misdirection, and endings.
 
-Read the selected prose after the case studies. The prose samples are included as evidence of execution, but the portfolio is organized around design thinking first.
+Read the selected prose after that. The prose samples are included to show execution, not to explain the whole story.
 
-Use the development process, narrative design approach, and about page for deeper context on how I think, what I am testing, and what kind of narrative design work I want to pursue.
+The development process and approach pages give more context on how the project evolved.
 
 ## Repository Layers
 
 ### Portfolio Layer
 
-Short, readable documents intended to show how the project was designed and how narrative problems were solved.
+Short documents meant to show how I think about the project and what I learned while making it.
 
 ### Story Layer
 
@@ -53,4 +52,4 @@ Character files, act structure, and prose excerpts that support the portfolio ma
 
 ### Reference Layer
 
-Long-form internal notes for cosmology, Unity, bridges, and structural consistency. These files are useful for deep context but are not the recommended starting point.
+Longer internal notes for systems, Unity, bridges, and structural consistency. These files are part of my working process. They are useful for deeper context, but they are not the recommended starting point.
