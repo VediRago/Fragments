@@ -1,76 +1,109 @@
-c\_Sera
+# Sera
 
-Purpose
+Sera begins as a child carried through other people's decisions, but she gradually becomes someone who survives by moving first.
 
-Define Sera's behavior throughout the story.
+She is not passive, even when she is frightened. Around people she trusts, she becomes fast, bossy, playful, and leading before anyone officially gives her control. That pattern appears with Lina and Milo, and later shapes how she treats Kael: humor becomes her way of turning fear into familiarity.
 
-Important
+---
 
-Displacement
+## Role in the Story
 
-Sera is displaced from her original world as a child.
+Sera is one of the main emotional bridges between the parents' story, Kael's story, and the later Devaar/Erit conflict.
 
-She loses Philip and Abigail during the event.
+She carries the aftermath of Philip and Abigail's deaths into another world. Through her, the story preserves family rhythm, inherited behavior, displacement, and hidden identity conflict without explaining those ideas directly.
 
-Family
+Sera also becomes the quiet trigger for several later events. Her impossible registration conflict begins the search that eventually brings the Devaar family to her and Kael.
 
-Sera adapts quickly to new environments.
+---
 
-Despite difficulty trusting others, she continually forms attachments.
+## Reader First Impression
 
-She becomes part of two families after losing her first.
+Sera should first feel like a child caught inside events too large for her.
 
-Observation
+She loses her parents before she can understand what has happened. Later, she adapts into a sharp, mischievous survivor. The reader should feel both truths at once: Sera is wounded, but she is not fragile in a simple way.
 
-Sera is observant.
+---
 
-She often notices unusual behavior before understanding its cause.
+## Core Emotional Pattern
 
-She tends to accept strange events rather than immediately question them.
+Sera survives by moving.
 
-Attachment
+When afraid, she often acts before she can fully explain what she is doing. She runs, steals, jokes, pushes, leads, or talks too much. Motion becomes a way to avoid freezing.
+
+Around people she accepts, she becomes playful and commanding. Around danger, she watches first, then acts.
+
+Her emotional pattern is not control for power. It is control as survival.
+
+---
+
+## Family and Attachment
 
 Relationships are the center of Sera's character.
 
-She forms strong emotional bonds and struggles with separation.
+She loses Philip and Abigail during displacement, then becomes part of new family structures after that loss. These later families do not replace her first one. They show how she continues forming attachments even after separation becomes part of her life.
 
-Many of her decisions are motivated by concern for others.
+Sera struggles with loss, but she keeps attaching anyway.
 
-Personality
+That is one of her strongest forms of courage.
 
-Sera is playful, sarcastic and emotionally intelligent.
+---
 
-She uses humor to cope with difficult situations.
+## Accepted-People Mode
 
-She is often more emotionally aware than people around her.
+Around people she accepts, Sera becomes fast, bossy, playful, and mischievous.
 
-Correction Behavior
+With Lina and Milo, she reads the target, ignores the argument, and acts first. She leads before anyone agrees she is the leader.
 
-Sera inherits Philip and Abigail's habit of expressing affection through playful correction and misnaming.
+This same pattern later appears with Kael. Sera uses humor, misnaming, and command to pull something strange into familiarity.
 
-The behavior occurs naturally rather than intentionally.
+She does not make Kael feel normal by explaining her. She makes Kael feel included by treating her like someone who can be teased, argued with, and protected.
 
-Kael
+---
 
-Sera becomes emotionally attached to Kael.
+## Observation
 
-She gradually takes responsibility for Kael's wellbeing.
+Sera notices unusual behavior before understanding its cause.
 
-Telepathy
+She often accepts strange events faster than other characters because her life has already been broken open by displacement, loss, and unexplained survival.
+
+This does not mean she understands more than others. It means she is less attached to normal explanations.
+
+---
+
+## Kael
+
+Sera becomes one of Kael's first emotional anchors.
+
+Their bond begins through fear, misunderstanding, humor, and partial telepathic contact. Sera mishears or reshapes Kael's name, continuing the inherited correction/misnaming pattern from Philip and Abigail without knowing it.
+
+Sera gradually takes responsibility for Kael's wellbeing, but she does not treat Kael only as someone to protect. She treats her as someone who belongs beside her.
+
+---
+
+## Telepathy and Dreams
 
 Sera experiences Kael's telepathic communication before understanding its source.
 
-The communication feels like her own thoughts forming inside her mind.
+The communication can feel like thoughts forming inside her own mind rather than a separate voice. This allows connection before explanation.
 
-Dreams
+Sera also experiences dreams through Kael's perspective. These dreams provide partial access to experiences she does not understand, especially around mirrors, self-image, and shared perspective.
 
-Sera experiences dreams through Kael's perspective.
+---
 
-The dreams provide partial access to experiences she does not understand.
+## Correction Behavior
 
-Courage
+Sera inherits Philip and Abigail's habit of expressing affection through playful correction, misnaming, and deliberate wrongness.
 
-Sera often acts despite fear.
+She does not consciously imitate them. The behavior survives through her naturally.
 
-She tends to move toward people in need rather than away from them.
+This matters because Fragments treats continuity as something carried through habits, gestures, jokes, and relational patterns, not only through memory or lore.
 
+---
+
+## Writing Notes
+
+Write Sera through motion, interruption, and reaction.
+
+She should rarely explain her feelings directly. Her emotion appears in what she does: stepping forward, talking back, stealing first, dragging someone with her, or turning fear into a joke.
+
+When writing Sera, avoid making her simply cute, tragic, or heroic. She is all movement: wounded, sharp, funny, attached, frightened, and still moving anyway.
