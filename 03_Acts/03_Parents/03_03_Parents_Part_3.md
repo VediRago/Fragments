@@ -1,53 +1,71 @@
+# 03_Parents — Part 3
 
+## Purpose
 
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure  
-03\_Parents
+This part establishes loss.
 
-Prose Reference:  
-P\_03\_Parents\_Part\_2\_Excerpt
+The family warmth from the earlier parts is broken here. The scene should feel like ordinary life being interrupted too late for anyone to fix it.
 
-Characters
+The goal is not only to show what happens, but to make the reader feel what is being taken from Sera.
 
-Philip-Phil
+## Characters
 
-Abigail-Abby
+- Philip / Phil
+- Abigail / Abby
+- Sera
 
-Sera
+## Structure
 
-Purpose
+Philip arrives home → Letter → Lab → Loss → Displacement
 
-Establish loss.
+The movement should feel like Philip trying to catch up to something that has already happened.
 
-Continuity
+## Important Details
 
-Philip Arrives Home → Letter → Lab → Death → Displacement
-
-Important
-
-Philip Arrives Home
+### Philip Arrives Home
 
 Philip returns home and discovers Abby is gone.
 
-Letter 
+The house should feel wrong because the family rhythm is missing.
+
+This is the first sign that the ordinary life established earlier has already collapsed.
+
+### Letter
 
 Abby leaves a letter for Philip.
 
-The letter reveals Abby intentionally knew the correct answers during their correction game.  
-  
-This is the only time Abby directly says she loves Philip. 
+The letter reveals that Abby always knew the correct answers during their correction game.
 
-Lab 
+That matters because it turns their playful habit into a final act of love.
+
+This is also the only time Abby directly says she loves Philip.
+
+Because she rarely says it plainly, the line should carry weight.
+
+### Lab
 
 Philip takes Sera to the laboratory.
 
-Death
+This should feel desperate and protective. He is not moving through a plan. He is trying to keep Sera alive with whatever time he has left.
 
-Philip dies protecting Sera
+### Loss
 
-Displacement
+Philip dies protecting Sera.
+
+The moment should feel like a parent acting before thinking, because protecting Sera is the only thing left that matters.
+
+### Displacement
 
 Sera is displaced.
 
+This ends the family act by removing her from the life the reader has just seen.
+
+The loss should not feel abstract. It should feel like Sera being pulled away from home, family, and the last people who knew her as a child.
+
+## Prose Notes
+
+This part should be heavier than the earlier family scenes, but it should still carry traces of their relationship.
+
+Objects, habits, and unfinished family rhythms matter here.
+
+The emotional weight should come from what the reader remembers from the earlier parts.
