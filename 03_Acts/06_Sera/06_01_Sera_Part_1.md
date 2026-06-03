@@ -1,66 +1,59 @@
+# 06_Sera — Part 1
 
+## Purpose
 
+This part establishes Sera's adoptive family.
 
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure  
-06\_Sera
+After losing Philip and Abby, Sera is found by Milo and Lina and brought into a new home.
 
-Prose Reference:  
-P\_06\_Erit\_Excerpt
+The scene should not erase what Sera lost. It should show that another family begins forming around her, even while trust remains difficult.
 
-Characters
+## Characters
 
-Sera
+- Sera
+- Tomas
+- Elena
+- Milo
+- Lina
 
-Tomas
-
-Elena
-
-Milo
-
-Lina
-
-Purpose
-
-Establish Sera's adoptive family.
-
-Continuity
+## Structure
 
 Discovery → Home → Family Life
 
-Important
+The movement should be simple and grounded. Sera is found, taken in, and slowly becomes part of the household.
 
-Discovery
+## Important Details
+
+### Discovery
 
 Milo and Lina discover Sera after displacement.
 
 They bring her home.
 
-Tomas and Elena choose to keep Sera despite not knowing her origins.
+Tomas and Elena choose to keep Sera despite not knowing where she came from.
 
-Sera possesses no identification chip.
+Sera has no identification chip, which makes her presence risky and unusual inside this world.
 
-Family Life
+### Family Life
 
 Sera gradually becomes part of the household.
 
 The family genuinely cares about her.
 
-Milo and Lina function as siblings.
+Milo and Lina function as her siblings.
 
-Minor arguments, jealousy and everyday conflicts may occur.
+Minor arguments, jealousy, and everyday conflicts can happen, but they should feel like normal family friction rather than rejection.
 
 Trust remains difficult for Sera after losing Philip and Abby.
 
-The focus remains on ordinary life.
+The focus should stay on ordinary life: food, rooms, arguments, jokes, habits, shared space, and the slow feeling of belonging.
 
-Prose
+## Prose Notes
 
 Focus on everyday moments.
 
-The act should feel warm and grounded.
+The part should feel warm and grounded.
 
 Family interactions are more important than plot progression.
 
+Sera should not instantly become fine. She should become part of the family while still carrying the loss of the first one.
