@@ -60,11 +60,13 @@ The tragedy should come from love narrowing into obsession, not from cruelty for
 
 ## Kael and Sera
 
-Fedra and Valkare eventually care about both girls.
+Fedra and Valkare love Kael and Sera too.
 
-They never intend to harm Kael.
+That love does not erase the fear, control, secrecy, or harm around them. It makes the situation more painful, because the girls can be loved and still be trapped inside choices they did not make.
 
-Many later conflicts arise from misunderstanding and incomplete information.
+They never intend to harm Kael or Sera.
+
+Many later conflicts arise from misunderstanding, incomplete information, and the Devaar family's belief that saving someone can justify too much.
 
 From Kael and Sera's perspective, the Devaar family can still feel frightening, controlling, and impossible to trust. Both sides can be emotionally true at the same time.
 
