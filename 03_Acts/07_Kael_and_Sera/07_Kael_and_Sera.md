@@ -1,50 +1,53 @@
+# 07_Kael_and_Sera
 
+## Purpose
 
+This act establishes attachment between Kael and Sera.
 
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure
+Their bond should grow through shared survival, routine, irritation, misunderstanding, and care. It should not feel like they become important to each other because the plot says so.
 
-Prose Reference:  
-P\_07\_Sera\_Excerpt
+They become important because they keep choosing to stay near each other.
 
-Characters
+## Characters
 
-c\_Kael  
-c\_Sera 
+- Kael
+- Sera
 
-Purpose
-
-Establish attachment.
-
-Continuity
+## Structure
 
 Meeting → Shelter → Time Passes → Literacy → Collapse → Pharmacy → Discovery
 
-Important
+The act should move from first contact into temporary safety, then toward the medical crisis that exposes Sera to Valkare's network.
 
-Meeting
+## Important Details
+
+### Meeting
 
 Sera discovers Kael after the alley incident.
 
 Kael collapses shortly afterward.
 
-Shelter
+The meeting should feel messy and uncertain. Sera should not instantly understand Kael, and Kael should not instantly trust Sera.
+
+### Shelter
 
 Sera brings Kael to an abandoned apartment.
 
 The apartment becomes their temporary home.
 
-Time Passes
+It should feel rough, unsafe, and improvised, but still become meaningful because it is where their routines begin.
+
+### Time Passes
 
 Several weeks pass.
 
 Daily routines begin forming between them.
 
-Attachment gradually develops through shared survival rather than major events.
+Attachment develops gradually through shared survival rather than major events.
 
-Telepathy
+The small moments matter most here: food, sleep, arguments, silence, learning each other's habits, and realizing the other person is still there the next day.
+
+### Telepathy
 
 Kael unintentionally communicates through telepathy.
 
@@ -52,7 +55,9 @@ Sera initially does not understand what is happening.
 
 The communication feels like Sera's own thoughts forming inside her mind.
 
-Literacy
+This should feel strange, but intimate. It becomes another form of closeness before either of them can explain it.
+
+### Literacy
 
 Sera teaches Kael to read and write.
 
@@ -60,33 +65,44 @@ Kael struggles with language.
 
 Kael's fear of appearing strange or abnormal becomes apparent.
 
-Collapse
+This should show vulnerability. Kael is not only physically dependent on Sera; she is also afraid of being seen as something wrong.
+
+### Collapse
 
 Kael's condition gradually worsens.
 
-Pharmacy
+The decline should make Sera's attachment visible. Sera acts because Kael has become someone she cannot ignore.
+
+### Pharmacy
 
 When Kael collapses, Sera attempts to steal medicine.
 
 The attempt draws attention from local systems.
 
-Discovery
+This should feel like desperation, not strategy.
 
-Sera is detected because she possesses no identification chip.
+### Discovery
+
+Sera is detected because she has no identification chip.
 
 The anomaly reaches Valkare's network.
 
 Fedra and Valkare begin searching for the girl.
 
-Attachment
+This discovery moves the relationship into the larger story, but the emotional center should remain Sera trying to save Kael.
 
-Kael and Sera gradually become emotionally dependent upon one another.
+### Attachment
 
-Prose
+Kael and Sera gradually become emotionally dependent on one another.
+
+This dependency should feel earned through time, friction, and care.
+
+## Prose Notes
 
 Relationship progression is more important than plot progression.
 
-Scenes should be carried by interaction, routine and growing trust.
+Scenes should be carried by interaction, routine, and growing trust.
 
 Environmental description should continue the gradual reduction established in previous acts.
 
+The reader should feel the bond forming before the story needs that bond to carry tragedy.
