@@ -6,7 +6,7 @@ I currently work full-time in glass manufacturing and build this project outside
 
 **Fragments** is an ongoing narrative project I started on **20/05/2026**. It began as a personal writing project and became a way for me to explore narrative design, character connection, structure, emotional payoff, and reader discovery.
 
-This repository contains the project itself: portfolio pages, prose samples, character notes, story structure, early drafts, and reference material.
+This repository contains the project itself: portfolio pages, prose samples, character notes, act structure, early drafts, and reference material.
 
 ## Start Here
 
