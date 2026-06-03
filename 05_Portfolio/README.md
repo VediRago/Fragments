@@ -4,6 +4,12 @@ Fragments is a narrative design project focused on reader-driven discovery, emot
 
 This folder is the recruiter-facing entry point for the project. It does not attempt to explain the entire story or its full cosmology. Instead, it highlights selected design problems, narrative solutions, prose samples, and development process notes.
 
+## PDF Version
+
+A compact PDF version is available as:
+
+`Fragments_Narrative_Design_Portfolio_for_Noeme_v2.pdf`
+
 ## Start Here
 
 1. [Project Overview](01_Project_Overview.md)
