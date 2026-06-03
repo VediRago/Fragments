@@ -1,95 +1,95 @@
 # Selected Prose
 
-These excerpts are included to show scene-level writing, emotional pacing, character interaction, and the use of visual motifs across the project.
+These samples are here to show the writing itself.
 
-The prose samples are not intended to explain the full story by themselves. They are selected as examples of how the narrative design principles appear inside actual scenes.
+The portfolio pages explain the design questions. The prose shows how those questions appear in scenes: character connection, tension, loss, recognition, and payoff.
 
-For portfolio purposes, the samples are ordered to move from immediate character connection, to compressed tragedy, to the larger structural payoff of Unity.
+The recommended order starts with the most accessible scene and moves toward the more complex material.
 
 ---
 
 ## 01 — Sera and Kael First Meeting
 
-**Purpose:** Introduces connection through perception, tension, humor, miscommunication, and character contrast.
+**File:** `04_Prose/07_Kael_and_Sera/inc_Sera_meets_Kael.md`
 
-**Shows:** dialogue, pacing, first-contact dynamics, emotional curiosity, scene-level readability.
+This is the best first prose sample.
 
-**Why this comes first:** This is the most accessible sample. It shows character chemistry before asking the reader to understand the larger structure of Fragments.
+It shows Sera and Kael through movement, miscommunication, humor, and first contact. It is easier to read without knowing the full structure of Fragments.
 
-**Recommended file:** `04_Prose/07_Kael_and_Sera/inc_Sera_meets_Kael.md`
+**Why it matters:** Before the larger ideas can work, the characters need to feel alive.
 
 ---
 
-## 02 — Erit Body Found / Basement Rupture
+## 02 — Sera's Final Scene / Basement Rupture
 
-**Purpose:** Demonstrates how tragedy can be created through compressed recognition rather than explanation.
+**File:** `04_Prose/09_Convergence/inc_Erit_body_found_basement_rupture.md`
 
-**Shows:** visual echo, emotional compression, delayed reaction, character-specific recognition, rupture through implication.
+This is the sample that helped me understand something important during development.
 
-**Design note:** Kael does not need to be told what happened. She sees the cable, the body, and the face. The emotional weight comes from recognition: the scene connects Erit's death to a system already associated with Kael's own suffering.
+I initially thought emotional impact needed more connection. While revising this scene, I removed parts I thought were necessary and found the moment became stronger for me.
 
-**Recommended file:** `04_Prose/09_Convergence/inc_Erit_body_found_basement_rupture.md`
+The connection was already there.
+
+**Why it matters:** This scene shows how a few details can carry emotional weight when the story has already built the connection.
 
 ---
 
 ## 03 — Unity / Hospital Ending
 
-**Purpose:** Demonstrates the full structural payoff of Fragments: emotional-first revelation, perceptual collapse, identity loss, and ending through evidence rather than explanation.
+**File:** `04_Prose/10_Unity/Prose_Unity.md`
 
-**Shows:** grief-driven escalation, sensory reduction, fragmented perception, narrative compression, delayed recognition, final visual payoff.
+This is the most complex sample.
 
-**Design note:** This sample is the strongest expression of the project's larger thesis. The prose becomes increasingly reduced and fragmented, allowing the reader to experience a smaller version of the same perceptual loss affecting the character. The ending gives evidence that something fundamental has changed without explaining the mechanics directly.
+It should be read after the thesis and case studies. It brings together grief, repetition, reduced description, overlapping lives, and the hospital ending.
 
-**Recommended file:** `04_Prose/10_Unity/Prose_Unity.md`
+The goal is not to explain everything directly. The goal is to give evidence that something changed and let recognition happen through the scene.
+
+**Why it matters:** This is where many of the project's ideas meet, but the emotional focus remains on Kael.
 
 ---
 
-## Additional Supporting Samples
+## Supporting Samples
 
-These excerpts are useful for deeper review, but they are not the recommended first reading path.
+These are useful for deeper review, but they are not the recommended first reading path.
 
 ### Lucreta Opening / Collapse
 
-**Purpose:** Establishes the story's first major pattern of loss, visual motifs, and restrained tragedy.
+**File:** `04_Prose/02_Lucreta/02_Prose_Lucreta.md`
 
-**Shows:** atmosphere, pacing, visual foreshadowing, emotional restraint.
+Shows early atmosphere, visual motifs, and the richer descriptive style used near the beginning of the story.
 
-**Recommended file:** `04_Prose/02_Lucreta/02_Prose_Lucreta.md`
+This sample is useful for comparing early prose against the more reduced style used later in Unity.
 
 ### Parents Part 1A
 
-**Purpose:** Shows relationship-driven dialogue, ordinary intimacy, and family foundation before later loss.
+**File:** `04_Prose/03_Parents/Part 1/inc_parents_part1_A.md`
 
-**Shows:** banter, emotional contrast, character chemistry, grounded human stakes.
-
-**Recommended file:** `04_Prose/03_Parents/Part 1/inc_parents_part1_A.md`
+Shows relationship-driven dialogue, ordinary intimacy, and family rhythm before later loss.
 
 ### Parents Part 3 / Abigail's Absence
 
-**Purpose:** Communicates love, loss, and final action through objects, family rhythm, and interrupted movement rather than direct exposition.
+**File:** `04_Prose/03_Parents/Part 3/Prose_Parents_part3_clean_master.md`
 
-**Shows:** emotional escalation, object-based memory, parent-child stakes, grief under time pressure.
-
-**Recommended file:** `04_Prose/03_Parents/Part 3/Prose_Parents_part3_clean_master.md`
+Shows love, loss, and final action through objects, family rhythm, and interrupted movement.
 
 ### Sera Plaza / Street Survival
 
-**Purpose:** Shows Sera's confident, mischievous, leading side around people she accepts.
+**File:** `04_Prose/05_Sera/inc_Sera_plaza_urchins.md`
 
-**Shows:** character voice, group rhythm, survival behavior, humor under pressure.
-
-**Recommended file:** `04_Prose/05_Sera/inc_Sera_plaza_urchins.md`
+Shows Sera's confident and mischievous side around people she accepts.
 
 ### Sera Clinic Alert
 
-**Purpose:** Establishes the chip-system alert, Sera's hidden identity conflict, and the chain that later leads others to misidentify Kael as the visible anomaly.
+**File:** `04_Prose/05_Sera/inc_Sera_clinic_alert.md`
 
-**Shows:** tension escalation, incomplete-information conflict, Sera's survival shift, Tomas' final reversal.
-
-**Recommended file:** `04_Prose/05_Sera/inc_Sera_clinic_alert.md`
+Shows tension, incomplete information, and Sera's survival instincts under pressure.
 
 ---
 
-## Notes
+## Reading Note
 
-These samples should be read after the portfolio thesis, overview, and case studies. The case studies explain the narrative problems; the prose samples show how those solutions appear in scene form.
+The prose does not explain the whole story by itself.
+
+That is intentional.
+
+The samples are selected to show character, feeling, and execution. The larger structure is explained in the thesis, case studies, and development process.
