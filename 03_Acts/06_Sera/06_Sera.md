@@ -1,64 +1,73 @@
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure
+# 06_Sera
 
-Prose Reference:  
-P\_06\_Erit\_Excerpt
+## Purpose
 
-Characters
+This act establishes Sera's life after displacement.
 
-Sera
+Sera has been torn away from her first family and placed into another world. This act should show how she survives that loss by becoming part of a second family.
 
-Tomas
+The important feeling is not that her life becomes easy. It does not. The important feeling is that she is taken in, cared for, and given another place to belong.
 
-Elena
+## Characters
 
-Milo
+- Sera
+- Tomas
+- Elena
+- Milo
+- Lina
 
-Lina
+## Structure
 
-Purpose
+The act is divided into two parts:
 
-Establish Sera's life after displacement.
+Part 1: Discovery → Family Life
 
-Continuity
+Part 2: Accident → Decline → Sale Attempt → Identification
 
-Part 1:  
-Discovery → Family Life
+The act should begin with rescue and belonging, then move toward pressure, poverty, and the systems that make Sera vulnerable.
 
-Part 2:  
-Accident → Decline → Sale Attempt → Identification
+## Important Details
 
-Important
-
-Sera
+### Sera
 
 Sera is displaced from the world established during the Parents act.
 
-Milo and Lina  
-  
-Milo and Lina discover Sera after displacement and bring her home.  
-  
-Milo and Lina become Sera's adoptive siblings.  
-  
-Tomas and Elena  
-  
-They choose to take Sera in despite not knowing her origins. 
+She arrives in a place where she has no history, no legal identity, and no way to explain where she came from.
 
-Family
+### Milo and Lina
+
+Milo and Lina discover Sera after her displacement and bring her home.
+
+They become her adoptive siblings.
+
+Their bond should feel immediate and human before the story turns it into plot.
+
+### Tomas and Elena
+
+Tomas and Elena choose to take Sera in despite not knowing her origins.
+
+That choice matters because it gives Sera a second family.
+
+They should feel poor and limited, but not cold. Their care is real even when their options are not enough.
+
+### Family
 
 The family is poor but caring.
 
-The act establishes Sera's second family.
+This act establishes Sera's second family and gives her another emotional foundation before later events take it apart.
 
-Identification
+### Identification
 
-Sera possesses no identification chip.
+Sera has no identification chip.
 
-This later becomes important.
+This becomes important later.
 
-Prose
+At first, it should feel like a practical problem inside the world. Later, it becomes part of the larger anomaly around her.
 
-Simple, clear and human.
+## Prose Notes
 
+The prose should be simple, clear, and human.
+
+Sera's second family should feel grounded through ordinary moments, shared space, and small acts of care.
+
+The story should not rush past the fact that Sera belongs to them before she loses that safety too.
