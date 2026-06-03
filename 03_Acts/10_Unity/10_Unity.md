@@ -1,48 +1,59 @@
+# 10_Unity
 
+## Purpose
 
-LOAD ORDER:  
-00\_Narrative\_Progression  
-01A\_Core\_Concepts  
-01\_Narrative\_Structure
+Unity establishes continuation.
 
-Prose Reference:  
-P\_09\_Condition\_Excerpt
+It begins immediately after Kael connects herself to Erit.
 
-Characters
+This is not meant to feel like a normal reveal, a flashback sequence, or a memory montage. Unity should feel like Kael being pulled into something too large for her to understand while the reader receives pieces of evidence through experience.
 
-c\_Kael
+The goal is not to explain Unity.
 
-Purpose
+The goal is to make the reader feel that something has changed.
 
-Establish continuation.
+## Characters
 
-Continuity
+- Kael
+- Erit
+- Other fragments appearing through Unity
+- Hospital girl
+
+## Structure
+
+The movement is:
 
 Erit → Unity → Hospital → Continuation
 
-Important
+Kael reaches Unity through Erit. For a brief moment, separation between fragments collapses. After that, Kael is no longer able to experience herself in a stable way.
 
-Unity
+The hospital ending shows the consequence.
+
+It is evidence, not explanation.
+
+## Important Details
+
+### Unity
 
 Unity begins immediately after the connection.
 
-Unity occurs through the convergence of Kael and Erit.
+It happens through Kael and Erit, but it reaches beyond them.
 
-Unity is experiential rather than informational.
+Kael experiences continuity across fragments, but not as clear knowledge. She experiences it as lives, moments, images, movement, emotions, and eventually color.
 
-Kael experiences continuity across Fragments.
+Unity should feel experiential rather than informational.
 
-Perception
+The reader should not receive a full explanation in the moment.
 
-Fragments closest to Kael are experienced most clearly.
+### Perception
 
-Unity should gradually move from scenes toward images.
+Fragments closest to Kael should feel clearer.
 
-As Unity progresses, continuity becomes increasingly difficult to localize.
+As Unity continues, the experience should become harder to locate.
 
-More distant continuity gradually collapses into movement, images, emotions and colors.
+It should gradually move from scenes into images, then into movement, emotion, and color.
 
-Unity should eventually reduce toward color and sensation.
+The final reduction should move toward:
 
 Black.
 
@@ -50,49 +61,56 @@ White.
 
 Grey.
 
-Unity Dialogue
+Grey matters because it carries the cost of Unity and the evidence of continuation at the same time.
 
-Dialogue spoken by other Fragments may be repeated by Kael.
+### Dialogue Repetition
 
-The repetitions are evidence of continuity overlap.
+Dialogue spoken by other fragments may be repeated by Kael.
 
-The reader should learn the pattern through repetition rather than explanation.
+These repetitions are not normal speech. They are signs of overlap.
 
-The hospital ending relies upon recognition of this pattern.
+The reader should learn this pattern through repetition, not explanation.
 
-Unity Structure
+The hospital ending should reuse the pattern so the reader can recognize it without being directly told what it means.
+
+### Unity Structure
 
 Unity is not a memory montage.
 
-Moments should function as evidence rather than explanation.
+Each moment should work as evidence rather than exposition.
 
-Moments should connect through emotional or perceptual continuity rather than exposition.
+The connections between moments should come through feeling, image, motion, or repeated language.
 
-The reader should often understand relationships between moments only after they have occurred.
+The reader may only understand why certain moments mattered after they have already passed.
 
-Continuation
+That is intentional.
 
-Unity reveals lives continuing beyond expected outcomes.
+### Continuation
 
-Appearances of healthy Fragments are evidence of continuation rather than contradiction.
+Unity reveals that lives continue beyond the outcomes the reader expected.
 
-The hospital ending serves as evidence rather than explanation.
+Healthy fragments are not a contradiction. They are evidence that something changed.
 
 The hospital girl should not explain Unity.
 
-A word spoken by the hospital girl should follow the same dialogue pattern previously associated with Kael during Unity.
+She should simply exist inside the consequence.
 
-The reader should recognize the pattern rather than receive confirmation.
+To her, it may just be another day.
 
-Prose
+To the reader, it carries the weight of everything that came before.
 
-Fastest prose in the story.
+## Prose Notes
 
-Perception is more important than environment.
+This should be the fastest prose in the story.
 
-Images, movement and emotion should dominate.
+Perception matters more than environment.
 
-Understanding should follow experience.
+Images, movement, emotion, repeated words, and color should dominate.
 
 Environmental description should be minimal.
 
+Understanding should follow experience.
+
+The reader can leave the state and look back.
+
+Kael cannot.
