@@ -28,7 +28,7 @@ The reveal becomes participatory. The reader reaches the conclusion through evid
 
 - Prose: `04_Prose/10_Unity/Prose_Unity.md`
 - Reference: `01_Reference/91_Unity_Explained.md`
-- Reference: `01_Reference/92_Bridges.md`
+- Reference: `01_Reference/92_Bridges/05_Misdirection_Bridges.md`
 
 ---
 
@@ -53,7 +53,7 @@ The connection feels human before it feels cosmological. The reader senses that 
 ### Related Material
 
 - Prose: `04_Prose/07_Kael_and_Sera/inc_Sera_meets_Kael.md`
-- Reference: `01_Reference/92_Bridges.md`
+- Reference: `01_Reference/92_Bridges/05_Misdirection_Bridges.md`
 
 ---
 
@@ -104,7 +104,7 @@ The conflict remains emotionally grounded. Characters are not forced to act irra
 
 - Character reference: `02_Characters/c_Devaar_Family.md`
 - Character reference: `02_Characters/c_Kael.md`
-- Reference: `01_Reference/92_Bridges.md`
+- Reference: `01_Reference/92_Bridges/05_Misdirection_Bridges.md`
 
 ---
 
@@ -130,4 +130,4 @@ The ending remains mysterious while still feeling meaningful. The reader is not 
 
 - Prose: `04_Prose/10_Unity/Prose_Unity.md`
 - Reference: `01_Reference/91_Unity_Explained.md`
-- Reference: `01_Reference/92_Bridges.md`
+- Reference: `01_Reference/92_Bridges/05_Misdirection_Bridges.md`
