@@ -10,9 +10,9 @@ At first, I was exploring outcomes. If different outcomes exist, then different 
 
 Different readers notice different things. They trust different details. They make different assumptions. They may leave the same story with different conclusions.
 
-That became one of the main ideas behind Fragments.
+That became one of the main lessons I learned while building Fragments.
 
-Rather than creating visible branching paths, I became interested in whether interpretation itself could create different outcomes.
+Rather than presenting this as a new kind of branching system, I see it as something I discovered through the work: satisfaction does not always come from giving different outcomes. Sometimes it comes from allowing different readers to reach different understandings of the same outcome.
 
 ## The Reward Is Being Right
 
@@ -41,6 +41,24 @@ Noeme is an example of this. The name can be read as "Know Me" or "One Me," but 
 The letters were always there.
 
 The reader changes.
+
+## Reader Perception And Payoff
+
+While developing Fragments, I noticed that the same scene can give different readers different levels of payoff.
+
+A reader may notice a detail early. Another may miss it. Another may only understand it later, once a new scene changes the meaning of what was already there.
+
+None of those readings are failures.
+
+The story remains the same.
+
+What changes is the reader's perception.
+
+This became especially important for scenes built around misdirection, subtext, and delayed realization. The information should not feel hidden. The stronger effect comes when the information was already present, but only becomes meaningful once perception aligns with it.
+
+Like a magic trick, the answer can be visible from the beginning.
+
+The realization comes when the reader finally sees how it was working.
 
 ## Connection Was Already There
 
@@ -90,21 +108,23 @@ Inside the story, Unity is a tragedy. It is not simply an ending. It is the loss
 
 The challenge was not explaining that idea.
 
-The challenge was making the reader feel a reduced version of it.
+The challenge was making the reader feel what the character goes through.
 
-As the story moves forward, description gradually gives way to dialogue, movement, and interaction. The world slowly disappears from the page.
+The reader is never told the structure exists.
 
-Some readers may notice this.
+The tragedy is not what happens.
 
-Some may not.
+The tragedy is recognizing how it feels.
 
-Some may only realize it after Unity.
+Some readers may eventually realize that they have been experiencing a smaller version of that state throughout the story. Others may pass through the same events without making that connection.
 
-That difference matters.
+Neither experience is wrong.
 
-The reader can leave the experience and look back.
+The difference is the payoff.
 
-Kael cannot.
+The reader who reaches realization understands how the character feels and can still leave the story.
+
+The character cannot.
 
 ## What This Project Taught Me
 
