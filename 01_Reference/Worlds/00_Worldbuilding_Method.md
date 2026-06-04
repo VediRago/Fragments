@@ -99,9 +99,9 @@ A major historical figure in Erit's world was displaced into Roman history as a 
 
 He comes from a far more advanced human civilization, but the people who find him do not understand displacement. They interpret him through the beliefs, fears, and power structures of their own time.
 
-His importance is not that he arrives with a complete plan for Rome's future.
+His importance is not that he arrives with a complete plan for Rome's future or a set of advanced concepts to teach.
 
-His importance is that his presence changes how people act around him.
+His importance is that his presence, body, wound, myth, usefulness, and removal change how people act around him.
 
 The foundation comes from what happens because he exists:
 
@@ -109,12 +109,13 @@ The foundation comes from what happens because he exists:
 - The Servan are punished when their story is not believed.
 - The child reacts with extreme survival force, which later becomes part of his myth.
 - A wealthy Roman family takes him in, protects him, teaches him, trains him, and uses him.
+- His enhanced survival response becomes useful to that family in war and power-building.
 - Rome teaches him hierarchy, language, family, household, love, and legacy.
 - His origin wound makes family, children, blood, memory, and continuation emotionally important.
 - He cannot create his own bloodline, so the dynastic lines come from the family that used him.
 - After his death, his image remains useful while his agency is gone.
 
-He becomes the historical hinge because Rome changes around his displacement, myth, use, betrayal, and preservation as a symbol.
+He becomes the historical hinge because he is the first stone: Rome changes around his displacement, body, myth, usefulness, betrayal, and preservation as a symbol.
 
 ---
 
@@ -134,7 +135,7 @@ He is a child taken from a sterile, advanced civilization where fertility was go
 
 His tragedy is that the world that raises him gives him a dream his origin may not allow him to fulfill.
 
-That wound can later echo through the civilization built around his image: inheritance, dynasties, preservation, order, continuity, and the need to make something last beyond the individual.
+That wound can later echo through the civilization built around his body, image, usefulness, and myth: inheritance, dynasties, preservation, order, continuity, and the need to make something last beyond the individual.
 
 The method is not to make lore clever.
 
