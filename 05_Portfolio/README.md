@@ -1,25 +1,25 @@
-# Fragments — Narrative and World Design Portfolio
+# Fragments — Story and Worldbuilding Portfolio
 
 This folder is the best place to start.
 
 I'm using **Fragments** to show two connected sides of my work:
 
-1. **Fragments as a narrative project** — story structure, character connection, emotional payoff, reader discovery, prose, and development process.
-2. **World Design as a design practice** — how worldbuilding can grow from human behavior, pressure, rules, consequences, and systems that can generate conflicts, quests, and branching situations.
+1. **The main story** — structure, character connection, emotional payoff, prose, and how readers discover meaning.
+2. **The worldbuilding** — how a world can grow from people, history, rules, pressure, and consequences.
 
-The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio is to show the questions I explored, the scenes I worked on, the systems I built, and what I learned while building them.
+The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio is to show what I explored, what I built, and what I learned while building it.
 
 ---
 
-## Track 1 — Fragments / Narrative Design
+## Part 1 — Fragments / Main Story
 
-This track focuses on the main story and how the narrative works.
+This part focuses on Fragments as a story.
 
-The main question behind this part of the portfolio is:
+The main question behind this part is:
 
 **How can the same story lead different readers toward different conclusions without changing its events?**
 
-Start here if you want to read Fragments as a story, prose, and narrative-structure project.
+Start here if you want to read Fragments as a story, prose, and structure project.
 
 1. [Narrative Design Thesis](00_Narrative_Design_Thesis.md)
 2. [Project Overview](01_Project_Overview.md)
@@ -31,57 +31,57 @@ Start here if you want to read Fragments as a story, prose, and narrative-struct
 
 ---
 
-## Track 2 — World Design / Game-Facing Systems
+## Part 2 — Worldbuilding / Erit's World
 
-This track focuses on Erit's world as a worldbuilding and design sample.
+This part focuses on Erit's world.
 
-The main question behind this part of the portfolio is:
+The main question behind this part is:
 
-**How can lore become a system that creates pressure, conflict, choices, and consequences instead of remaining background information?**
+**How can lore become something that creates pressure, conflict, choices, and consequences instead of staying as background information?**
 
-This track is divided into three useful parts:
+This part is divided into three simple sections:
 
-- **World Logic** — the rules, limits, causes, and constraints that make the setting coherent.
-- **Findings** — the design discoveries that appeared while building the world, such as how emotional wounds become dynasties or how ideology shapes NPC behavior.
-- **Quest / Game-Facing Use** — examples of how those systems create player-facing conflict, routes, and consequences.
+- **World Logic** — why the world works the way it does.
+- **Findings** — what I discovered while building the world.
+- **Quest Examples** — how the world can create conflicts and choices.
 
-Start here if you want to see how the worldbuilding can support game-facing design.
+Start here if you want to see how the worldbuilding works.
 
 ### World Logic
 
 1. [Worldbuilding Method](../01_Reference/Worlds/00_Worldbuilding_Method.md)  
-   Explains the method: story pressure first, systems after; every unusual idea needs a foundation, every power needs a limit, and every exception needs a cost.
+   Explains how I build from story pressure first, then create systems underneath it.
 
 2. [Three Rules — Treasure Map, Key, Treasure](../01_Reference/Worlds/03_Rules.md)  
-   Defines the discovery/payoff structure used to make world details meaningful instead of decorative.
+   Explains how details can be noticed first, understood later, and paid off emotionally.
 
 ### Findings
 
 3. [Erit World Development Diary](../01_Reference/Worlds/Erit_World/00_Development_Diary.md)  
-   Shows the design trail behind Erit's world: what was built, why details mattered, what they connected to, and what had to stay constrained.
+   Shows what was built, why it mattered, what it connected to, and what had to stay limited.
 
 4. [Founding Lines](../01_Reference/Worlds/Erit_World/04_Founding_Lines.md)  
-   Builds the dynastic lines through emotional cause and consequence: experience → emotional wound → behavior → historical path → modern system.
+   Shows how personal wounds become family patterns, then history, then modern systems.
 
 5. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
-   Shows how ideology and social pressure can shape NPC behavior instead of treating NPCs as isolated quest functions.
+   Shows how a society's beliefs can shape how people speak, react, obey, resist, or justify what they do.
 
-### Quest / Game-Facing Use
+### Quest Examples
 
 6. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
-   Shows how the world systems naturally generate a quest seed, possible approaches, and consequences.
+   Shows how the world naturally creates a quest, different approaches, and consequences.
 
 ---
 
 ## Recommended Reading Path
 
-If you are reading for **story and prose**, start with the Fragments / Narrative Design track.
+If you are reading for **story and prose**, start with Part 1.
 
-If you are reading for **worldbuilding, systems thinking, or game-facing design**, start with the World Design track.
+If you are reading for **worldbuilding**, start with Part 2.
 
-The prose samples are included to show execution, not to explain the whole story.
+The prose samples are included to show the writing itself, not to explain the whole story.
 
-The world design files are included to show how lore, social pressure, human behavior, and consequence can become systems that generate conflicts and player-facing choices.
+The worldbuilding files are included to show how lore, people, history, pressure, and consequence can connect into a world that creates conflict naturally.
 
 ---
 
@@ -95,9 +95,9 @@ Short documents meant to show how I think about the project and what I learned w
 
 Character files, act structure, and prose excerpts that support the portfolio material.
 
-### World Design Layer
+### Worldbuilding Layer
 
-World logic, findings, quest seeds, NPC behavior models, and system notes that show how worldbuilding can become design pressure.
+World logic, findings, quest examples, NPC behavior notes, and system notes.
 
 ### Reference Layer
 
