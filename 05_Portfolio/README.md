@@ -5,7 +5,7 @@ This folder is the best place to start.
 I'm using **Fragments** to show two connected sides of my work:
 
 1. **The main story** — structure, character connection, emotional payoff, prose, and how readers discover meaning.
-2. **The worldbuilding** — how a world can grow from people, wounds, family history, belief, pressure, and consequence.
+2. **The worldbuilding** — how a world can begin from people, wounds, family history, belief, pressure, and consequence.
 
 The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio is to show what I explored, what I built, and what I learned while building it.
 
@@ -33,22 +33,23 @@ Start here if you want to read Fragments as a story, prose, and structure projec
 
 ## Part 2 — Worldbuilding / Erit's World
 
-This part focuses on Erit's world as a worldbuilding sample.
+This part focuses on Erit's world as an early worldbuilding sample.
 
 The main question behind this part is:
 
 **How can lore become something that creates pressure, conflict, choices, and consequences instead of staying as background information?**
 
-The worldbuilding is built around one central spine:
+This worldbuilding is still at the beginning.
 
-> A displaced child becomes the first stone.  
-> The family that takes him in and uses him becomes the builder.  
-> The four founding lines become the roads that carry his myth, usefulness, wound, and removal forward through history.  
-> Those roads eventually become the systems that shape Erit's world.
+The current foundation is simple:
 
-This means the world does not begin with maps, cities, or random facts.
+> Viriatus is the first stone.
 
-It begins with a person, a family, a wound, and the consequences of using someone as the foundation for power.
+That means the world does not begin with maps, cities, or random facts.
+
+It begins with a displaced child whose existence creates pressure around him: how people find him, interpret him, mythologize him, fear him, and build meaning from him.
+
+The later family lines, systems, quests, and NPC models are early work built around that direction. They are not presented as finished world canon yet.
 
 This part is divided into three simple sections:
 
@@ -67,10 +68,10 @@ Start here if you want to see how the worldbuilding works.
    Explains how details can be noticed first, understood later, and paid off emotionally.
 
 3. [Displaced Founder](../01_Reference/Worlds/Erit_World/01_Displaced_Founder.md)  
-   Defines the displaced child who becomes the first stone of Erit's world: not a clean architect of the future, but a person whose body, myth, wound, usefulness, and removal are used by others.
+   Defines Viriatus as the displaced child who becomes the first stone of Erit's world.
 
 4. [Regulatus](../01_Reference/Worlds/Erit_World/02_Regulatus.md)  
-   Defines the way of life that turns order, gratitude, usefulness, loyalty, and discipline into pride.
+   Records the early idea of a way of life built around order, gratitude, usefulness, loyalty, discipline, and pride.
 
 ### Findings
 
@@ -78,15 +79,15 @@ Start here if you want to see how the worldbuilding works.
    Shows what was built, why it mattered, what it connected to, and what had to stay limited.
 
 6. [Founding Lines](../01_Reference/Worlds/Erit_World/04_Founding_Lines.md)  
-   Shows how the wealthy family that used the founder becomes four lines, and how personal imbalance becomes family pattern, history, and modern systems.
+   Records the early work on the family lines connected to the founder's legacy.
 
 7. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
-   Shows how a society's beliefs, locations, groups, and personal histories can shape how people speak, react, obey, resist, or justify what they do.
+   Shows an early method for thinking about how people in the world may speak, react, obey, resist, or justify what they do.
 
 ### Quest Examples
 
 8. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
-   Shows how the world naturally creates a quest, different approaches, and consequences.
+   Shows an early example of how world pressure can create a quest, different approaches, and consequences.
 
 ---
 
@@ -99,15 +100,15 @@ A detail should not exist only because it is interesting.
 It should connect to something:
 
 - a person who lived through pressure
-- a family that reacted to that pressure
-- a belief system that made the reaction feel normal
-- a social system that preserved it
-- a conflict that later characters inherit
+- a family or group that reacted to that pressure
+- a belief that made the reaction feel normal
+- a system that may preserve it
+- a conflict that later characters may inherit
 - a possible quest, choice, or consequence
 
 The goal is not to build endless lore.
 
-The goal is to build a world where old wounds become modern pressure.
+The goal is to build a world where old wounds can become modern pressure.
 
 ---
 
