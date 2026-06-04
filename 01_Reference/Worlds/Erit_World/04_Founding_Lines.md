@@ -45,7 +45,7 @@ Each line needs a cause.
 
 The path should be:
 
-> experience → emotional wound → behavior → historical path → modern system
+> experience → emotional imbalance → behavior → historical path → modern system
 
 This prevents the houses from feeling like abstract departments.
 
@@ -58,6 +58,10 @@ They should become:
 > This person lived through something, reacted to it, and that reaction became a family pattern that hardened into history.
 
 The names are keys, but the emotions are the roots.
+
+The important human-condition rule is balance.
+
+Human behavior comes from emotion, experience, imbalance, and growth. None of the siblings are simply good or bad. Each one represents an imbalance that becomes history.
 
 ---
 
@@ -81,21 +85,114 @@ Each line should eventually answer one question:
 
 ### Current Concept
 
+Ermerus is the last son.
+
+Because he is born after the family has already placed its strongest expectations on the others, he receives less direct pressure.
+
+Rutare carries inheritance and order pressure.
+
+Ilunis carries military usefulness and force.
+
+Teresta carries the scholar/intellect path.
+
+Ermerus grows in the space left between them.
+
+This gives him more freedom to engage socially, explore people, move through family conflict, and apply his natural gift for charm.
+
+He becomes charismatic, nice, mischievous, and socially slippery.
+
+He is able to slip through family commotion and often manipulate his way onto everyone's good side.
+
+### Emotional Imbalance
+
+Ermerus's root is not obvious trauma.
+
+His imbalance is freedom without discipline.
+
+Because the family is less focused on him, he has room to grow his gifts, but also room to become unchecked.
+
+Freedom is not automatically the best end state.
+
+In Ermerus, freedom gives him charm, timing, social confidence, and influence.
+
+But the lack of discipline also gives him appetite without restraint.
+
+His gift grows, but so does the consequence of that gift.
+
+### Behavior
+
+Ermerus learns people instead of systems, weapons, or scholarship.
+
+He learns:
+
+- how to make Rutare feel less exposed
+- how to feed Ilunis's pride
+- how to flatter his father
+- how to seem harmless when needed
+- how to appear kind to servants
+- how to move through rooms without becoming the target
+- how to influence stronger people without standing in front of them
+
+He does not need to be the strongest if he can decide what the strongest person believes.
+
+### Relationship To Ilunis
+
+Ilunis has jealousy, anger, and humiliation, but he may not have the long-view intelligence to see how the future can be shaped.
+
+Ermerus does.
+
+Ilunis is the hand.
+
+Ermerus is the whisper.
+
+Ermerus can turn Ilunis's emotional fuel into action by pressing the correct wound.
+
+He does not need to command Ilunis directly. He only needs to make Ilunis believe that killing the founder is justice, necessity, or the only way to avoid being erased by history.
+
+### Relationship To Viriatus
+
 To be developed.
 
-### Emotional Cause
+Current direction:
 
-To be defined.
+Ermerus may see Viriatus less as a brother and more as a dangerous symbol.
 
-### Possible Historical Path
+Viriatus threatens the family's balance because people may begin to see him as greater than the family that raised him.
 
-Ermerus may become the line of law, civic identity, formal order, and administrative power.
+Ermerus understands that symbols can move people. This makes him one of the first to understand how dangerous Viriatus can become.
 
-This line could shape how people are recognized, recorded, ranked, and made legible to the state.
+### Counterweight
+
+Ermerus controls people, but cannot control the legacy created by his own lack of discipline.
+
+He has bastard sons.
+
+This creates disputed bloodlines and status conflict that escalates through later generations.
+
+His gift is making people align around him.
+
+His legacy becomes people fighting over whether they belong to him.
+
+This is the irony of Ermerus:
+
+> He spends life controlling how people feel and align.  
+> His death leaves a lineage that cannot align itself.
+
+### Historical Path
+
+Ermerus's descendants become obsessed with legitimacy, reputation, marriage, names, inheritance claims, official recognition, and public image.
+
+They become masters of narrative because they were born from a narrative problem:
+
+> Which children count?
+
+This line may eventually control diplomacy, public memory, ceremonies, education, status claims, propaganda, and the official interpretation of history.
+
+They control perception because their own bloodline was always vulnerable to perception.
 
 ### Key Question
 
-What did Ermerus experience that made control through structure feel necessary?
+How does Ermerus turn charm into influence, and influence into generations of legitimacy conflict?
 
 ---
 
@@ -111,19 +208,44 @@ Because he is protected from too much of the world, he becomes shy, socially awk
 
 This causes him to lose much of the inherited social power expected of him.
 
-### Emotional Cause
+He is also shaped by family pressure and abuse. The expectation placed on him is larger than the person he is allowed to become.
 
-Rutare's wound is inadequacy.
+### Emotional Imbalance
+
+Rutare's imbalance is too much protection and too much pressure.
 
 He is supposed to inherit authority, but does not feel able to hold it in the open.
 
-Because of this, his line may eventually seek forms of power that do not require charisma: records, procedure, inheritance systems, bureaucratic legitimacy, or hidden control.
+He learns that direct presence is dangerous because it exposes weakness.
 
-### Possible Historical Path
+Because of this, his line eventually seeks forms of power that do not require charisma: records, procedure, inheritance systems, bureaucratic legitimacy, permissions, and hidden control.
 
-Rutare may become a line that turns weakness into structure.
+### Historical Path
 
-If he cannot rule through presence, his descendants may learn to rule through systems.
+Rutare becomes the line that turns weakness into structure.
+
+If he cannot rule through presence, his descendants learn to rule through systems.
+
+His dynasty eventually controls general government.
+
+Their function is to make sure the wishes of the dynastic powers flow into society as law, procedure, civic order, and daily administration.
+
+Rutare does not become the loud ruler.
+
+His line becomes the mechanism that lets other rulers rule.
+
+### Modern System
+
+Rutare's descendants may control:
+
+- general government
+- administration
+- civic records
+- identity status
+- legal procedure
+- public offices
+- implementation of dynastic policy
+- the practical spread of Regulatus into daily life
 
 ### Key Question
 
@@ -143,25 +265,54 @@ Because of that, his father uses him extensively.
 
 He is sent into battle, shaped by expectation, and eventually maimed.
 
-### Emotional Cause
+Ilunis becomes the betrayer.
 
-Ilunis's wound is exploitation.
+He is the one whose jealousy, anger, and exploitation lead him to kill the displaced founder.
+
+### Emotional Imbalance
+
+Ilunis's imbalance is too much usefulness and too much violence.
 
 He is useful because he is strong, and that usefulness costs him his body.
 
 This creates jealousy and anger toward the displaced founder, especially if the founder is loved, mythologized, or seen as destined for rule while Ilunis is treated as a tool.
 
-This becomes the emotional cause for Ilunis to betray and kill the adopted son.
+His wound is not only ambition.
 
-### Possible Historical Path
+It is the belief that being used should entitle him to authority.
 
-Ilunis may become the line of force, military legitimacy, sacrifice, and sanctioned violence.
+### Historical Path
 
-His descendants may justify power through protection, battle, discipline, and the idea that some bodies must be spent to preserve the whole.
+Ilunis becomes the line of law, authority, judgment, military legitimacy, and sanctioned violence.
+
+His descendants turn betrayal into order.
+
+They justify force as protection, judgment as stability, and punishment as duty.
+
+They become the family most associated with judges, military generals, and the forces that fight rebels.
+
+They stand near the top of the hierarchy and appear to possess immense power.
+
+But they are also one of the most fragile lines because internal family disputes constantly threaten them.
+
+Their power is loud, visible, and feared, but it is unstable from the inside.
+
+### Modern System
+
+Ilunis's descendants may control:
+
+- courts
+- judges
+- military command
+- rebel suppression
+- public punishment
+- emergency authority
+- state violence justified as protection
+- legal legitimacy for dynastic decisions
 
 ### Key Question
 
-How does Ilunis turn being used into a doctrine of necessary sacrifice?
+How does Ilunis turn being used into a doctrine of necessary sacrifice, authority, and punishment?
 
 ---
 
@@ -169,21 +320,91 @@ How does Ilunis turn being used into a doctrine of necessary sacrifice?
 
 ### Current Concept
 
-To be developed.
+Teresta follows a different path from the others.
 
-### Emotional Cause
+She is determined to learn.
 
-To be defined.
+She is academic, distant, and spends most of her time reading.
 
-### Possible Historical Path
+Her value is not immediately visible to a family that expects useful heirs, political leverage, military strength, or direct continuation.
 
-Teresta may become the line of preservation, bodies, medicine, inheritance, and augmentation.
+This leads to her branch being seen as weak, especially when her line only produces daughters.
 
-This line could eventually lead toward Erit and the Devaar family.
+Over time, this becomes part of the branch's identity: a daughter-line dismissed as having a name, but nothing to show for it.
+
+### Emotional Imbalance
+
+Teresta's imbalance is too much mind and too much distance.
+
+Her wound is rejection.
+
+After her first daughter is born, she is cast out by the family as a useless asset.
+
+She is treated as a branch with no meaningful return.
+
+Her knowledge does not yet look like power, so the family fails to value it.
+
+This creates a long delayed path: Teresta's line does not rise immediately. It takes generations for the wound to become useful.
+
+### Historical Path
+
+Two generations later, one of the women in Teresta's line marries and establishes medical research.
+
+This becomes the first real return of the branch.
+
+The line begins developing human augmentation and medical systems that can change the body, preserve it, identify it, and make it dependent on controlled treatment.
+
+Teresta's rejected knowledge eventually becomes bodily power.
+
+Her descendants learn that medicine can return them to the ruling structure.
+
+### Pact With Ilunis
+
+Teresta's line eventually makes a pact with the Ilunis dynasty.
+
+If Teresta's descendants can create a way for all people to be chipped, they can become part of the ruling system again.
+
+Ilunis provides authority, enforcement, law, military pressure, and legitimacy.
+
+Teresta provides medicine, research, cure, augmentation, and the bodily mechanism of control.
+
+Together, they create a crisis that forces adoption.
+
+### Virus And Cure
+
+Teresta's line releases a virus and then presents the cure.
+
+The virus disappears soon after, but the cure introduces or requires the chip system.
+
+Once people are chipped, the emergency ends, but the infrastructure remains.
+
+This turns a temporary medical crisis into permanent bodily governance.
+
+The public story is survival.
+
+The hidden result is mass identification and control.
+
+### Modern System
+
+Teresta's descendants may control:
+
+- medical research
+- augmentation
+- preservation
+- chip systems
+- clinics
+- bodily identification
+- treatment access
+- dependency through medicine
+- the technical side of mass control
+
+This line eventually leads toward Erit and the Devaar family.
+
+That means Erit's family power is rooted in a rejected daughter-line that returned to authority by turning medicine into necessity.
 
 ### Key Question
 
-What did Teresta inherit from the founder's wound and turn into bodily power?
+How does Teresta turn rejection into medicine, and medicine into dependency?
 
 ---
 
