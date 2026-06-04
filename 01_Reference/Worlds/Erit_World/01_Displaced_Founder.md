@@ -18,7 +18,9 @@ He is in his early teens.
 
 He comes from a far more advanced human civilization, but the people who find him do not understand displacement. They interpret him through the beliefs, fears, and power structures of their own time.
 
-Over time, he becomes the person whose presence pushes Rome away from the history we know and toward the world that eventually produces Erit, the Devaar family, augmentation, preservation, and the dynastic order.
+Over time, he becomes the person whose presence pushes Rome away from the history we know and toward the world that eventually produces Erit, the Devaar family, augmentation, preservation, Regulatus, and the dynastic order.
+
+He becomes the ruler who never ruled, but created the nation.
 
 ---
 
@@ -88,6 +90,8 @@ Children are developed in artificial wombs rather than carried through natural p
 
 He cannot conceive.
 
+Only the family that takes him in knows this. Publicly, this is not part of his myth.
+
 After arriving in Rome, he is taught language, reading, writing, culture, household life, love, and legacy.
 
 Rome gives him a dream his origin world had already broken:
@@ -145,24 +149,62 @@ His release is not a single outburst. It becomes political, dynastic, and histor
 
 ---
 
-## The Dynasty Plot
+## The Dynastic Lines
 
-The founder does not create the five dynasties through his own children.
+The founder does not create the dynastic lines through his own children.
 
 He cannot conceive.
 
-The five dynasties come from the wealthy family that took him in and used him.
+The founding lines come from the wealthy family that took him in and used him.
 
-That family branches into five major lines:
+That family branches into four major lines:
 
-- four sons
-- one daughter
+- **Ermerus**
+- **Rutare**
+- **Ilunis**
+- **Teresta**
 
-These lines become the foundation of the later dynastic order.
+Together, their first letters form **ERIT**.
 
-The daughter's line eventually leads to Erit and the Devaar family many years later.
+This makes Erit's name a hidden bridge to the four founding lines of the world she inherits.
+
+**Erit** also carries the sense of **will be / shall be**, mirroring **Será** in Portuguese, which also means **will be**.
+
+That means Sera and Erit are structurally connected through becoming, future state, and what something will become.
+
+The dynastic bridge does not need to be explained directly in the main story. It can remain a hidden structure for readers or players who later discover the deeper world logic.
 
 This keeps the founder's tragedy intact. He wants family and legacy, but becomes the tool another family uses to create theirs.
+
+---
+
+## Betrayal and Death
+
+The founder is eventually killed by one of the sons of the family that took him in.
+
+By this point, people have begun to see the founder as more than a useful figure.
+
+Some see him as the one who should become emperor.
+
+Some see him as divine authority.
+
+Some see him as the living proof that Rome's future belongs to something beyond ordinary bloodlines.
+
+To the family, this makes him dangerous.
+
+They used him to build their future, but now he threatens to become greater than them.
+
+One of the sons kills him and justifies the death through battle.
+
+Publicly, the death can be framed as sacrifice, military necessity, heroic loss, or the tragic cost of Rome's future.
+
+Privately, it is removal.
+
+The family preserves his image because his myth is useful, but they remove the man because his existence threatens their control.
+
+This is why the statue matters.
+
+The statue turns him into symbol after the family has taken away his agency.
 
 ---
 
