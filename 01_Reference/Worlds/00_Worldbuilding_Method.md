@@ -95,23 +95,26 @@ That is too broad by itself.
 
 The stronger foundation is a character who makes that divergence believable.
 
-A major historical figure in Erit's world was displaced from a far more advanced human civilization. He was still human, but came from a society alien in development, knowledge, and assumptions.
+A major historical figure in Erit's world was displaced into Roman history as a child.
 
-His displacement gave him perspective Rome should not have had.
+He comes from a far more advanced human civilization, but the people who find him do not understand displacement. They interpret him through the beliefs, fears, and power structures of their own time.
 
-He did not need to bring complete technology with him. Concepts were enough:
+His importance is not that he arrives with a complete plan for Rome's future.
 
-- how empires collapse
-- how systems preserve power
-- how transport changes control
-- how medicine changes society
-- how identity can be recorded and governed
-- how inherited knowledge can outlast individuals
-- how spectacle can unify public belief
+His importance is that his presence changes how people act around him.
 
-Because of that, he could redirect Rome's future in a way a normal emperor could not.
+The foundation comes from what happens because he exists:
 
-He becomes the historical hinge that makes the later world possible.
+- Servan witness the light fall and find him afterward.
+- The Servan are punished when their story is not believed.
+- The child reacts with extreme survival force, which later becomes part of his myth.
+- A wealthy Roman family takes him in, protects him, teaches him, trains him, and uses him.
+- Rome teaches him hierarchy, language, family, household, love, and legacy.
+- His origin wound makes family, children, blood, memory, and continuation emotionally important.
+- He cannot create his own bloodline, so the dynastic lines come from the family that used him.
+- After his death, his image remains useful while his agency is gone.
+
+He becomes the historical hinge because Rome changes around his displacement, myth, use, betrayal, and preservation as a symbol.
 
 ---
 
@@ -131,7 +134,7 @@ He is a child taken from a sterile, advanced civilization where fertility was go
 
 His tragedy is that the world that raises him gives him a dream his origin may not allow him to fulfill.
 
-That wound can later echo through the civilization he helps create: inheritance, dynasties, preservation, order, continuity, and the need to make something last beyond the individual.
+That wound can later echo through the civilization built around his image: inheritance, dynasties, preservation, order, continuity, and the need to make something last beyond the individual.
 
 The method is not to make lore clever.
 
