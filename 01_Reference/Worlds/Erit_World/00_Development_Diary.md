@@ -22,6 +22,22 @@ This should read like a design trail, not a finished encyclopedia.
 
 ## 04/06/2026
 
+Today was the first day I stepped away from further developing the main story of Fragments and began building a supportive world structure around it.
+
+The reason was to test whether I could build the kind of structure a narrative designer needs, even when that structure is not fully visible in the main story.
+
+This is an exercise in imagination and logic: taking details that already exist in Fragments, asking why they matter, and seeing whether they can connect into a deeper world without damaging the story itself.
+
+The goal is not to explain everything to the reader.
+
+The goal is to build enough foundation that the experience feels intentional when the pieces connect.
+
+This connects to the three rules I found through Fragments:
+
+- **Treasure Map** — the visible trail the reader or player notices first.
+- **Key** — the later realization that changes what the trail means.
+- **Treasure** — the satisfaction of realizing that the details were building toward something larger.
+
 Today I started developing Erit's world as its own worldbuilding layer.
 
 The goal was not to turn Fragments into a generic RPG or quest structure. Fragments remains the experimental story. Erit's world can become a design space that shows worldbuilding depth, systems thinking, and later branching or quest potential.
