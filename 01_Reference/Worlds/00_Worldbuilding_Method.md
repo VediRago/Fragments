@@ -28,6 +28,33 @@ The stronger approach is to build from cause to consequence.
 
 ---
 
+## Step 0 — Story First, Systems After
+
+The story comes first.
+
+The rules should not trap the story before the emotional shape is discovered.
+
+Fragments began as story, feeling, structure, and recurring details. The systems were built afterward by looking at what the story kept returning to and asking why those details mattered.
+
+This creates a different kind of worldbuilding process:
+
+1. Write or discover the story pressure.
+2. Notice what repeats.
+3. Pull those details out.
+4. Build foundations underneath them.
+5. Keep the systems that strengthen the story.
+6. Let the world expand sideways only where it does not damage the core.
+
+This gives more leverage than building every rule first.
+
+If all rules come before the story, the story can become trapped inside worldbuilding. If the story comes first, the systems can be built to support what already matters.
+
+The method is not rule-first.
+
+It is story-first, then structure, then world systems.
+
+---
+
 ## Step 1 — Naming and Language Drift
 
 The first step in building Erit's world was naming.
