@@ -90,6 +90,43 @@ It should begin with the chain of necessity that makes existing story details fe
 
 ---
 
+## Shaping the World Away From Rome
+
+After the first fit map, the next question was how to stop the world from feeling like simple Roman inspiration.
+
+The answer was to use a detail that already belongs to Fragments: displacement.
+
+The world should not only be:
+
+> Rome, but different.
+
+It should be:
+
+> Rome changed because something impossible entered it.
+
+This creates a stronger foundation.
+
+A displaced child arriving from the heavens gives the world a reason to move away from our Roman history. The Romans would not understand displacement as science. They would turn it into myth, religion, prophecy, politics, and divine legitimacy.
+
+That allows the world to build a mythos of gods and deities without separating it from the main structure of Fragments.
+
+The same idea supports multiple layers at once:
+
+- it explains why Erit's world diverges from our history
+- it reinforces that displacement happens across the structure of Fragments
+- it gives the Roman-derived world a mythic foundation
+- it turns a background statue into a meaningful treasure map
+- it creates a tragic founder character instead of a generic conqueror
+- it gives later systems a human wound underneath them
+
+This is stronger than adding Roman aesthetics alone.
+
+The world is shaped by a story event, not decoration.
+
+The displaced child becomes the key that lets the world move away from direct Roman history while still keeping Roman roots visible.
+
+---
+
 ## Built Today
 
 ### Naming and Language Drift
