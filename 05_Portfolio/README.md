@@ -39,7 +39,15 @@ The main question behind this part of the portfolio is:
 
 **How can lore become a system that creates pressure, conflict, choices, and consequences instead of remaining background information?**
 
+This track is divided into three useful parts:
+
+- **World Logic** — the rules, limits, causes, and constraints that make the setting coherent.
+- **Findings** — the design discoveries that appeared while building the world, such as how emotional wounds become dynasties or how ideology shapes NPC behavior.
+- **Quest / Game-Facing Use** — examples of how those systems create player-facing conflict, routes, and consequences.
+
 Start here if you want to see how the worldbuilding can support game-facing design.
+
+### World Logic
 
 1. [Worldbuilding Method](../01_Reference/Worlds/00_Worldbuilding_Method.md)  
    Explains the method: story pressure first, systems after; every unusual idea needs a foundation, every power needs a limit, and every exception needs a cost.
@@ -47,17 +55,21 @@ Start here if you want to see how the worldbuilding can support game-facing desi
 2. [Three Rules — Treasure Map, Key, Treasure](../01_Reference/Worlds/03_Rules.md)  
    Defines the discovery/payoff structure used to make world details meaningful instead of decorative.
 
+### Findings
+
 3. [Erit World Development Diary](../01_Reference/Worlds/Erit_World/00_Development_Diary.md)  
    Shows the design trail behind Erit's world: what was built, why details mattered, what they connected to, and what had to stay constrained.
 
 4. [Founding Lines](../01_Reference/Worlds/Erit_World/04_Founding_Lines.md)  
    Builds the dynastic lines through emotional cause and consequence: experience → emotional wound → behavior → historical path → modern system.
 
-5. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
-   Shows how the world systems naturally generate a quest seed, possible approaches, and consequences.
-
-6. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
+5. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
    Shows how ideology and social pressure can shape NPC behavior instead of treating NPCs as isolated quest functions.
+
+### Quest / Game-Facing Use
+
+6. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
+   Shows how the world systems naturally generate a quest seed, possible approaches, and consequences.
 
 ---
 
@@ -85,7 +97,7 @@ Character files, act structure, and prose excerpts that support the portfolio ma
 
 ### World Design Layer
 
-Worldbuilding method, Erit's world files, founding lines, quest seeds, NPC behavior models, and system notes that show how worldbuilding can become design pressure.
+World logic, findings, quest seeds, NPC behavior models, and system notes that show how worldbuilding can become design pressure.
 
 ### Reference Layer
 
