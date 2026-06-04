@@ -10,6 +10,10 @@ My main interest is narrative design, especially character-driven stories, struc
 
 It began as a personal writing project and became a way for me to practice narrative design, organize complex story material, and understand how scenes, structure, and emotion can work together.
 
+What drew me toward narrative design was not only that I enjoy games, although I do. It was discovering how much joy I find in building systems where ideas connect: world details, character behavior, history, structure, and emotional payoff all supporting each other until the setting feels real rather than decorative.
+
+Fragments helped me understand that I am not only interested in lore as background information. I am interested in lore as a system: something that gains meaning when it is tied to discovery, consequence, and payoff. The pleasure for me comes from making separate pieces fit together in a reasonable way when viewed from a distance.
+
 ## What I Am Looking For
 
 My goal is to enter the game industry and learn from experienced development teams.
