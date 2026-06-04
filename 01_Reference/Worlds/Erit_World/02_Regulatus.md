@@ -28,6 +28,33 @@ The danger is that Regulatus makes obedience feel like pride.
 
 ---
 
+## Core Theme
+
+The core theme of Regulatus is:
+
+> Pride being used to create oppression.
+
+Regulatus does not only push people down.
+
+It teaches people to feel proud of accepting the shape built for them.
+
+That is why it spreads so easily.
+
+From the inside, it does not feel like oppression.
+
+It feels like:
+
+> I am proud.  
+> I belong.  
+> My family matters.  
+> My suffering has meaning.  
+> My obedience protects everyone.  
+> I am worthy because I accept my place.
+
+Fear can control behavior, but pride controls identity.
+
+---
+
 ## Origin
 
 The displaced founder becomes the first stone of the empire that would one day teach the world to live by Regulatus.
@@ -59,6 +86,40 @@ It tells people:
 People can feel proud to say they live by Regulatus.
 
 That pride is part of how the system survives.
+
+---
+
+## Emotional Control
+
+Regulatus controls masses through what impacts humans most: feeling.
+
+It does not only say:
+
+> Obey because the law demands it.
+
+It teaches:
+
+> Obey because it makes you worthy.  
+> Obey because your family will be proud.  
+> Obey because gratitude proves maturity.  
+> Obey because the nation protects you.  
+> Obey because without order, everyone suffers.
+
+This turns emotional needs into control tools:
+
+- belonging
+- pride
+- shame
+- gratitude
+- fear
+- family honor
+- purpose
+- safety
+- identity
+
+Regulatus is powerful because it does not only control what people do.
+
+It shapes what people feel about what they do.
 
 ---
 
