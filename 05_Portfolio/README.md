@@ -49,7 +49,15 @@ That means the world does not begin with maps, cities, or random facts.
 
 It begins with a displaced child whose existence creates pressure around him: how people find him, interpret him, mythologize him, fear him, and build meaning from him.
 
-The later family lines, systems, quests, and NPC models are early work built around that direction. They are not presented as finished world canon yet.
+The other files in this section are not meant to present a finished world yet.
+
+They are examples of how I think through characters and worldbuilding:
+
+- why a person behaves a certain way
+- how a wound or imbalance can become history
+- how a family or group can turn behavior into a system
+- how belief can make control feel normal
+- how world pressure can create quests, choices, and consequences
 
 This part is divided into three simple sections:
 
@@ -71,7 +79,7 @@ Start here if you want to see how the worldbuilding works.
    Defines Viriatus as the displaced child who becomes the first stone of Erit's world.
 
 4. [Regulatus](../01_Reference/Worlds/Erit_World/02_Regulatus.md)  
-   Records the early idea of a way of life built around order, gratitude, usefulness, loyalty, discipline, and pride.
+   Shows early thinking about belief, pride, order, gratitude, usefulness, loyalty, and discipline.
 
 ### Findings
 
@@ -79,10 +87,10 @@ Start here if you want to see how the worldbuilding works.
    Shows what was built, why it mattered, what it connected to, and what had to stay limited.
 
 6. [Founding Lines](../01_Reference/Worlds/Erit_World/04_Founding_Lines.md)  
-   Records the early work on the family lines connected to the founder's legacy.
+   Shows early reasoning about how character imbalance can become family pattern, history, and modern systems.
 
 7. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
-   Shows an early method for thinking about how people in the world may speak, react, obey, resist, or justify what they do.
+   Shows early reasoning about how people may speak, react, obey, resist, or justify what they do based on pressure and emotional history.
 
 ### Quest Examples
 
@@ -108,7 +116,7 @@ It should connect to something:
 
 The goal is not to build endless lore.
 
-The goal is to build a world where old wounds can become modern pressure.
+The goal is to show the reasoning and logic behind a world where old wounds can become modern pressure.
 
 ---
 
@@ -120,7 +128,7 @@ If you are reading for **worldbuilding**, start with Part 2.
 
 The prose samples are included to show the writing itself, not to explain the whole story.
 
-The worldbuilding files are included to show how lore, people, history, pressure, and consequence can connect into a world that creates conflict naturally.
+The worldbuilding files are included to show how I think about lore, people, history, pressure, consequence, characters, and conflict.
 
 ---
 
