@@ -52,6 +52,44 @@ So the method became:
 
 ---
 
+## First Question — How Do I Make It All Fit?
+
+The first practical question was not how to add more lore.
+
+It was:
+
+> How do I make it all fit?
+
+The answer was to build a fit map from existing story details instead of inventing disconnected systems.
+
+The chain begins with what already exists in Fragments:
+
+- Sera sees a statue.
+- Erit belongs to the Devaar family.
+- The Devaar family has inherited power.
+- Augmentation and preservation matter.
+- Sera is vulnerable because of identification.
+- Displacement exists, but must remain mysterious.
+
+The fit map became:
+
+> Sera sees statue  
+> → statue belongs to displaced child / founder figure  
+> → founder reshaped Rome through the Regulatus Way  
+> → Regulatus Way created a long-term obsession with order, continuity, inheritance, and controlled development  
+> → that produced dynasties  
+> → Devaar became one of the dominant dynasties through augmentation and preservation knowledge  
+> → Erit exists inside that inherited system  
+> → Sera and Kael entering that world creates conflict with identity, medicine, power, and trust
+
+This is the first support chain for Erit's world.
+
+The world should not begin with cities, maps, or random lore.
+
+It should begin with the chain of necessity that makes existing story details feel inevitable.
+
+---
+
 ## Built Today
 
 ### Naming and Language Drift
