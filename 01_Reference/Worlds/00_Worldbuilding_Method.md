@@ -88,7 +88,31 @@ He becomes the historical hinge that makes the later world possible.
 
 ---
 
-## Step 3 — Keep Connections Useful, Not Explanatory
+## Step 3 — Give Systems a Human Treasure
+
+Every major system should have something underneath it that can be understood later.
+
+The surface may look political, technological, or historical, but there should be a human reason beneath it.
+
+This creates the treasure: the moment where someone can look back and say:
+
+> I get it now. It was not random. It came from somewhere.
+
+For Erit's world, the displaced historical figure is not only a founder or reformer.
+
+He is a child taken from a sterile, advanced civilization where fertility was gone and children were made through systems such as Genitoriums. Rome teaches him language, family, household, love, legacy, and the desire for children as life continuing through people rather than facilities.
+
+His tragedy is that the world that raises him gives him a dream his origin may not allow him to fulfill.
+
+That wound can later echo through the civilization he helps create: inheritance, dynasties, preservation, order, continuity, and the need to make something last beyond the individual.
+
+The method is not to make lore clever.
+
+The method is to make systems emotionally readable when the foundation is finally understood.
+
+---
+
+## Step 4 — Keep Connections Useful, Not Explanatory
 
 The displaced historical figure can reinforce that displacement has happened before, but he should not explain Fragments.
 
@@ -108,7 +132,7 @@ Constraint:
 
 ---
 
-## Step 4 — Systems Create Conflict
+## Step 5 — Systems Create Conflict
 
 Worldbuilding should create pressure before any quest or scene begins.
 
@@ -139,7 +163,7 @@ The world should make these conflicts feel inevitable.
 
 ---
 
-## Step 5 — Separate Files When Ideas Branch
+## Step 6 — Separate Files When Ideas Branch
 
 Worldbuilding often loops back into character mechanics.
 
