@@ -75,10 +75,10 @@ The fit map became:
 
 > Sera sees statue  
 > → statue belongs to displaced child / founder figure  
-> → founder reshaped Rome through the Regulatus Way  
-> → Regulatus Way created a long-term obsession with order, continuity, inheritance, and controlled development  
-> → that produced dynasties  
-> → Devaar became one of the dominant dynasties through augmentation and preservation knowledge  
+> → founder reshaped Rome through Regulatus  
+> → Regulatus created a long-term obsession with order, continuity, inheritance, and controlled development  
+> → that produced dynastic lines  
+> → Devaar eventually grows from one of those lines through augmentation and preservation knowledge  
 > → Erit exists inside that inherited system  
 > → Sera and Kael entering that world creates conflict with identity, medicine, power, and trust
 
@@ -124,6 +124,96 @@ This is stronger than adding Roman aesthetics alone.
 The world is shaped by a story event, not decoration.
 
 The displaced child becomes the key that lets the world move away from direct Roman history while still keeping Roman roots visible.
+
+---
+
+## Building A Founder Instead Of Abstract History
+
+The world first needed a person, not a map.
+
+The displaced child became the foundation node for the whole world.
+
+He is found by Servan rather than nobles, which grounds the myth in social hierarchy. The Servan are punished for claiming he fell from the sky, and the child reacts with an extreme survival response that later becomes mythologized as divine force.
+
+This gave the founder several layers:
+
+- mythic surface
+- biological explanation
+- social trauma
+- first lesson in hierarchy
+- desire for family and legacy
+- inability to conceive
+- exploitation by the family that takes him in
+- eventual removal when he becomes too dangerous
+
+He becomes the ruler who never ruled, but created the nation.
+
+This also explains why the statue matters. The statue is not only honor. It is the founder turned into symbol after his agency is taken away.
+
+---
+
+## Regulatus As Emotional Control
+
+Today Regulatus became clearer.
+
+It is not only law, religion, or government policy.
+
+It is a method of life.
+
+Its central theme is:
+
+> Pride being used to create oppression.
+
+Regulatus controls masses through what impacts humans most: feeling.
+
+It teaches people that obedience means worth, gratitude means maturity, and accepting their place means protecting the whole.
+
+That is why people adopt it so easily.
+
+From the inside, it does not feel like oppression.
+
+It feels like pride, belonging, family honor, safety, purpose, and identity.
+
+This makes Regulatus useful for writing NPC behavior because characters shaped by it do not need to be invented from nothing. Their speech and choices can come from the system they were raised inside.
+
+---
+
+## Founding Lines As Emotional Paths
+
+Today the dynastic structure changed from abstract houses into four founding lines.
+
+The names became:
+
+- Ermerus
+- Rutare
+- Ilunis
+- Teresta
+
+Their first letters form **ERIT**.
+
+This means Erit's name becomes a hidden bridge to the oldest dynastic structure of the world.
+
+The name also connects to Sera because **Erit** carries the sense of **will be / shall be**, while **Será** in Portuguese also means **will be**.
+
+So Sera and Erit are both connected to becoming, future state, and what something will become.
+
+The important design discovery was that these lines should not be created as political departments first.
+
+They need causes.
+
+The method became:
+
+> experience → emotional wound → behavior → historical path → modern system
+
+This means each line begins with a person and an emotional wound. Over generations, that wound becomes a family pattern, then a symbol, then a historical path, and finally one of the systems that shapes the current world.
+
+Example:
+
+Rutare is the eldest and most sheltered. Because he is protected from too much of the world, he becomes shy, socially awkward, and unable to command people naturally. That wound can later shape a line that seeks power through systems instead of presence.
+
+Ilunis is the second son, strong and determined, but heavily used by his father and maimed in battle. That exploitation creates jealousy and anger, becoming the emotional cause for his betrayal of the adopted son.
+
+This turns dynasties into character consequences rather than static lore.
 
 ---
 
@@ -183,7 +273,7 @@ I found the emotional reason underneath the system.
 
 The displaced child comes from a civilization where natural fertility has been lost.
 
-Children are made through systems such as Genitoriums instead of ordinary family birth.
+Children are developed in artificial wombs rather than carried through natural pregnancy.
 
 Rome gives him something his origin world did not:
 
@@ -194,7 +284,7 @@ Rome gives him something his origin world did not:
 - legacy
 - the dream of children as life continuing through people
 
-His tragedy is that the world that raises him gives him a dream his origin may not allow him to fulfill.
+His tragedy is that the world that raises him gives him a dream his origin cannot allow him to fulfill.
 
 This becomes the human wound underneath the later world.
 
@@ -214,6 +304,10 @@ Augmentation fits naturally because this world has centuries of systems built ar
 
 Displacement can appear in the world's history, but only as rare, incomplete evidence.
 
+Regulatus explains NPC behavior because it shapes pride, gratitude, shame, belonging, and obedience.
+
+The founding lines create a bridge to Erit through their initials and to Sera through the idea of becoming.
+
 This allows Erit's world to connect to Fragments without explaining Fragments.
 
 ---
@@ -232,6 +326,12 @@ So the rule is:
 
 The historical figure can reinforce that displacement happens, but he cannot explain Unity or replace the core Fragments characters.
 
+Another constraint:
+
+> Build only what creates story pressure, character behavior, social conflict, or player-facing choices.
+
+This prevents the worldbuilding from expanding into details that do not affect the experience.
+
 ---
 
 ## Priorities For Next Passes
@@ -244,7 +344,7 @@ Important distinction:
 
 Imperion should name Erit's Roman-derived political world, not necessarily the entire shared world-line of Lucreta, Sera, Erit, and the hospital girl.
 
-### 2. Define the displaced historical figure
+### 2. Continue the displaced founder
 
 Develop the child from the sky as a character:
 
@@ -256,25 +356,27 @@ Develop the child from the sky as a character:
 - why people believe he is divine
 - how his personal wound shapes later systems
 
-### 3. Define the Regulatus Way
+### 3. Continue Regulatus
 
-Develop the doctrine that grows around him.
+Regulatus should explain how pride, gratitude, hierarchy, and emotional control become teachable across society.
 
-This should explain how his ideas become teachable, political, and eventually institutional.
-
-The doctrine should support order, continuity, hierarchy, legacy, and controlled development without becoming a full explanation of Fragments.
+It should support order, continuity, hierarchy, legacy, and controlled development without becoming a full explanation of Fragments.
 
 ### 4. Create the common names file
 
 Create a glossary for evolved Roman-derived terms.
 
-This file should include terms like Civel, Ludanis, Servan, Patren, Doma, Colossia, Legian, Senat, Imperion, and Genitorium.
+This file should include terms like Civel, Ludanis, Servan, Patren, Doma, Colossia, Legian, Senat, Imperion, and artificial womb.
 
-### 5. Build the Seven Dynasties
+### 5. Build the four founding lines
 
-Define the Seven Dynasties and identify which three dominate the world in practice.
+Define Ermerus, Rutare, Ilunis, and Teresta through emotional causes rather than abstract political roles.
 
-Devaar should be one of the three dominant houses because of augmentation and preservation knowledge.
+Each line should follow:
+
+> experience → emotional wound → behavior → historical path → modern system
+
+Teresta should probably connect toward Erit and the Devaar family.
 
 ### 6. Build systems only when they matter
 
@@ -310,6 +412,7 @@ The world can generate conflicts naturally:
 - dynastic politics
 - unregistered people
 - illegal treatment networks
+- rebels who see Regulatus as oppression
 
 The point is not to make quests first.
 
