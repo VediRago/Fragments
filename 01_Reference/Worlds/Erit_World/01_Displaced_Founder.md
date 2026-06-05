@@ -2,23 +2,27 @@
 
 ## Status
 
-Name not final.
+The founder's official mythic name is **Viriatus**.
 
-This file defines the displaced child who becomes the historical hinge of Erit's world.
+The name was chosen deliberately. It carries an echo of resistance, but in Erit's world that echo is inverted: House Ventari uses him to build the very order he might otherwise have resisted.
 
-He is not part of the main emotional cast of Fragments, and he should not explain Unity. His purpose is to make Erit's world feel like it has a foundation that grows from the same structural logic as Fragments.
+Earlier layers of the world may remember him only as the unnamed founder, the sacred death, or the statue figure. The name Viriatus becomes the later official mythic name attached to his image, death, and legacy.
 
 ---
 
 ## Core Role
 
-The displaced founder is a human child who arrives in Roman history after a light crashes from the heavens.
+Viriatus is the displaced human child who becomes the historical hinge of Erit's world.
+
+He is not part of the main emotional cast of Fragments, and he should not explain Unity. His purpose is to make Erit's world feel like it has a foundation that grows from the same structural logic as Fragments without revealing the deeper cosmology.
+
+He arrives in Roman history after a light crashes from the heavens.
 
 He is in his early teens.
 
-He comes from a far more advanced human civilization, but the people who find him do not understand displacement. They interpret him through the beliefs, fears, and power structures of their own time.
+He comes from a far more advanced human civilization, but the people who first encounter him do not understand displacement. They interpret him through the beliefs, fears, and power structures of their own time.
 
-Over time, he becomes the person whose presence pushes Rome away from the history we know and toward the world that eventually produces Erit, the Devaar family, augmentation, preservation, Regulatus, and the dynastic order.
+Over time, his presence pushes Rome away from the history we know and toward the world that eventually produces Erit, the Devaar family, augmentation, preservation, Regulatus, House Ventari, and the Empiran order.
 
 He becomes the ruler who never ruled, but created the nation.
 
@@ -26,7 +30,7 @@ He becomes the ruler who never ruled, but created the nation.
 
 ## First Discovery
 
-He is not first found by senators, priests, or generals.
+He is not first found by senators, priests, generals, or House Ventari.
 
 He is found by Servan.
 
@@ -46,11 +50,13 @@ He pushes a guard away with a force far beyond what anyone expects. The guard cr
 
 This becomes one of the first stories later used to mythologize him.
 
+The witnesses who understand too much later become dangerous because their version of events could challenge House Ventari's control over the story.
+
 ---
 
 ## Biological Explanation
 
-The founder does not have simple superpowers.
+Viriatus does not have simple superpowers.
 
 His body comes from a harsher survival reality where humans were always on edge. Their stress response developed differently.
 
@@ -90,7 +96,7 @@ Children are developed in artificial wombs rather than carried through natural p
 
 He cannot conceive.
 
-Only the family that takes him in knows this. Publicly, this is not part of his myth.
+Only House Ventari knows this. Publicly, this is not part of his myth.
 
 After arriving in Rome, he is taught language, reading, writing, culture, household life, love, and legacy.
 
@@ -105,25 +111,39 @@ This wound becomes one of the deepest roots of the world he later helps create.
 
 ---
 
-## The Family That Takes Him In
+## House Ventari
 
-The founder is taken in by a wealthy Roman family.
+Viriatus is taken in by **House Ventari**, a powerful Roman family.
 
 They protect him, teach him, train him, and use him.
 
-This relationship should remain complicated. They may give him shelter, language, education, and a sense of belonging, but they also understand that his existence can become power.
+This relationship should remain complicated. They give him shelter, language, education, discipline, and a sense of belonging, but they also understand that his existence can become power.
 
 They do not simply adopt a lost child.
 
 They turn him into a future.
 
-The family's ambition becomes one of the reasons his personal wound expands into world history.
+House Ventari hides the truth of his arrival because the truth would make him contestable.
+
+If others knew he simply fell from the heavens and was claimed, rival houses, priests, generals, common people, or military factions could argue that he belonged to them, to Rome, to the gods, or to no family at all.
+
+So House Ventari hides the arrival and sells the transformation.
+
+They do not say:
+
+> We found him.
+
+They say, through history and doctrine:
+
+> We formed him.
+
+Their ambition becomes one of the reasons his personal wound expands into world history.
 
 ---
 
 ## Slow Decline Toward Ruthlessness
 
-The founder does not begin as a monster.
+Viriatus does not begin as a monster.
 
 He begins as a displaced child trying to survive.
 
@@ -137,7 +157,7 @@ Over time, several pressures build:
 - the realization that power can protect what truth cannot
 - the belief that systems can prevent collapse
 - the frustration of wanting something he cannot have
-- the awareness that the family who took him in is also using him
+- the awareness that House Ventari is using him even while giving him belonging
 
 He spends much of his life on edge.
 
@@ -149,20 +169,45 @@ His release is not a single outburst. It becomes political, dynastic, and histor
 
 ---
 
+## Conquest And Usefulness
+
+House Ventari uses Viriatus's wound, body, myth, and victories to push itself forward.
+
+They frame his conquest as proof of their method.
+
+Their public logic becomes:
+
+> Power without order is danger.  
+> Order gives power purpose.  
+> Viriatus proved this.  
+> Regulatus preserves it.
+
+His victories are treated as evidence that Ventari discipline can shape greatness.
+
+This allows House Ventari to claim authorship over the conqueror.
+
+Because they claim authorship over the conqueror, they claim ownership over what he conquers.
+
+The hidden truth is conquest.
+
+The public truth becomes inheritance.
+
+---
+
 ## The Dynastic Lines
 
-The founder does not create the dynastic lines through his own children.
+Viriatus does not create the dynastic lines through his own children.
 
 He cannot conceive.
 
-The founding lines come from the wealthy family that took him in and used him.
+The founding lines come from House Ventari, the family that took him in and used him.
 
-That family branches into four major lines:
+That family branches into four major lines through the Ventari siblings:
 
-- **Ermerus**
-- **Rutare**
-- **Ilunis**
-- **Teresta**
+- **Ermerus Ventari**
+- **Rutare Ventari**
+- **Ilunis Ventari**
+- **Teresta Ventari**
 
 Together, their first letters form **ERIT**.
 
@@ -174,33 +219,33 @@ That means Sera and Erit are structurally connected through becoming, future sta
 
 The dynastic bridge does not need to be explained directly in the main story. It can remain a hidden structure for readers or players who later discover the deeper world logic.
 
-This keeps the founder's tragedy intact. He wants family and legacy, but becomes the tool another family uses to create theirs.
+This keeps Viriatus's tragedy intact. He wants family and legacy, but becomes the tool another family uses to create theirs.
 
 ---
 
 ## Betrayal and Death
 
-The founder is eventually killed by one of the sons of the family that took him in.
+Viriatus is eventually killed when his personal influence becomes too great to control.
 
-By this point, people have begun to see the founder as more than a useful figure.
+By this point, people have begun to see him as more than a useful figure.
 
-Some see him as the one who should become emperor.
+Some see him as the one who should lead civilization.
 
 Some see him as divine authority.
 
 Some see him as the living proof that Rome's future belongs to something beyond ordinary bloodlines.
 
-To the family, this makes him dangerous.
+To House Ventari, this makes him dangerous.
 
 They used him to build their future, but now he threatens to become greater than them.
 
-One of the sons kills him and justifies the death through battle.
+His death is not presented as betrayal.
 
-Publicly, the death can be framed as sacrifice, military necessity, heroic loss, or the tragic cost of Rome's future.
+It is rewritten as sacrifice, military necessity, heroic loss, or the tragic cost of Rome's future.
 
 Privately, it is removal.
 
-The family preserves his image because his myth is useful, but they remove the man because his existence threatens their control.
+House Ventari preserves his image because his myth is useful, but removes the man because his existence threatens their control.
 
 This is why the statue matters.
 
@@ -208,13 +253,31 @@ The statue turns him into symbol after the family has taken away his agency.
 
 ---
 
+## Calendar Function
+
+His death becomes important enough to reset time.
+
+Early calendar language may use **AD** as **After Death**, referring to the founder's sacred death before the name Viriatus becomes fully established.
+
+Later doctrine may attach the name Viriatus more directly to that death.
+
+This allows the same date to carry different meanings:
+
+- loyal citizens see sacrifice and order
+- House Ventari sees controlled memory
+- rebels and forbidden historians see murder and theft
+
+The calendar becomes another place where perception changes the outcome.
+
+---
+
 ## Story Function
 
-The founder gives Erit's world a human foundation.
+Viriatus gives Erit's world a human foundation.
 
 He explains why the world does not simply feel like Roman inspiration.
 
-It is Rome changed by displacement, myth, survival biology, family longing, power, and the need to make continuity permanent.
+It is Rome changed by displacement, myth, survival biology, family longing, power, betrayal, and the need to make continuity permanent.
 
 He also turns the statue in Sera's prose into a treasure map.
 
