@@ -300,6 +300,96 @@ Ermerus turns Viriatus into permanent meaning.
 
 ---
 
+## Aftermath Mask
+
+After Viriatus dies, Ermerus's first victory is not the death itself.
+
+It is the silence after.
+
+The public story becomes:
+
+> Viriatus died a noble death in war.
+
+The private truth is:
+
+> Ilunis killed him after Ermerus turned his wound into family duty.
+
+Ermerus understands that everyone important needs a mask.
+
+Ilunis needs the mask of tragic protector instead of murderer.
+
+Rutare needs the mask of procedure instead of panic.
+
+Teresta does not know the truth at first, so her mask is distance and later silence.
+
+House Ventari needs the mask of mourning family instead of guilty architect.
+
+The public needs the mask of noble sacrifice instead of betrayal.
+
+Ermerus does not seize the body like a criminal.
+
+He receives the death like a mourner.
+
+He turns the room into ceremony before anyone can call it murder.
+
+This aftermath connects to a broader Ventari pattern:
+
+> Those who know more than they show survive by performing the accepted version.
+
+Later Ventari characters continue this behavior.
+
+They know the reason behind the word.
+
+They play along as if they do not.
+
+---
+
+## Sibling Masks After Viriatus's Death
+
+### Ilunis
+
+Ilunis knows he killed Viriatus.
+
+Publicly, he can survive as witness, avenger, commander, survivor, or tragic protector.
+
+Privately, he knows jealousy and wound were involved.
+
+He hides behind duty because duty is the only version of the act he can survive.
+
+### Rutare
+
+Rutare plays along because he is controlled by everyone in the family.
+
+He does not have the strength to break the narrative.
+
+His survival instinct becomes procedure.
+
+He helps formalize the version of events because procedure gives him a place to hide.
+
+### Teresta
+
+Teresta does not know the truth at first.
+
+She later discovers that the sacred order was built on a masked murder.
+
+This discovery becomes one reason she distances herself from House Ventari.
+
+Her distance should not feel random.
+
+It grows from realizing that the family’s order is not clean, sacred, or honest.
+
+### House Ventari
+
+House Ventari publicly mourns.
+
+Privately, it preserves the usable lie.
+
+The family does not need every member to know every detail.
+
+It only needs the public version to survive.
+
+---
+
 ## Birth Of Regulatus Through Ermerus
 
 Ermerus realizes that killing Viriatus is not enough.
@@ -439,9 +529,10 @@ That makes them more dangerous and more human.
 
 ## Key Questions
 
-- How exactly does Ermerus speak to Ilunis before Viriatus dies?
 - Does Ermerus believe he is saving House Ventari, or mainly saving himself from irrelevance?
 - Does Ermerus regret Viriatus's death after seeing how powerful the myth becomes?
-- Who among the siblings suspects Ermerus's role?
+- How much does Ilunis understand about being manipulated?
+- Does Rutare suspect Ermerus's role while still formalizing the official version?
+- When does Teresta discover the truth?
 - How public is Ermerus's role in establishing Regulatus?
 - Do later Ermerus descendants know the full truth, partial truth, or only the official version?
