@@ -12,11 +12,26 @@ Do not explain Fragments cosmology here.
 
 ---
 
+## Locked Names
+
+The original ruling family is **House Ventari**.
+
+The four founding siblings are:
+
+- Ermerus Ventari
+- Rutare Ventari
+- Ilunis Ventari
+- Teresta Ventari
+
+House Ventari is the family that conceals Viriatus's arrival, shapes him into a conqueror, kills him when he becomes too beloved, and formalizes Regulatus to claim his victories as inherited right.
+
+---
+
 ## Core Principle
 
 Regulatus is inherited legacy on the surface, but mass control underneath.
 
-It teaches citizens to take pride in accepting their place, while quietly converting that pride into obedience, social stability, and power concentration around the ruling family.
+It teaches citizens to take pride in accepting their place, while quietly converting that pride into obedience, social stability, and power concentration around House Ventari and the later ruling dynasty.
 
 From inside society, Regulatus does not feel like oppression.
 
@@ -40,19 +55,19 @@ Structurally, it:
 - turns conquered land into inherited right
 - makes class position feel moral
 - makes dissent feel shameful
-- keeps power flowing toward the founding family and later dynasty
+- keeps power flowing toward House Ventari and the later dynasty
 
 ---
 
 ## Hidden Arrival
 
-Viriatus falls from the heavens under circumstances the ruling family later hides.
+Viriatus falls from the heavens under circumstances House Ventari later hides.
 
-The family never publicly claims to have found him.
+House Ventari never publicly claims to have found him.
 
 His true arrival is dangerous knowledge.
 
-If people knew the family simply discovered him, other families, religious authorities, military factions, or popular movements could challenge their claim over him.
+If people knew House Ventari simply discovered him, other families, religious authorities, military factions, or popular movements could challenge their claim over him.
 
 They could argue that Viriatus belonged to:
 
@@ -67,13 +82,13 @@ The witnesses who saw too much are removed, punished, or erased from record.
 
 Civel who spread rumors are killed or silenced.
 
-The family hides the arrival and sells the transformation.
+House Ventari hides the arrival and sells the transformation.
 
 ---
 
 ## Viriatus As Proof
 
-The family does not publicly say:
+House Ventari does not publicly say:
 
 > We found him.
 
@@ -81,7 +96,7 @@ They say:
 
 > We formed him.
 
-Viriatus is presented as proof that their teaching, discipline, hierarchy, and social philosophy can shape greatness.
+Viriatus is presented as proof that Ventari teaching, discipline, hierarchy, and social philosophy can shape greatness.
 
 He becomes the proof-product of the method that later becomes Regulatus.
 
@@ -92,7 +107,7 @@ The public message becomes:
 > Viriatus proved this.  
 > Regulatus preserves it.
 
-The family's claim is not:
+House Ventari's claim is not:
 
 > Follow Viriatus.
 
@@ -127,7 +142,7 @@ He wants permanence.
 
 He wants a world where nothing precious disappears without meaning.
 
-The family learns to direct this wound outward.
+House Ventari learns to direct this wound outward.
 
 They teach him that disorder is the enemy of continuity.
 
@@ -147,7 +162,7 @@ This also makes him dangerous.
 
 ## Conquest As Ownership
 
-As Viriatus conquers, the family frames every victory as proof of their method.
+As Viriatus conquers, House Ventari frames every victory as proof of their method.
 
 They claim authorship over the conqueror.
 
@@ -159,13 +174,13 @@ The doctrine becomes:
 
 This allows conquered lands to be treated not as theft, but as rightful inheritance.
 
-The family teaches that Viriatus did not win land for himself.
+House Ventari teaches that Viriatus did not win land for himself.
 
 He fulfilled the proof of Regulatus.
 
 Therefore, the land belongs to the order that formed him.
 
-The order is carried by the family.
+The order is carried by House Ventari.
 
 This is how conquest becomes dynastic right.
 
@@ -189,9 +204,9 @@ He becomes:
 - mythologized by common people
 - seen as the true force behind the new order
 
-This threatens the family.
+This threatens House Ventari.
 
-The family created the myth, but the myth begins to belong to Viriatus instead of them.
+House Ventari created the myth, but the myth begins to belong to Viriatus instead of them.
 
 The weapon is becoming the ruler.
 
@@ -199,7 +214,7 @@ The weapon is becoming the ruler.
 
 ## The Death of Viriatus
 
-The family kills Viriatus when his personal influence becomes too great to control.
+House Ventari kills Viriatus when his personal influence becomes too great to control.
 
 His death is not presented as betrayal.
 
@@ -211,7 +226,7 @@ The public version becomes:
 
 His death becomes emotional proof that civilization must be regulated.
 
-The family steals the grief surrounding him and turns it into obedience.
+House Ventari steals the grief surrounding him and turns it into obedience.
 
 To question the new order becomes to dishonor Viriatus.
 
@@ -257,22 +272,22 @@ This is why people accept it.
 
 ## The Four Siblings
 
-After Viriatus dies, the family needs to prevent society from centering itself around one uncontrollable figure again.
+After Viriatus dies, House Ventari needs to prevent society from centering itself around one uncontrollable figure again.
 
 His legacy is divided into four controlled pillars.
 
-The four siblings become the official cornerstones of society:
+The four Ventari siblings become the official cornerstones of society:
 
-- Ermerus
-- Rutare
-- Ilunis
-- Teresta
+- Ermerus Ventari
+- Rutare Ventari
+- Ilunis Ventari
+- Teresta Ventari
 
 Their names later form the hidden foundation of Erit's name.
 
 They are not sacred because they were naturally chosen.
 
-They are made sacred because the family needs human pillars through which Regulatus can survive.
+They are made sacred because House Ventari needs human pillars through which Regulatus can survive.
 
 Each sibling becomes a controlled interpretation of the order Viriatus supposedly made possible.
 
@@ -280,25 +295,25 @@ Each sibling becomes a controlled interpretation of the order Viriatus supposedl
 
 ## Founding Line Functions
 
-### Ermerus
+### Ermerus Ventari
 
 Ermerus controls meaning.
 
 His line becomes associated with doctrine, record, interpretation, education, official memory, and the moral language of Regulatus.
 
-### Rutare
+### Rutare Ventari
 
 Rutare controls order.
 
 His line becomes associated with administration, civic identity, records, permissions, bureaucracy, and the systems that decide who belongs.
 
-### Ilunis
+### Ilunis Ventari
 
 Ilunis controls force.
 
 His line becomes associated with military discipline, enforcement, sacrifice, punishment, security, and violence framed as duty.
 
-### Teresta
+### Teresta Ventari
 
 Teresta controls continuity.
 
@@ -356,7 +371,7 @@ Quest behavior should emerge from condition layers.
 
 Formula:
 
-> World condition -> NPC behavior -> player friction -> choice -> consequence
+> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
 This prevents quests from feeling pasted onto the world.
 
@@ -374,15 +389,15 @@ They should feel:
 
 Viriatus conquered.
 
-The family claimed authorship over him.
+House Ventari claimed authorship over him.
 
-The people began to love him more than the family.
+The people began to love him more than House Ventari.
 
-The family killed him.
+House Ventari killed him.
 
 Regulatus turned his memory into control.
 
-The four siblings became the pillars that made the control permanent.
+The four Ventari siblings became the pillars that made the control permanent.
 
 ---
 
@@ -394,9 +409,9 @@ It is founded on emotional theft.
 
 A displaced child wanted family, belonging, and legacy.
 
-A powerful family turned that wound into conquest.
+House Ventari turned that wound into conquest.
 
-When the people began loving him more than the family, they killed him and turned his image into doctrine.
+When the people began loving him more than House Ventari, they killed him and turned his image into doctrine.
 
 Regulatus is the system that transformed one person's longing for continuity into a civilization built on hierarchy, inheritance, preservation, and control.
 
