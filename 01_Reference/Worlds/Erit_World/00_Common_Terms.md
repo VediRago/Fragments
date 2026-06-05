@@ -30,33 +30,29 @@ An older civic founder figure connected to the pre-Regulatus calendar.
 
 Celcinus does not need to be a major character yet.
 
-His purpose is to show that Erit's Roman-derived world already had an older order and calendar before House Ventari rewrote time around the founder's death.
+His purpose is to show that Erit's Roman-derived world already had an older order and calendar before House Ventari rewrote time around Viriatus's death.
 
-### AD — After Death
+### ACD
 
-The calendar era created after the death of the unnamed founder later mythologized as Viriatus.
+The older calendar era used before Regulatus and before the AVD reset.
 
-Early meaning:
+ACD is tied to the Celcinus Calendar and the pre-Regulatus order.
 
-> After Death.
-
-Public meaning:
-
-> after the Founder’s sacred death.
-
-Later official meaning:
-
-> after Viriatus's sacrifice.
-
-Forbidden meaning:
-
-> after House Ventari murdered the unnamed founder and stole his legacy.
+Exact meaning is still provisional, but functionally it marks time before House Ventari rewrites history around Viriatus's death.
 
 ### AVD — After Viriatus's Death
 
-A possible later doctrinal interpretation of AD once the name Viriatus becomes fully attached to the founder myth.
+The new calendar era declared when Ermerus turns Viriatus's death into the public foundation of Regulatus.
 
-AVD should not be used for the earliest historical layer because the name Viriatus was not established yet.
+AVD begins when Regulatus comes into play as the new era, not merely at the private moment Viriatus dies.
+
+Public meaning:
+
+> after Viriatus's noble death gave civilization order.
+
+Forbidden meaning:
+
+> after House Ventari murdered Viriatus and stole his legacy.
 
 ---
 
@@ -77,11 +73,25 @@ They are the origin of the four founding lines:
 - Ilunis Ventari
 - Teresta Ventari
 
+### Ecalus Ventari
+
+The Ventari father.
+
+Ecalus begins by using Viriatus as a weapon, proof, and advantage.
+
+Near death, he begins seeing Viriatus as the son he never truly had, or the son he wishes his own sons had been.
+
+He dies before creating the next order.
+
+Ermerus takes the reins after him.
+
 ### Ermerus Ventari
 
 One of the four founding siblings.
 
 Associated with meaning, charm, narrative control, legitimacy, reputation, public memory, diplomacy, and the official interpretation of history.
+
+Ermerus manipulates Ilunis into killing Viriatus, then turns public grief into the foundation of Regulatus.
 
 ### Rutare Ventari
 
@@ -143,7 +153,7 @@ They experience it as civilization.
 
 The older Roman-derived civic calendar connected to Celcinus and the pre-Regulatus order.
 
-It exists to show that time was already being counted before House Ventari reset or absorbed history through the AD system.
+It exists to show that time was already being counted before House Ventari reset or absorbed history through the AVD system.
 
 ---
 
