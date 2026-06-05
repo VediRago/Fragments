@@ -1,42 +1,44 @@
 # Narrative Design Thesis
 
-While developing **Fragments**, I became interested in a simple question:
+While developing **Fragments**, I kept returning to one question:
 
 **How can the same story lead different readers toward different conclusions without changing its events?**
 
-I did not start with a theory. I started with scenes, characters, and questions that kept growing as I worked on them.
+I did not start with a theory.
 
-At first, I was exploring outcomes. If different outcomes exist, then different states must also exist. As the project developed, I noticed something interesting: the same idea could apply to the reader.
+I started with scenes, characters, and questions that kept growing as I worked on them after work.
 
-Different readers notice different things. They trust different details. They make different assumptions. They may leave the same story with different conclusions.
+At first, I was exploring outcomes. If different outcomes exist, then different states must also exist. As the project developed, I started noticing that the same idea could apply to the reader.
 
-That became one of the main lessons I learned while building Fragments.
+Different readers notice different things. They trust different details. They make different assumptions. They may leave the same story with different conclusions, even if the story itself never changes.
 
-Rather than presenting this as a new kind of branching system, I see it as something I discovered through the work: satisfaction does not always come from giving different outcomes. Sometimes it comes from allowing different readers to reach different understandings of the same outcome.
+That became one of the main things I learned while building Fragments.
+
+I do not see this as me inventing a new kind of branching system. It is something I found through the work. Satisfaction does not always come from giving different endings. Sometimes it comes from allowing different readers to reach different understandings of the same ending.
 
 ## The Reward Is Being Right
 
 One thing I became interested in was rewarding attention.
 
-Rather than hiding information completely, I wanted readers to have enough information to reach conclusions on their own.
+I did not want information to be completely hidden. I wanted the reader to have enough to build a conclusion, even if that conclusion was not complete yet.
 
-When those conclusions later prove correct, the reward is not just a reveal.
+When a reader notices something and later realizes it mattered, the reward is not only the reveal.
 
 The reward is being right.
 
-That only works if the structure underneath the story holds together. Misdirection can be useful, but it has to remain fair. A conclusion may later become incomplete, but it should still make sense based on what the reader knew at the time.
+For that to work, the structure underneath has to hold. Misdirection can be useful, but it has to be fair. A conclusion may later become incomplete, but it should still make sense based on what the reader knew at the time.
 
 ## Realization, Not Explanation
 
-A lot of Fragments is built around realization rather than explanation.
+A lot of Fragments grew around realization rather than explanation.
 
 I became interested in moments where the reader does not receive a direct answer, but suddenly starts seeing the story differently.
 
-The answer may be present from the beginning.
+The answer may have been visible from the beginning.
 
 Recognition comes later.
 
-Noeme is an example of this. The name can be read as "Know Me" or "One Me," but those meanings only matter once the story gives enough context to recognize them.
+Noeme became one small example of that. The name can be read as "Know Me" or "One Me," but those meanings only matter once the story gives enough context to recognize them.
 
 The letters were always there.
 
@@ -46,33 +48,35 @@ The reader changes.
 
 While developing Fragments, I noticed that the same scene can give different readers different levels of payoff.
 
-A reader may notice a detail early. Another may miss it. Another may only understand it later, once a new scene changes the meaning of what was already there.
+One reader may notice a detail early. Another may miss it. Another may only understand it later, once a new scene changes the meaning of what was already there.
 
-None of those readings are failures.
+I do not see those different readings as failures.
 
 The story remains the same.
 
 What changes is the reader's perception.
 
-This became especially important for scenes built around misdirection, subtext, and delayed realization. The information should not feel hidden. The stronger effect comes when the information was already present, but only becomes meaningful once perception aligns with it.
+This became especially important for scenes built around misdirection, subtext, and delayed realization. The information should not feel hidden. The stronger effect comes when the information was already present, but only becomes meaningful once perception changes.
 
-Like a magic trick, the answer can be visible from the beginning.
+It is like a magic trick where nothing was actually hidden.
 
-The realization comes when the reader finally sees how it was working.
+The answer was visible from the beginning.
+
+The realization comes when the reader finally knows how to look.
 
 ## Connection Was Already There
 
 One of the most useful things I learned while writing Fragments came from Sera.
 
-Like many new writers, I initially assumed emotional impact required more connection.
+At first, I assumed emotional impact required more connection.
 
 Sera's final scene challenged that assumption.
 
-While revising the story, I gradually removed elements I thought were necessary. Instead of weakening the moment, I often found myself becoming more engaged with it.
+While revising it, I removed parts I thought were necessary. Instead of weakening the moment, the scene became stronger for me.
 
 The connection was already there.
 
-That observation changed how I approached later scenes. I became more interested in how little could be shown while still preserving the feeling I wanted to convey.
+That changed how I approached later scenes. I started paying more attention to what earlier interactions were already carrying, instead of adding more explanation on top of them.
 
 ## Feeling Opens Realization
 
@@ -90,7 +94,7 @@ Not every reader reaches the same outcome, because not every reader notices the 
 
 While working on Fragments, I often found myself exploring increasingly complex ideas.
 
-What helped me stay grounded was making sure those ideas eventually led back to the characters and their experiences.
+What helped me stay grounded was making sure those ideas eventually returned to the characters and their experiences.
 
 If they did not, they did not belong in the story.
 
@@ -110,9 +114,9 @@ The challenge was not explaining that idea.
 
 The challenge was making the reader feel what the character goes through.
 
-The reader is never told the structure exists.
+The reader is never directly told the structure exists.
 
-The tragedy is not what happens.
+The tragedy is not only what happens.
 
 The tragedy is recognizing how it feels.
 
@@ -128,7 +132,7 @@ The character cannot.
 
 ## What This Project Taught Me
 
-Fragments is still in development, but working on it has taught me a lot about narrative structure.
+Fragments is still in development, but working on it has taught me a lot about structure.
 
 It taught me that meaning can be felt before it is understood.
 
