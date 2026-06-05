@@ -54,7 +54,7 @@ Using direct Roman terms made the world feel too historical. Completely invented
 
 The solution I started using was language drift.
 
-The terms stay recognizable enough to suggest Roman ancestry, but altered enough to feel like they belong to a different timeline. Ludus can become Ludanis. Cives can become Civel. Servus or Servi can become Servan. Patricii can become Patren. Domus can become Doma. Colosseum can become Colossia. Legio can become Legian. Senatus can become Senat. Imperium can become Imperion.
+The terms stay recognizable enough to suggest Roman ancestry, but altered enough to feel like they belong to a different timeline. Ludus can become Ludanis. Cives can become Civel. Servus or Servi can become Servan. Patricii can become Patren. Domus can become Doma. Colosseum can become Colossia. Legio can become Legian. Senatus can become Senat. Imperium can become Empiran.
 
 This creates a language layer that shows history without explaining it every time.
 
