@@ -152,6 +152,58 @@ This also explains why the statue matters. The statue is not only honor. It is t
 
 ---
 
+## Calendar Anchor Discovery
+
+A later practical need exposed another foundation layer.
+
+I needed a calendar anchor for Erit's world.
+
+The first thought was something like:
+
+> 582 AVD
+
+The question became:
+
+> After whose death?
+
+The answer came from an existing story detail:
+
+> the statue.
+
+This created the chain:
+
+> calendar need  
+> → AVD  
+> → whose death matters enough to reset time?  
+> → the statue  
+> → who is the statue?  
+> → Viriatus  
+> → why does his death reset time?  
+> → House Ventari killed him and turned his memory into Regulatus  
+> → the entire Empiran order is built from that theft
+
+This became another example of the treasure-map method.
+
+A small practical worldbuilding problem revealed a buried political and emotional foundation.
+
+The calendar itself becomes propaganda.
+
+To loyal citizens:
+
+> 582 AVD means 582 years after Viriatus's sacrifice gave civilization order.
+
+To rebels or forbidden historians:
+
+> 582 AVD means 582 years after House Ventari murdered him and stole his legacy.
+
+Same date.
+
+Different perception.
+
+Different outcome.
+
+---
+
 ## Regulatus As Emotional Control
 
 Today Regulatus became clearer.
