@@ -6,168 +6,196 @@ This file exists to prevent method drift.
 
 Several useful chains appeared while building Erit's world, but they should not become twenty different competing formulas.
 
-There is one primary method.
+There is one core method, but it should be used modularly.
 
-The others are zoom levels or outputs of that method.
+Do not force every idea to reach every layer.
 
----
-
-## Primary Method
-
-Use this as the main method for worldbuilding, systems, cities, factions, houses, NPCs, and quest foundations:
-
-> experience -> emotion -> reason -> behavior -> atmosphere -> history -> quest logic
-
-This is the core chain.
-
-It starts with something lived or experienced.
-
-That experience creates emotion.
-
-The emotion creates a reason, belief, justification, wound, or doctrine.
-
-The reason shapes behavior.
-
-Repeated behavior creates atmosphere.
-
-When atmosphere persists through time, it becomes history.
-
-History then creates quest logic.
-
-This matters because quests should not feel like they appear from nowhere.
-
-They should feel like the current playable expression of what history already made true.
+Each added word must be earned by what came before it.
 
 ---
 
-## When To Use The Primary Method
+## Core Rule
 
-Use this when creating or testing:
+The rule is:
 
-- a historical event
-- a house or lineage
-- a city
-- a faction
-- a social system
-- an institution
-- a cultural belief
-- an NPC group
-- a major source of conflict
-- a quest foundation
+> Do not extend the chain unless the next word is produced by everything before it.
 
-This method answers:
+This means:
 
-> Why does this exist?
+- do not add **atmosphere** unless behavior repeats enough to create a felt environment
+- do not add **history** unless atmosphere persists, hardens, or becomes inherited
+- do not add **quest logic** unless history or world pressure naturally creates a playable problem
 
-and:
+The last word in the chain must follow the same characteristics imposed by the previous words.
 
-> Why does it feel natural inside the world?
+If it does not, the chain has been forced.
 
 ---
 
-## Example — Regulatus
+## Base Method — Character / Background Level
+
+Use this when creating a person, founder, sibling, NPC, house origin, or personal wound:
+
+> experience -> emotion -> reason -> behavior
+
+This is the base unit.
 
 Experience:
 
-> Viriatus is displaced, shaped, used, loved, killed, and turned into a symbol.
+> what happened
 
 Emotion:
 
-> pride, grief, fear of chaos, longing for continuity, gratitude, shame.
+> what it made someone feel
 
 Reason:
 
-> order gives power purpose; obedience protects the whole; what Regulatus gains, Regulatus is owed.
+> the belief, justification, wound, explanation, or logic created from that feeling
 
 Behavior:
 
-> citizens accept hierarchy, value records, perform gratitude, distrust rebels, and police themselves.
+> what the person or group does because of that reason
 
-Atmosphere:
+This is enough for many background elements.
 
-> cities feel ordered, proud, watched, beautiful, formal, and quietly controlling.
+A character does not need quest logic to be valid.
 
-History:
+Viriatus was built from this level first.
 
-> the repeated behavior hardens into dynasties, institutions, records, chips, social shame, and inherited belief.
-
-Quest logic:
-
-> chips, permissions, treatment access, rebellion, identification, travel limits, forged records, and social shame become natural quest pressures.
+He was not created by thinking about quests.
 
 ---
 
-## Shorthand / Checkpoint Method
+## Expanded Method — Place / Culture Level
 
-Use this only as a quick summary after the primary method is already understood:
-
-> history -> behavior -> atmosphere -> quest pressure
-
-This is not a separate method.
-
-It is shorthand.
-
-History here already contains:
+Use this when repeated behavior creates the feeling of a place, group, house, city, institution, or culture:
 
 > experience -> emotion -> reason -> behavior -> atmosphere
 
-So the full meaning is:
+Atmosphere is earned when behavior becomes visible around more than one person.
 
-> history created by experience, emotion, reason, behavior, and atmosphere continues to shape behavior, atmosphere, and quest pressure.
+It is the emotional weather created by repeated behavior.
 
-The shorthand is useful because once a system has history, that history keeps producing behavior.
+Examples:
 
----
-
-## When To Use The Shorthand
-
-Use the shorthand when writing quick summaries, diary recaps, or review notes.
-
-Good use:
-
-> Regulatus turns history into behavior, behavior into atmosphere, and atmosphere into quest pressure.
-
-Bad use:
-
-> Using this instead of explaining the experience, emotion, and reason behind a new system.
-
-If something is new or unclear, do not use the shorthand.
-
-Use the primary method.
+- people lower their voices near guards
+- citizens feel proud when obeying records
+- doctors treat procedure as protection
+- rebels avoid official names
+- a district feels watched before anyone explains why
 
 ---
 
-## Quest Output Method
+## Historical Method — Institution / Civilization Level
 
-Use this when designing an actual quest after the world pressure already exists:
+Use this when atmosphere persists long enough to become myth, law, record, ritual, institution, tradition, propaganda, or inherited structure:
+
+> experience -> emotion -> reason -> behavior -> atmosphere -> history
+
+History is earned when atmosphere survives through time.
+
+It can become:
+
+- a law
+- a calendar
+- a house tradition
+- a public myth
+- a forbidden record
+- a ceremony
+- a caste habit
+- an inherited fear
+- an institution
+- a lie everyone repeats
+
+History is not just old events.
+
+History is atmosphere that became durable.
+
+---
+
+## Quest Output Method — Gameplay Level
+
+Use this only when turning existing world pressure into a playable situation:
 
 > world pressure -> character need -> obstacle -> possible approaches -> consequence
 
-This is the quest-level output of the primary method.
+This is not the core creation method.
 
-It should not be used to invent quests from nothing.
+It is an output.
 
-It should be used after the world has already created pressure.
+It should only be used after the world already contains pressure.
+
+Quest logic should not be forced into background creation.
+
+A quest becomes strong when it feels like the playable expression of history, not an errand placed on top of lore.
 
 ---
 
-## When To Use The Quest Output Method
+## Relationship Between The Layers
 
-Use this when turning a grounded world pressure into a playable situation.
+The method grows by depth:
 
-It answers:
+1. Character / background  
+   > experience -> emotion -> reason -> behavior
 
-> What does someone need?
+2. Place / culture  
+   > experience -> emotion -> reason -> behavior -> atmosphere
 
-> What blocks them?
+3. History / institution  
+   > experience -> emotion -> reason -> behavior -> atmosphere -> history
 
-> What can the player do?
+4. Quest / gameplay output  
+   > world pressure -> character need -> obstacle -> possible approaches -> consequence
 
-> What changes afterward?
+A meaningful NPC in a quest may carry all previous layers plus quest logic.
+
+A background character may only need the first four.
+
+A city usually needs atmosphere.
+
+A civilization-defining system usually needs history.
+
+A playable quest needs world pressure and consequence.
+
+---
+
+## Example — Viriatus
+
+Experience:
+
+> Viriatus is displaced into Roman history, found by Servan, shaped by House Ventari, used, loved, feared, and eventually killed.
+
+Emotion:
+
+> fear, longing, frustration, desire for belonging, desire for family, need for legacy, pressure to make loss meaningful.
+
+Reason:
+
+> power can protect what truth cannot; order can make chaos useful; conquest can be framed as correction; legacy must survive.
+
+Behavior:
+
+> Viriatus becomes useful in conquest, releases pressure through historical action, and becomes a figure people begin to love beyond House Ventari's control.
+
+Atmosphere:
+
+> pride, grief, fear, gratitude, and order gather around his image.
+
+History:
+
+> House Ventari turns his death and image into Regulatus, resets time through AD, and builds the Empiran order from his stolen legacy.
+
+Quest logic:
+
+> not needed when creating Viriatus, but later his history can create playable pressures around records, loyalty, rebels, statues, forbidden truth, and inherited legitimacy.
 
 ---
 
 ## Example — Chip Removal Quest
+
+The chip removal quest should not begin with the core method.
+
+It begins after the world already has pressure.
 
 World pressure:
 
@@ -191,38 +219,45 @@ Consequence:
 
 ---
 
-## Relationship Between The Three
+## Shorthand / Checkpoint
 
-The hierarchy is:
+Use this only as a quick summary after the deeper method is understood:
 
-1. Primary Method  
-   > experience -> emotion -> reason -> behavior -> atmosphere -> history -> quest logic
+> history -> behavior -> atmosphere -> quest pressure
 
-2. Shorthand / Checkpoint  
-   > history -> behavior -> atmosphere -> quest pressure
+This is not a separate method.
 
-3. Quest Output  
-   > world pressure -> character need -> obstacle -> possible approaches -> consequence
+It means:
 
-The primary method creates history and world pressure.
+> established history keeps shaping present behavior, atmosphere, and pressure.
 
-The shorthand summarizes how established history keeps shaping the present.
+Use it for diary recaps, quick reviews, or summaries.
 
-The quest output turns that pressure into a playable situation.
+Do not use it to replace the base explanation when building something new.
 
 ---
 
-## Rule For Future Files
+## Design Rule For Future Files
 
-When in doubt, use the primary method.
+When building something new, ask what level it needs.
 
-Do not invent new formulas unless there is a strong reason.
+Does it need only:
 
-If a new chain appears, first ask:
+> experience -> emotion -> reason -> behavior?
 
-> Is this actually a new method, or just a zoomed-in version of the primary method?
+Or has behavior repeated enough to create:
 
-Most of the time, it should be treated as a zoom level.
+> atmosphere?
+
+Or has atmosphere persisted long enough to become:
+
+> history?
+
+Or are we turning that pressure into:
+
+> quest logic?
+
+Do not push a concept further than it has earned.
 
 ---
 
@@ -232,8 +267,6 @@ The goal is immersion.
 
 Nothing should feel strange or pasted on because every layer follows the same cause-and-effect logic.
 
-A world detail should be able to move through the chain:
+The method is not about adding more words.
 
-> experience -> emotion -> reason -> behavior -> atmosphere -> history -> quest logic
-
-If it cannot, it may not be grounded enough yet.
+It is about knowing when the next word is justified.
