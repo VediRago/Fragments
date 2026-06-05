@@ -239,7 +239,7 @@ Early examples:
 - Colosseum can become Colossia.
 - Legio can become Legian.
 - Senatus can become Senat.
-- Imperium can become Imperion.
+- Imperium can become Empiran.
 
 This shows that the world came from Rome, but shifted over a long period of history.
 
@@ -338,11 +338,11 @@ This prevents the worldbuilding from expanding into details that do not affect t
 
 ### 1. Name the world and its political order
 
-Decide whether **Imperion** is the correct term for Erit's era and political civilization.
+Decide whether **Empiran** is the correct term for Erit's era and political civilization.
 
 Important distinction:
 
-Imperion should name Erit's Roman-derived political world, not necessarily the entire shared world-line of Lucreta, Sera, Erit, and the hospital girl.
+Empiran should name Erit's Roman-derived political world, not necessarily the entire shared world-line of Lucreta, Sera, Erit, and the hospital girl.
 
 ### 2. Continue the displaced founder
 
@@ -366,7 +366,7 @@ It should support order, continuity, hierarchy, legacy, and controlled developme
 
 Create a glossary for evolved Roman-derived terms.
 
-This file should include terms like Civel, Ludanis, Servan, Patren, Doma, Colossia, Legian, Senat, Imperion, and artificial womb.
+This file should include terms like Civel, Ludanis, Servan, Patren, Doma, Colossia, Legian, Senat, Empiran, and artificial womb.
 
 ### 5. Build the four founding lines
 
