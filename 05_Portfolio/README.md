@@ -2,12 +2,13 @@
 
 This folder is the best place to start.
 
-I'm using **Fragments** to show two connected sides of my work:
+I'm using **Fragments** to show two connected sides of what I have been learning.
 
-1. **The main story** — structure, character connection, emotional payoff, prose, and how readers discover meaning.
-2. **The worldbuilding** — how a world can begin from people, wounds, family history, belief, pressure, and consequence.
+The first side is the main story: structure, character connection, emotional payoff, prose, and how readers discover meaning.
 
-The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio is to show what I explored, what I built, and what I learned while building it.
+The second side is the worldbuilding: how a world can begin from people, wounds, family history, belief, pressure, and consequence.
+
+The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio is to show what I explored, what I noticed, and what I learned while building it.
 
 ---
 
@@ -23,7 +24,7 @@ Start here if you want to read Fragments as a story, prose, and structure projec
 
 1. [Narrative Design Thesis](00_Narrative_Design_Thesis.md)
 2. [Project Overview](01_Project_Overview.md)
-3. [Narrative Design Case Studies](02_Narrative_Design_Case_Studies.md)
+3. [Narrative Design Findings](02_Narrative_Design_Case_Studies.md)
 4. [Selected Prose](03_Selected_Prose.md)
 5. [Development Process](04_Development_Process.md)
 6. [Narrative Design Approach](05_Narrative_Design_Approach.md)
@@ -51,19 +52,15 @@ It begins with a displaced child whose existence creates pressure around him: ho
 
 The other files in this section are not meant to present a finished world yet.
 
-They are examples of how I think through characters and worldbuilding:
+They show how I started thinking through people and worldbuilding. I kept asking why a person behaves a certain way, how a wound can become history, how a family can turn behavior into a system, how belief can make control feel normal, and how world pressure can eventually create choices and consequences.
 
-- why a person behaves a certain way
-- how a wound or imbalance can become history
-- how a family or group can turn behavior into a system
-- how belief can make control feel normal
-- how world pressure can create quests, choices, and consequences
+This section has three simple parts.
 
-This part is divided into three simple sections:
+**World Logic** explains why the world works the way it does.
 
-- **World Logic** — why the world works the way it does.
-- **Findings** — what I discovered while building the world.
-- **Quest Examples** — how the world can create conflicts and choices.
+**Findings** records what I noticed while building it.
+
+**Quest Examples** are not meant to show finished quests. They show how a world can begin to create conflicts once enough pressure exists.
 
 Start here if you want to see how the worldbuilding works.
 
@@ -95,7 +92,7 @@ Start here if you want to see how the worldbuilding works.
 ### Quest Examples
 
 8. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
-   Shows an early example of how world pressure can create a quest, different approaches, and consequences.
+   Shows a small example of how a playable problem can appear after the world pressure already exists.
 
 ---
 
@@ -105,14 +102,7 @@ This worldbuilding is meant to show causality.
 
 A detail should not exist only because it is interesting.
 
-It should connect to something:
-
-- a person who lived through pressure
-- a family or group that reacted to that pressure
-- a belief that made the reaction feel normal
-- a system that may preserve it
-- a conflict that later characters may inherit
-- a possible quest, choice, or consequence
+I started noticing that a useful detail usually connects back to someone who lived through pressure, a family or group that reacted to that pressure, a belief that made the reaction feel normal, a system that preserved it, or a conflict that later characters might inherit.
 
 The goal is not to build endless lore.
 
@@ -134,18 +124,10 @@ The worldbuilding files are included to show how I think about lore, people, his
 
 ## Repository Layers
 
-### Portfolio Layer
+The portfolio layer contains short documents meant to show how I think about the project and what I learned while making it.
 
-Short documents meant to show how I think about the project and what I learned while making it.
+The story layer contains character files, act structure, and prose excerpts that support the portfolio material.
 
-### Story Layer
+The worldbuilding layer contains world logic, findings, quest examples, NPC behavior notes, and system notes.
 
-Character files, act structure, and prose excerpts that support the portfolio material.
-
-### Worldbuilding Layer
-
-World logic, findings, quest examples, NPC behavior notes, and system notes.
-
-### Reference Layer
-
-Longer internal notes for systems, Unity, bridges, and structural consistency. These files are part of my working process. They are useful for deeper context, but they are not always the recommended starting point.
+The reference layer contains longer internal notes for systems, Unity, bridges, and structural consistency. These files are part of my working process. They are useful for deeper context, but they are not always the recommended starting point.
