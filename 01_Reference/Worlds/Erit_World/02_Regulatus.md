@@ -57,11 +57,13 @@ Fear can control behavior, but pride controls identity.
 
 ## Origin
 
-The displaced founder later mythologized as **Viriatus** becomes the first stone of the Empiran order that would one day teach the world to live by Regulatus.
+The displaced founder later mythologized as **Viriatus** becomes the first stone of the Empiran order.
 
-He does not create the full system alone.
+He does not create Regulatus.
 
-His life, myth, wound, discipline, fear, victories, usefulness, and death are taken by **House Ventari** and turned into something larger.
+His legacy is used by **House Ventari** to establish Regulatus after his death.
+
+His life, myth, wound, discipline, fear, victories, usefulness, and death are taken by House Ventari and turned into doctrine.
 
 House Ventari hides his true arrival and sells his transformation.
 
@@ -77,7 +79,7 @@ This lets House Ventari claim authorship over Viriatus.
 
 Because they claim authorship over the conqueror, they later claim ownership over what he conquers.
 
-Regulatus is formalized after his death as the doctrine that turns his memory into control.
+Regulatus is formalized after his death as the doctrine that turns his stolen legacy into control.
 
 ---
 
