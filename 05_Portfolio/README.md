@@ -12,6 +12,22 @@ The project is still in development. It is not meant to explain every part of th
 
 ---
 
+## Personal Note
+
+Fragments is not a finished professional project.
+
+I started building it while working full-time outside the games industry, and most of what is here comes from learning by doing rather than formal writing experience.
+
+I did not start with theory. I started with scenes, feelings, and questions, then kept following what connected.
+
+That is why these files are written as findings instead of rules.
+
+They are not meant to say I already know narrative design.
+
+They are meant to show how I think when something starts to click.
+
+---
+
 ## Part 1 — Fragments / Main Story
 
 This part focuses on Fragments as a story.
@@ -22,7 +38,7 @@ The main question behind this part is:
 
 Start here if you want to read Fragments as a story, prose, and structure project.
 
-1. [Narrative Design Thesis](00_Narrative_Design_Thesis.md)
+1. [What I Started Noticing About Story Structure](00_Narrative_Design_Thesis.md)
 2. [Project Overview](01_Project_Overview.md)
 3. [Narrative Design Findings](02_Narrative_Design_Case_Studies.md)
 4. [Selected Prose](03_Selected_Prose.md)
