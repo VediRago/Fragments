@@ -422,6 +422,162 @@ This prevents the worldbuilding from expanding into details that do not affect t
 
 ---
 
+## 05/06/2026
+
+Today updated and tightened the foundation created yesterday.
+
+The main progress was not adding random lore, but making the existing chain clearer:
+
+> statue  
+> → founder  
+> → calendar problem  
+> → Viriatus  
+> → House Ventari  
+> → Regulatus  
+> → Empiran order  
+> → founding lines  
+> → House Devaar  
+> → NPC and quest pressure
+
+### House Ventari Locked
+
+The original ruling family is now **House Ventari**.
+
+House Ventari conceals Viriatus's arrival, shapes him into a conqueror, kills him when he becomes too beloved, and formalizes Regulatus to claim his victories as inherited right.
+
+This makes the origin of power clearer.
+
+House Ventari does not publicly claim:
+
+> We found him.
+
+They sell the transformation:
+
+> We formed him.
+
+This becomes the foundation of their claim over what Viriatus conquers.
+
+### Viriatus Updated
+
+The displaced founder's official mythic name is **Viriatus**.
+
+The name is deliberate. It carries an echo of resistance, but in Erit's world that echo is inverted: House Ventari uses him to build the order he might otherwise have resisted.
+
+The founder file was updated to clarify:
+
+- Viriatus as official mythic name
+- earlier layers remembering him as unnamed founder / statue figure / sacred death
+- House Ventari as the family that uses him
+- conquest as ownership
+- AD calendar function
+- the statue as a treasure-map object
+
+### House Devaar Direction
+
+The later dominant family should be named **House Devaar**, not only Devaar.
+
+House Devaar becomes powerful by Erit's time through Teresta's line.
+
+Where House Ventari founded the ideological order, House Devaar becomes powerful by controlling the systems people physically depend on:
+
+- preservation medicine
+- augmentation
+- chips
+- bodily identification
+- treatment access
+- dependency through medicine
+
+This makes House Devaar feel like an evolved historical consequence rather than a random powerful family.
+
+### NPC System Relationship Model
+
+A new test model was created for NPC behavior.
+
+The current stack is:
+
+> System Relationship  
+> Location Pressure  
+> Group Pressure  
+> Personal State
+
+This replaced the simpler idea of a single global condition.
+
+Regulatus does not apply to everyone in the same way.
+
+NPCs may relate to the system as:
+
+- Believer
+- Rejector
+- Damaged Believer
+- Outsider
+- Performer / Manipulator
+
+House Ventari belongs closest to Performer / Manipulator.
+
+They know the reason behind the word, but play along as if they do not.
+
+This echoes the private-language structure from Phil and Abby, but morally inverted:
+
+- Phil and Abby: sarcasm hides affection.
+- House Ventari: pride hides control.
+
+### Fractal Design Note
+
+The NPC model follows the same deeper worldbuilding rule:
+
+> experience → emotion → reason → behavior → atmosphere → quest logic
+
+This means the method repeats at multiple scales:
+
+- world
+- city
+- group
+- NPC
+- quest
+
+The goal is to keep immersion intact.
+
+Nothing should feel strange because every layer follows the same cause-and-effect logic, even when different people reach different outcomes.
+
+### Common Terms File Created
+
+A common terms file was created to prevent naming drift.
+
+It currently locks:
+
+- Viriatus
+- Celcinus
+- AD
+- AVD
+- House Ventari
+- Ermerus Ventari
+- Rutare Ventari
+- Ilunis Ventari
+- Teresta Ventari
+- House Devaar
+- Empiran
+- Regulatus
+- Celcinus Calendar
+- Civel
+- Servan
+- Patren
+- Ludanis
+- Doma
+- Colossia
+- Legian
+- Senat
+
+### Current Priority
+
+The next major work should be:
+
+1. Update `02_Regulatus.md` with House Ventari, performer/manipulator logic, and public/private meaning.
+2. Update `04_Founding_Lines.md` with Ventari naming and the new origin logic.
+3. Create a dedicated calendar and eras file.
+4. Continue lineage building from the four Ventari siblings.
+
+---
+
 ## Priorities For Next Passes
 
 ### 1. Name the world and its political order
