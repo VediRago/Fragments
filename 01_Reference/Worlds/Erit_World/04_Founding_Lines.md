@@ -324,65 +324,87 @@ Teresta follows a different path from the others.
 
 She is determined to learn.
 
-She is academic, distant, and spends most of her time reading.
+She is academic, distant, and spends much of her life studying.
 
 Her value is not immediately visible to a family that expects useful heirs, political leverage, military strength, or direct continuation.
 
-This leads to her branch being seen as weak, especially when her line only produces daughters.
+After she has one daughter, she is cast out of the family.
 
-Over time, this becomes part of the branch's identity: a daughter-line dismissed as having a name, but nothing to show for it.
+This creates the root of her line: not power, not ideology, and not control, but exclusion.
+
+Teresta's family has no real power at the beginning.
+
+It is a rejected daughter-line trying to continue outside the structure that dismissed it.
 
 ### Emotional Imbalance
 
-Teresta's imbalance is too much mind and too much distance.
+Teresta's imbalance is distance created by study and rejection.
 
-Her wound is rejection.
+She is often away, focused on learning, research, and intellectual survival.
 
-After her first daughter is born, she is cast out by the family as a useless asset.
+Her daughter grows up watching this.
 
-She is treated as a branch with no meaningful return.
+The daughter adopts the same path, not because Teresta imposes it, but because children often learn the shape of life by watching what their parents do.
 
-Her knowledge does not yet look like power, so the family fails to value it.
+That pattern repeats across generations.
 
-This creates a long delayed path: Teresta's line does not rise immediately. It takes generations for the wound to become useful.
+The line becomes associated with study, medicine, distance, and delayed usefulness.
+
+This is not a doctrine at first.
+
+It is imitation becoming family culture.
 
 ### Historical Path
 
-Two generations later, one of the women in Teresta's line marries and establishes medical research.
+Generations later, one of Teresta's descendants marries a well-established doctor.
 
-This becomes the first real return of the branch.
+Together, they develop human augmentation.
 
-The line begins developing human augmentation and medical systems that can change the body, preserve it, identify it, and make it dependent on controlled treatment.
+This is the first time the rejected daughter-line becomes visibly useful to the wider ruling structure.
+
+What began as study outside the family becomes a practical power able to change the body, preserve it, identify it, and make treatment dependent on controlled systems.
 
 Teresta's rejected knowledge eventually becomes bodily power.
 
-Her descendants learn that medicine can return them to the ruling structure.
+Her descendants learn that medicine can become the path back into the family structure that once rejected them.
 
-### Pact With Ilunis
+### Acceptance Bargain
 
-Teresta's line eventually makes a pact with the Ilunis dynasty.
+A brother from Teresta's line makes a deal.
 
-If Teresta's descendants can create a way for all people to be chipped, they can become part of the ruling system again.
+If they can find a way to place a chip inside every person without people being directly forced, the line will be accepted back.
 
-Ilunis provides authority, enforcement, law, military pressure, and legitimacy.
+The chip system is not originally born as an abstract tool of control.
 
-Teresta provides medicine, research, cure, augmentation, and the bodily mechanism of control.
+It is born from a family wound and a desire to return.
 
-Together, they create a crisis that forces adoption.
+The problem is not only technical.
+
+It is social:
+
+> How do you make an entire population accept something inside their bodies without making it feel like open force?
+
+Teresta's line provides medicine, research, cure, augmentation, and the bodily mechanism.
+
+Other ruling powers can later use law, authority, crisis, and procedure to make the system permanent.
 
 ### Virus And Cure
 
-Teresta's line releases a virus and then presents the cure.
+The implementation develops through a medical crisis.
 
-The virus disappears soon after, but the cure introduces or requires the chip system.
+Teresta's line releases or enables a virus and then presents the cure.
 
-Once people are chipped, the emergency ends, but the infrastructure remains.
+The cure introduces or requires the chip system.
 
-This turns a temporary medical crisis into permanent bodily governance.
+People accept the chip because it arrives as survival, medicine, and treatment rather than naked coercion.
+
+Once people are chipped, the emergency can end, but the infrastructure remains.
+
+This turns a temporary medical solution into permanent bodily governance.
 
 The public story is survival.
 
-The hidden result is mass identification and control.
+The hidden result is mass identification, medical dependency, and control.
 
 ### Modern System
 
@@ -400,11 +422,11 @@ Teresta's descendants may control:
 
 This line eventually leads toward Erit and the Devaar family.
 
-That means Erit's family power is rooted in a rejected daughter-line that returned to authority by turning medicine into necessity.
+That means Erit's family power is rooted in a rejected daughter-line that returned to authority by making medicine necessary.
 
 ### Key Question
 
-How does Teresta turn rejection into medicine, and medicine into dependency?
+How does Teresta turn exile, imitation, and delayed knowledge into medicine, augmentation, and bodily dependency?
 
 ---
 
