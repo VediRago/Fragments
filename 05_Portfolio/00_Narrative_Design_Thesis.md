@@ -1,4 +1,4 @@
-# Narrative Design Thesis
+# What I Started Noticing About Story Structure
 
 While developing **Fragments**, I kept returning to one question:
 
@@ -6,45 +6,39 @@ While developing **Fragments**, I kept returning to one question:
 
 I did not start with a theory.
 
-I started with scenes, characters, and questions that kept growing as I worked on them after work.
+I started with scenes, characters, and questions that kept growing as I worked on them.
 
-At first, I was exploring outcomes. If different outcomes exist, then different states must also exist. As the project developed, I started noticing that the same idea could apply to the reader.
+At first, I was thinking about outcomes inside the story. If different outcomes exist, then different states must also exist. As the project developed, I started noticing that the same idea could apply to the reader.
 
 Different readers notice different things. They trust different details. They make different assumptions. They may leave the same story with different conclusions, even if the story itself never changes.
 
 That became one of the main things I learned while building Fragments.
 
-I do not see this as me inventing a new kind of branching system. It is something I found through the work. Satisfaction does not always come from giving different endings. Sometimes it comes from allowing different readers to reach different understandings of the same ending.
+I do not see this as me inventing a new kind of branching system. It is something I found through the work. Sometimes the events do not branch, but perception does.
 
-## The Reward Is Being Right
+## A Magic Trick Without Hiding The Object
 
-One thing I became interested in was rewarding attention.
+One of the clearest ideas I found is that a reveal does not always need hidden information.
 
-I did not want information to be completely hidden. I wanted the reader to have enough to build a conclusion, even if that conclusion was not complete yet.
+It can work like a magic trick without hiding the object.
 
-When a reader notices something and later realizes it mattered, the reward is not only the reveal.
+The object is visible from the beginning.
 
-The reward is being right.
+The reader can see it.
 
-For that to work, the structure underneath has to hold. Misdirection can be useful, but it has to be fair. A conclusion may later become incomplete, but it should still make sense based on what the reader knew at the time.
+They just do not yet have the perception needed to understand why it matters.
 
-## Realization, Not Explanation
+That interested me because it changed how I thought about setup. A detail does not always need to be hidden. Sometimes it only needs to be ordinary enough that the reader accepts it before they understand it.
 
-A lot of Fragments grew around realization rather than explanation.
+The reveal is not:
 
-I became interested in moments where the reader does not receive a direct answer, but suddenly starts seeing the story differently.
+> Here is the object.
 
-The answer may have been visible from the beginning.
+The reveal is:
 
-Recognition comes later.
+> You were looking at it the whole time.
 
-Noeme became one small example of that. The name can be read as "Know Me" or "One Me," but those meanings only matter once the story gives enough context to recognize them.
-
-The letters were always there.
-
-The reader changes.
-
-## Reader Perception And Payoff
+## Perception Creates Outcome
 
 While developing Fragments, I noticed that the same scene can give different readers different levels of payoff.
 
@@ -56,79 +50,115 @@ The story remains the same.
 
 What changes is the reader's perception.
 
-This became especially important for scenes built around misdirection, subtext, and delayed realization. The information should not feel hidden. The stronger effect comes when the information was already present, but only becomes meaningful once perception changes.
+That became important to me because it means a story can create different outcomes without presenting a direct choice.
 
-It is like a magic trick where nothing was actually hidden.
+The reader is not always asked to choose between two options.
 
-The answer was visible from the beginning.
+Sometimes the outcome depends on what they notice.
 
-The realization comes when the reader finally knows how to look.
+## Fair Misdirection
 
-## Connection Was Already There
+Misdirection only works for me if the earlier assumption was reasonable at the time.
 
-One of the most useful things I learned while writing Fragments came from Sera.
+I do not want the reader to feel lied to.
 
-At first, I assumed emotional impact required more connection.
+I want the reader to feel that their conclusion made sense with the information they had, even if later information changes the shape of it.
 
-Sera's final scene challenged that assumption.
+A wrong assumption should not feel stupid.
 
-While revising it, I removed parts I thought were necessary. Instead of weakening the moment, the scene became stronger for me.
+It should feel incomplete.
 
-The connection was already there.
+That is why the structure underneath has to hold. If the loose ends do not connect, the reader may not feel challenged. They may feel cheated, as if nothing had consequence.
 
-That changed how I approached later scenes. I started paying more attention to what earlier interactions were already carrying, instead of adding more explanation on top of them.
+Confusion can exist.
 
-## Feeling Opens Realization
+But it cannot be careless.
 
-The goal was not to explain ideas.
+There still has to be cause, consequence, and connection underneath it.
 
-The goal was to use feeling to create the conditions for realization.
+## Story, Experience, Emotion, Reason
 
-That realization is not guaranteed. A reader may miss it. Another may notice it early. Another may only understand it after looking back.
+Another thing I started noticing is that story comes before systems.
 
-Those different responses became part of what interested me.
+Story creates experience for a character.
 
-Not every reader reaches the same outcome, because not every reader notices the same things at the same time.
+A character lives through something: war, rejection, being used, being protected too much, being abandoned, being loved, being betrayed.
 
-## Complexity Has To Return
+That experience shapes emotion.
 
-While working on Fragments, I often found myself exploring increasingly complex ideas.
+The emotion then finds a reason.
 
-What helped me stay grounded was making sure those ideas eventually returned to the characters and their experiences.
+That reason shapes behavior.
 
-If they did not, they did not belong in the story.
+If the behavior repeats, it can become atmosphere, family pattern, culture, or system.
 
-The deeper structure matters because it keeps the story from collapsing into a cheap answer. It allows misdirection, tragedy, and hidden connections to feel satisfying when the reader looks back.
+The chain I keep returning to is:
 
-But the reader does not experience the structure first.
+> story → experience → emotion → reason → behavior → atmosphere → consequence
 
-The reader experiences people.
+For game-facing ideas, that can become:
+
+> story → experience → emotion → reason → behavior → atmosphere → quest logic
+
+This helped me understand why the same action can mean different things to different characters.
+
+A weapon is not automatically a useful gift. To a war veteran, it may bring back the thing that damaged them.
+
+A coin is not always kindness. If a player gives it before needing anything, it can feel like recognition. If they give it only when they need information, it can feel transactional.
+
+The action is the same.
+
+The meaning changes because the character's experience changes how they receive it.
 
 ## Unity
 
 Unity grew from these same questions.
 
-Inside the story, Unity is a tragedy. It is not simply an ending. It is the loss of something essential while existence continues.
+Inside the story, Unity is a tragedy. A character continues to exist, but loses stable self-perception.
 
-The challenge was not explaining that idea.
+The question that led me there was:
 
-The challenge was making the reader feel what the character goes through.
+> How do I make the reader feel what the character goes through?
 
-The reader is never directly told the structure exists.
+Not by explaining it.
 
-The tragedy is not only what happens.
+Not by telling the reader what to feel.
 
-The tragedy is recognizing how it feels.
+But by building the story so the experience happens first, and the realization can come later.
 
-Some readers may eventually realize that they have been experiencing a smaller version of that state throughout the story. Others may pass through the same events without making that connection.
+As the story moves forward, the prose becomes more stripped. Description gives way to movement, repeated lines, interruption, and fragments of experience.
 
-Neither experience is wrong.
+Some readers may notice that change.
 
-The difference is the payoff.
+Others may only feel it.
 
-The reader who reaches realization understands how the character feels and can still leave the story.
+That difference became important to me.
+
+If a reader notices the prose changing, they may realize they have experienced a smaller version of what happens to the character.
+
+They can step back and understand the tragedy.
 
 The character cannot.
+
+If a reader does not notice the structure, they still experience something closer to what the character experiences: disorientation, overlap, and being pulled through something they do not fully understand.
+
+That second outcome is the scarier one to me.
+
+Not the one where I understand what happened.
+
+The one where I do not notice the structure at all.
+
+Because then I am inside something, being changed by it, without realizing the shape of it.
+
+Maybe the scariest outcome is not knowing you are already inside it.
+
+For that to work, the structure underneath still has to hold.
+
+If the loose ends do not connect, the reader may not feel challenged. They may feel cheated, as if the story is only confusing because nothing has consequence.
+
+The experience can be disorienting, but it cannot be careless.
+
+There still has to be cause, consequence, and connection underneath it.
 
 ## What This Project Taught Me
 
@@ -139,5 +169,7 @@ It taught me that meaning can be felt before it is understood.
 It taught me that explanation is not always the strongest way to communicate an idea.
 
 It taught me that connection can already exist before I recognize it.
+
+It taught me that small visible details can become anchors for larger systems.
 
 Most of all, it taught me that complex ideas only matter when they return to people, feeling, and experience.
