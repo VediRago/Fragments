@@ -58,7 +58,13 @@ Ilunis is sent into violence and war because he is useful.
 
 His usefulness costs him his body.
 
-He becomes maimed.
+He is maimed during the **Battle of Augunar**, while defending Ventari lands from invaders.
+
+During the commotion of battle, Ilunis falls from his horse and is crushed beneath the movement of bodies, armor, hooves, and panic.
+
+He survives, but his lower body is permanently damaged.
+
+After Augunar, he is maimed, barely able to walk, and still expected to carry duty.
 
 While Ilunis carries wounds from serving the family, Viriatus rises.
 
@@ -69,6 +75,29 @@ Near death, Ecalus begins to see Viriatus as the son he never truly had, or the 
 Ilunis sees this.
 
 He sees Viriatus treated as destined while he himself feels like a tool that has been used and left damaged.
+
+---
+
+## Battle Of Augunar
+
+The Battle of Augunar is the defining physical wound of Ilunis.
+
+Publicly, Augunar can be remembered as proof of Ilunis's sacrifice.
+
+He defended Ventari lands from invaders and paid with his body.
+
+Privately, Augunar becomes the source of his bitterness.
+
+He gave his body to House Ventari, but his wound did not earn him the place he believed sacrifice should have earned.
+
+Instead, Viriatus received attention, love, and symbolic importance.
+
+This makes Augunar important because it gives Ilunis a wound that is both public and private:
+
+- public meaning: noble sacrifice
+- private meaning: unpaid debt
+
+That contradiction lets Ermerus manipulate him later.
 
 ---
 
@@ -315,4 +344,3 @@ That makes them more grounded than simple enforcers.
 - Does Rutare suspect Ilunis's role while formalizing the official story?
 - When does Teresta learn that Ilunis killed Viriatus?
 - How do Ilunis's descendants remember him: hero, protector, judge, or hidden murderer?
-- What physical wound or maiming defines Ilunis visually?
