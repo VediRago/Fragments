@@ -186,15 +186,51 @@ This became another example of the treasure-map method.
 
 A small practical worldbuilding problem revealed a buried political and emotional foundation.
 
+### Calendar Correction
+
+The original thought was AVD, but that only makes sense after the name Viriatus is established.
+
+At this stage, the figure was still an unnamed founder connected to the statue.
+
+The world also needed evidence that an older calendar existed before the Regulatus reset.
+
+So the older calendar is connected to **Celcinus**, the remembered founder of Rome's old civic order.
+
+Celcinus does not need to be a major character yet.
+
+His purpose is to show that time was already being counted before House Ventari rewrote history.
+
+The calendar layers become:
+
+- **Celcinus Calendar** — older Roman-derived civic calendar, tied to Celcinus and the old order.
+- **AD** — After Death, created after the death of the unnamed founder later mythologized as Viriatus.
+- **AVD** — possible later doctrinal interpretation once Viriatus becomes the official mythic name.
+
+Early meaning:
+
+> AD means After Death.
+
+Public meaning:
+
+> after the Founder’s sacred death.
+
+Later official meaning:
+
+> after Viriatus's sacrifice.
+
+Forbidden meaning:
+
+> after House Ventari murdered the unnamed founder and stole his legacy.
+
 The calendar itself becomes propaganda.
 
 To loyal citizens:
 
-> 582 AVD means 582 years after Viriatus's sacrifice gave civilization order.
+> 582 AD means 582 years after the Founder’s sacrifice gave civilization order.
 
 To rebels or forbidden historians:
 
-> 582 AVD means 582 years after House Ventari murdered him and stole his legacy.
+> 582 AD means 582 years after House Ventari murdered him and stole his legacy.
 
 Same date.
 
