@@ -22,11 +22,11 @@ The displaced founder whose stolen legacy is used by House Ventari to establish 
 
 The house that hides Viriatus's arrival, shapes him, uses him, kills him, and later rules through the doctrine built from his death.
 
-### Caelus Ventari
+### Ecalus Ventari
 
 Working name for the Ventari father.
 
-Caelus Ventari begins by using Viriatus as a weapon, proof, and advantage.
+Ecalus Ventari begins by using Viriatus as a weapon, proof, and advantage.
 
 Near death, he begins to see Viriatus as the son he never truly had, or the son he wishes his own sons had been.
 
@@ -58,7 +58,7 @@ So the order is:
 > → House Ventari wages ideological war against the old Roman order  
 > → Viriatus defeats the old order  
 > → Viriatus conquers beyond Rome and proves Ventari order  
-> → Caelus Ventari dies before establishing the next step  
+> → Ecalus Ventari dies before establishing the next step  
 > → Ermerus takes the reins  
 > → Ilunis kills Viriatus  
 > → public story becomes noble death in war  
@@ -93,13 +93,13 @@ This era includes:
 - Servan finding Viriatus
 - House Ventari hiding his arrival
 - Viriatus being taught, trained, shaped, and used
-- Caelus Ventari using Viriatus as proof, weapon, and advantage
+- Ecalus Ventari using Viriatus as proof, weapon, and advantage
 - House Ventari framing the old Roman order as weak, corrupt, exploitative, and unable to protect its people
 - war against the old Roman order
 - Viriatus defeating the old order
 - Viriatus conquering beyond Rome
 - the public beginning to see Viriatus as the one who should lead civilization
-- Caelus slowly beginning to care for Viriatus as a son
+- Ecalus slowly beginning to care for Viriatus as a son
 - Ermerus watching that emotional shift
 - Ilunis becoming maimed and resentful
 - Viriatus becoming too loved and symbolically dangerous
@@ -252,7 +252,7 @@ House Ventari hides the truth and takes control of him.
 
 Viriatus learns language, reading, writing, Roman-derived culture, hierarchy, family, and warfare.
 
-Caelus Ventari uses him as proof that House Ventari can shape greatness.
+Ecalus Ventari uses him as proof that House Ventari can shape greatness.
 
 ### Year -15 to -10 AD — War Against The Old Roman Order
 
@@ -270,7 +270,7 @@ House Ventari uses every victory as proof of its method.
 
 People begin to love Viriatus beyond House Ventari's control.
 
-Caelus Ventari begins seeing him less as a tool and more as the son he wished he had.
+Ecalus Ventari begins seeing him less as a tool and more as the son he wished he had.
 
 This fuels Ermerus.
 
@@ -278,7 +278,7 @@ Ilunis becomes increasingly jealous, maimed, and resentful.
 
 ### Year -4 to -1 AD — Succession Fear
 
-Caelus Ventari weakens and dies before establishing the next step.
+Ecalus Ventari weakens and dies before establishing the next step.
 
 Ermerus realizes Viriatus cannot be fully owned alive.
 
@@ -340,9 +340,9 @@ Viriatus does not create Regulatus.
 
 His legacy is used by House Ventari to establish Regulatus after his death.
 
-### Caelus Ventari Does Not Finish The System
+### Ecalus Ventari Does Not Finish The System
 
-Caelus Ventari uses Viriatus alive.
+Ecalus Ventari uses Viriatus alive.
 
 Near death, he begins to love Viriatus as a son.
 
@@ -388,11 +388,11 @@ This discovery helps explain her distance from House Ventari.
 
 ## Open Questions
 
-- Is Caelus Ventari the final name for the Ventari father?
+- Is Ecalus Ventari the final name for the Ventari father?
 - How old is Viriatus when he is found?
-- How many years pass before Caelus begins to see him as a son?
-- Does Caelus die before or shortly after Viriatus's peak popularity?
-- How much time passes between Caelus's death and Viriatus's death?
+- How many years pass before Ecalus begins to see him as a son?
+- Does Ecalus die before or shortly after Viriatus's peak popularity?
+- How much time passes between Ecalus's death and Viriatus's death?
 - Who first announces the noble-death-in-war story?
 - Is Year 0 AD immediately recognized, or only formalized after several years?
 - When does the term AVD become common, if ever?
