@@ -1,81 +1,50 @@
-# How A Single Joke Becomes An Ending
+# How a Joke Reached the Ending
 
-## Narrative Design Case Study
+One thing I noticed while working on Fragments is that a small behavior can travel much further than I expected.
 
-### Problem
+Phil and Abby have a joke between them.
 
-The hospital ending needs to imply Kael's presence without directly revealing Kael.
+Abby says the wrong number on purpose.  
+Phil corrects her.
 
-The ending should function as evidence rather than explanation.
+At first, it is just them.
 
-### Constraint
+It is not meant to feel important.  
+It is not explained as setup.  
+It is just part of how they speak to each other.
 
-Direct exposition weakens the ending.
+The affection is in the correction.
 
-A final reveal explaining Kael's survival or influence would undermine the reader's role in constructing meaning.
+Later, Sera carries something similar without knowing where it came from. She mishears Kael's name as "Kill," and the mistake becomes part of their connection too.
 
-### Discovery
+That interested me because the pattern did not need to be explained. It only needed to be felt more than once.
 
-Readers learn patterns before they learn meaning.
+By the ending, I wanted Kael's presence to be possible without saying it directly.
 
-If a pattern is taught early enough, reinforced naturally, and reused later, the reader can recognize meaning without requiring explanation.
+So the ending could not stop and explain:
 
-### Setup
+"Kael is here."  
+"Kael survived."  
+"This is what happened."
 
-Philip and Abigail share a correction ritual.
+That would make the ending smaller.
 
-Abigail intentionally gives wrong answers.
+The stronger version was to let the reader recognize a pattern they had already learned.
 
-Philip corrects them.
+A correction.  
+A misnaming.  
+An echo.
 
-The behavior becomes a form of affection.
+The reader may not be certain.
 
-The reader learns the pattern as relationship texture rather than narrative setup.
+But they may feel:
 
-### Reinforcement
+> I know this shape.
 
-Sera inherits similar behavior.
+That was the useful discovery for me.
 
-She misnames Kael as "Kill".
+A reveal does not always need hidden information. Sometimes the detail was visible the whole time, but the reader did not yet have the perception to understand it.
 
-The reader continues learning that correction and misnaming are tied to familiarity, affection, and connection.
+The ending was not created at the ending.
 
-### Expansion
-
-Unity introduces another pattern.
-
-Someone speaks.
-
-Kael echoes.
-
-The reader gradually learns to associate this structure with Kael's presence.
-
-### Payoff
-
-The hospital girl speaks a single word.
-
-The moment follows a previously learned pattern.
-
-The reader is not told that Kael remains.
-
-The reader recognizes the possibility for themselves.
-
-### Result
-
-The ending avoids exposition.
-
-Meaning is produced through recognition rather than explanation.
-
-The reader completes the final connection.
-
-## Design Principle
-
-Readers learn patterns before they learn meaning.
-
-Strong reveals often occur when a story teaches recognition first and explanation second.
-
-## Punch
-
-The ending was not hidden in the final chapter.
-
-It was hidden inside a married couple's joke.
+Part of it was already there, inside a married couple's joke.
