@@ -12,6 +12,32 @@ The purpose is to make the order of events clear enough that the founding lines,
 
 ---
 
+## Locked / Working Names
+
+### Viriatus
+
+The displaced founder whose stolen legacy is used by House Ventari to establish Regulatus after his death.
+
+### House Ventari
+
+The house that hides Viriatus's arrival, shapes him, uses him, kills him, and later rules through the doctrine built from his death.
+
+### Caelus Ventari
+
+Working name for the Ventari father.
+
+Caelus Ventari begins by using Viriatus as a weapon, proof, and advantage.
+
+Near death, he begins to see Viriatus as the son he never truly had, or the son he wishes his own sons had been.
+
+He dies before creating the next order.
+
+Ermerus takes the reins after him.
+
+Name can be changed later if needed.
+
+---
+
 ## Core Timeline Principle
 
 The calendar does not begin with Viriatus being found.
@@ -29,7 +55,10 @@ So the order is:
 > Celcinus Calendar  
 > → Viriatus found  
 > → Viriatus shaped and used by House Ventari  
-> → Ventari father dies  
+> → House Ventari wages ideological war against the old Roman order  
+> → Viriatus defeats the old order  
+> → Viriatus conquers beyond Rome and proves Ventari order  
+> → Caelus Ventari dies before establishing the next step  
 > → Ermerus takes the reins  
 > → Ilunis kills Viriatus  
 > → public story becomes noble death in war  
@@ -64,13 +93,72 @@ This era includes:
 - Servan finding Viriatus
 - House Ventari hiding his arrival
 - Viriatus being taught, trained, shaped, and used
-- the Ventari father using Viriatus as proof, weapon, and advantage
-- the father slowly beginning to care for Viriatus as a son
+- Caelus Ventari using Viriatus as proof, weapon, and advantage
+- House Ventari framing the old Roman order as weak, corrupt, exploitative, and unable to protect its people
+- war against the old Roman order
+- Viriatus defeating the old order
+- Viriatus conquering beyond Rome
+- the public beginning to see Viriatus as the one who should lead civilization
+- Caelus slowly beginning to care for Viriatus as a son
 - Ermerus watching that emotional shift
 - Ilunis becoming maimed and resentful
 - Viriatus becoming too loved and symbolically dangerous
 
-### 3. Death Reset / Year 0 AD
+### 3. Old Order War
+
+House Ventari does not rise by saying only:
+
+> We deserve power.
+
+They build a case against the existing Roman order.
+
+Their propaganda frames the old order as:
+
+- weak
+- corrupt
+- exploitative
+- decayed
+- unable to protect families
+- willing to use people and abandon them
+- responsible for Rome's people being conquered, neglected, or made vulnerable
+
+This creates a stage where Viriatus can become proof.
+
+The message becomes:
+
+> Old Rome failed its people.  
+> House Ventari disciplined the impossible.  
+> Viriatus conquered because Ventari order gave him purpose.  
+> Therefore Ventari order should rule what Viriatus won.
+
+This is not yet full Regulatus.
+
+It is the political seed that Regulatus later makes permanent.
+
+### 4. World Conquest As Proof
+
+After the old Roman order is defeated, Viriatus conquers beyond Rome.
+
+This makes the Ventari claim much larger.
+
+House Ventari can say:
+
+> Our discipline did not only save Rome.  
+> It conquered the world.
+
+The propaganda shifts from opposition to destiny.
+
+At first, Viriatus proves House Ventari.
+
+Then the danger reverses.
+
+People begin to see House Ventari as important because of Viriatus, not Viriatus as important because of House Ventari.
+
+This inversion is what makes Viriatus dangerous.
+
+He becomes loved beyond ownership.
+
+### 5. Death Reset / Year 0 AD
 
 The death of Viriatus becomes the reset point.
 
@@ -94,7 +182,7 @@ At this stage, **AD** should not require everyone to say Viriatus's name.
 
 The death itself is sacred enough.
 
-### 4. Early Regulatus Era
+### 6. Early Regulatus Era
 
 After Year 0 AD, House Ventari begins formalizing the new order.
 
@@ -113,7 +201,7 @@ Regulatus turns the death into doctrine:
 > loss becomes gratitude  
 > order becomes the proof that Viriatus did not die for nothing
 
-### 5. Ventari Ascendancy
+### 7. Ventari Ascendancy
 
 House Ventari gains full ruling power after the death reset and the formalization of Regulatus.
 
@@ -130,7 +218,7 @@ They can say:
 
 This is how House Ventari turns Viriatus's stolen legacy into full authority.
 
-### 6. Later AVD Interpretation
+### 8. Later AVD Interpretation
 
 Only after the name Viriatus is fully fixed in doctrine can AD be reinterpreted or expanded as **AVD — After Viriatus's Death**.
 
@@ -152,7 +240,7 @@ This distinction matters because the myth develops over time.
 
 The following is a working structure, not final math.
 
-### Year -20 to -15 AD — Viriatus Is Found
+### Year -25 to -20 AD — Viriatus Is Found
 
 Viriatus arrives as a young teenager after a light falls from the heavens.
 
@@ -160,27 +248,37 @@ Servan find him first.
 
 House Ventari hides the truth and takes control of him.
 
-### Year -15 to -8 AD — Training And Use
+### Year -20 to -15 AD — Training And Use
 
 Viriatus learns language, reading, writing, Roman-derived culture, hierarchy, family, and warfare.
 
-The Ventari father uses him as proof that House Ventari can shape greatness.
+Caelus Ventari uses him as proof that House Ventari can shape greatness.
 
-### Year -8 to -3 AD — Conquest And Love
+### Year -15 to -10 AD — War Against The Old Roman Order
 
-Viriatus becomes useful in war and conquest.
+House Ventari frames the old Roman order as weak, corrupt, exploitative, and unable to protect its people.
 
-People begin to love him beyond House Ventari's control.
+Viriatus becomes the proof that Ventari discipline can create the strength Rome lost.
 
-The Ventari father begins seeing him less as a tool and more as the son he wished he had.
+The old order is defeated.
+
+### Year -10 to -4 AD — World Conquest And Love
+
+Viriatus conquers beyond Rome.
+
+House Ventari uses every victory as proof of its method.
+
+People begin to love Viriatus beyond House Ventari's control.
+
+Caelus Ventari begins seeing him less as a tool and more as the son he wished he had.
 
 This fuels Ermerus.
 
 Ilunis becomes increasingly jealous, maimed, and resentful.
 
-### Year -3 to -1 AD — Succession Fear
+### Year -4 to -1 AD — Succession Fear
 
-The Ventari father weakens or dies before establishing the next step.
+Caelus Ventari weakens and dies before establishing the next step.
 
 Ermerus realizes Viriatus cannot be fully owned alive.
 
@@ -242,9 +340,9 @@ Viriatus does not create Regulatus.
 
 His legacy is used by House Ventari to establish Regulatus after his death.
 
-### The Ventari Father Does Not Finish The System
+### Caelus Ventari Does Not Finish The System
 
-The Ventari father uses Viriatus alive.
+Caelus Ventari uses Viriatus alive.
 
 Near death, he begins to love Viriatus as a son.
 
@@ -290,10 +388,11 @@ This discovery helps explain her distance from House Ventari.
 
 ## Open Questions
 
+- Is Caelus Ventari the final name for the Ventari father?
 - How old is Viriatus when he is found?
-- How many years pass before the Ventari father begins to see him as a son?
-- Does the Ventari father die before or shortly after Viriatus's peak popularity?
-- How much time passes between the father's death and Viriatus's death?
+- How many years pass before Caelus begins to see him as a son?
+- Does Caelus die before or shortly after Viriatus's peak popularity?
+- How much time passes between Caelus's death and Viriatus's death?
 - Who first announces the noble-death-in-war story?
 - Is Year 0 AD immediately recognized, or only formalized after several years?
 - When does the term AVD become common, if ever?
