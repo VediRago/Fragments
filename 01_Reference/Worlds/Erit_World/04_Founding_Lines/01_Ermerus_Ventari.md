@@ -8,7 +8,7 @@ Ermerus should not be reduced to "the propaganda guy."
 
 His role is deeper:
 
-> The Ventari father used Viriatus alive.  
+> Ecalus Ventari used Viriatus alive.  
 > Ermerus learned how to use him dead.
 
 Ermerus is the transition between Viriatus as a living tool and Viriatus as a permanent doctrine.
@@ -68,9 +68,9 @@ He learns early that nobody is looking directly at him, so he can look at everyo
 
 Then Viriatus enters the family.
 
-At first, the Ventari father uses Viriatus as a weapon, proof, and advantage.
+At first, **Ecalus Ventari** uses Viriatus as a weapon, proof, and advantage.
 
-But near death, the father changes.
+But near death, Ecalus changes.
 
 He begins to see Viriatus not only as a tool, but as the son he never truly had, or the son he wishes his own sons had been.
 
@@ -95,7 +95,7 @@ Ermerus feels:
 - fear of becoming irrelevant
 - pleasure in being underestimated
 - curiosity about how people move emotionally
-- anger that Viriatus receives the father's care after entering from outside the bloodline
+- anger that Viriatus receives Ecalus's care after entering from outside the bloodline
 
 His wound is not loud like Ilunis's.
 
@@ -138,7 +138,7 @@ He learns:
 
 - how to make Rutare feel less exposed
 - how to feed Ilunis's pride
-- how to flatter his father
+- how to flatter Ecalus
 - how to seem harmless when needed
 - how to appear kind to Servan
 - how to move through rooms without becoming the target
@@ -183,24 +183,24 @@ He only needs to believe the story is slipping out of control.
 
 ---
 
-## Relationship To The Ventari Father
+## Relationship To Ecalus Ventari
 
-The father begins by using Viriatus.
+Ecalus begins by using Viriatus.
 
 Near death, he begins caring for him.
 
 That shift wounds Ermerus.
 
-Ermerus does not inherit the father's love for Viriatus.
+Ermerus does not inherit Ecalus's love for Viriatus.
 
 He inherits the usefulness of Viriatus.
 
 This creates the defining line:
 
-> The father used Viriatus alive.  
+> Ecalus Ventari used Viriatus alive.  
 > Ermerus learned how to use him dead.
 
-The father dies before fully establishing the next step.
+Ecalus dies before fully establishing the next step.
 
 Ermerus takes the reins.
 
@@ -270,7 +270,7 @@ He can believe he is protecting:
 - Teresta
 - House Ventari
 - the bloodline
-- the father's true children
+- Ecalus's true children
 - the family's future
 
 Ermerus turns:
@@ -294,7 +294,7 @@ Ermerus's defining action is twofold:
 
 This makes him the first true architect of the doctrine.
 
-The Ventari father used Viriatus as power.
+Ecalus Ventari used Viriatus as power.
 
 Ermerus turns Viriatus into permanent meaning.
 
