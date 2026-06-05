@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file defines the four founding lines that grow from the wealthy family that took in and used the displaced founder.
+This file defines the four founding lines that grow from **House Ventari**, the family that took in, shaped, used, and later killed Viriatus.
 
 Their names are not only family names.
 
@@ -10,10 +10,10 @@ They are keys.
 
 Together, their first letters form **ERIT**:
 
-- **E**rmerus
-- **R**utare
-- **I**lunis
-- **T**eresta
+- **E**rmerus Ventari
+- **R**utare Ventari
+- **I**lunis Ventari
+- **T**eresta Ventari
 
 This creates a hidden bridge between the oldest dynastic structure of the world and Erit herself.
 
@@ -37,15 +37,41 @@ The four founding lines also become bridges to Erit because their initials form 
 
 ---
 
+## Origin Frame
+
+After Viriatus's death, House Ventari cannot let society center itself around one uncontrollable figure again.
+
+Viriatus had become too loved, too mythologized, and too capable of escaping Ventari ownership.
+
+So House Ventari divides his stolen legacy into controlled routes.
+
+The four Ventari siblings become those routes.
+
+They are not sacred because they were naturally chosen.
+
+They are made sacred because House Ventari needs human pillars through which Regulatus can survive.
+
+Each sibling becomes a different way to preserve, redirect, or weaponize Viriatus's legacy.
+
+The founding lines are therefore not simply noble houses.
+
+They are the roads by which House Ventari turns a stolen founder into a civilization.
+
+---
+
 ## Design Method For The Lines
 
 Each line needs more than a political function.
 
 Each line needs a cause.
 
-The path should be:
+Use the modular worldbuilding method:
 
-> experience → emotional imbalance → behavior → historical path → modern system
+> experience -> emotion -> reason -> behavior
+
+Then only add deeper layers if they are earned:
+
+> behavior -> atmosphere -> history
 
 This prevents the houses from feeling like abstract departments.
 
@@ -55,37 +81,37 @@ They should not become:
 
 They should become:
 
-> This person lived through something, reacted to it, and that reaction became a family pattern that hardened into history.
+> This person lived through something, felt something, created a reason from it, behaved from that reason, and that behavior became a family pattern that hardened into history.
 
 The names are keys, but the emotions are the roots.
 
 The important human-condition rule is balance.
 
-Human behavior comes from emotion, experience, imbalance, and growth. None of the siblings are simply good or bad. Each one represents an imbalance that becomes history.
+Human behavior comes from experience, emotion, reason, imbalance, and growth. None of the siblings are simply good or bad. Each one represents an imbalance that becomes history.
 
 ---
 
 ## Core Function
 
-The founding lines are the paths that transform the founder's stolen legacy into the current state of Erit's world.
+The founding lines are the paths that transform Viriatus's stolen legacy into the current state of Erit's world.
 
-The displaced founder is the first stone.
+Viriatus is the first stone.
 
-The family that uses him becomes the builders.
+House Ventari becomes the builder.
 
-The four lines become the roads that carry his myth, usefulness, and wound forward through history.
+The four lines become the roads that carry his myth, usefulness, wound, and death forward through history.
 
 Each line should eventually answer one question:
 
-> Which part of the founder's legacy did this line turn into power?
+> Which part of Viriatus's stolen legacy did this line turn into power?
 
 ---
 
-## Ermerus
+## Ermerus Ventari
 
 ### Current Concept
 
-Ermerus is the last son.
+Ermerus Ventari is the last son.
 
 Because he is born after the family has already placed its strongest expectations on the others, he receives less direct pressure.
 
@@ -129,7 +155,7 @@ He learns:
 - how to feed Ilunis's pride
 - how to flatter his father
 - how to seem harmless when needed
-- how to appear kind to servants
+- how to appear kind to Servan
 - how to move through rooms without becoming the target
 - how to influence stronger people without standing in front of them
 
@@ -147,19 +173,29 @@ Ermerus is the whisper.
 
 Ermerus can turn Ilunis's emotional fuel into action by pressing the correct wound.
 
-He does not need to command Ilunis directly. He only needs to make Ilunis believe that killing the founder is justice, necessity, or the only way to avoid being erased by history.
+He does not need to command Ilunis directly. He only needs to make Ilunis believe that killing Viriatus is justice, necessity, or the only way to avoid being erased by history.
 
 ### Relationship To Viriatus
 
-To be developed.
-
-Current direction:
-
 Ermerus may see Viriatus less as a brother and more as a dangerous symbol.
 
-Viriatus threatens the family's balance because people may begin to see him as greater than the family that raised him.
+Viriatus threatens House Ventari's balance because people begin to see him as greater than the family that raised him.
 
-Ermerus understands that symbols can move people. This makes him one of the first to understand how dangerous Viriatus can become.
+Ermerus understands that symbols can move people.
+
+This makes him one of the first to understand how dangerous Viriatus can become.
+
+The danger is not only that Viriatus might take power.
+
+The danger is that Viriatus might become meaning itself.
+
+If the people love Viriatus more than House Ventari, then House Ventari no longer owns the story.
+
+Ermerus's gift is perception.
+
+He sees that the family does not need to defeat Viriatus's myth.
+
+They need to redirect it.
 
 ### Counterweight
 
@@ -196,11 +232,11 @@ How does Ermerus turn charm into influence, and influence into generations of le
 
 ---
 
-## Rutare
+## Rutare Ventari
 
 ### Current Concept
 
-Rutare is the eldest child.
+Rutare Ventari is the eldest child.
 
 He is the most sheltered.
 
@@ -219,6 +255,24 @@ He is supposed to inherit authority, but does not feel able to hold it in the op
 He learns that direct presence is dangerous because it exposes weakness.
 
 Because of this, his line eventually seeks forms of power that do not require charisma: records, procedure, inheritance systems, bureaucratic legitimacy, permissions, and hidden control.
+
+### Relationship To Viriatus And Regulatus
+
+Rutare is threatened by Viriatus in a different way from Ilunis.
+
+Ilunis sees Viriatus as a rival of strength.
+
+Rutare sees Viriatus as proof that presence can defeat inheritance.
+
+Viriatus can walk into a room and make people believe.
+
+Rutare cannot.
+
+After Viriatus's death, Rutare's path becomes useful to House Ventari because Regulatus needs daily machinery.
+
+A myth can inspire people, but procedure makes the myth unavoidable.
+
+Rutare's line becomes the way Regulatus enters ordinary life.
 
 ### Historical Path
 
@@ -253,11 +307,11 @@ What does Rutare build so that power no longer depends on being personally stron
 
 ---
 
-## Ilunis
+## Ilunis Ventari
 
 ### Current Concept
 
-Ilunis is the second son.
+Ilunis Ventari is the second son.
 
 He shows strength, determination, and the ability to act.
 
@@ -267,7 +321,7 @@ He is sent into battle, shaped by expectation, and eventually maimed.
 
 Ilunis becomes the betrayer.
 
-He is the one whose jealousy, anger, and exploitation lead him to kill the displaced founder.
+He is the one whose jealousy, anger, and exploitation lead him to kill Viriatus.
 
 ### Emotional Imbalance
 
@@ -275,11 +329,31 @@ Ilunis's imbalance is too much usefulness and too much violence.
 
 He is useful because he is strong, and that usefulness costs him his body.
 
-This creates jealousy and anger toward the displaced founder, especially if the founder is loved, mythologized, or seen as destined for rule while Ilunis is treated as a tool.
+This creates jealousy and anger toward Viriatus, especially if Viriatus is loved, mythologized, or seen as destined for rule while Ilunis is treated as a tool.
 
 His wound is not only ambition.
 
 It is the belief that being used should entitle him to authority.
+
+### Relationship To Viriatus
+
+Ilunis is the body House Ventari can use when Viriatus must be removed.
+
+He does not need to understand the whole future.
+
+He only needs to believe the killing is justified.
+
+His jealousy, pain, maiming, and sense of being used make him vulnerable to that belief.
+
+To Ilunis, killing Viriatus can feel like reclaiming what he is owed.
+
+To House Ventari, it is removal.
+
+To later Regulatus, it becomes sacrifice.
+
+This is why Ilunis is dangerous.
+
+His personal wound becomes the hand of historical theft.
 
 ### Historical Path
 
@@ -316,11 +390,11 @@ How does Ilunis turn being used into a doctrine of necessary sacrifice, authorit
 
 ---
 
-## Teresta
+## Teresta Ventari
 
 ### Current Concept
 
-Teresta follows a different path from the others.
+Teresta Ventari follows a different path from the others.
 
 She is determined to learn.
 
@@ -353,6 +427,24 @@ The line becomes associated with study, medicine, distance, and delayed usefulne
 This is not a doctrine at first.
 
 It is imitation becoming family culture.
+
+### Relationship To Viriatus And Legacy
+
+Teresta's line inherits Viriatus's wound differently from the others.
+
+Viriatus wants family, continuation, and legacy, but cannot create his own bloodline.
+
+Teresta is rejected after creating a daughter.
+
+This makes her line a strange mirror of Viriatus.
+
+Both are tied to continuity.
+
+Both are denied simple belonging.
+
+Both become useful to the larger system after being denied full agency.
+
+Teresta's line eventually turns exclusion into preservation.
 
 ### Historical Path
 
@@ -388,11 +480,13 @@ Teresta's line provides medicine, research, cure, augmentation, and the bodily m
 
 Other ruling powers can later use law, authority, crisis, and procedure to make the system permanent.
 
-### Virus And Cure
+### Virus And Cure Direction
 
-The implementation develops through a medical crisis.
+This direction is powerful but not fully locked yet.
 
-Teresta's line releases or enables a virus and then presents the cure.
+The implementation may develop through a medical crisis.
+
+Teresta's line may release, enable, exploit, or fail to prevent a virus, then present the cure.
 
 The cure introduces or requires the chip system.
 
@@ -405,6 +499,15 @@ This turns a temporary medical solution into permanent bodily governance.
 The public story is survival.
 
 The hidden result is mass identification, medical dependency, and control.
+
+This must be handled carefully so House Devaar does not become cartoon evil.
+
+The stronger version may be that different generations interpret the crisis differently:
+
+- some see it as salvation
+- some see it as opportunism
+- some see it as engineered control
+- some do not know which version is true
 
 ### Modern System
 
@@ -420,7 +523,7 @@ Teresta's descendants may control:
 - dependency through medicine
 - the technical side of mass control
 
-This line eventually leads toward Erit and the Devaar family.
+This line eventually leads toward Erit and **House Devaar**.
 
 That means Erit's family power is rooted in a rejected daughter-line that returned to authority by making medicine necessary.
 
@@ -438,4 +541,24 @@ Each line should grow only when it explains story pressure, character behavior, 
 
 The names are keys, not decoration.
 
-They should eventually land on the current state of the world by explaining how old family paths became modern systems.
+They should eventually land on the current state of the world without becoming abstract departments.
+
+Use the method only as far as each line has earned:
+
+- character / background: experience -> emotion -> reason -> behavior
+- place / culture: add atmosphere only when behavior repeats broadly
+- history / institution: add history only when atmosphere hardens over time
+- quest output: add quest logic only when designing playable pressure
+
+---
+
+## Current Open Questions
+
+- What exactly does Ermerus do after Viriatus's death to help redirect the myth?
+- How involved is Rutare in formalizing civic procedure around Regulatus?
+- Does Ilunis kill Viriatus alone, under orders, or after being emotionally guided by Ermerus?
+- How does Teresta's exile happen socially, legally, and emotionally?
+- At what generation does Teresta's line become House Devaar?
+- Is the virus/cure event engineered, exploited, misunderstood, or disputed?
+- Which line currently has the most visible authority by Erit's era?
+- Which line has the most hidden authority by Erit's era?
