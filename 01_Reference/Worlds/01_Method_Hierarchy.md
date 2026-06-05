@@ -16,7 +16,7 @@ The others are zoom levels or outputs of that method.
 
 Use this as the main method for worldbuilding, systems, cities, factions, houses, NPCs, and quest foundations:
 
-> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
+> experience -> emotion -> reason -> behavior -> atmosphere -> history -> quest logic
 
 This is the core chain.
 
@@ -30,7 +30,13 @@ The reason shapes behavior.
 
 Repeated behavior creates atmosphere.
 
-Atmosphere creates quest logic.
+When atmosphere persists through time, it becomes history.
+
+History then creates quest logic.
+
+This matters because quests should not feel like they appear from nowhere.
+
+They should feel like the current playable expression of what history already made true.
 
 ---
 
@@ -81,6 +87,10 @@ Atmosphere:
 
 > cities feel ordered, proud, watched, beautiful, formal, and quietly controlling.
 
+History:
+
+> the repeated behavior hardens into dynasties, institutions, records, chips, social shame, and inherited belief.
+
 Quest logic:
 
 > chips, permissions, treatment access, rebellion, identification, travel limits, forged records, and social shame become natural quest pressures.
@@ -99,11 +109,13 @@ It is shorthand.
 
 History here already contains:
 
-> experience -> emotion -> reason
+> experience -> emotion -> reason -> behavior -> atmosphere
 
 So the full meaning is:
 
-> history containing experience, emotion, and reason creates behavior, atmosphere, and quest pressure.
+> history created by experience, emotion, reason, behavior, and atmosphere continues to shape behavior, atmosphere, and quest pressure.
+
+The shorthand is useful because once a system has history, that history keeps producing behavior.
 
 ---
 
@@ -184,7 +196,7 @@ Consequence:
 The hierarchy is:
 
 1. Primary Method  
-   > experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
+   > experience -> emotion -> reason -> behavior -> atmosphere -> history -> quest logic
 
 2. Shorthand / Checkpoint  
    > history -> behavior -> atmosphere -> quest pressure
@@ -192,9 +204,9 @@ The hierarchy is:
 3. Quest Output  
    > world pressure -> character need -> obstacle -> possible approaches -> consequence
 
-The primary method creates the world pressure.
+The primary method creates history and world pressure.
 
-The shorthand summarizes the pressure.
+The shorthand summarizes how established history keeps shaping the present.
 
 The quest output turns that pressure into a playable situation.
 
@@ -222,6 +234,6 @@ Nothing should feel strange or pasted on because every layer follows the same ca
 
 A world detail should be able to move through the chain:
 
-> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
+> experience -> emotion -> reason -> behavior -> atmosphere -> history -> quest logic
 
 If it cannot, it may not be grounded enough yet.
