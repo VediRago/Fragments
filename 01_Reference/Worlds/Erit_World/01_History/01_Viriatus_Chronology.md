@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file establishes the rough sequence from Viriatus being found to the creation of the AD / later AVD calendar system and the rise of House Ventari's full power through Regulatus.
+This file establishes the rough sequence from Viriatus being found to the creation of the **AVD** calendar system and the rise of House Ventari's full power through Regulatus.
 
 The exact year numbers are provisional.
 
@@ -42,13 +42,15 @@ Name can be changed later if needed.
 
 The calendar does not begin with Viriatus being found.
 
-It begins when Regulatus is publicly declared as the new era built from his death.
+The old dating system is **ACD**.
 
-Before the death reset, the world uses an older Roman-derived civic calendar connected to Celcinus.
+The new era is **AVD**.
 
-After Ermerus frames the death and Regulatus comes into play, House Ventari creates or enforces **AD — After Death**.
+AVD begins when Regulatus is publicly declared as the new era built from Viriatus's death.
 
-Only later, after Viriatus becomes the fixed official mythic name, **AD** may be doctrinally interpreted as **AVD — After Viriatus's Death**.
+Before the death reset, the world uses an older Roman-derived civic calendar connected to Celcinus and counted as **ACD**.
+
+After Ermerus frames the death and Regulatus comes into play, House Ventari creates or enforces **AVD — After Viriatus's Death**.
 
 Viriatus's age when found is uncertain inside the world.
 
@@ -56,7 +58,7 @@ He appears young, around eleven, but nobody can verify this because he does not 
 
 So the order is:
 
-> Celcinus Calendar  
+> ACD / Celcinus Calendar  
 > → Viriatus found around age eleven, but uncertain  
 > → Viriatus shaped and used by House Ventari  
 > → House Ventari wages ideological war against the old Roman order  
@@ -67,15 +69,14 @@ So the order is:
 > → Ilunis kills Viriatus  
 > → public story becomes noble death in war  
 > → Ermerus declares Regulatus as the new era  
-> → AD calendar begins as After Death  
-> → House Ventari gains full ruling power  
-> → later doctrine names the age through Viriatus more directly
+> → AVD calendar begins as After Viriatus's Death  
+> → House Ventari gains full ruling power
 
 ---
 
 ## Provisional Era Structure
 
-### 1. Celcinus Calendar Era
+### 1. ACD / Celcinus Calendar Era
 
 This is the older civic calendar.
 
@@ -89,7 +90,7 @@ His purpose is to prove that time was already being counted before House Ventari
 
 This is the period between Viriatus being found and Viriatus dying.
 
-It should still be dated by the older Celcinus Calendar, not AD or AVD.
+It should still be dated by the older **ACD / Celcinus Calendar**, not AVD.
 
 This era includes:
 
@@ -183,9 +184,9 @@ The death itself happens before the calendar is fully meaningful.
 
 The calendar begins when the death is interpreted into doctrine.
 
-### 6. Regulatus Declaration / Year 0 AD
+### 6. Regulatus Declaration / Year 0 AVD
 
-Year 0 AD begins when Regulatus comes into play publicly.
+Year 0 AVD begins when Regulatus comes into play publicly.
 
 This is the new era moment.
 
@@ -193,11 +194,7 @@ Ermerus uses the death, the war story, and public grief to declare the order tha
 
 Calendar result:
 
-> AD begins as After Death.
-
-At this stage, **AD** should not require everyone to say Viriatus's name.
-
-The death itself is sacred enough.
+> AVD begins as After Viriatus's Death.
 
 A possible founding speech frame:
 
@@ -211,7 +208,7 @@ A possible founding speech frame:
 
 ### 7. Early Regulatus Era
 
-After Year 0 AD, House Ventari begins formalizing the new order.
+After Year 0 AVD, House Ventari begins formalizing the new order.
 
 Ermerus shapes the meaning.
 
@@ -245,29 +242,13 @@ They can say:
 
 This is how House Ventari turns Viriatus's stolen legacy into full authority.
 
-### 9. Later AVD Interpretation
-
-Only after the name Viriatus is fully fixed in doctrine can AD be reinterpreted or expanded as **AVD — After Viriatus's Death**.
-
-This should be later than the first death reset.
-
-The early calendar says:
-
-> After Death.
-
-Later doctrine says:
-
-> After Viriatus's Death.
-
-This distinction matters because the myth develops over time.
-
 ---
 
 ## Provisional Relative Timeline
 
 The following is a working structure, not final math.
 
-### Year -25 to -20 AD — Viriatus Is Found
+### Year -25 to -20 AVD / Late ACD — Viriatus Is Found
 
 Viriatus arrives after a light falls from the heavens.
 
@@ -279,13 +260,13 @@ Servan find him first.
 
 House Ventari hides the truth and takes control of him.
 
-### Year -20 to -15 AD — Training And Use
+### Year -20 to -15 AVD / Late ACD — Training And Use
 
 Viriatus learns language, reading, writing, Roman-derived culture, hierarchy, family, and warfare.
 
 Ecalus Ventari uses him as proof that House Ventari can shape greatness.
 
-### Year -15 to -10 AD — War Against The Old Roman Order
+### Year -15 to -10 AVD / Late ACD — War Against The Old Roman Order
 
 House Ventari frames the old Roman order as weak, corrupt, exploitative, and unable to protect its people.
 
@@ -293,7 +274,7 @@ Viriatus becomes the proof that Ventari discipline can create the strength Rome 
 
 The old order is defeated.
 
-### Year -10 to -4 AD — World Conquest And Love
+### Year -10 to -4 AVD / Late ACD — World Conquest And Love
 
 Viriatus conquers beyond Rome.
 
@@ -307,7 +288,7 @@ This fuels Ermerus.
 
 Ilunis becomes increasingly jealous, maimed, and resentful.
 
-### Year -4 to -1 AD — Succession Fear
+### Year -4 to -1 AVD / Late ACD — Succession Fear
 
 Ecalus Ventari weakens and dies before establishing the next step.
 
@@ -319,7 +300,7 @@ Rutare is pressured into procedure and survival.
 
 Teresta remains distant from the true center of the plot.
 
-### Pre-Year 0 AD — Viriatus Dies
+### Pre-Year 0 AVD / Late ACD — Viriatus Dies
 
 Private truth:
 
@@ -333,15 +314,15 @@ Ermerus organizes the mask.
 
 The death becomes sacred material, but the era is not fully born until Regulatus is declared.
 
-### Year 0 AD — Regulatus Is Declared
+### Year 0 AVD — Regulatus Is Declared
 
 Ermerus frames the death as sacrifice and declares the new order.
 
-AD begins as After Death.
+AVD begins as After Viriatus's Death.
 
 This is the official new era.
 
-### Year 1 to 10 AD — Regulatus Is Formalized
+### Year 1 to 10 AVD — Regulatus Is Formalized
 
 Rutare formalizes the procedures.
 
@@ -351,7 +332,7 @@ House Ventari consolidates authority.
 
 Regulatus becomes the method that turns grief, pride, and gratitude into obedience.
 
-### Year 10+ AD — Full Ventari Rule
+### Year 10+ AVD — Full Ventari Rule
 
 House Ventari now has the ideological foundation to rule fully.
 
@@ -359,13 +340,7 @@ The four founding lines begin hardening into historical paths.
 
 The death reset becomes normal.
 
-Older Celcinus dating begins to feel like pre-order history.
-
-### Later Generations — AVD Becomes Possible
-
-Once Viriatus's name is fixed into doctrine, some records or later teaching may reinterpret AD as AVD.
-
-This should be treated as a later doctrinal development, not the first calendar name.
+Older ACD / Celcinus dating begins to feel like pre-order history.
 
 ---
 
@@ -407,11 +382,11 @@ into:
 
 This is the bridge into Regulatus.
 
-### AD Begins With Regulatus
+### AVD Begins With Regulatus
 
-AD does not begin merely because Viriatus dies.
+AVD does not begin merely because Viriatus dies.
 
-AD begins when Ermerus turns the death into the declared new era of Regulatus.
+AVD begins when Ermerus turns the death into the declared new era of Regulatus.
 
 This makes the calendar part of doctrine, not just recordkeeping.
 
@@ -445,9 +420,8 @@ This discovery helps explain her distance from House Ventari.
 - Is Viriatus truly around eleven when found, or only perceived as eleven?
 - How many years pass before Ecalus begins to see him as a son?
 - Does Ecalus die before or shortly after Viriatus's peak popularity?
-- How much time passes between Ecalus's death, Viriatus's death, and the Year 0 AD declaration?
+- How much time passes between Ecalus's death, Viriatus's death, and the Year 0 AVD declaration?
 - Who first announces the noble-death-in-war story?
-- Is Year 0 AD declared immediately after the funeral, or after a short period of mourning and preparation?
-- When does the term AVD become common, if ever?
+- Is Year 0 AVD declared immediately after the funeral, or after a short period of mourning and preparation?
 - How quickly does House Ventari gain full authority after Regulatus begins?
-- How many generations pass from Year 0 AD to Erit's era?
+- How many generations pass from Year 0 AVD to Erit's era?
