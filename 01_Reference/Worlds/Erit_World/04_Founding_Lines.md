@@ -107,7 +107,65 @@ Each line should eventually answer one question:
 
 ---
 
+## Shared Mask After Viriatus's Death
+
+The public story is:
+
+> Viriatus died a noble death in war.
+
+The private truth is:
+
+> Ilunis killed him after Ermerus turned his wound into family duty.
+
+This creates the first great mask of House Ventari.
+
+The siblings do not all know or relate to the truth in the same way.
+
+### Ermerus Ventari
+
+Ermerus knows he shaped the killing.
+
+He becomes the grieving interpreter who turns the death into meaning.
+
+His mask is sorrow, ceremony, and necessity.
+
+### Ilunis Ventari
+
+Ilunis knows he killed Viriatus.
+
+He survives by wearing the mask of tragic protector instead of murderer.
+
+Duty is the only version of the act he can survive.
+
+### Rutare Ventari
+
+Rutare plays along because he is controlled by everyone in the family.
+
+He lacks the strength to break the narrative.
+
+His survival instinct becomes procedure.
+
+He helps formalize the official version because procedure gives him somewhere to hide.
+
+### Teresta Ventari
+
+Teresta does not know the truth at first.
+
+She later discovers that the sacred order was built on a masked murder.
+
+That discovery becomes one reason she distances herself from House Ventari.
+
+Her distance should not feel random.
+
+It grows from realizing that the family’s order is not clean, sacred, or honest.
+
+---
+
 ## Ermerus Ventari
+
+Full file:
+
+> `04_Founding_Lines/01_Ermerus_Ventari.md`
 
 ### Current Concept
 
