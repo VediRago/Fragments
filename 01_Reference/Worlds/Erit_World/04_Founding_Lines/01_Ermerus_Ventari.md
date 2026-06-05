@@ -21,13 +21,18 @@ Ermerus does not kill Viriatus with his own hand.
 
 He kills him through Ilunis's wound.
 
-He sees Ilunis's jealousy, pain, maiming, and humiliation, then turns those emotions into a reason for action.
+He sees Ilunis's jealousy, pain, maiming, and humiliation, then turns those emotions into a noble reason for action.
 
 After Viriatus dies, Ermerus turns public grief into Regulatus.
 
 His gift is not propaganda as a job.
 
 His gift is seeing what people need to believe before they know they need to believe it.
+
+He uses the same gift at two scales:
+
+- Ilunis's wound becomes protection of the bloodline.
+- Public grief becomes protection of the whole.
 
 ---
 
@@ -242,6 +247,44 @@ To Regulatus, it becomes sacrifice.
 
 ---
 
+## The Line That Moves Ilunis
+
+Ermerus's manipulation works because he gives Ilunis's private jealousy a noble mask.
+
+He does not say:
+
+> Kill him because you hate him.
+
+He gives Ilunis a reason that feels protective:
+
+> After all these years, Father still does not see your wound. You are maimed, barely able to walk, and still he looks at Viriatus like the son he wished he had. You threw your life away for Father, and he gave the place beside him to someone who is not even our blood.
+
+The phrase **our blood** matters.
+
+It makes Ilunis feel that he is not acting only from jealousy.
+
+He can believe he is protecting:
+
+- Rutare
+- Ermerus
+- Teresta
+- House Ventari
+- the bloodline
+- the father's true children
+- the family's future
+
+Ermerus turns:
+
+> private jealousy
+
+into:
+
+> family duty
+
+This is the same talent he later uses at a larger scale.
+
+---
+
 ## Defining Action
 
 Ermerus's defining action is twofold:
@@ -265,10 +308,28 @@ If Viriatus dies as a betrayal, House Ventari loses legitimacy.
 
 If Viriatus dies as a sacrifice, House Ventari gains eternity.
 
-So Ermerus creates the next step:
+So Ermerus creates the next step.
 
-> Viriatus did not die because House Ventari feared him.  
-> Viriatus died so order could survive.
+He uses the same gift he used on Ilunis, but at the scale of civilization.
+
+Ilunis's wound becomes:
+
+> protect our blood.
+
+Public grief becomes:
+
+> protect the whole.
+
+A possible first Regulatus framing:
+
+> Viriatus did not fall so one man could rule.  
+> He rose so order could survive.  
+> What he gave must not be scattered by grief.  
+> What he won must be preserved by discipline.  
+> Power without order is danger.  
+> Order gives power purpose.  
+> Viriatus proved this.  
+> Regulatus preserves it.
 
 This is the emotional bridge into Regulatus.
 
