@@ -6,11 +6,14 @@ The project is early and self-taught. I started it on **20/05/2026** while worki
 
 This portfolio is not meant to present finished professional work.
 
+It is a development portfolio meant to show evidence of how I think, revise, organize complex material, and turn character and world details into clearer story and game-facing structure.
+
 It is meant to show:
 
 - what I am trying to understand
 - how I test story and worldbuilding ideas
 - how I connect character, history, pressure, and consequence
+- how I revise when something becomes unclear
 - how the project changed through questioning and revision
 
 ## Recommended Reading Path
@@ -27,7 +30,7 @@ Read these first. They are the clean public route.
 
 ## Project Branches
 
-The repo is being separated into two connected branches.
+The repo is separated into two connected branches.
 
 ### Fragments Story
 
