@@ -13,11 +13,33 @@ I am presenting it as a record of what I am trying to understand:
 - whether a repeated detail can become a clue, then a reveal, then a payoff
 - whether world pressure can lead toward quests, conflicts, and consequences
 
-This repository contains portfolio pages, prose samples, character notes, act structure, early drafts, worldbuilding files, and reference material.
+## Project Branches
+
+This repository currently contains two connected project branches and one public-facing branch.
+
+### Fragments Story
+
+[Fragments_Story/README.md](Fragments_Story/README.md)
+
+The main story branch: prose, characters, acts, Unity, scene bridges, emotional payoff, and reader perception.
+
+### Erit Worldbuilding
+
+[Erit_Worldbuilding/README.md](Erit_Worldbuilding/README.md)
+
+The worldbuilding branch: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, and the world Erit inherits.
+
+### Portfolio
+
+[Portfolio/README.md](Portfolio/README.md)
+
+The public-facing branch: clean summaries, selected samples, and learning-process notes.
+
+The older source files still exist in their current folders while the repo is being reorganized. The new top-level folders are doorways, not full migrations yet.
 
 ## Start Here
 
-For a quick overview, begin with the portfolio folder:
+For a quick public overview, begin with the portfolio route:
 
 [05_Portfolio/README.md](05_Portfolio/README.md)
 
@@ -25,9 +47,10 @@ Recommended reading order:
 
 1. [Portfolio Index](05_Portfolio/README.md)
 2. [Erit Worldbuilding Case Study](05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
-3. [Selected Prose](05_Portfolio/03_Selected_Prose.md)
-4. [Development Process](05_Portfolio/04_Development_Process.md)
-5. [About Me as a Narrative Designer](05_Portfolio/06_About_Me_Narrative_Designer.md)
+3. [Story and Worldbuilding Learning Notes](05_Portfolio/02_Story_And_Worldbuilding_Learning_Notes.md)
+4. [Selected Prose](05_Portfolio/03_Selected_Prose.md)
+5. [Development Process](05_Portfolio/04_Development_Process.md)
+6. [About Me](05_Portfolio/06_About_Me.md)
 
 ## Worldbuilding Process
 
@@ -49,14 +72,21 @@ The current worldbuilding method I am testing is:
 > behavior -> atmosphere -> history  
 > world pressure -> character need -> obstacle -> approaches -> consequence
 
+The repo-wide clarity rule is here:
+
+[Canon Clarity Rules](00_Project/00_Canon_Clarity_Rules.md)
+
 ## Repository Structure
 
-- `05_Portfolio/` — the best entry point for readers, recruiters, and collaborators
+- `Fragments_Story/` — doorway for the main story branch
+- `Erit_Worldbuilding/` — doorway for the Erit worldbuilding branch
+- `Portfolio/` — doorway for public-facing material
+- `05_Portfolio/` — current portfolio source files
 - `04_Prose/` — selected prose scenes and excerpts
 - `03_Acts/` — act structure and story progression
 - `02_Characters/` — character reference files
 - `01_Reference/` — deeper internal notes, systems, bridges, worldbuilding, and Unity material
-- `00_Project/` — project-level planning and overview material
+- `00_Project/` — project-level planning, rules, and overview material
 - `95_Portfolio_Assets/` — exported documents and supporting assets
 
 ## Note On AI Use
@@ -67,6 +97,6 @@ The creative direction, constraints, world logic, character decisions, correctio
 
 ## Note
 
-The portfolio folder is the public entry point.
+The portfolio route is the best public entry point.
 
-The deeper reference files are part of my working process. They are useful for understanding the scale of Fragments, but they are not required reading before the portfolio pages.
+The deeper reference files are part of my working process. They are useful for understanding the scale of Fragments and Erit Worldbuilding, but they are not required reading before the portfolio pages.
