@@ -18,9 +18,15 @@ The official mythic name of the displaced founder.
 
 Viriatus is the child from another human civilization who arrives in Roman history and becomes the historical hinge of Erit's world.
 
-House Ventari hides his true arrival, shapes him into a conqueror, kills him when he becomes too beloved, and later uses his image to support Regulatus.
+House Ventari hides his true arrival, trains him, teaches him, shapes him, and uses him as an asset for control.
 
-Earlier historical layers may remember him only as the unnamed founder, the sacred death, or the statue figure.
+After Ecalus dies, Viriatus's living public meaning threatens the siblings' control of what comes next because people could gather around him as the figure for the reshaped Rome.
+
+Ilunis kills Viriatus privately after Ermerus turns jealousy into duty.
+
+Ermerus then turns Viriatus's death into public grief, ceremony, and the foundation of Regulatus.
+
+Earlier historical layers may remember Viriatus only as the unnamed founder, the sacred death, or the statue figure.
 
 The name Viriatus becomes attached later as the official mythic name.
 
@@ -52,7 +58,7 @@ Public meaning:
 
 Forbidden meaning:
 
-> after House Ventari murdered Viriatus and stole his legacy.
+> after House Ventari used Viriatus's murder to replace the old order with Regulatus.
 
 ---
 
@@ -60,7 +66,9 @@ Forbidden meaning:
 
 ### House Ventari
 
-The original ruling house that concealed Viriatus's arrival, shaped him into a conqueror, killed him when he became too powerful, and formalized Regulatus to claim his victories as inherited right.
+The original ruling house that concealed Viriatus's arrival, trained him, taught him, shaped him, and used him as an asset for control.
+
+House Ventari uses Viriatus's victories, public grief after his death, and public displeasure with the old order to replace that old order with Regulatus.
 
 House Ventari knows the public meaning of Regulatus is constructed.
 
@@ -79,7 +87,7 @@ The Ventari father.
 
 Ecalus begins by using Viriatus as a weapon, proof, and advantage.
 
-Near death, he begins seeing Viriatus as the son he never truly had, or the son he wishes his own sons had been.
+Near death, he begins seeing Viriatus as the son he wished he had.
 
 He dies before creating the next order.
 
@@ -133,9 +141,13 @@ The Roman-derived political civilization of Erit's era.
 
 The word comes from language drift from **Imperium**, but should feel like its own term rather than a direct copy of Rome.
 
-Empiran refers to the political order shaped by Viriatus, House Ventari, Regulatus, the founding lines, and later dynastic systems.
+Empiran refers to the political civilization created after House Ventari uses Viriatus's public legacy, Regulatus, the founding lines, and later dynastic systems to replace the old Roman-derived order.
 
-It should not necessarily name the entire shared world-line of Lucreta, Sera, Erit, and the hospital girl.
+Viriatus does not knowingly create Empiran as a political system.
+
+His victories, image, and stolen death become the material House Ventari uses to build it.
+
+Empiran should not necessarily name the entire shared world-line of Lucreta, Sera, Erit, and the hospital girl.
 
 ### Regulatus
 
