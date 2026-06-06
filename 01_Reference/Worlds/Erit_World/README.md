@@ -11,19 +11,25 @@ The files show how the world is being built from story pressure, emotional cause
 1. [Development Diary](00_Development_Diary.md)  
    Start here to see the design trail: what questions appeared, what was built, why details mattered, what connected back to Fragments, and what had to stay constrained.
 
-2. [Displaced Founder](01_Displaced_Founder.md)  
+2. [Calendar And Eras](00_Overview/Calendar_And_Eras.md)  
+   Locks the broad timeline, ACD / AVD, Empiran as the word for empire, and Regulatus as the order used to control the masses.
+
+3. [Displaced Founder](01_Displaced_Founder.md)  
    Defines Viriatus as the displaced child who becomes the first stone of Erit's world.
 
-3. [Regulatus](02_Regulatus.md)  
+4. [Regulatus](02_Regulatus.md)  
    Explains the ideological system built from Viriatus's death and House Ventari's control of public meaning.
 
-4. [Founding Lines](04_Founding_Lines.md)  
-   Tracks the early Ventari family lines and how personal wounds become family patterns, institutional roles, and historical pressure.
+5. [House Ventari — Founding Era](01_Founding_Era/House_Ventari.md)  
+   Explains how House Ventari uses public displeasure, Viriatus, and Regulatus to transform the old order.
 
-5. [NPC Emotional State Model](08_NPC_Emotional_State_Model.md)  
+6. [Ventari Family — Founding Era](01_Founding_Era/Ventari_Family/README.md)  
+   Tracks Ermerus, Rutare, Ilunis, and Teresta as emotional causes that later become family patterns, historical pressure, and modern systems.
+
+7. [NPC Emotional State Model](08_NPC_Emotional_State_Model.md)  
    Shows how people inside the world may believe, reject, perform, manipulate, or suffer under the systems around them.
 
-6. [Quest Example — Chip Removal](05_Quest_Example_Chip_Removal.md)  
+8. [Quest Example — Chip Removal](05_Quest_Example_Chip_Removal.md)  
    Shows one early example of how world pressure can become a playable problem.
 
 ## Current Core Chain
@@ -34,7 +40,10 @@ The worldbuilding currently follows this chain:
 > -> statue belongs to Viriatus  
 > -> Viriatus reveals a buried displacement event  
 > -> House Ventari turns him into weapon, myth, and public memory  
-> -> Regulatus grows from his death  
+> -> public displeasure with the old order allows Ventari discipline to look like rescue  
+> -> Viriatus's victories become proof  
+> -> Viriatus's private murder becomes public noble death  
+> -> Regulatus grows from the interpretation of his death  
 > -> founding lines inherit different wounds  
 > -> House Devaar eventually rises through medicine, preservation, augmentation, and bodily dependency  
 > -> Erit's era becomes shaped by identity, access, treatment, law, and control
@@ -86,3 +95,9 @@ Displacement exists in the history of Erit's world, but it must remain rare and 
 If displacement became common or scientifically understood, the mystery around Sera, Kael, and Erit would weaken.
 
 The historical founder can reinforce that displacement has happened before, but he cannot explain Unity or replace the core Fragments characters.
+
+## Archive Rule
+
+Older broad files may remain in `99_Archive/` after their useful details are migrated.
+
+If an archived file contradicts the era-based files, the era-based files win.
