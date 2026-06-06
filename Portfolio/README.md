@@ -2,31 +2,35 @@
 
 This is the best public starting point for reviewing **Fragments**.
 
+## Short Pitch
+
+**Fragments** is an early development portfolio for story, prose, worldbuilding, and game-facing structure.
+
+I am using one ongoing project to show how I think through character emotion, hidden connections, world pressure, revision, and clear documentation.
+
 The project is early and self-taught. I started it on **20/05/2026** while working full-time outside the games industry.
 
 This portfolio is not meant to present finished professional work.
 
-It is a development portfolio meant to show evidence of how I think, revise, organize complex material, and turn character and world details into clearer story and game-facing structure.
+It is meant to show evidence of how I think, revise, organize complex material, and turn character and world details into clearer story and game-facing structure.
 
-It is meant to show:
+## Start Here — Three Strongest Links
 
-- what I am trying to understand
-- how I test story and worldbuilding ideas
-- how I connect character, history, pressure, and consequence
-- how I revise when something becomes unclear
-- how the project changed through questioning and revision
+1. [Project Overview](Project_Overview.md)  
+   Shows the project at a glance: what Fragments is, what question drives it, and how the repo is organized.
 
-## Recommended Reading Path
+2. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)  
+   Shows the strongest current worldbuilding sample: how one statue became a founder, calendar, ideology, dynasty structure, NPC model, and quest pressure.
 
-Read these first. They are the clean public route.
+3. [Selected Prose](Selected_Prose.md)  
+   Shows the writing itself through selected scenes and links to the source prose files.
 
-1. [Main Repository README](../README.md)
-2. [Portfolio Index](Index.md)
-3. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)
-4. [Story and Worldbuilding Learning Notes](Story_And_Worldbuilding_Learning_Notes.md)
-5. [Selected Prose](Selected_Prose.md)
-6. [Development Process](Development_Process.md)
-7. [About Me](About_Me.md)
+## What These Files Show
+
+- [Development Process](Development_Process.md) shows how the project changed through revision, questioning, cutting, and clearer structure.
+- [Story and Worldbuilding Learning Notes](Story_And_Worldbuilding_Learning_Notes.md) shows what I am learning about story structure, perception, and worldbuilding from the project.
+- [About Me](About_Me.md) gives personal context and explains why this is a development portfolio rather than a finished professional sample.
+- [Portfolio Index](Index.md) gives the full reading path for anyone who wants more detail.
 
 ## Project Branches
 
@@ -43,14 +47,6 @@ This branch is for the main story: characters, prose, acts, Unity, emotional pay
 [Erit Worldbuilding](../Erit_Worldbuilding/README.md)
 
 This branch is for the worldbuilding: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, and the world Erit inherits.
-
-## Strongest Current Sample
-
-The strongest current public-facing sample is:
-
-[Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)
-
-It shows how one small story detail, an emperor statue, started turning into a founder, propaganda system, calendar, family history, ideology, NPC model, and quest pressure.
 
 ## What To Expect
 
