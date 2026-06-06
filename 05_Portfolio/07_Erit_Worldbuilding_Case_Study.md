@@ -2,11 +2,13 @@
 
 ## Purpose
 
-This case study shows how Erit's world is being built as a narrative design exercise.
+This case study shows how Erit's world is being built as a narrative design learning exercise.
+
+The work is early. It comes from roughly 15 days of writing, testing, reorganizing, and learning outside of my full-time job.
 
 The goal is not to present a finished fictional encyclopedia.
 
-The goal is to show how one existing story detail can become a world system when it is followed through pressure, emotion, history, and consequence.
+The goal is to show what I have started learning about turning one story detail into a world system by following pressure, emotion, history, and consequence.
 
 ## Starting Point
 
@@ -31,9 +33,10 @@ The current worldbuilding chain is:
 > -> Viriatus is a displaced child found after a light falls from the heavens  
 > -> Servan find him first  
 > -> House Ventari hides the truth and shapes him  
+> -> public displeasure with the old order lets Ventari discipline look like rescue  
 > -> Viriatus becomes weapon, proof, advantage, and myth  
-> -> House Ventari builds legitimacy from him  
-> -> his private murder becomes public sacrifice  
+> -> House Ventari builds legitimacy from what he wins  
+> -> his private murder becomes public noble death  
 > -> Ermerus declares Regulatus  
 > -> AVD begins  
 > -> founding lines inherit different wounds  
@@ -44,7 +47,7 @@ The aim is to make the world feel like it emerged from consequences rather than 
 
 ## Core Method
 
-The method used for the world is:
+The method I am testing is:
 
 > experience -> emotion -> reason -> behavior
 
@@ -65,6 +68,37 @@ The wound becomes a reason.
 The reason becomes behavior.
 
 If the behavior lasts long enough, it can become atmosphere, tradition, law, or history.
+
+## Example — House Ventari's Public Justification
+
+House Ventari does not publicly justify reshaping Rome by revealing Viriatus's hidden origin.
+
+They hide that origin.
+
+Their public justification comes from the old order's failures.
+
+### Experience
+
+The old Rome-derived order is corrupt, starving, losing important lands, being seized by enemies, and failing to protect families.
+
+### Emotion
+
+People feel fear, hunger, humiliation, resentment, betrayal, grief, and exhaustion.
+
+### Reason
+
+> If the old order cannot feed us, defend us, protect our families, or hold our lands, then it has lost the right to rule.
+
+### Behavior
+
+People become willing to accept Ventari discipline because it promises protection, food, stability, victory, order, and survival.
+
+This creates the stage where Viriatus can become public proof:
+
+> Old Rome failed its people.  
+> House Ventari disciplined the impossible.  
+> Viriatus conquered because Ventari order gave him purpose.  
+> Therefore Ventari order should rule what Viriatus won.
 
 ## Example — Ilunis Ventari
 
@@ -201,7 +235,7 @@ Possible system relationships include:
 
 House Ventari belongs closest to Performer / Manipulator.
 
-They know the reason behind the word, but act as if the public meaning is sacred.
+They know the reason behind Regulatus, but act as if the public meaning is sacred.
 
 This mirrors one of Fragments' private-language ideas, but morally inverted:
 
@@ -245,7 +279,7 @@ The consequence should affect more than one person because the world system is a
 
 ## What This Shows
 
-This case study is meant to show how I think about worldbuilding for narrative design.
+This case study is meant to show how I am learning to think about worldbuilding for narrative design.
 
 I am trying to avoid adding lore only because it sounds interesting.
 
