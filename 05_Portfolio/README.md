@@ -70,44 +70,41 @@ The other files in this section are not meant to present a finished world yet.
 
 They show how I started thinking through people and worldbuilding. I kept asking why a person behaves a certain way, how a wound can become history, how a family can turn behavior into a system, how belief can make control feel normal, and how world pressure can eventually create choices and consequences.
 
-This section has three simple parts.
-
-**World Logic** explains why the world works the way it does.
-
-**Findings** records what I noticed while building it.
-
-**Quest Examples** are not meant to show finished quests. They show how a world can begin to create conflicts once enough pressure exists.
-
 Start here if you want to see how the worldbuilding works.
+
+### Public-Facing Worldbuilding Sample
+
+1. [Erit Worldbuilding Case Study](07_Erit_Worldbuilding_Case_Study.md)  
+   A polished case study showing how one statue became a founder, calendar, ideology, dynasty structure, NPC model, and quest pressure.
 
 ### World Logic
 
-1. [Worldbuilding Method](../01_Reference/Worlds/00_Worldbuilding_Method.md)  
+2. [Worldbuilding Method](../01_Reference/Worlds/00_Worldbuilding_Method.md)  
    Explains how I build from story pressure first, then create systems underneath it.
 
-2. [Three Rules — Treasure Map, Key, Treasure](../01_Reference/Worlds/03_Rules.md)  
+3. [Three Rules — Treasure Map, Key, Treasure](../01_Reference/Worlds/03_Rules.md)  
    Explains how details can be noticed first, understood later, and paid off emotionally.
 
-3. [Displaced Founder](../01_Reference/Worlds/Erit_World/01_Displaced_Founder.md)  
+4. [Displaced Founder](../01_Reference/Worlds/Erit_World/01_Displaced_Founder.md)  
    Defines Viriatus as the displaced child who becomes the first stone of Erit's world.
 
-4. [Regulatus](../01_Reference/Worlds/Erit_World/02_Regulatus.md)  
+5. [Regulatus](../01_Reference/Worlds/Erit_World/02_Regulatus.md)  
    Shows early thinking about belief, pride, order, gratitude, usefulness, loyalty, and discipline.
 
 ### Findings
 
-5. [Erit World Development Diary](../01_Reference/Worlds/Erit_World/00_Development_Diary.md)  
+6. [Erit World Development Diary](../01_Reference/Worlds/Erit_World/00_Development_Diary.md)  
    Shows what was built, why it mattered, what it connected to, and what had to stay limited.
 
-6. [Founding Lines](../01_Reference/Worlds/Erit_World/04_Founding_Lines.md)  
+7. [Founding Lines](../01_Reference/Worlds/Erit_World/04_Founding_Lines.md)  
    Shows early reasoning about how character imbalance can become family pattern, history, and modern systems.
 
-7. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
+8. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
    Shows early reasoning about how people may speak, react, obey, resist, or justify what they do based on pressure and emotional history.
 
 ### Quest Examples
 
-8. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
+9. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
    Shows a small example of how a playable problem can appear after the world pressure already exists.
 
 ---
@@ -130,7 +127,7 @@ The goal is to show the reasoning and logic behind a world where old wounds can 
 
 If you are reading for **story and prose**, start with Part 1.
 
-If you are reading for **worldbuilding**, start with Part 2.
+If you are reading for **worldbuilding**, start with the [Erit Worldbuilding Case Study](07_Erit_Worldbuilding_Case_Study.md), then use the deeper reference files only if you want to see the process behind it.
 
 The prose samples are included to show the writing itself, not to explain the whole story.
 
