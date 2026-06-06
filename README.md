@@ -17,24 +17,15 @@ I am using the project to test:
 
 ## Start Here
 
-The strongest current material is the worldbuilding and systems work around Erit's world.
-
-The first worldbuilding challenge was practical: I needed a calendar and timeline for Erit's eras. That question led back to the emperor statue already inside the prose, and from there Viriatus, Regulatus, House Ventari, and the later world systems began to form.
-
 Recommended reading order:
 
-1. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
-2. [Calendar and Eras](Erit_Worldbuilding/01_History/Calendar_And_Eras.md)
-3. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
-4. [Erit Worldbuilding README](Erit_Worldbuilding/README.md)
-5. [Viriatus and Regulatus Origin](Erit_Worldbuilding/01_History/00_Viriatus_Regulatus_Origin.md)
-6. [Regulatus](Erit_Worldbuilding/01_History/02_Regulatus.md)
-7. [House Ventari](Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)
-8. [NPC Emotional State Model](Erit_Worldbuilding/04_NPC_Systems/NPC_Emotional_State_Model.md)
+1. [Portfolio Overview](Portfolio/README.md)
+2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
+3. [Calendar and Eras](Erit_Worldbuilding/01_History/Calendar_And_Eras.md)
+4. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
+5. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
 
-For a shorter public-facing overview, use the portfolio route:
-
-[Portfolio/README.md](Portfolio/README.md)
+The case study shows the shorter version of the worldbuilding process. The calendar file shows the first practical challenge that led back to the emperor statue already inside the prose. The development diary and method files show the longer working trail behind the process.
 
 ## Project Branches
 
@@ -60,15 +51,15 @@ A shorter public-facing branch with clean summaries, selected samples, and learn
 
 ## Worldbuilding Process
 
+For the shorter case-study version, read:
+
+[Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
+
 For the full working-process version of Erit's worldbuilding, read:
 
 [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
 
 The diary shows what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
-
-For the shorter case-study version, read:
-
-[Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
 
 The current worldbuilding method I am testing is:
 
