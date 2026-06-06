@@ -44,7 +44,7 @@ Regulatus is not the empire itself.
 
 Regulatus is the order used to control the masses inside the empire.
 
-During Viriatus's lifetime, House Ventari is using him to seize control of the old Rome-derived order and begin forming the empire.
+During Viriatus's lifetime, House Ventari is using him to reshape the old Rome-derived order and begin forming the empire.
 
 After Regulatus and AVD, that empire consolidates.
 
@@ -59,15 +59,10 @@ Over generations, Ventari expansion and Regulatus control allow the dynasty to c
 > -> House Ventari takes control of him  
 > -> Ecalus Ventari hides the truth and starts the plot  
 > -> Ecalus shapes Viriatus into weapon, proof, advantage, and myth  
-> -> House Ventari uses Viriatus to seize control of the old Rome-derived order  
+> -> House Ventari uses public displeasure with the old Rome-derived order to justify reshaping it  
 > -> Viriatus defeats the old order  
 > -> Viriatus conquers beyond Rome  
 > -> Ventari power expands  
-> -> Ermerus declares Regulatus  
-> -> Year 0 AVD begins  
-> -> Regulatus consolidates mass control inside the emerging empire  
-> -> Empiran becomes the later word for that empire  
-> -> over generations, Ventari expansion and Regulatus control allow the dynasty to control the world  
 > -> Ecalus dies before creating the new order  
 > -> family mourns Ecalus  
 > -> Teresta is away  
@@ -78,14 +73,28 @@ Over generations, Ventari expansion and Regulatus control allow the dynasty to c
 > -> Civel are accused of stealing jewelry during mourning  
 > -> Civel witnesses are killed  
 > -> public story becomes noble death in war  
+> -> Ermerus declares Regulatus  
+> -> Year 0 AVD begins  
+> -> Regulatus consolidates mass control inside the emerging empire  
+> -> Empiran becomes the later word for that empire  
 > -> Ventari rule consolidates  
+> -> over generations, Ventari expansion and Regulatus control allow the dynasty to control the world  
 > -> Fracture Era follows Ermerus's bloodline irony  
 > -> Devaar Rise Era follows after a major time jump  
 > -> Erit Era follows many generations later
 
-## Timeline Correction
+## Timeline Lock
 
-The broad timeline above separates political expansion from the later private murder sequence.
+The order must stay clear:
+
+> Viriatus conquers  
+> -> Ecalus dies  
+> -> family mourns  
+> -> Ilunis murders Viriatus privately  
+> -> Ermerus masks the murder  
+> -> public story becomes noble death in war  
+> -> Ermerus declares Regulatus  
+> -> Year 0 AVD begins
 
 Ecalus starts the plot and dies before personally creating the final new order.
 
@@ -109,7 +118,7 @@ It ends with the declaration of Regulatus and the beginning of Year 0 AVD.
 
 Core transformation:
 
-> hidden origin -> Ventari plot -> Viriatus as weapon and myth -> private murder -> public order
+> hidden origin -> Ventari plot -> public displeasure -> Viriatus as weapon and myth -> private murder -> public order
 
 ### 02 — Fracture Era
 
