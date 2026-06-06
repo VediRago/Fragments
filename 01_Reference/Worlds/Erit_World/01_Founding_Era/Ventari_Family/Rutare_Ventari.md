@@ -26,6 +26,20 @@ But that protection also teaches him that he cannot act, command, or survive pre
 
 He becomes useful instead of strong.
 
+He is supposed to inherit authority, but he does not feel able to hold it in the open.
+
+## Relationship To Viriatus
+
+Rutare is threatened by Viriatus in a different way from Ilunis.
+
+Ilunis sees Viriatus as a rival of strength.
+
+Rutare sees Viriatus as proof that presence can defeat inheritance.
+
+Viriatus can walk into a room and make people believe.
+
+Rutare cannot.
+
 ## Inner Logic
 
 > If I keep recording, ordering, filing, counting, and formalizing, I do not have to think.  
@@ -48,6 +62,10 @@ His survival method becomes:
 Procedure becomes dissociation.
 
 Usefulness becomes self-worth.
+
+He learns that direct presence is dangerous because it exposes weakness.
+
+Because of this, his line eventually seeks forms of power that do not require charisma.
 
 ## Founding Era Role
 
@@ -90,3 +108,30 @@ His need to record may also preserve traces of the truth accidentally.
 The official story survives because of Ermerus.
 
 The hidden truth may survive because Rutare cannot stop recording.
+
+After Viriatus's death, Rutare's path becomes useful to House Ventari because Regulatus needs daily machinery.
+
+A myth can inspire people, but procedure makes the myth unavoidable.
+
+Rutare's line becomes the way Regulatus enters ordinary life.
+
+If Rutare cannot rule through presence, his descendants learn to rule through systems.
+
+His line becomes the mechanism that lets other rulers rule.
+
+## Modern System Direction
+
+Rutare's descendants may eventually control:
+
+- general government
+- administration
+- civic records
+- identity status
+- legal procedure
+- public offices
+- implementation of dynastic policy
+- the practical spread of Regulatus into daily life
+
+## Key Question
+
+What does Rutare build so that power no longer depends on being personally strong?
