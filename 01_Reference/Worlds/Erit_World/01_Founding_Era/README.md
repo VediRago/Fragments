@@ -2,13 +2,13 @@
 
 ## Dramatic Function
 
-The Founding Era explains how the sacred order began.
+The Founding Era explains how the Regulatus order began.
 
 This era contains Viriatus, Ecalus Ventari, the first Ventari family fracture, the murder of Viriatus, the public lie, the declaration of Regulatus, and the beginning of AVD.
 
 ## Core Question
 
-> How was the sacred order born from a hidden crime?
+> How did the Regulatus order begin from a hidden crime?
 
 ## Current Focus
 
