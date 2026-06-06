@@ -30,6 +30,10 @@ Ilunis does not only hate Viriatus.
 
 He hates what Ecalus's love for Viriatus proves about his own sacrifice.
 
+His wound is not only ambition.
+
+It is the belief that being used should entitle him to authority.
+
 ## Inner Logic
 
 > Mercy did not save my body.  
@@ -67,6 +71,10 @@ That interpretation lets Ilunis believe killing Viriatus is not only revenge.
 
 It is protection of the family.
 
+Ilunis does not need to understand the whole future.
+
+He only needs to believe the killing is justified.
+
 ## Murder Of Viriatus
 
 Ilunis kills Viriatus privately after Ecalus dies.
@@ -95,10 +103,43 @@ After Augunar, Ilunis's body no longer obeys him fully.
 
 Killing Viriatus becomes the first moment where he feels decisive, strong, and necessary again.
 
+To Ilunis, killing Viriatus can feel like reclaiming what he is owed.
+
+To House Ventari, it is removal.
+
+To later Regulatus, it becomes sacrifice.
+
+His personal wound becomes the hand of historical theft.
+
 ## Later Consequence
 
 The Ilunis line can become tied to law, punishment, judgment, military authority, and sanctioned violence.
 
+His descendants turn betrayal into order.
+
+They justify force as protection, judgment as stability, and punishment as duty.
+
+They may become the family most associated with judges, military generals, and the forces that fight rebels.
+
+Their power is loud, visible, and feared, but unstable from the inside.
+
 The contradiction:
 
 > The Ilunis line punishes betrayal while descending from betrayal.
+
+## Modern System Direction
+
+Ilunis's descendants may eventually control:
+
+- courts
+- judges
+- military command
+- rebel suppression
+- public punishment
+- emergency authority
+- state violence justified as protection
+- legal legitimacy for dynastic decisions
+
+## Key Question
+
+How does Ilunis turn being used into a doctrine of necessary sacrifice, authority, and punishment?
