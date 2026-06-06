@@ -96,15 +96,18 @@ Start here if you want to see how the worldbuilding works.
 6. [Erit World Development Diary](../01_Reference/Worlds/Erit_World/00_Development_Diary.md)  
    Shows what was built, why it mattered, what it connected to, and what had to stay limited.
 
-7. [Founding Lines](../01_Reference/Worlds/Erit_World/04_Founding_Lines.md)  
-   Shows early reasoning about how character imbalance can become family pattern, history, and modern systems.
+7. [House Ventari — Founding Era](../01_Reference/Worlds/Erit_World/01_Founding_Era/House_Ventari.md)  
+   Shows how House Ventari uses public displeasure, Viriatus, and Regulatus to transform the old order.
 
-8. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
+8. [Ventari Family — Founding Era](../01_Reference/Worlds/Erit_World/01_Founding_Era/Ventari_Family/README.md)  
+   Shows the founding siblings as emotional causes that later become historical pressure.
+
+9. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
    Shows early reasoning about how people may speak, react, obey, resist, or justify what they do based on pressure and emotional history.
 
 ### Quest Examples
 
-9. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
+10. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
    Shows a small example of how a playable problem can appear after the world pressure already exists.
 
 ---
