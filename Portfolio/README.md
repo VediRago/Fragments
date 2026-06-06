@@ -14,20 +14,25 @@ This portfolio is not meant to present finished professional work.
 
 It is meant to show evidence of how I think, revise, organize complex material, and turn character and world details into clearer story and game-facing structure.
 
-## Start Here — Three Strongest Links
+## Quick Review Path
 
 1. [Project Overview](Project_Overview.md)  
-   Shows the project at a glance: what Fragments is, what question drives it, and how the repo is organized.
+   Shows what Fragments is, what this portfolio is trying to demonstrate, and how the story and worldbuilding branches connect.
 
 2. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)  
-   Shows the strongest current worldbuilding sample: how one statue became a founder, calendar, ideology, dynasty structure, NPC model, and quest pressure.
+   Shows how I build world logic from cause, pressure, history, belief, family behavior, and consequence.
 
-3. [Selected Prose](Selected_Prose.md)  
-   Shows the writing itself through selected scenes and links to the source prose files.
+3. [Development Process](Development_Process.md)  
+   Shows how I revise unclear material, organize complexity, and turn emotional fragments into clearer structure.
 
-## What These Files Show
+4. [Selected Prose](Selected_Prose.md)  
+   Shows the writing itself through selected excerpts and links to the source prose files.
 
-- [Development Process](Development_Process.md) shows how the project changed through revision, questioning, cutting, and clearer structure.
+5. [Worldbuilding Method](../Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)  
+   Shows the method behind the Erit files: starting from people and pressure before building systems.
+
+## Full Reading Path
+
 - [Story and Worldbuilding Learning Notes](Story_And_Worldbuilding_Learning_Notes.md) shows what I am learning about story structure, perception, and worldbuilding from the project.
 - [About Me](About_Me.md) gives personal context and explains why this is a development portfolio rather than a finished professional sample.
 - [Portfolio Index](Index.md) gives the full reading path for anyone who wants more detail.
