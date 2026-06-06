@@ -22,7 +22,7 @@ The strongest current material is the worldbuilding and systems work around Erit
 Recommended reading order:
 
 1. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
-2. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/00_Development_Diary.md)
+2. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
 3. [Erit Worldbuilding README](Erit_Worldbuilding/README.md)
 4. [Viriatus and Regulatus Origin](Erit_Worldbuilding/01_History/00_Viriatus_Regulatus_Origin.md)
 5. [Regulatus](Erit_Worldbuilding/01_History/02_Regulatus.md)
@@ -60,7 +60,7 @@ A shorter public-facing branch with clean summaries, selected samples, and learn
 
 For the full working-process version of Erit's worldbuilding, read:
 
-[Erit Worldbuilding — Development Diary](Erit_Worldbuilding/00_Development_Diary.md)
+[Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
 
 The diary shows what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
 
