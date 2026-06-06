@@ -38,13 +38,13 @@ The calendar begins with the public interpretation, not the private event alone.
 
 Empiran is the later word for empire.
 
-It refers to the empire created from Ventari's transformation of the old Rome-derived order.
+It refers to the empire created after House Ventari replaces the old Rome-derived order with Regulatus and later dynastic systems.
 
 Regulatus is not the empire itself.
 
 Regulatus is the order used to control the masses inside the empire.
 
-During Viriatus's lifetime, House Ventari is using him to reshape the old Rome-derived order and begin forming the empire.
+During Viriatus's lifetime, House Ventari uses him as an asset for control and as public proof that Ventari discipline can produce what the old order could not.
 
 After Regulatus and AVD, that empire consolidates.
 
@@ -58,10 +58,10 @@ Over generations, Ventari expansion and Regulatus control allow the dynasty to c
 > -> Servan find him first  
 > -> House Ventari takes control of him  
 > -> Ecalus Ventari hides the truth and starts the plot  
-> -> Ecalus shapes Viriatus into weapon, proof, advantage, and myth  
-> -> House Ventari uses public displeasure with the old Rome-derived order to justify reshaping it  
-> -> Viriatus defeats the old order  
-> -> Viriatus conquers beyond Rome  
+> -> House Ventari trains, teaches, shapes, and uses Viriatus as an asset for control  
+> -> House Ventari uses public displeasure with the old Rome-derived order to justify replacing it  
+> -> Viriatus becomes the military proof House Ventari uses during the defeat and replacement of the old order  
+> -> Viriatus conquers beyond Rome under Ventari control  
 > -> Ventari power expands  
 > -> Ecalus dies before creating the new order  
 > -> family mourns Ecalus  
@@ -70,8 +70,8 @@ Over generations, Ventari expansion and Regulatus control allow the dynasty to c
 > -> Viriatus kneels over Ecalus's casket as a grieving son  
 > -> Ilunis stabs Viriatus in the back  
 > -> Ermerus controls the aftermath  
-> -> Civel are accused of stealing jewelry during mourning  
-> -> Civel witnesses are killed  
+> -> Servan witnesses are accused of stealing jewelry during mourning  
+> -> Servan witnesses are killed  
 > -> public story becomes noble death in war  
 > -> Ermerus declares Regulatus  
 > -> Year 0 AVD begins  
@@ -87,7 +87,7 @@ Over generations, Ventari expansion and Regulatus control allow the dynasty to c
 
 The order must stay clear:
 
-> Viriatus conquers  
+> Viriatus conquers under Ventari control  
 > -> Ecalus dies  
 > -> family mourns  
 > -> Ilunis murders Viriatus privately  
@@ -118,7 +118,7 @@ It ends with the declaration of Regulatus and the beginning of Year 0 AVD.
 
 Core transformation:
 
-> hidden origin -> Ventari plot -> public displeasure -> Viriatus as weapon and myth -> private murder -> public order
+> hidden origin -> Ventari control -> public displeasure -> Viriatus as trained asset and proof -> private murder -> Regulatus replaces the old order
 
 ### 02 — Fracture Era
 
