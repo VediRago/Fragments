@@ -74,7 +74,7 @@ The current worldbuilding method I am testing is:
 
 The repo-wide clarity rule is here:
 
-[Canon Clarity Rules](00_Project/00_Canon_Clarity_Rules.md)
+[Canon Clarity Rules](Erit_Worldbuilding/00_Method/Canon_Clarity_Rules.md)
 
 ## Repository Structure
 
