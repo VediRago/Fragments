@@ -1,25 +1,25 @@
 # Portfolio
 
-This is the best public starting point for reviewing **Fragments**.
+This folder is a portfolio layer for reviewing **Fragments**.
 
 ## Start Here
 
 Read these first so the portfolio does not send you into a deeper folder without context.
 
-1. [Project Overview](Project_Overview.md)  
-   Shows what Fragments is, what this portfolio is trying to demonstrate, and how the story and worldbuilding branches connect.
+1. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)  
+   Shows how I build world logic from a practical calendar problem, a prose detail, cause, pressure, history, belief, family behavior, and consequence.
 
-2. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)  
-   Shows how I build world logic from cause, pressure, history, belief, family behavior, and consequence.
+2. [Calendar and Eras](../Erit_Worldbuilding/01_History/Calendar_And_Eras.md)  
+   Shows the first practical worldbuilding challenge: creating a calendar and timeline for Erit's eras.
 
-3. [Development Process](Development_Process.md)  
-   Shows how I revise unclear material, organize complexity, and turn emotional fragments into clearer structure.
+3. [Erit Worldbuilding — Development Diary](../Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)  
+   Shows what was built, what questions appeared, what connected to other pieces, and what had to stay limited.
 
-4. [Selected Prose](Selected_Prose.md)  
-   Shows the writing itself through selected excerpts and links to the source prose files.
-
-5. [Worldbuilding Method](../Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)  
+4. [Worldbuilding Method](../Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)  
    Shows the method behind the Erit files: starting from people and pressure before building systems.
+
+5. [Project Overview](Project_Overview.md)  
+   Shows what Fragments is, what this portfolio is trying to demonstrate, and how the story and worldbuilding branches connect.
 
 ## Short Pitch
 
@@ -61,7 +61,7 @@ This branch is for the worldbuilding: Viriatus, House Ventari, Regulatus, foundi
 
 Some deeper files are working notes, not polished presentation.
 
-The public route above is the intended review path.
+The route above is the intended review path for the current stage.
 
 The deeper folders exist to preserve the development trail and keep the causal logic clear.
 
