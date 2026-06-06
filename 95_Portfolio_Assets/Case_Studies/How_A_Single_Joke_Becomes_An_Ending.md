@@ -16,6 +16,7 @@ It is just part of how they speak to each other.
 The affection is in the correction.
 
 Later, Sera carries something similar without knowing where it came from. She mishears Kael's name as "Kill," and the mistake becomes part of their connection too.
+After Kael is able to correct her, Sera says, Ok Kill i wont tell anyone.
 
 That interested me because the pattern did not need to be explained. It only needed to be felt more than once.
 
