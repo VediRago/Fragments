@@ -8,28 +8,6 @@ The project is not built to explain everything upfront.
 
 It is built around the idea that meaning can be felt before it is understood.
 
-## Short Pitch
-
-Within infinity, all outcomes are possible.
-
-Even impossible ones.
-
-Across countless lives, fragments of the same hidden continuity are born under the same fate: they die young.
-
-But slowly, interactions begin forming bonds that should not exist.
-
-Strangers recognize one another without reason.
-
-Moments repeat.
-
-Gestures return.
-
-Familiarity appears where it should not.
-
-No one knows whether it is fate, accident, or simply the inevitable result of infinity exhausting every possible outcome.
-
-And for one person, forever becomes a feeling instead of a word.
-
 ## Main Question
 
 The question I kept returning to was:
