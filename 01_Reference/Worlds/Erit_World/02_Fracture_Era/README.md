@@ -6,13 +6,15 @@ The Fracture Era explains how the Ventari founding structure fractured.
 
 Regulatus does not break in this era.
 
-Regulatus survives and becomes a tool different lines use to justify power, legitimacy, punishment, administration, and exclusion.
+The Ventari family does not follow Regulatus the way ordinary citizens are expected to follow it.
+
+They use Regulatus to control the masses, justify authority, discipline rival lines, and make their power feel like order.
 
 This era follows the consequences of the founding lie after the original Ventari family arrangement begins turning against itself.
 
 ## Core Question
 
-> How did the family structure created around Regulatus become consumed by legacy disputes?
+> How did the family that used Regulatus to control others become consumed by its own legacy disputes?
 
 ## Current Focus
 
