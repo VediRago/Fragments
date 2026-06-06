@@ -75,11 +75,13 @@ They create the historical message:
 
 > We formed him.
 
-This lets House Ventari claim authorship over Viriatus.
+This lets House Ventari claim authorship over Viriatus's public meaning.
 
-Because they claim authorship over the conqueror, they later claim ownership over what he conquers.
+Because they claim authorship over that public meaning, they use his victories as proof that Ventari discipline can produce what the old order could not.
 
-Regulatus is formalized after his death as the doctrine that turns his stolen legacy into control.
+That proof helps House Ventari replace the old order with Regulatus.
+
+Regulatus is formalized after Viriatus's death as the doctrine that turns his stolen legacy into control.
 
 ---
 
@@ -128,7 +130,7 @@ Structurally, Regulatus:
 - channels obedience upward
 - preserves hierarchy
 - normalizes inequality
-- turns conquered land into inherited right
+- turns conquered land into inherited right after the public story has framed conquest as Ventari discipline and Viriatus's noble sacrifice
 - makes class position feel moral
 - makes dissent feel shameful
 - keeps power flowing toward ruling structures
