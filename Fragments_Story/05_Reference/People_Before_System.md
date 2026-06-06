@@ -1,38 +1,27 @@
 # People Before System
 
-## Portfolio Reading Philosophy
+## Story Reading Philosophy
 
 One of the most important discoveries during Fragments was realizing that the project is easiest to understand in the same order it was emotionally built.
 
-The instinct was often to begin with the architecture:
+The instinct was often to begin with the hidden architecture: Unity, Continuity, anomalies, classification failure, Qalm, and the deeper rules underneath the story.
 
-- Qalm
-- Unity
-- Continuity
-- Anomalies
-- Classification Failure
+But those rules are not the reader's first doorway.
 
-However, readers consistently connect to the project through people before they connect to the system.
+Readers connect to the project through people before they connect to the system.
 
 ## Recommended Reading Path
 
-Sera & Kael
-↓
-Lab
-↓
-Unity
-↓
-Hospital Ending
+A clearer emotional path is:
 
-Notably, this path can function before a reader knows:
+> Sera and Kael  
+> -> Lab  
+> -> Unity  
+> -> Hospital Ending
 
-- Lucreta
-- Erit
-- Philip
-- Abigail
-- Qalm
+This path can function before a reader understands Lucreta, Erit, Philip, Abigail, Qalm, or the deeper cosmology.
 
-The emotional structure remains understandable.
+The emotional structure remains understandable first.
 
 ## Discovery
 
@@ -50,23 +39,27 @@ Early development began with images, emotions, and outcomes:
 
 The architecture emerged later to explain why those moments belonged together.
 
-## Narrative Design Principle
+## Story Principle
 
 Readers do not need to understand the system in order to understand the feeling.
 
 In many cases, understanding the feeling first makes the system more meaningful later.
 
+This rule protects the story from becoming a diagram.
+
+The system matters only because it eventually returns to people, emotion, and consequence.
+
 ## Application
 
-When presenting Fragments as a portfolio project, the goal is not to explain the entire architecture immediately.
+When presenting Fragments, the goal is not to explain the entire architecture immediately.
 
 The goal is to establish emotional investment first.
 
-Once that investment exists, readers become willing to explore the deeper structural layers.
+Once that investment exists, readers can explore the deeper structural layers without feeling like they are being asked to study a rulebook before caring about the characters.
 
 ## Punch
 
-The portfolio should be read the same way Fragments was written.
+Fragments should be read in the same direction it was built.
 
 Not from the system to the people.
 
