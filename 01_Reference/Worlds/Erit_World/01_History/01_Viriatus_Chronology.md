@@ -59,18 +59,19 @@ He appears young, around eleven, but nobody can verify this because he does not 
 So the order is:
 
 > ACD / Celcinus Calendar  
-> → Viriatus found around age eleven, but uncertain  
-> → Viriatus shaped and used by House Ventari  
-> → House Ventari wages ideological war against the old Roman order  
-> → Viriatus defeats the old order  
-> → Viriatus conquers beyond Rome and proves Ventari order  
-> → Ecalus Ventari dies before establishing the next step  
-> → Ermerus takes the reins  
-> → Ilunis kills Viriatus  
-> → public story becomes noble death in war  
-> → Ermerus declares Regulatus as the new era  
-> → AVD calendar begins as After Viriatus's Death  
-> → House Ventari gains full ruling power
+> -> Viriatus found around age eleven, but uncertain  
+> -> Viriatus shaped and used by House Ventari  
+> -> House Ventari uses old Rome's failures and public displeasure to justify reshaping the old order  
+> -> House Ventari wages ideological war against the old Roman order  
+> -> Viriatus defeats the old order  
+> -> Viriatus conquers beyond Rome and proves Ventari order  
+> -> Ecalus Ventari dies before establishing the next step  
+> -> Ermerus takes the reins  
+> -> Ilunis kills Viriatus privately  
+> -> public story becomes noble death in war  
+> -> Ermerus declares Regulatus as the new era  
+> -> AVD calendar begins as After Viriatus's Death  
+> -> House Ventari gains full ruling power
 
 ---
 
@@ -100,7 +101,7 @@ This era includes:
 - Viriatus appearing around eleven years old, though nobody can confirm his true age
 - Viriatus being taught, trained, shaped, and used
 - Ecalus Ventari using Viriatus as proof, weapon, and advantage
-- House Ventari framing the old Roman order as weak, corrupt, exploitative, and unable to protect its people
+- House Ventari using public displeasure with the old Roman order as justification for reshaping it
 - war against the old Roman order
 - Viriatus defeating the old order
 - Viriatus conquering beyond Rome
@@ -116,7 +117,9 @@ House Ventari does not rise by saying only:
 
 > We deserve power.
 
-They build a case against the existing Roman order.
+They build a case against the existing Roman order through the method.
+
+#### Experience
 
 Their propaganda frames the old order as:
 
@@ -124,9 +127,41 @@ Their propaganda frames the old order as:
 - corrupt
 - exploitative
 - decayed
+- starving its people
+- losing important lands
+- allowing enemies to seize territory
 - unable to protect families
 - willing to use people and abandon them
 - responsible for Rome's people being conquered, neglected, or made vulnerable
+
+#### Emotion
+
+The public emotional wound becomes:
+
+- fear
+- hunger
+- humiliation
+- resentment
+- betrayal
+- grief
+- exhaustion
+
+#### Reason
+
+The reasoning House Ventari encourages is:
+
+> If the old order cannot feed us, defend us, protect our families, or hold our lands, then it has lost the right to rule.
+
+#### Behavior
+
+People become willing to accept Ventari discipline because it promises:
+
+- protection
+- food
+- stability
+- victory
+- order
+- survival
 
 This creates a stage where Viriatus can become proof.
 
@@ -139,7 +174,7 @@ The message becomes:
 
 This is not yet full Regulatus.
 
-It is the political seed that Regulatus later makes permanent.
+It is the political and emotional seed that Regulatus later makes permanent.
 
 ### 4. World Conquest As Proof
 
@@ -200,6 +235,7 @@ A possible founding speech frame:
 
 > Viriatus did not fall so one man could rule.  
 > He rose so order could survive.  
+> What he gave must not be scattered by grief.  
 > What he won must be preserved by discipline.  
 > Power without order is danger.  
 > Order gives power purpose.  
@@ -268,7 +304,7 @@ Ecalus Ventari uses him as proof that House Ventari can shape greatness.
 
 ### Year -15 to -10 AVD / Late ACD — War Against The Old Roman Order
 
-House Ventari frames the old Roman order as weak, corrupt, exploitative, and unable to protect its people.
+House Ventari frames the old Roman order as weak, corrupt, exploitative, starving, losing lands, and unable to protect its people.
 
 Viriatus becomes the proof that Ventari discipline can create the strength Rome lost.
 
@@ -312,7 +348,7 @@ Public story:
 
 Ermerus organizes the mask.
 
-The death becomes sacred material, but the era is not fully born until Regulatus is declared.
+The death becomes political material, but the era is not fully born until Regulatus is declared.
 
 ### Year 0 AVD — Regulatus Is Declared
 
@@ -378,7 +414,7 @@ Ermerus moves the world from:
 
 into:
 
-> Viriatus as sacred memory
+> Viriatus as public memory
 
 This is the bridge into Regulatus.
 
@@ -408,7 +444,7 @@ Ilunis survives by wearing the mask of duty.
 
 Teresta does not know the truth at first.
 
-She discovers later that the sacred order was built on a masked murder.
+She discovers later that the Regulatus order was built on a masked murder.
 
 This discovery helps explain her distance from House Ventari.
 
@@ -416,12 +452,8 @@ This discovery helps explain her distance from House Ventari.
 
 ## Open Questions
 
-- Is Ecalus Ventari the final name for the Ventari father?
-- Is Viriatus truly around eleven when found, or only perceived as eleven?
-- How many years pass before Ecalus begins to see him as a son?
-- Does Ecalus die before or shortly after Viriatus's peak popularity?
-- How much time passes between Ecalus's death, Viriatus's death, and the Year 0 AVD declaration?
-- Who first announces the noble-death-in-war story?
-- Is Year 0 AVD declared immediately after the funeral, or after a short period of mourning and preparation?
-- How quickly does House Ventari gain full authority after Regulatus begins?
-- How many generations pass from Year 0 AVD to Erit's era?
+- How many years pass between Viriatus being found and his death?
+- Does AVD become official immediately, or does it become standardized within the first few years of Regulatus?
+- How much does common society know about Viriatus's non-Roman origin?
+- Does the official story say he was born among common people, discovered in war, raised by Ventari, or chosen by circumstance?
+- What is the older Celcinus calendar's exact structure?
