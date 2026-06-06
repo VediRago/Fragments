@@ -1,6 +1,6 @@
 # Fragments — Story and Worldbuilding Portfolio
 
-This folder is the best place to start.
+This folder is a portfolio layer for **Fragments**.
 
 I'm using **Fragments** to keep track of two connected things I am trying to understand.
 
@@ -8,7 +8,7 @@ The first side is the main story: structure, character connection, emotional pay
 
 The second side is the worldbuilding: whether a world can begin from people, wounds, family history, belief, pressure, and consequence instead of disconnected lore.
 
-The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio is to show what I explored, what I noticed, and what I am still testing while building it.
+The project is still in development. It is not meant to explain every part of the story upfront. The goal of this portfolio layer is to show what I explored, what I noticed, and what I am still testing while building it.
 
 ---
 
@@ -64,7 +64,7 @@ The current foundation is simple:
 
 That means the world does not begin with maps, cities, or random facts.
 
-It begins with a displaced child whose existence creates pressure around him: how people find him, interpret him, mythologize him, fear him, and build meaning from him.
+It begins with a practical story problem, a calendar question, a statue already inside the prose, and then the displaced child whose existence creates pressure around him: how people find him, interpret him, mythologize him, fear him, and build meaning from him.
 
 The other files in this section are not meant to present a finished world yet.
 
@@ -72,46 +72,44 @@ They show how I started thinking through people and worldbuilding. I kept asking
 
 Start here if you want to see what I am testing with the worldbuilding.
 
-### Public-Facing Worldbuilding Sample
+### Recommended Worldbuilding Path
 
 1. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)  
-   A cleaned-up sample showing how one statue started turning into a founder, calendar, ideology, dynasty structure, NPC model, and quest pressure.
+   Shows how the calendar problem led back to the emperor statue already inside the prose, and how that became Viriatus, Regulatus, House Ventari, and later world pressure.
 
-### Erit Worldbuilding Branch
+2. [Calendar and Eras](../Erit_Worldbuilding/01_History/Calendar_And_Eras.md)  
+   Shows the first practical worldbuilding challenge: creating a calendar and timeline for Erit's eras.
 
-2. [Erit Worldbuilding README](../Erit_Worldbuilding/README.md)  
-   The active Erit branch doorway.
-
-3. [Worldbuilding Method](../Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)  
-   Explains the method I am testing: starting from story pressure, then building systems underneath it.
-
-4. [Three Rules — Treasure Map, Key, Treasure](../Erit_Worldbuilding/00_Method/Rules.md)  
-   Explains a pattern I noticed: details can be noticed first, understood later, and paid off emotionally.
-
-5. [Displaced Founder](../Erit_Worldbuilding/01_Displaced_Founder.md)  
-   Defines Viriatus as the displaced child who becomes the first stone of Erit's world.
-
-6. [Regulatus](../Erit_Worldbuilding/01_History/02_Regulatus.md)  
-   Shows early thinking about belief, pride, order, gratitude, usefulness, loyalty, and discipline.
-
-### Findings
-
-7. [Erit World Development Diary](../Erit_Worldbuilding/00_Development_Diary.md)  
+3. [Erit World Development Diary](../Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)  
    Shows what was built, what questions appeared, what connected to other pieces, and what had to stay limited.
 
-8. [House Ventari — Founding Era](../Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)  
-   Tests how House Ventari uses public displeasure, Viriatus, and Regulatus to replace the old order.
+4. [Worldbuilding Method](../Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)  
+   Explains the method I am testing: starting from story pressure, then building systems underneath it.
 
-9. [Ventari Family — Founding Era](../Erit_Worldbuilding/02_Founding_Era/Ventari_Family/README.md)  
-   Tests the founding siblings as emotional causes that later become historical pressure.
+### Deeper Reference Files
 
-10. [NPC Emotional State Model](../Erit_Worldbuilding/05_Systems/NPC_Emotional_State_Model.md)  
-   Shows early thinking about how people may speak, react, obey, resist, or justify what they do based on pressure and emotional history.
+These are useful for context, but they are not the first route.
 
-### Quest Examples
+- [Erit Worldbuilding README](../Erit_Worldbuilding/README.md)  
+  The active Erit branch doorway.
 
-11. [Quest Example — Chip Removal](../Erit_Worldbuilding/05_Systems/Quest_Example_Chip_Removal.md)  
-   Tests how a playable problem might appear after the world pressure already exists.
+- [Three Rules — Treasure Map, Key, Treasure](../Erit_Worldbuilding/00_Method/Rules.md)  
+  Explains a pattern I noticed: details can be noticed first, understood later, and paid off emotionally.
+
+- [Viriatus and the Origin of Regulatus](../Erit_Worldbuilding/01_History/00_Viriatus_Regulatus_Origin.md)  
+  Defines Viriatus as the displaced child who becomes the first stone of Erit's world.
+
+- [Regulatus](../Erit_Worldbuilding/01_History/02_Regulatus.md)  
+  Shows early thinking about belief, pride, order, gratitude, usefulness, loyalty, and discipline.
+
+- [House Ventari — Founding Era](../Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)  
+  Tests how House Ventari uses public displeasure, Viriatus, and Regulatus to replace the old order.
+
+- [Ventari Family — Founding Era](../Erit_Worldbuilding/02_Founding_Era/Ventari_Family/README.md)  
+  Tests the founding siblings as emotional causes that later become historical pressure.
+
+- [NPC Emotional State Model](../Erit_Worldbuilding/05_Systems/NPC_Emotional_State_Model.md)  
+  Shows early thinking about how people may speak, react, obey, resist, or justify what they do based on pressure and emotional history.
 
 ---
 
@@ -133,7 +131,7 @@ The goal is to test whether old wounds can become modern pressure.
 
 If you are reading for **story and prose**, start with Part 1.
 
-If you are reading for **worldbuilding**, start with the [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md), then use the deeper reference files only if you want to see the process behind it.
+If you are reading for **worldbuilding**, start with the [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md), then follow the recommended worldbuilding path above.
 
 The prose samples are included to show the writing itself, not to explain the whole story.
 
@@ -147,6 +145,6 @@ The portfolio layer contains short documents meant to show what I am testing and
 
 The story layer contains character files, act structure, and prose excerpts that support the portfolio material.
 
-The worldbuilding layer contains world logic, findings, quest examples, NPC behavior notes, and system notes.
+The worldbuilding layer contains world logic, findings, NPC behavior notes, and system notes.
 
 The reference layer contains longer internal notes for systems, Unity, bridges, and structural consistency. These files are part of my working process. They are useful for deeper context, but they are not always the recommended starting point.
