@@ -163,19 +163,159 @@ It is the year the official story wins.
 
 ---
 
-## Era Two — Fracture Era
+## Era Two — Fracture And Expansion Era
 
-Status: not built yet.
+Era Two tracks the first forty years after Year 0 AVD.
 
-Era Two does not need to invent a new wound. It inherits the wound Era One hides.
+The era begins with Regulatus ruling Vys, not the world. It ends with Regulatus expanded, Lucrest in open rebellion, Arumis rising through knowledge and trade, and the Ventari bloodlines turning into institutions and factions.
 
-Regulatus survives. The public story survives. The family structure does not remain stable.
+The core irony of the era is simple:
 
-Ermerus creates the first era by controlling Viriatus's death and establishing Regulatus, but his own bloodline later fractures through bastard or disputed children. Rutare and Ilunis descendants use legitimacy, blood purity, and protection of order to take power away from Ermerus descendants.
+> House Ventari used blood and betrayal to impose Regulatus. Era Two shows blood and betrayal returning through the family, the cities, and the institutions they created.
 
-Era Two begins from this irony:
+### Important Cities
 
-> Ermerus builds an order by controlling Viriatus's meaning through blood, but his own bloodline becomes the weakness that lets the next fracture begin.
+#### Vys
+
+Vys is the main city of old Rome and the political center of the sixteen houses.
+
+Before Regulatus, Vys is not weak because it lacks power. It is weak because its power has become comfortable. The houses have inherited influence for so long that they mistake continuity for strength.
+
+The masses are kept manageable through entertainment, food distribution, public spectacle, and controlled release of anger. They are not satisfied. They are delayed.
+
+Vys is grand but stagnant: polished halls, old banners, inherited seats, crowded ceremonies, aging statues, public arenas, festival streets, food queues, and beautiful civic spaces hiding political laziness.
+
+Before Regulatus, Vys is the heart of old Rome. After Ermerus declares Regulatus and Year 0 AVD begins, Vys becomes the heart of Empiran.
+
+#### Lucrest
+
+Lucrest lies closer to the mountains, making it harder to reach from Vys and harder for central authority to control directly.
+
+Its distance does not make it weak. The lands around Lucrest are fertile, and its rivers make the region one of the strongest sources of food and water connected to the old Roman heart. Several aqueducts bring water from Lucrest's rivers toward Vys.
+
+Lucrest becomes dangerous because it holds food, water, difficult geography, and later the rejected children of Ermerus's line.
+
+#### Arumis
+
+Arumis is a port city shaped by fishing, port trade, coal, and iron.
+
+The city should be richer than it is. Three ruling houses control too much of the port, mine contracts, tariffs, and movement of goods. Their corruption prevents Arumis's wealth from becoming shared stability.
+
+Arumis survives through practical skill, dock networks, mine crews, family contacts, hidden agreements, and useful knowledge.
+
+Teresta's arrival gives Arumis a different starting point. She does not lead the city politically. She teaches. Her work takes almost all her time, which helps explain why she has only one daughter and why that daughter later takes her place.
+
+### 0 AVD — Regulatus In Vys
+
+At Year 0 AVD, Regulatus applies directly to Vys first.
+
+It does not yet control every city. Other cities are no longer as complacent after Viriatus's public death because they can see House Ventari is no longer only competing inside the old order. It is replacing it.
+
+The first Viriatus statue is created in Vys after the declaration of Regulatus. It is not neutral remembrance. Vys is shaken by Viriatus's public death, and House Ventari needs grief to move in the correct direction. Ermerus gives that grief a body.
+
+The statue turns Viriatus from a dangerous dead man into a stable public symbol. It gives the public a place to mourn without questioning the story.
+
+Teresta is removed immediately after the founding crime. Ermerus wants her gone because she threatens the public story. Ilunis supports the removal because force has become his way to prove loyalty. Rutare is forced to agree because opposing Ermerus and Ilunis would expose him, destabilize the family, or make him complicit in a way he cannot survive.
+
+Teresta flees to Arumis with her daughter, Miria Ventari. For bloodline tracking, later records refer to her as Miria Teresta. This does not mean Teresta replaces Ventari as her legal house name immediately. It means Miria becomes the first clear continuation of Teresta's separated line after removal from Vys.
+
+### 5 AVD — Vys Stabilized
+
+By 5 AVD, Vys has been stabilized under Regulatus.
+
+The statue has become a ritual anchor. Public mourning becomes ceremony. Ceremony becomes loyalty. Loyalty becomes participation in Viriatus's legacy.
+
+Regulatus is still not universal. It remains strongest in Vys, where Ermerus can control law, public grief, ceremony, and enforcement.
+
+Outside Vys, other cities watch with more caution than before. They are no longer comfortable enough to ignore what House Ventari is becoming.
+
+In Arumis, Teresta spends her life teaching literacy, memory, practical reasoning, care, and distrust of official truth without cause. The work takes almost all her time. Because of this, and because visibility remains dangerous, she has only one daughter: Miria Ventari, later tracked as Miria Teresta.
+
+Miria later takes her mother's place. This is how the single-daughter pattern begins in Teresta's line. It is not only blood preservation. It is inherited work. One daughter receives the memory, the responsibility, and the position left by the mother before her.
+
+### 10 AVD — Lines Take Roles
+
+By 10 AVD, the Ventari lines begin becoming political functions.
+
+Ermerus has six children: Averon, Marcellus, Veyra, Corvian, Lethara, and Sorellus. Only Veyra is legitimate blood. Averon, Marcellus, Corvian, Lethara, and Sorellus are bastards. While Ermerus lives, his authority protects that contradiction.
+
+Rutare has three children: Calven, Mirael, and Orthis. His line becomes the administrative spine of Regulatus. Mirael becomes head of Vys government. Orthis becomes her shadow, protecting the machinery through quiet surveillance, document control, and correction that cannot appear publicly. Calven moves to Lucrest to begin establishing Regulatus there through records, obligations, water routes, food routes, and local authority.
+
+Ilunis has four children: Draven, Kaelor, Varric, and Elsera. Draven enters the military conflicts created by expansion. Kaelor takes the formal military division. Elsera takes courts and law. Varric leaves on pilgrimage through places tied to Viriatus's campaigns, death, statue, and public memory.
+
+The second generation is not only family. It becomes placement. Each child begins turning blood into a function the growing order can use.
+
+### 20 AVD — Expansion Pressure And The Rise Of Rebellion
+
+By 20 AVD, Regulatus has begun pressing beyond Vys through records, supply obligations, loyalty registration, military presence, courts, and the controlled image of Viriatus.
+
+Resistance begins locally. Cities and local groups resist through missing ledgers, delayed tribute, supply refusal, hidden meetings, attacks on officials, protection of deserters, and sabotage of roads, aqueduct routes, or records.
+
+But once cities are conquered, pressured, or absorbed, rebellion can no longer depend on city governments.
+
+It becomes independent of cities.
+
+Rebels move into roads, forests, mountain routes, mines, port networks, safehouses, and supply lines. They stop functioning as one city's resistance and become a separate faction held together by shared opposition to Regulatus.
+
+Draven Ilunis dies fighting rebels during this expansion period. His death gives Kaelor Ilunis justification to harden military command and gives Elsera Ilunis grounds to turn rebellion into legal treason rather than local disagreement.
+
+### 30 AVD — Bloodline Web Becomes Institutions
+
+By 30 AVD, Regulatus is no longer only a declaration in Vys or a set of family appointments.
+
+The bloodline web begins hardening into institutions.
+
+Mirael Rutare's government in Vys becomes civic administration. Orthis Rutare's hidden work becomes document control, quiet correction, and internal surveillance. Calven Rutare's work in Lucrest begins turning food routes, river access, local authority, and recognition into regulated obligations.
+
+Ilunis dies during this period. His death matters because enforcement can no longer remain attached only to his personal authority. After Ilunis dies, force survives him as institution.
+
+Kaelor's military division becomes more than battlefield command. Elsera's courts and law make punishment appear civic rather than personal. Draven's earlier death against rebels becomes part of the justification for harsher policy.
+
+Around 30 AVD, Varric Ilunis returns from pilgrimage carrying the Banner of Viriatus.
+
+The journey does not make him religious. It gives him purpose. Varric sees how Viriatus's name still carries honor, pride, and public memory beyond Vys. To him, that name should not remain only statue, ritual, or speech. It should become a standard soldiers can gather under.
+
+Varric creates the Virtuasti, an independent banner-force built around purpose, honor, pride, duty, and the public memory of Viriatus.
+
+The Virtuasti are separate from Kaelor's formal military division and Elsera's courts. Their focus is the rebels, and their purpose is to abolish those who oppose Regulatus.
+
+In Era Two, they are not yet augmented soldiers. They begin as an honor-bound military force under Viriatus's banner. Over later eras, the Virtuasti survive and become an elite force of human-augmented soldiers. By Erit's time, they are extremely zealous toward Regulatus and act as a force used to keep corruption in check, suppress rebellion, and destroy threats to the order.
+
+By this point, power is no longer only held by people. It is beginning to survive through offices, records, courts, soldiers, rituals, supply routes, and inherited responsibilities.
+
+### 40 AVD — Ermerus Dies And The Era Fractures
+
+By 40 AVD, Ermerus has died.
+
+His death exposes the contradiction he protected while alive: only Veyra is legitimate blood, while Averon, Marcellus, Corvian, Lethara, and Sorellus are bastards.
+
+After his death, all of Ermerus's children are pushed, flee, or gather in Lucrest. This includes Veyra, the legitimate continuation of his line.
+
+Lucrest is not powerless exile. It is fertile, difficult to reach, close to the mountains, and tied to rivers and food production that Vys depends on. By forcing or allowing Ermerus's children to gather there, Vys creates a danger it does not fully understand.
+
+Corvian is assassinated during this fracture period, proving that the bloodline conflict cannot remain hidden.
+
+By this point, rebellion is strong in Lucrest. It is no longer only local resistance. It has become a faction supported by rejected blood, resource leverage, difficult geography, and anger against Regulatus.
+
+Averon's connection with Teresta's line builds the fire behind the independent rebellion. His resentment gives the rebellion Ermerus blood. Teresta's line gives it the hidden truth of why Regulatus was built.
+
+Together, they turn rebellion from scattered resistance into something more dangerous: a faction carrying both rejected blood and rejected memory.
+
+Vys is locked into constant conflict with Lucrest. This conflict consumes Vys's attention and leaves Arumis with more room to develop without direct Ventari leadership.
+
+Arumis keeps trade with Vys to avoid confrontation. This is not loyalty. It is strategy. Fish, coal, iron, port access, ship materials, and refined metalwork continue moving toward Vys.
+
+That trade gives Vys a reason to tolerate Arumis. It also fuels Vys's battle against Lucrest.
+
+Arumis is not openly fighting for Regulatus, but its coal and iron feed the forges, tools, weapons, armor, and supply chains that keep Vys in the conflict. This creates a moral wound inside the city: Arumis survives by avoiding confrontation, but the price of that survival is helping prolong the war elsewhere.
+
+Behind that usefulness, Arumis keeps building. Teresta's teaching has helped change the city's starting point. Academies and universities open. Metallurgy becomes formalized. Mining, engineering, ship work, and material knowledge begin moving from practical labor into institutions.
+
+Arumis does not yet challenge Vys directly. It survives by feeding the center with one hand while building the future with the other.
+
+By the end of Era Two, three factions are clear: Vys and official Regulatus authority, Lucrest rebellion, and the Virtuasti.
+
+The next era inherits a world where Lucrest will be forced under Regulatus by conquest, while Arumis will enter through alliance after seeing Vys prepare to turn its army toward them.
 
 ---
 
