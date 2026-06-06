@@ -493,17 +493,21 @@ She is academic, distant, and spends much of her life studying.
 
 Her value is not immediately visible to a family that expects useful heirs, political leverage, military strength, or direct continuation.
 
-After she has one daughter, she is cast out of the family.
+Teresta herself is not the one fully cast out immediately.
+
+The exile lands more precisely on the next generation: **Teresta's daughter**.
+
+Ilunis is the force that causes or enforces this daughter-line expulsion.
 
 This creates the root of her line: not power, not ideology, and not control, but exclusion.
 
-Teresta's family has no real power at the beginning.
+Teresta's daughter-line has no real power at the beginning.
 
-It is a rejected daughter-line trying to continue outside the structure that dismissed it.
+It becomes a rejected daughter-line trying to continue outside the structure that dismissed it.
 
 ### Emotional Imbalance
 
-Teresta's imbalance is distance created by study and rejection.
+Teresta's imbalance is distance created by study, truth, and the later rejection of her daughter-line.
 
 She is often away, focused on learning, research, and intellectual survival.
 
@@ -525,7 +529,7 @@ Teresta's line inherits Viriatus's wound differently from the others.
 
 Viriatus wants family, continuation, and legacy, but cannot create his own bloodline.
 
-Teresta is rejected after creating a daughter.
+Teresta's daughter-line is rejected by the family structure.
 
 This makes her line a strange mirror of Viriatus.
 
@@ -620,7 +624,7 @@ That means Erit's family power is rooted in a rejected daughter-line that return
 
 ### Key Question
 
-How does Teresta turn exile, imitation, and delayed knowledge into medicine, augmentation, and bodily dependency?
+How does Teresta turn truth, daughter-line rejection, imitation, and delayed knowledge into medicine, augmentation, and bodily dependency?
 
 ---
 
@@ -646,7 +650,8 @@ Use the method only as far as each line has earned:
 ## Current Open Questions
 
 - How involved is Rutare in formalizing civic procedure around Regulatus?
-- How does Teresta's exile happen socially, legally, and emotionally?
+- Why does Ilunis cause or enforce the exile of Teresta's daughter-line?
+- How does Teresta's daughter-line exile happen socially, legally, and emotionally?
 - At what generation does Teresta's line become House Devaar?
 - Is the virus/cure event engineered, exploited, misunderstood, or disputed?
 - Which line currently has the most visible authority by Erit's era?
