@@ -68,7 +68,7 @@ Ermerus remains the head over the whole arrangement because he creates the meani
 The intended first structure is:
 
 - **Ermerus** remains above the system as head of legitimacy, meaning, ceremony, public memory, and interpretation.
-- **Rutare** controls procedure, records, administration, permissions, civic machinery, and also takes medicine because Teresta does not want to become one of the ruling pillars.
+- **Rutare** controls procedure, records, administration, permissions, and civic machinery.
 - **Ilunis** controls force, law, judgment, punishment, military authority, and sanctioned violence.
 - **Teresta** does not want a ruling pillar. She distances herself from House Ventari after learning the truth and moves away from the family structure.
 
@@ -78,7 +78,7 @@ But at first, that control is concentrated under Ermerus, with Rutare and Ilunis
 
 Teresta's line is not yet House Devaar and is not yet a power pillar.
 
-Medicine initially falls under Rutare's administrative/procedural control because Teresta refuses the family structure.
+Medicine should be introduced later when House Devaar and the Ilunis deal come into play, not as part of the first pillar structure.
 
 ---
 
@@ -106,7 +106,6 @@ Over time:
 - Rutare's line strengthens through procedure, records, and institutional control.
 - Ilunis's line strengthens through law, punishment, and enforcement.
 - Teresta's daughter-line is pushed out or excluded, with Ilunis causing or enforcing that expulsion.
-- Medicine remains outside Teresta's power at first and is held through Rutare-controlled systems until later generations.
 
 Only much later does Teresta's rejected line return toward power through medicine, preservation, augmentation, bodily dependency, and eventually House Devaar.
 
@@ -676,7 +675,7 @@ Use the method only as far as each line has earned:
 - How involved is Rutare in formalizing civic procedure around Regulatus?
 - Why does Ilunis cause or enforce the exile of Teresta's daughter-line?
 - How does Teresta's daughter-line exile happen socially, legally, and emotionally?
-- When and how does medicine leave Rutare-controlled systems and return through Teresta's rejected line?
+- How does medicine return through Teresta's rejected line during the later Devaar / Ilunis deal?
 - At what generation does Teresta's line become House Devaar?
 - Is the virus/cure event engineered, exploited, misunderstood, or disputed?
 - Which line currently has the most visible authority by Erit's era?
