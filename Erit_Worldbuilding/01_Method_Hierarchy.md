@@ -173,13 +173,13 @@ History is atmosphere that became durable.
 
 ---
 
-## Example — AD Calendar / History Layer
+## Example — AVD Calendar / History Layer
 
-The calendar reaches the history layer because the atmosphere around the founder's death becomes durable.
+The calendar reaches the history layer because the atmosphere around Viriatus's death becomes durable.
 
 Experience:
 
-> Viriatus dies after becoming too beloved and too dangerous for House Ventari to control.
+> Viriatus dies after Ecalus dies, when his living public meaning threatens the Ventari siblings' control of what comes next.
 
 Emotion:
 
@@ -187,19 +187,19 @@ Emotion:
 
 Reason:
 
-> the founder's death must not look like betrayal; it must become sacrifice; order must be preserved in his name.
+> the death must not look like betrayal; it must become sacrifice; order must be preserved in Viriatus's name.
 
 Behavior:
 
-> House Ventari rewrites the death, ceremonies repeat the official meaning, citizens learn to honor the founder, and dissent becomes disrespect.
+> Ilunis kills Viriatus privately after Ermerus turns jealousy and wound into duty; Ermerus rewrites the death, ceremonies repeat the official meaning, citizens learn to honor Viriatus, and dissent becomes disrespect.
 
 Atmosphere:
 
-> the society feels like it was born from sacred sacrifice and must remain grateful to that sacrifice.
+> the society feels like it was born from noble sacrifice and must remain grateful to that sacrifice.
 
 History:
 
-> time is reset through AD, meaning After Death; older time is tied to the Celcinus Calendar; later doctrine may reinterpret AD as AVD once Viriatus becomes the official mythic name.
+> older time is tied to the ACD / Celcinus Calendar; AVD begins when Ermerus publicly declares Regulatus, not at the private moment Viriatus dies.
 
 This is history because the atmosphere becomes calendar, record, doctrine, and inherited perception.
 
