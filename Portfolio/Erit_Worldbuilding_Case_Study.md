@@ -12,25 +12,48 @@ The goal is to show what I am trying to understand about turning one story detai
 
 ## Starting Point
 
-The worldbuilding began from a small detail already present in Fragments:
+The worldbuilding did not begin with Viriatus already planned.
+
+It began with a practical worldbuilding need:
+
+> How do I make a calendar for Erit's world so I can place the eras in a timeline?
+
+That question led to another one:
+
+> What would this society count from?
+
+At first, I thought the calendar would probably be named after someone important.
+
+Then I remembered a detail already present in Fragments:
 
 > Two siblings play under the shadow of the emperor's statue.
 
-At first, the statue was only background texture.
+The statue already existed in the story.
 
-Then it became a design question:
+The calendar question made me return to it.
 
-> Who is important enough to become a statue?
+If the world counted from someone important, and the story already had an emperor's statue, then the statue could become more than background texture.
 
-That question became the first step into Erit's world.
+That became the next question:
+
+> Who was important enough to become the statue, and important enough for time to be counted around him?
+
+That is how Viriatus began.
+
+He was not created first as a lore figure.
+
+He came from trying to solve the calendar, timeline, and era problem while staying tied to an image already inside the prose.
 
 ## Design Chain
 
 The current worldbuilding chain is:
 
-> Sera sees a statue  
-> -> the statue belongs to Viriatus  
-> -> Viriatus is a displaced child found after a light falls from the heavens  
+> Need to timeline Erit's eras  
+> -> calendar question  
+> -> what event or person is important enough for this society to count time from?  
+> -> memory of the existing emperor's statue in the story  
+> -> the statue becomes tied to Viriatus  
+> -> Viriatus becomes a displaced child found after a light falls from the heavens  
 > -> Servan, the first people to find him, discover him before House Ventari takes control  
 > -> House Ventari hides his origin because revealing it would make him impossible to keep  
 > -> House Ventari trains, teaches, shapes, and uses him as an asset for control  
