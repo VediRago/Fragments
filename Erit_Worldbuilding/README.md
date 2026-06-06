@@ -55,7 +55,7 @@ Use these current locations for now:
 
 The public-facing summary is here:
 
-- `05_Portfolio/07_Erit_Worldbuilding_Case_Study.md`
+- `Portfolio/Erit_Worldbuilding_Case_Study.md`
 
 ## Rule
 
