@@ -59,6 +59,39 @@ They are the roads by which House Ventari turns a stolen founder into a civiliza
 
 ---
 
+## Empiran Pillar Control
+
+The reason the siblings eventually take control of different Empiran pillars is not coincidence.
+
+House Ventari divides power across the siblings so no major part of civilization can escape Ventari influence.
+
+The intended structure is:
+
+- **Ermerus** controls meaning, legitimacy, ceremony, public memory, and interpretation.
+- **Rutare** controls procedure, records, administration, permissions, and civic machinery.
+- **Ilunis** controls force, law, judgment, punishment, military authority, and sanctioned violence.
+- **Teresta** eventually leads toward medicine, preservation, augmentation, bodily identification, and the later path to House Devaar.
+
+The design goal is total control through divided pillars.
+
+No single pillar should stand outside the family.
+
+But this design does not fully succeed.
+
+The great irony is Ermerus.
+
+Ermerus helps create the system that divides control across bloodlines to prevent unstable legacy from escaping House Ventari.
+
+Yet Ermerus's own lack of discipline creates bastard lines and disputed descendants.
+
+The architect of controlled legacy becomes one of the sources of uncontrolled legacy.
+
+The system designed to prevent future instability creates new instability through its own founder.
+
+This is one of the cracks that can echo many generations later.
+
+---
+
 ## Design Method For The Lines
 
 Each line needs more than a political function.
@@ -612,9 +645,7 @@ Use the method only as far as each line has earned:
 
 ## Current Open Questions
 
-- What exactly does Ermerus do after Viriatus's death to help redirect the myth?
 - How involved is Rutare in formalizing civic procedure around Regulatus?
-- Does Ilunis kill Viriatus alone, under orders, or after being emotionally guided by Ermerus?
 - How does Teresta's exile happen socially, legally, and emotionally?
 - At what generation does Teresta's line become House Devaar?
 - Is the virus/cure event engineered, exploited, misunderstood, or disputed?
