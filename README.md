@@ -6,7 +6,9 @@ This project is very early. I started it on **20/05/2026**, so the material here
 
 I am not presenting this as finished professional game development work.
 
-I am presenting it as a record of what I am trying to understand:
+I am presenting it as a **development diary**: a record of how I am learning narrative design, worldbuilding, and interactive storytelling through one project.
+
+I am using the project to test:
 
 - whether emotional causes can make lore feel less random
 - whether character wounds can grow into family patterns and world systems
