@@ -441,21 +441,53 @@ From there, a Gladiator can become a champion, recruit, rebel contact, protected
 
 ---
 
-## Era Four — Preservation And Augmentation Era
+## Era Four — Game World / Preservation And Augmentation Era
 
-Status: not built yet.
+Era Four is the main playable world-state before Erit's far-future era.
 
-This era bridges Arumis's industrial and academic rise with the far-future cyberpunk world Erit inherits.
+By this period, the institutions born from Viriatus's death have matured into government, courts, military divisions, charity networks, rebel factions, gladiator houses, and the Virtuasti order.
 
-Medicine, preservation, human augmentation, treatment access, identity systems, and bodily dependency become central.
+The major shift is House Devaar.
 
-The Virtuasti evolve toward elite human-augmented soldiers during or before this era.
+Devaar rises through human augmentation.
 
-House Devaar forms or rises through usefulness, preservation, and control over survival systems.
+This takeover does not begin as open conquest. It begins as preservation. Arumis's universities, metallurgy, engineering, medicine, and industrial knowledge develop into technologies that can repair, replace, strengthen, and extend the human body.
 
-Core transformation:
+People accept Devaar because Devaar offers what other powers cannot: survival.
 
-> industrial knowledge -> medical preservation -> augmentation -> bodily dependency -> Devaar authority
+A wounded soldier can fight again. A sick worker can return to labor. A dying child can be stabilized. A noble can extend life. A Virtuasti soldier can become more effective. A city damaged by war can rebuild its population through treatment and replacement systems.
+
+This makes Devaar the best option.
+
+It also makes Devaar dangerous.
+
+When survival depends on Devaar systems, power moves toward whoever controls the body.
+
+### Era Four Augmentation Level
+
+Era Four marks the beginning of visible human augmentation.
+
+At this stage, enhancement is mostly external or structural: metal arms, reinforced hands, enhanced legs, support frames, combat prosthetics, industrial limb replacements, and military-grade braces.
+
+Internal replacement is not yet common.
+
+Artificial lungs, synthetic hearts, full neural systems, and deep organ replacement belong later, closer to Erit's far-future era.
+
+This matters because Devaar's rise begins through visible need. Wounded soldiers, injured workers, gladiators, and Virtuasti candidates receive external augmentation first. The public can see the benefit before understanding the dependency it creates.
+
+Era Four augmentation begins outside the body.
+
+Era Five augmentation moves inside it.
+
+### Era Four Game World State
+
+By Era Four, the game world exists inside a shift.
+
+Regulatus still structures public life. The Virtuasti enforce order. Lux Aeterna offers aid, moral guidance, and purification. Rebels resist dependency from desert villages, hidden routes, and old city wounds. Gladiator Houses remain useful to every side. Devaar turns augmentation into the path by which House Ventari power begins taking over the world again.
+
+The world is not cyberpunk yet.
+
+It is becoming the world that will later make cyberpunk possible.
 
 ---
 
@@ -479,6 +511,6 @@ Core transformation:
 
 Do not build all eras equally yet.
 
-The active focus is the Founding Era, the Fracture And Expansion Era, and the transition pressure that will create the Consolidation And Industrial Rise Era.
+The active focus is the Founding Era, the Fracture And Expansion Era, the Consolidation And Industrial Rise Era, and the game-world transition into the Preservation And Augmentation Era.
 
-The later eras exist to hold future consequences without forcing cyberpunk-era systems too early.
+The Erit Era exists to hold the far-future cyberpunk consequences without forcing those systems too early.
