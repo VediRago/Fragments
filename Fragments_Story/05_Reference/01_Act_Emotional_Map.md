@@ -130,6 +130,42 @@ Curiosity, guarded trust, humor, tenderness, then sudden danger.
 
 Builds the emotional relationship that later makes the convergence tragedy matter.
 
+### Sera / Kael Apartment Bridge
+
+The abandoned apartment comes before Kael.
+
+Sera finds the space while she is still alone. The bright sky motif enters through the broken apartment because it marks Sera's transition from isolation into the possibility of shelter.
+
+The sky is not introduced because of Kael. It belongs to Sera first.
+
+Core chain:
+
+> Sera finds the abandoned apartment  
+> -> bright sky enters through the broken apartment  
+> -> Sera later finds Kael in the alley  
+> -> Sera brings / hides Kael in the apartment  
+> -> private survival routine begins  
+> -> Sera teaches Kael reading and writing  
+> -> Kael's condition worsens  
+> -> Sera tries to get medicine / triggers the signal  
+> -> the Devaars find them  
+> -> Kael is too weak to resist  
+> -> Fedra hugs Sera
+
+The apartment allows Sera and Kael to form a daily-life bond before larger systems find them.
+
+Sera finds shelter first. Then she finds someone worth bringing into it.
+
+This makes the apartment more than a hiding place. It becomes Sera's first self-made threshold between loneliness and attachment.
+
+The Devaars do not overcome Kael. They arrive after the condition has already beaten her.
+
+Fedra's hug of Sera should feel like the first adult recognition of what Sera has been trying to do: keep another child alive.
+
+Structural punch:
+
+> Sera becomes home before anyone rescues them.
+
 ---
 
 ## Act 07 — Convergence / Condition Pressure
