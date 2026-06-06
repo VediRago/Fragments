@@ -46,6 +46,13 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 - `01_Founding_Era/House_Ventari.md`
 - `01_Founding_Era/Ventari_Family/README.md`
 
+## Method
+
+- `00_Method/README.md`
+- `00_Method/Worldbuilding_Method.md`
+- `00_Method/Method_Hierarchy.md`
+- `00_Method/Rules.md`
+
 ## Founding Family
 
 - `01_Founding_Era/Ventari_Family/Ermerus_Ventari.md`
