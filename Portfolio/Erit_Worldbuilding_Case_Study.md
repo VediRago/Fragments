@@ -4,7 +4,7 @@
 
 This case study shows how Erit's world is being built as a story and worldbuilding learning exercise.
 
-The work is early. It comes from roughly 15 days of writing, testing, reorganizing, and learning outside of my full-time job.
+The work is early. I have been working on the worldbuilding for 3 days, after writing, testing, reorganizing, and learning outside of my full-time job.
 
 The goal is not to present a finished fictional encyclopedia.
 
