@@ -42,8 +42,8 @@ Development chain:
 > -> Ermerus declares Regulatus  
 > -> AVD begins when Regulatus is declared, not when Viriatus privately dies  
 > -> founding siblings carry different wounds forward through family behavior  
-> -> later houses and systems grow from those wounds  
-> -> Erit's era inherits identity control, medical dependency, law, status, and pressure
+> -> later houses, institutions, factions, industrial systems, medical preservation, and cyberpunk-era control grow from those wounds  
+> -> Erit's era inherits identity control, medical dependency, law, status, augmentation, and pressure
 
 ## Calendar Layers
 
@@ -85,7 +85,7 @@ Regulatus is the order used to control the masses inside the empire.
 
 During Viriatus's lifetime, House Ventari uses him as an asset for control and as public proof that Ventari discipline can produce what the old order could not.
 
-After Regulatus and AVD, that empire consolidates.
+After Regulatus and AVD, the empire begins consolidating from Vys outward.
 
 Over generations, Ventari expansion and Regulatus control allow the dynasty to control the world.
 
@@ -114,7 +114,7 @@ Ermerus then controls the aftermath and declares Regulatus.
 
 Regulatus is what allows the empire to consolidate as a controllable order after Viriatus's death.
 
-## Four Eras
+## Five Eras
 
 ### 01 — Founding Era
 
@@ -132,68 +132,86 @@ Core transformation:
 
 > hidden origin -> Ventari control -> public displeasure -> Viriatus as trained asset and proof -> private murder -> Regulatus replaces the old order
 
-### 02 — Fracture Era
+### 02 — Fracture And Expansion Era
 
-Readable timeline summary: [Era Two — Fracture Era](Timeline_And_Era_Summaries.md#era-two--fracture-era)
-
-Dramatic function:
-
-> how Ermerus's controlled legacy fractured through his uncontrolled bloodline
-
-Regulatus does not break.
-
-The Ventari family structure fractures.
-
-Ermerus creates the first era by controlling Viriatus's death and establishing Regulatus, but his many bastard or disputed children weaken his line.
-
-Rutare and Ilunis descendants use legitimacy, blood purity, and protection of order to take power away from Ermerus descendants.
-
-Core transformation:
-
-> controlled public legacy -> uncontrolled bloodline legacy -> Rutare and Ilunis takeover
-
-### 03 — Devaar Rise Era
-
-Readable timeline summary: [Era Three — Devaar Rise Era](Timeline_And_Era_Summaries.md#era-three--devaar-rise-era)
+Readable timeline summary: [Era Two — Fracture And Expansion Era](Timeline_And_Era_Summaries.md#era-two--fracture-and-expansion-era)
 
 Dramatic function:
 
-> how the rejected Teresta line returned
+> how Regulatus moves from Vys into the surrounding world while the founding bloodlines fracture
 
-This era happens after a major time jump.
+Regulatus does not begin as world control.
 
-Teresta's line, once pushed out, returns through usefulness.
+It begins in Vys.
 
-Medicine, preservation, chips, augmentation, and bodily dependency become the path back into power.
-
-House Devaar forms or rises in this era.
+This era tracks the first forty years after AVD: Vys stabilizes, the Viriatus statue becomes ritual, Teresta is removed to Arumis, the Ventari children become political functions, rebellion forms, the Virtuasti are founded, and Lucrest becomes the rebel heart.
 
 Core transformation:
 
-> rejected line -> medical usefulness -> bodily dependency -> restored authority
+> Regulatus in Vys -> family roles -> rebellion -> institutions -> Lucrest fracture
 
-### 04 — Erit Era
+### 03 — Consolidation And Industrial Rise Era
 
-Readable timeline summary: [Era Four — Erit Era](Timeline_And_Era_Summaries.md#era-four--erit-era)
+Readable timeline summary: [Era Three — Consolidation And Industrial Rise Era](Timeline_And_Era_Summaries.md#era-three--consolidation-and-industrial-rise-era)
+
+Dramatic function:
+
+> how Regulatus becomes a broader multi-city order while Arumis begins the power shift
+
+This era happens after Era Two.
+
+Lucrest is brought under Regulatus by force.
+
+Arumis enters Regulatus by alliance after seeing Vys prepare to turn its army toward the city.
+
+Arumis preserves its universities, metallurgy, port trade, coal, iron, engineering, and academic base by yielding before conquest.
+
+Core transformation:
+
+> Lucrest conquered by force -> Arumis allied by strategy -> Regulatus broadens -> knowledge and industry begin shifting power
+
+### 04 — Preservation And Augmentation Era
+
+Readable timeline summary: [Era Four — Preservation And Augmentation Era](Timeline_And_Era_Summaries.md#era-four--preservation-and-augmentation-era)
+
+Dramatic function:
+
+> how industrial knowledge becomes medical preservation, augmentation, identity systems, and bodily dependency
+
+This era bridges the industrial rise of Arumis and the far-future world Erit inherits.
+
+Medicine, preservation, human augmentation, record systems, treatment access, and institutional dependency become central.
+
+The Virtuasti evolve toward elite human-augmented soldiers during or before this era.
+
+House Devaar forms or rises through usefulness, preservation, and control over survival systems.
+
+Core transformation:
+
+> industrial knowledge -> medical preservation -> augmentation -> bodily dependency -> Devaar authority
+
+### 05 — Erit Era
+
+Readable timeline summary: [Era Five — Erit Era](Timeline_And_Era_Summaries.md#era-five--erit-era)
 
 Dramatic function:
 
 > what the world became by the time Erit, Sera, and Kael enter the story pressure
 
-This is the modern inherited world of Erit's branch.
+This is the far-future, cyberpunk-like inherited world of Erit's branch.
 
 By this era, House Devaar has major power through medicine, preservation, chips, augmentation, and treatment access.
 
-The old Ventari wounds survive through daily systems: identity, access, law, status, dependency, and control.
+The old Ventari wounds survive through daily systems: identity, access, law, status, dependency, augmentation, surveillance, and control.
 
 Core transformation:
 
-> old wounds -> inherited systems -> lived pressure
+> old wounds -> inherited systems -> cyberpunk pressure -> lived identity control
 
 ## Current Rule
 
 Do not build all eras equally yet.
 
-The active focus is the Founding Era and the transition pressure that will create Era Two.
+The active focus is the Founding Era, the Fracture And Expansion Era, and the transition pressure that will create the Consolidation And Industrial Rise Era.
 
-The other eras exist to hold future consequences without forcing them into the first generation.
+The later eras exist to hold future consequences without forcing cyberpunk-era systems too early.
