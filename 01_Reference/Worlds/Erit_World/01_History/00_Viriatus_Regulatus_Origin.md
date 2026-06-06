@@ -4,7 +4,7 @@
 
 This file defines the historical origin of Regulatus and the political transformation that created the foundation of Erit's world.
 
-It explains how Viriatus became the emotional and political proof used to reshape civilization, how his image was turned into doctrine, and how the four founding lines became the cornerstones of society.
+It explains how Viriatus became the emotional and political proof used to replace the old order, how his image was turned into doctrine, and how the founding siblings carried different wounds into later society.
 
 This file should remain historical, political, social, and emotional.
 
@@ -23,7 +23,13 @@ The four founding siblings are:
 - Ilunis Ventari
 - Teresta Ventari
 
-House Ventari is the family that conceals Viriatus's arrival, shapes him into a conqueror, kills him when he becomes too beloved, and formalizes Regulatus to claim his victories as inherited right.
+House Ventari is the family that conceals Viriatus's arrival, trains him, teaches him, shapes him, and uses him as an asset for control.
+
+After Ecalus dies, Viriatus's living public meaning threatens the siblings' control of what comes next because people could gather around him as the figure for the reshaped Rome.
+
+Ilunis kills Viriatus privately after Ermerus turns jealousy into duty.
+
+Ermerus then turns Viriatus's death into public grief, ceremony, and the foundation of Regulatus.
 
 ---
 
@@ -52,7 +58,7 @@ Structurally, it:
 - channels obedience upward
 - preserves hierarchy
 - normalizes inequality
-- turns conquered land into inherited right
+- turns conquered land into inherited right after conquest has been framed as Ventari discipline and Viriatus's noble sacrifice
 - makes class position feel moral
 - makes dissent feel shameful
 - keeps power flowing toward House Ventari and the later dynasty
@@ -80,7 +86,7 @@ They could argue that Viriatus belonged to:
 
 The witnesses who saw too much are removed, punished, or erased from record.
 
-Civel who spread rumors are killed or silenced.
+Servan witnesses who could repeat the true arrival are killed or silenced.
 
 House Ventari hides the arrival and sells the transformation.
 
@@ -102,18 +108,18 @@ He becomes the proof-product of the method that later becomes Regulatus.
 
 The public message becomes:
 
-> Power without order is danger.  
-> Order gives power purpose.  
-> Viriatus proved this.  
-> Regulatus preserves it.
+> Viriatus was trained, taught, and shaped by House Ventari.  
+> His victories prove what Ventari discipline can produce.  
+> The old order failed where Ventari discipline succeeded.  
+> Regulatus preserves the order his death made necessary.
 
 House Ventari's claim is not:
 
-> Follow Viriatus.
+> Follow Viriatus as separate from us.
 
 Their claim is:
 
-> Follow the system that made Viriatus possible.
+> Follow the discipline that formed Viriatus.
 
 ---
 
@@ -160,41 +166,37 @@ This also makes him dangerous.
 
 ---
 
-## Conquest As Ownership
+## Conquest As Proof
 
 As Viriatus conquers, House Ventari frames every victory as proof of their method.
 
-They claim authorship over the conqueror.
+They claim authorship over Viriatus's public meaning.
 
-Because they claim authorship over the conqueror, they claim ownership over what he conquers.
+Because they claim authorship over that public meaning, they use his victories as proof that Ventari discipline can produce what the old order could not.
 
 The doctrine becomes:
 
-> If our order made greatness, then everything greatness gained belongs to the order.
+> If Ventari discipline formed Viriatus, then Viriatus's victories prove Ventari discipline should replace the old order.
 
-This allows conquered lands to be treated not as theft, but as rightful inheritance.
+This allows conquered lands to be treated not as theft, but as rightful inheritance after the public story has framed conquest through Ventari discipline and Viriatus's noble sacrifice.
 
 House Ventari teaches that Viriatus did not win land for himself.
 
-He fulfilled the proof of Regulatus.
+He fulfilled the proof of Ventari discipline.
 
-Therefore, the land belongs to the order that formed him.
-
-The order is carried by House Ventari.
-
-This is how conquest becomes dynastic right.
+That proof becomes one of the arguments used to establish Regulatus.
 
 Locked principle:
 
-> Conquest becomes ownership because Regulatus claims authorship over the conqueror.
+> Conquest becomes inherited right because Regulatus claims authorship over Viriatus's public meaning.
 
 ---
 
 ## The Turning Point
 
-As Viriatus conquers, the people begin to see him as more than a weapon.
+As Viriatus conquers, the people begin to see him as more than a useful figure.
 
-They begin to believe he can lead civilization himself.
+They begin to believe he can lead civilization after Ecalus.
 
 He becomes:
 
@@ -204,17 +206,19 @@ He becomes:
 - mythologized by common people
 - seen as the true force behind the new order
 
-This threatens House Ventari.
+This threatens the Ventari siblings' control of what comes after Ecalus.
 
-House Ventari created the myth, but the myth begins to belong to Viriatus instead of them.
+House Ventari created the myth, but the living man begins to carry more public meaning than the siblings can safely control.
 
-The weapon is becoming the ruler.
+The trained asset is becoming the obvious public figure for the reshaped Rome.
 
 ---
 
 ## The Death of Viriatus
 
-House Ventari kills Viriatus when his personal influence becomes too great to control.
+Viriatus is killed after Ecalus dies, when his living public meaning threatens the siblings' control of what comes next.
+
+Ilunis kills Viriatus privately after Ermerus turns jealousy into duty.
 
 His death is not presented as betrayal.
 
@@ -226,7 +230,7 @@ The public version becomes:
 
 His death becomes emotional proof that civilization must be regulated.
 
-House Ventari steals the grief surrounding him and turns it into obedience.
+Ermerus steals the grief surrounding him and turns it into obedience.
 
 To question the new order becomes to dishonor Viriatus.
 
@@ -238,7 +242,9 @@ To obey becomes to participate in his legacy.
 
 Regulatus is formalized after Viriatus's death.
 
-It is propaganda built from pride, grief, controlled memory, and inherited obligation.
+AVD begins when Ermerus publicly declares Regulatus, not at the private moment Viriatus dies.
+
+Regulatus is propaganda built from pride, grief, controlled memory, and inherited obligation.
 
 Its purpose is to convert admiration for Viriatus into loyalty to the system that claims to have created him.
 
@@ -272,11 +278,11 @@ This is why people accept it.
 
 ## The Four Siblings
 
-After Viriatus dies, House Ventari needs to prevent society from centering itself around one uncontrollable figure again.
+After Viriatus dies, Ermerus must prevent society from centering itself around the living man again.
 
-His legacy is divided into four controlled pillars.
+Viriatus's public meaning is divided, interpreted, and institutionalized through the surviving Ventari family.
 
-The four Ventari siblings become the official cornerstones of society:
+The four Ventari siblings become founding lines because their wounds, roles, silences, and choices carry the first generation of Regulatus into later history:
 
 - Ermerus Ventari
 - Rutare Ventari
@@ -287,37 +293,41 @@ Their names later form the hidden foundation of Erit's name.
 
 They are not sacred because they were naturally chosen.
 
-They are made sacred because House Ventari needs human pillars through which Regulatus can survive.
+They become historically important because House Ventari needs human lines through which Regulatus can survive.
 
-Each sibling becomes a controlled interpretation of the order Viriatus supposedly made possible.
+Each sibling carries a different damage into the new order.
 
 ---
 
 ## Founding Line Functions
 
+These are broad historical directions, not complete character sheets.
+
+Each sibling file should explain the personal cause behind the line.
+
 ### Ermerus Ventari
 
-Ermerus controls meaning.
+Ermerus controls meaning because he survives by controlling interpretation.
 
-His line becomes associated with doctrine, record, interpretation, education, official memory, and the moral language of Regulatus.
+His line becomes associated with doctrine, official memory, reputation, diplomacy, education, and the moral language of Regulatus.
 
 ### Rutare Ventari
 
-Rutare controls order.
+Rutare turns pressure, protection, guilt, and fear of uselessness into procedure.
 
 His line becomes associated with administration, civic identity, records, permissions, bureaucracy, and the systems that decide who belongs.
 
 ### Ilunis Ventari
 
-Ilunis controls force.
+Ilunis turns usefulness, maiming, resentment, jealousy, and duty into force.
 
 His line becomes associated with military discipline, enforcement, sacrifice, punishment, security, and violence framed as duty.
 
 ### Teresta Ventari
 
-Teresta controls continuity.
+Teresta turns rejection, distance, study, and the need to prove continuity into preservation.
 
-Her line becomes associated with bloodline, household, preservation, medicine, inheritance, biological legacy, and later the systems that lead toward augmentation culture and the Devaar family.
+Her line becomes associated with household, preservation, medicine, inheritance, biological legacy, and later the systems that lead toward augmentation culture and the Devaar family.
 
 ---
 
@@ -387,17 +397,19 @@ They should feel:
 
 ## Core Historical Truth
 
-Viriatus conquered.
+Viriatus conquered under Ventari control.
 
-House Ventari claimed authorship over him.
+House Ventari claimed authorship over his public meaning.
 
-The people began to love him more than House Ventari.
+After Ecalus died, the people began to see Viriatus as the obvious public figure for the reshaped Rome.
 
-House Ventari killed him.
+Ermerus used Ilunis's jealousy and wound to turn murder into duty.
 
-Regulatus turned his memory into control.
+Ilunis killed Viriatus privately.
 
-The four Ventari siblings became the pillars that made the control permanent.
+Ermerus turned his memory into Regulatus.
+
+The founding siblings carried different wounds into the lines that made the control permanent.
 
 ---
 
@@ -411,7 +423,7 @@ A displaced child wanted family, belonging, and legacy.
 
 House Ventari turned that wound into conquest.
 
-When the people began loving him more than House Ventari, they killed him and turned his image into doctrine.
+When the people began seeing him as the figure who could lead after Ecalus, Ermerus and Ilunis removed him and turned his image into doctrine.
 
 Regulatus is the system that transformed one person's longing for continuity into a civilization built on hierarchy, inheritance, preservation, and control.
 
