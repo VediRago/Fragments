@@ -26,6 +26,26 @@ Re-fragmentation -> continued experience
 
 ---
 
+## Fractal Perception Pattern
+
+Fragments repeatedly uses the same perception shape at different scales:
+
+> partial perception -> recognition -> incomplete interpretation -> deeper pattern
+
+This applies to:
+
+- characters seeing each other incompletely
+- relationships beginning through recognition before understanding
+- the reader seeing fragments and building meaning gradually
+- Unity exposing connected fragments while still being perceived locally
+- Qalm tracking outcomes without experiencing totality all at once
+
+The story should not give total explanation first.
+
+It should let meaning appear through partial evidence, recognition, and later re-reading.
+
+---
+
 ## Qalm
 
 Qalm is the hidden continuity architecture behind the story.
@@ -35,6 +55,18 @@ It is not a god, villain, or conscious character. It should not feel like an int
 Qalm explores and manages infinite outcomes. Fragments exist because those outcomes exist.
 
 Qalm is not intended to be directly explained to the reader.
+
+### Reader / Qalm Parallel
+
+The reader mirrors Qalm structurally.
+
+Qalm observes outcomes across fragments. The reader also observes outcomes across fragments.
+
+Both collect partial experiences. Both recognize patterns. Neither receives total explanation all at once.
+
+This does not mean the reader is Qalm literally.
+
+It means the reading experience is shaped to echo Qalm's limited relationship to totality: many fragments can be observed, but total meaning still has to be assembled through pattern and recognition.
 
 ---
 
@@ -107,6 +139,58 @@ Unity is experience, recognition, and convergence.
 During Unity, Kael is connected to continuity across Fragments. Because she remains limited by human perception, she cannot process everything simultaneously. She experiences nearby fragments more clearly, while distant continuity collapses into movement, images, emotions, sensations, and finally colors.
 
 Unity should be experienced before it is understood.
+
+### Simultaneous Event, Localized Perception
+
+Mechanically, Unity exposes Kael to the connected continuity layer at once.
+
+But Kael cannot experience totality directly because localized consciousness requires separation.
+
+That is why Unity appears to move through stages:
+
+- full lives
+- emotional moments
+- images
+- colors
+- grey
+
+The event is simultaneous.
+
+The perception is localized.
+
+---
+
+## Why Unity Cannot Be Sustained
+
+Unity cannot remain stable because Qalm requires differentiated states to explore different outcomes.
+
+If all fragments collapse into one unified state, outcome variation stops.
+
+Fragmentation is required for experience, difference, and continuity exploration.
+
+Qalm restores separation because separated states are structurally necessary.
+
+The tragedy is that Qalm restores fragmentation too late. Kael has already touched the shared layer and affected associated fragments.
+
+---
+
+## Kael, Quarantine, And Contamination
+
+Kael briefly reaches the layer above fragmented lives: the Self / continuity layer that connects related fragments.
+
+Qalm quarantines her because Unity violates separation.
+
+But by the time Qalm acts, contact has already occurred.
+
+The contamination spreads through associated fragments before separation is restored.
+
+This means Kael is not the only anomaly forever.
+
+She is the source anomaly / first observable anomaly.
+
+After Unity, affected fragments become harder or impossible for Qalm to classify through the old condition pathway.
+
+The condition stops because Qalm can no longer correctly classify or resolve the affected fragment structure.
 
 ---
 
