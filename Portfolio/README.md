@@ -18,12 +18,12 @@ It is meant to show:
 Read these first. They are the clean public route.
 
 1. [Main Repository README](../README.md)
-2. [Current Portfolio Index](../05_Portfolio/README.md)
-3. [Erit Worldbuilding Case Study](../05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
-4. [Story and Worldbuilding Learning Notes](../05_Portfolio/02_Story_And_Worldbuilding_Learning_Notes.md)
-5. [Selected Prose](../05_Portfolio/03_Selected_Prose.md)
-6. [Development Process](../05_Portfolio/04_Development_Process.md)
-7. [About Me](../05_Portfolio/06_About_Me.md)
+2. [Portfolio Index](Index.md)
+3. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)
+4. [Story and Worldbuilding Learning Notes](Story_And_Worldbuilding_Learning_Notes.md)
+5. [Selected Prose](Selected_Prose.md)
+6. [Development Process](Development_Process.md)
+7. [About Me](About_Me.md)
 
 ## Project Branches
 
@@ -45,7 +45,7 @@ This branch is for the worldbuilding: Viriatus, House Ventari, Regulatus, foundi
 
 The strongest current public-facing sample is:
 
-[Erit Worldbuilding Case Study](../05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
+[Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)
 
 It shows how one small story detail, an emperor statue, started turning into a founder, propaganda system, calendar, family history, ideology, NPC model, and quest pressure.
 
