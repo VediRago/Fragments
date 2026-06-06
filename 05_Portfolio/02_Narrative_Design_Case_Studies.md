@@ -1,18 +1,18 @@
-# Narrative Design Findings
+# Story and Worldbuilding Learning Notes
 
 This file collects things I noticed while building **Fragments**.
 
-I do not see these as finished professional case studies. They are records of what I learned while working on the project outside of my full-time job.
+I do not see these as finished professional case studies. They are records of what I am trying to understand while working on the project outside of my full-time job.
 
 The goal is not to explain the whole story.
 
-The goal is to show how certain ideas started to connect: perception, repeated details, emotional cause, misdirection, world pressure, and payoff.
+The goal is to show how certain ideas started to connect for me: perception, repeated details, emotional cause, misdirection, world pressure, and payoff.
 
 ---
 
 ## 01 — Different Conclusions From the Same Story
 
-One of the first things I became interested in was how the same story could lead different readers toward different conclusions without changing the events.
+One of the first things I became interested in was whether the same story could lead different readers toward different conclusions without changing the events.
 
 The reader does not need false information for this to happen.
 
@@ -44,7 +44,7 @@ Related material:
 
 ---
 
-## 02 — How a Detail Becomes a World
+## 02 — How a Detail Started Becoming a World
 
 The worldbuilding for Erit's world did not begin with a map.
 
@@ -80,7 +80,7 @@ Related material:
 - `01_Reference/Worlds/00_Worldbuilding_Method.md`
 - `01_Reference/Worlds/03_Rules.md`
 - `01_Reference/Worlds/Erit_World/01_Displaced_Founder.md`
-- `01_Reference/Worlds/Erit_World/04_Founding_Lines.md`
+- `01_Reference/Worlds/Erit_World/01_Founding_Era/House_Ventari.md`
 
 ---
 
@@ -94,7 +94,7 @@ And that reason came from experience.
 
 The smaller chain became:
 
-> life experience → emotion → reason → behavior
+> life experience -> emotion -> reason -> behavior
 
 A person does not become angry, distant, loyal, proud, afraid, or controlling from nowhere.
 
@@ -106,9 +106,9 @@ Then the person gives the emotion a reason.
 
 That reason shapes behavior.
 
-If the behavior repeats, it can become a family pattern. If the pattern survives long enough, it can become a system.
+If the behavior repeats, it might become a family pattern. If the pattern survives long enough, it might become a system.
 
-That helped me understand the founding lines:
+That helped me test the founding lines:
 
 - Rutare turns pressure and protection into procedure.
 - Ilunis turns usefulness and damage into judgment and force.
@@ -121,7 +121,7 @@ They began as people reacting to what they lived through.
 
 Related material:
 
-- `01_Reference/Worlds/Erit_World/04_Founding_Lines.md`
+- `01_Reference/Worlds/Erit_World/01_Founding_Era/Ventari_Family/README.md`
 - `01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md`
 
 ---
@@ -200,11 +200,11 @@ Kael cannot.
 
 But if a reader does not notice the structure, they still experience disorientation, overlap, and being pulled through something they do not fully understand.
 
-That is also part of the point.
+That is also part of what I am testing.
 
 The story does not need branching events to create different outcomes.
 
-The branch can happen through perception.
+The branch might happen through perception.
 
 One reader understands the prison.
 
@@ -217,17 +217,17 @@ Related material:
 
 ---
 
-## 06 — What This Taught Me
+## 06 — What I Am Still Testing
 
-The biggest lesson I keep returning to is that structure has to hold underneath the experience.
+The main idea I keep returning to is that structure has to hold underneath the experience.
 
-Misdirection only works if the incomplete answer was believable at the time.
+Misdirection seems to work better if the incomplete answer was believable at the time.
 
-Worldbuilding only works if the systems have roots.
+Worldbuilding seems stronger when the systems have roots.
 
-Emotion only works if it comes from experience, reason, and behavior.
+Emotion seems stronger when it comes from experience, reason, and behavior.
 
-Payoff only works if the reader was given something visible to notice before they understood it.
+Payoff seems stronger when the reader was given something visible to notice before they understood it.
 
 That is why I keep returning to the same idea:
 
