@@ -4,7 +4,7 @@ I'm Diogo Oliveira. I currently work full-time in glass manufacturing, and I am 
 
 This project is very early. I started it on **20/05/2026**, so the material here represents roughly **15 days of learning, testing, writing, and restructuring**.
 
-I am not presenting this as professional narrative design work.
+I am not presenting this as finished professional game development work.
 
 I am presenting it as a record of what I am trying to understand:
 
