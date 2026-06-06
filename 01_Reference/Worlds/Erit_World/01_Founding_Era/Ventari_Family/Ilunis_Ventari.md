@@ -26,6 +26,10 @@ Ilunis feels that he threw his life away for House Ventari and still lost his pl
 
 Viriatus becomes the living proof that sacrifice did not earn him what he wanted.
 
+Ilunis does not only hate Viriatus.
+
+He hates what Ecalus's love for Viriatus proves about his own sacrifice.
+
 ## Inner Logic
 
 > Mercy did not save my body.  
@@ -47,15 +51,49 @@ His later logic becomes:
 - weakness as danger
 - betrayal as something that must be cut out
 
-## Founding Era Role
+## Ermerus Influence
+
+Ermerus gives Ilunis's jealousy the shape of duty.
+
+The key idea is not simply:
+
+> I hate Viriatus.
+
+It becomes:
+
+> Viriatus threatens our blood.
+
+That interpretation lets Ilunis believe killing Viriatus is not only revenge.
+
+It is protection of the family.
+
+## Murder Of Viriatus
 
 Ilunis kills Viriatus privately after Ecalus dies.
+
+The family is mourning Ecalus.
+
+Teresta is away.
+
+Rutare cries or panics.
 
 Viriatus is vulnerable, kneeling over Ecalus's casket as a grieving son.
 
 Ilunis stabs him in the back.
 
+The murder is not battlefield glory.
+
+It is a private betrayal committed against someone grieving the same father.
+
+## What The Murder Gives Him
+
 Killing Viriatus gives Ilunis power again.
+
+More precisely, it restores agency after maiming.
+
+After Augunar, Ilunis's body no longer obeys him fully.
+
+Killing Viriatus becomes the first moment where he feels decisive, strong, and necessary again.
 
 ## Later Consequence
 
