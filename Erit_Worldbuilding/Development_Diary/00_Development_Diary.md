@@ -2,23 +2,18 @@
 
 This file is the clean migrated diary index for the **Erit Worldbuilding** branch.
 
-The older full diary still exists in:
-
-`01_Reference/Worlds/Erit_World/00_Development_Diary.md`
-
-That older file is preserved for now as working history, but it should not be treated as the clean canonical starting point until it is split and checked.
+The older full diary is preserved as working history, but it should not be treated as the clean canonical starting point until it is split and checked.
 
 ## Current Canon Starting Points
 
 Read these files first:
 
-1. [Common Terms](00_Common_Terms.md)
-2. [Calendar And Eras](00_Overview/Calendar_And_Eras.md)
-3. [Displaced Founder](01_Displaced_Founder.md)
-4. [Regulatus](02_Regulatus.md)
-5. [Viriatus and the Origin of Regulatus](01_History/00_Viriatus_Regulatus_Origin.md)
-6. [House Ventari — Founding Era](01_Founding_Era/House_Ventari.md)
-7. [Ventari Family — Founding Era](01_Founding_Era/Ventari_Family/README.md)
+1. [Erit Worldbuilding Case Study](../../Portfolio/Erit_Worldbuilding_Case_Study.md)
+2. [Calendar and Eras](../01_History/Calendar_And_Eras.md)
+3. [Viriatus and the Origin of Regulatus](../01_History/00_Viriatus_Regulatus_Origin.md)
+4. [Regulatus](../01_History/02_Regulatus.md)
+5. [House Ventari — Founding Era](../02_Founding_Era/House_Ventari.md)
+6. [Ventari Family — Founding Era](../02_Founding_Era/Ventari_Family/README.md)
 
 ## Locked Development Rule
 
