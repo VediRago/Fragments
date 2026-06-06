@@ -34,6 +34,18 @@ The public story is noble death in war.
 
 The calendar begins with the public interpretation, not the private event alone.
 
+## Empiran Clarification
+
+Empiran refers to the political and civic order that emerges from Ventari's transformation of the old Rome-derived world.
+
+It should not be treated as fully existing before Regulatus.
+
+During Viriatus's lifetime, House Ventari is controlling the old order's transition into the emerging Empiran order.
+
+After Regulatus and AVD, that emerging order consolidates into the Empiran.
+
+Over generations, Ventari expansion turns Empiran rule into world rule.
+
 ## Broad Timeline
 
 > ACD / Celcinus Calendar  
@@ -43,11 +55,12 @@ The calendar begins with the public interpretation, not the private event alone.
 > -> House Ventari takes control of him  
 > -> Ecalus Ventari hides the truth and starts the plot  
 > -> Ecalus shapes Viriatus into weapon, proof, advantage, and myth  
-> -> House Ventari uses Viriatus to control the Empiran  
+> -> House Ventari uses Viriatus to control the old order's transition into the emerging Empiran order  
 > -> Viriatus defeats the old order  
 > -> Viriatus conquers beyond Rome  
 > -> Ventari power expands  
-> -> the Ventari dynasty eventually controls the world  
+> -> Regulatus later consolidates the emerging Empiran order  
+> -> over generations, the Ventari dynasty eventually controls the world  
 > -> Ecalus dies before creating the new order  
 > -> family mourns Ecalus  
 > -> Teresta is away  
