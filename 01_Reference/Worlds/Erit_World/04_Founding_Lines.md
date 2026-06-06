@@ -59,36 +59,56 @@ They are the roads by which House Ventari turns a stolen founder into a civiliza
 
 ---
 
-## Empiran Pillar Control
+## First Pillar Structure
 
-The reason the siblings eventually take control of different Empiran pillars is not coincidence.
+The first post-Viriatus structure is not an equal four-pillar system.
 
-House Ventari divides power across the siblings so no major part of civilization can escape Ventari influence.
+Ermerus remains the head over the whole arrangement because he creates the meaning, the mask, and the public interpretation of Viriatus's death.
 
-The intended structure is:
+The intended first structure is:
 
-- **Ermerus** controls meaning, legitimacy, ceremony, public memory, and interpretation.
-- **Rutare** controls procedure, records, administration, permissions, and civic machinery.
+- **Ermerus** remains above the system as head of legitimacy, meaning, ceremony, public memory, and interpretation.
+- **Rutare** controls procedure, records, administration, permissions, civic machinery, and also takes medicine because Teresta does not want to become one of the ruling pillars.
 - **Ilunis** controls force, law, judgment, punishment, military authority, and sanctioned violence.
-- **Teresta** eventually leads toward medicine, preservation, augmentation, bodily identification, and the later path to House Devaar.
+- **Teresta** does not want a ruling pillar. She distances herself from House Ventari after learning the truth and moves away from the family structure.
 
-The design goal is total control through divided pillars.
+The design goal is still total control of Empiran society.
 
-No single pillar should stand outside the family.
+But at first, that control is concentrated under Ermerus, with Rutare and Ilunis acting as major functional arms.
 
-But this design does not fully succeed.
+Teresta's line is not yet House Devaar and is not yet a power pillar.
 
-The great irony is Ermerus.
+Medicine initially falls under Rutare's administrative/procedural control because Teresta refuses the family structure.
 
-Ermerus helps create the system that divides control across bloodlines to prevent unstable legacy from escaping House Ventari.
+---
 
-Yet Ermerus's own lack of discipline creates bastard lines and disputed descendants.
+## Next Generation Fracture
 
-The architect of controlled legacy becomes one of the sources of uncontrolled legacy.
+The structure does not hold.
 
-The system designed to prevent future instability creates new instability through its own founder.
+In the next generation, Ermerus's line weakens because of his bastard children and disputed bloodlines.
 
-This is one of the cracks that can echo many generations later.
+Rutare and Ilunis family lines use the fake or disputed bloodlines as a reason to remove power from Ermerus's descendants.
+
+This is the great irony:
+
+> Ermerus creates the system of controlled legacy, but his own uncontrolled legacy becomes the justification for breaking his line's authority.
+
+Rutare and Ilunis do not need to say they are overthrowing Ermerus's meaning directly.
+
+They can frame it as protection of order, legitimacy, and bloodline purity.
+
+This makes the power shift feel lawful instead of openly rebellious.
+
+Over time:
+
+- Ermerus's line loses central authority.
+- Rutare's line strengthens through procedure, records, and institutional control.
+- Ilunis's line strengthens through law, punishment, and enforcement.
+- Teresta's daughter-line is pushed out or excluded, with Ilunis causing or enforcing that expulsion.
+- Medicine remains outside Teresta's power at first and is held through Rutare-controlled systems until later generations.
+
+Only much later does Teresta's rejected line return toward power through medicine, preservation, augmentation, bodily dependency, and eventually House Devaar.
 
 ---
 
@@ -495,6 +515,10 @@ Her value is not immediately visible to a family that expects useful heirs, poli
 
 Teresta herself is not the one fully cast out immediately.
 
+She also does not want to become one of the ruling pillars after learning the truth.
+
+She moves away from the family structure.
+
 The exile lands more precisely on the next generation: **Teresta's daughter**.
 
 Ilunis is the force that causes or enforces this daughter-line expulsion.
@@ -652,6 +676,7 @@ Use the method only as far as each line has earned:
 - How involved is Rutare in formalizing civic procedure around Regulatus?
 - Why does Ilunis cause or enforce the exile of Teresta's daughter-line?
 - How does Teresta's daughter-line exile happen socially, legally, and emotionally?
+- When and how does medicine leave Rutare-controlled systems and return through Teresta's rejected line?
 - At what generation does Teresta's line become House Devaar?
 - Is the virus/cure event engineered, exploited, misunderstood, or disputed?
 - Which line currently has the most visible authority by Erit's era?
