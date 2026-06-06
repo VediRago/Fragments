@@ -37,7 +37,7 @@ This can be seen in the four founding siblings:
 - **Rutare** was sheltered and pressured, so he easily falls into inadequacy, avoidance, and quiet control.
 - **Ilunis** was used and maimed, so he easily falls into anger, jealousy, entitlement, and punishment.
 - **Teresta** was dismissed and cast out, so she easily falls into distance, obsession, proving value, and control through knowledge.
-- **Ermerus** still needs to be defined, but his emotional gravity should follow the same model.
+- **Ermerus** was given freedom without discipline, so he easily falls into charm, interpretation, appetite, and control through meaning.
 
 Smaller NPCs can work the same way.
 
