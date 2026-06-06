@@ -8,6 +8,16 @@ He is overprotected because he is the heir.
 
 He is told he must inherit power, but he is never allowed to become powerful.
 
+## Core Contrast
+
+Rutare is overprotected.
+
+Ilunis is overused.
+
+Rutare is protected from pressure until pressure becomes something he cannot survive directly.
+
+Ilunis is pushed into pressure until pressure destroys his body.
+
 ## Core Wound
 
 Rutare is protected because he matters.
@@ -45,7 +55,31 @@ Rutare witnesses enough to know the official story of Viriatus's death is false.
 
 He does not have the strength to stop it.
 
+He does not become a rebel.
+
+He leaks truth through weakness, pressure, and need rather than ideology.
+
 He later tells Teresta because she treats him with care and he needs to share the pressure.
+
+## Relationship To The Official Story
+
+Rutare does not publicly challenge Ermerus.
+
+But his records may become the earliest contradictions inside the official version of Viriatus's death.
+
+He may preserve:
+
+- dates
+- mourning records
+- guard rosters
+- missing Civel records
+- funeral inventories
+- inconsistent witness notes
+- procedural fragments that do not match the public story
+
+He does not preserve the truth because he is brave.
+
+He preserves it because he cannot stop recording.
 
 ## Later Consequence
 
