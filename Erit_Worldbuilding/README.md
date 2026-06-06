@@ -44,7 +44,7 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 - `01_History/00_Viriatus_Regulatus_Origin.md`
 - `01_History/01_Viriatus_Chronology.md`
 - `01_History/02_Calendar_And_Eras.md`
-- `01_History/03_Regulatus.md`
+- `01_History/02_Regulatus.md`
 - `02_Founding_Era/House_Ventari.md`
 - `02_Founding_Era/Ventari_Family/README.md`
 
@@ -60,7 +60,7 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 - `01_History/00_Viriatus_Regulatus_Origin.md`
 - `01_History/01_Viriatus_Chronology.md`
 - `01_History/02_Calendar_And_Eras.md`
-- `01_History/03_Regulatus.md`
+- `01_History/02_Regulatus.md`
 
 ## Founding Family
 
@@ -73,7 +73,7 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 
 ## Doctrine
 
-- `01_History/03_Regulatus.md`
+- `01_History/02_Regulatus.md`
 
 ## Systems / NPC And Quest Logic
 
