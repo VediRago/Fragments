@@ -1,6 +1,6 @@
 # Fragments
 
-I'm Diogo Oliveira. I currently work full-time in glass manufacturing, and I am building **Fragments** outside of work as a hobby project while exploring whether I can move toward game development and narrative design.
+I'm Diogo Oliveira. I currently work full-time in glass manufacturing, and I am building **Fragments** outside of work as a hobby project.
 
 This project is very early. I started it on **20/05/2026**, so the material here represents roughly **15 days of learning, testing, writing, and restructuring**.
 
