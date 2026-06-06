@@ -21,11 +21,10 @@ Recommended reading order:
 
 1. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
 2. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
-3. [Calendar and Eras](Erit_Worldbuilding/01_History/Calendar_And_Eras.md)
-4. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
-5. [Portfolio Overview](Portfolio/README.md)
+3. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
+4. [Portfolio Overview](Portfolio/README.md)
 
-The case study is the strongest first click because it shows how a practical worldbuilding problem led back to a detail already inside the prose. The method file shows the hierarchy behind the process: story pressure, emotional cause, system logic, behavior, and consequence. The calendar file then shows the first practical challenge that led to the timeline, eras, and the emperor statue.
+The case study is the strongest first click because it shows how a practical worldbuilding problem led back to a detail already inside the prose. The method file shows the hierarchy behind the process: story pressure, emotional cause, system logic, behavior, and consequence. The diary shows the fuller working trail behind the case study and method.
 
 ## Project Branches
 
