@@ -35,28 +35,28 @@ The worldbuilding branch: Viriatus, House Ventari, Regulatus, founding families,
 
 The public-facing branch: clean summaries, selected samples, and learning-process notes.
 
-The older source files still exist in their current folders while the repo is being reorganized. The new top-level folders are doorways, not full migrations yet.
+The older source files still exist in their current folders while the repo is being reorganized. The new top-level folders are becoming the active public routes.
 
 ## Start Here
 
 For a quick public overview, begin with the portfolio route:
 
-[05_Portfolio/README.md](05_Portfolio/README.md)
+[Portfolio/README.md](Portfolio/README.md)
 
 Recommended reading order:
 
-1. [Portfolio Index](05_Portfolio/README.md)
-2. [Erit Worldbuilding Case Study](05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
-3. [Story and Worldbuilding Learning Notes](05_Portfolio/02_Story_And_Worldbuilding_Learning_Notes.md)
-4. [Selected Prose](05_Portfolio/03_Selected_Prose.md)
-5. [Development Process](05_Portfolio/04_Development_Process.md)
-6. [About Me](05_Portfolio/06_About_Me.md)
+1. [Portfolio Index](Portfolio/Index.md)
+2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
+3. [Story and Worldbuilding Learning Notes](Portfolio/Story_And_Worldbuilding_Learning_Notes.md)
+4. [Selected Prose](Portfolio/Selected_Prose.md)
+5. [Development Process](Portfolio/Development_Process.md)
+6. [About Me](Portfolio/About_Me.md)
 
 ## Worldbuilding Process
 
 For the polished worldbuilding sample, read:
 
-[Erit Worldbuilding Case Study](05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
+[Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
 
 For the longer design trail behind that sample, read:
 
@@ -80,8 +80,8 @@ The repo-wide clarity rule is here:
 
 - `Fragments_Story/` — doorway for the main story branch
 - `Erit_Worldbuilding/` — doorway for the Erit worldbuilding branch
-- `Portfolio/` — doorway for public-facing material
-- `05_Portfolio/` — current portfolio source files
+- `Portfolio/` — active public-facing route
+- `05_Portfolio/` — older portfolio source files, kept temporarily during migration
 - `04_Prose/` — selected prose scenes and excerpts
 - `03_Acts/` — act structure and story progression
 - `02_Characters/` — character reference files
