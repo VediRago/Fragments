@@ -34,17 +34,21 @@ The public story is noble death in war.
 
 The calendar begins with the public interpretation, not the private event alone.
 
-## Empiran Clarification
+## Empiran And Regulatus Clarification
 
-Empiran refers to the political and civic order that emerges from Ventari's transformation of the old Rome-derived world.
+Empiran is the later word for empire.
 
-It should not be treated as fully existing before Regulatus.
+It refers to the empire created from Ventari's transformation of the old Rome-derived order.
 
-During Viriatus's lifetime, House Ventari is controlling the old order's transition into the emerging Empiran order.
+Regulatus is not the empire itself.
 
-After Regulatus and AVD, that emerging order consolidates into the Empiran.
+Regulatus is the order used to control the masses inside the empire.
 
-Over generations, Ventari expansion turns Empiran rule into world rule.
+During Viriatus's lifetime, House Ventari is using him to seize control of the old Rome-derived order and begin forming the empire.
+
+After Regulatus and AVD, that empire consolidates.
+
+Over generations, Ventari expansion and Regulatus control allow the dynasty to control the world.
 
 ## Broad Timeline
 
@@ -55,12 +59,15 @@ Over generations, Ventari expansion turns Empiran rule into world rule.
 > -> House Ventari takes control of him  
 > -> Ecalus Ventari hides the truth and starts the plot  
 > -> Ecalus shapes Viriatus into weapon, proof, advantage, and myth  
-> -> House Ventari uses Viriatus to control the old order's transition into the emerging Empiran order  
+> -> House Ventari uses Viriatus to seize control of the old Rome-derived order  
 > -> Viriatus defeats the old order  
 > -> Viriatus conquers beyond Rome  
 > -> Ventari power expands  
-> -> Regulatus later consolidates the emerging Empiran order  
-> -> over generations, the Ventari dynasty eventually controls the world  
+> -> Ermerus declares Regulatus  
+> -> Year 0 AVD begins  
+> -> Regulatus consolidates mass control inside the emerging empire  
+> -> Empiran becomes the later word for that empire  
+> -> over generations, Ventari expansion and Regulatus control allow the dynasty to control the world  
 > -> Ecalus dies before creating the new order  
 > -> family mourns Ecalus  
 > -> Teresta is away  
@@ -71,12 +78,22 @@ Over generations, Ventari expansion turns Empiran rule into world rule.
 > -> Civel are accused of stealing jewelry during mourning  
 > -> Civel witnesses are killed  
 > -> public story becomes noble death in war  
-> -> Ermerus declares Regulatus  
-> -> Year 0 AVD begins  
 > -> Ventari rule consolidates  
 > -> Fracture Era follows Ermerus's bloodline irony  
 > -> Devaar Rise Era follows after a major time jump  
 > -> Erit Era follows many generations later
+
+## Timeline Correction
+
+The broad timeline above separates political expansion from the later private murder sequence.
+
+Ecalus starts the plot and dies before personally creating the final new order.
+
+After his death, Ilunis kills Viriatus privately.
+
+Ermerus then controls the aftermath and declares Regulatus.
+
+Regulatus is what allows the empire to consolidate as a controllable order after Viriatus's death.
 
 ## Four Eras
 
