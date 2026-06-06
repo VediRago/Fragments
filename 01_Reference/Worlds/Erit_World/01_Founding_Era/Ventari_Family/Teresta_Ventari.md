@@ -4,9 +4,9 @@
 
 Teresta is part of the founding Ventari family structure, but she refuses to become one of its ruling supports.
 
-She does not want to become a pillar of power.
+She does not want to stabilize a structure built on a masked murder.
 
-She moves away from the family structure after learning the truth.
+She moves away from House Ventari after learning the truth.
 
 ## Core Experience
 
@@ -24,15 +24,19 @@ The family did not only kill Viriatus.
 
 They transformed that killing into public meaning.
 
-This makes the order feel false to her at its root.
+Regulatus becomes false to her at its root because she knows what it was built from.
 
 ## Behavior
 
 Teresta distances herself from House Ventari.
 
-She refuses to become a ruling pillar.
+She refuses to stabilize the ruling structure.
 
-She moves away from the family structure rather than helping stabilize it.
+She moves away from the family arrangement rather than helping preserve it.
+
+Her refusal is not rebellion at first.
+
+It is distance.
 
 ## Founding Era Role
 
@@ -44,7 +48,11 @@ She moves away from the family structure rather than helping stabilize it.
 
 ## Later Consequence
 
-Teresta's daughter-line or descendant line is later expelled or pushed out by Ilunis or Ilunis's line.
+Teresta does not immediately create House Devaar.
+
+Her daughter-line or descendant line is later expelled or pushed out by Ilunis or Ilunis's line.
+
+The Devaar connection belongs much later, after rejection and a time jump.
 
 Much later, the rejected line returns through:
 
