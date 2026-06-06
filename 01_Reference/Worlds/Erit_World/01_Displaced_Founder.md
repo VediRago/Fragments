@@ -24,7 +24,7 @@ He comes from a far more advanced human civilization, but the people who first e
 
 Over time, his presence pushes Rome away from the history we know and toward the world that eventually produces Erit, the Devaar family, augmentation, preservation, Regulatus, House Ventari, and the Empiran order.
 
-He becomes the ruler who never ruled, but created the nation.
+He becomes the founder who never ruled, but whose stolen legacy helped create the nation.
 
 ---
 
@@ -121,7 +121,7 @@ This relationship should remain complicated. They give him shelter, language, ed
 
 They do not simply adopt a lost child.
 
-They turn him into a future.
+They turn him into a future for themselves.
 
 House Ventari hides the truth of his arrival because the truth would make him contestable.
 
@@ -177,20 +177,24 @@ They frame his conquest as proof of their method.
 
 Their public logic becomes:
 
-> Power without order is danger.  
-> Order gives power purpose.  
-> Viriatus proved this.  
-> Regulatus preserves it.
+> Viriatus was trained, taught, and shaped by House Ventari.  
+> His victories prove what Ventari discipline can produce.  
+> The old order failed where Ventari discipline succeeded.  
+> Regulatus preserves the order his death made necessary.
 
 His victories are treated as evidence that Ventari discipline can shape greatness.
 
-This allows House Ventari to claim authorship over the conqueror.
+This allows House Ventari to claim authorship over the public meaning of the conqueror.
 
-Because they claim authorship over the conqueror, they claim ownership over what he conquers.
+They do not need to present Viriatus as separate from House Ventari.
 
-The hidden truth is conquest.
+They present him as the result of House Ventari discipline.
 
-The public truth becomes inheritance.
+That proof helps House Ventari replace the old order with Regulatus.
+
+The hidden truth is conquest, use, and later murder.
+
+The public truth becomes sacrifice, inheritance, and order.
 
 ---
 
@@ -225,19 +229,19 @@ This keeps Viriatus's tragedy intact. He wants family and legacy, but becomes th
 
 ## Betrayal and Death
 
-Viriatus is eventually killed when his personal influence becomes too great to control.
+Viriatus is eventually killed after Ecalus dies, when his living public meaning threatens the siblings' control of what comes next.
 
 By this point, people have begun to see him as more than a useful figure.
 
-Some see him as the one who should lead civilization.
+Some see him as the one who should lead civilization after Ecalus.
 
 Some see him as divine authority.
 
 Some see him as the living proof that Rome's future belongs to something beyond ordinary bloodlines.
 
-To House Ventari, this makes him dangerous.
+To the Ventari siblings, this makes him dangerous.
 
-They used him to build their future, but now he threatens to become greater than them.
+They used him to build their future, but now his public meaning could outrank their inheritance.
 
 His death is not presented as betrayal.
 
@@ -245,7 +249,7 @@ It is rewritten as sacrifice, military necessity, heroic loss, or the tragic cos
 
 Privately, it is removal.
 
-House Ventari preserves his image because his myth is useful, but removes the man because his existence threatens their control.
+House Ventari preserves his image because his myth is useful, but removes the man because his existence threatens the siblings' control.
 
 This is why the statue matters.
 
@@ -257,9 +261,11 @@ The statue turns him into symbol after the family has taken away his agency.
 
 His death becomes important enough to reset time.
 
-Early calendar language may use **AD** as **After Death**, referring to the founder's sacred death before the name Viriatus becomes fully established.
+The world uses the older ACD / Celcinus Calendar before Regulatus is imposed.
 
-Later doctrine may attach the name Viriatus more directly to that death.
+After Regulatus is imposed, AVD becomes the new era.
+
+AVD means **After Viriatus's Death**, but it begins when Ermerus publicly declares Regulatus, not at the private moment Viriatus dies.
 
 This allows the same date to carry different meanings:
 
