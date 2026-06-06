@@ -323,19 +323,27 @@ The next era inherits a world where Lucrest will be forced under Regulatus by co
 
 ## Era Three — Consolidation And Industrial Rise Era
 
-Era Three begins around 200 AVD.
+Era Three runs from roughly 200 AVD to 1000 AVD.
 
 The long gap after 40 AVD lets the family conflicts of Era Two become inherited city structures, institutions, factions, and economic pressure. By this point, Viriatus is no longer remembered by most people as a living man. He is statue, oath, banner, ritual, public memory, and recruitment language.
 
 This era explains how Regulatus becomes a broader multi-city order while Arumis begins the power shift that later makes medicine, preservation, and augmentation possible.
 
+By Era Three, most institutions of power are held by descendants of the founding bloodlines. This does not mean every official is Ventari by name. It means the main structures of power trace their authority back to the family lines shaped by the founding crime. The founding generation is dead, but their wounds have become offices.
+
 Core transformation:
 
 > Lucrest conquered by force -> Arumis allied by strategy -> Regulatus broadens -> knowledge and industry begin shifting power
 
-### Lucrest Falls By Force
+### 200 AVD — Era Three Begins
 
-By Era Three, Lucrest has been the strongest rebel pressure point for generations.
+By 200 AVD, Regulatus is no longer a young order. Its laws, records, public rituals, military divisions, and inherited offices have survived long enough to feel normal.
+
+The major bloodline institutions are already recognizable. Rutare's descendants dominate administration, records, recognition, and the soft-control roots that later become Lux Aeterna. Ilunis's descendants dominate military authority, courts, law, force, and the Virtuasti. Ermerus's descendants carry the contradiction of legitimacy into Lucrest and the rebellion. Teresta's line survives through Arumis, teaching, private memory, and academic influence.
+
+### 300 AVD — Lucrest Falls By Force
+
+By 300 AVD, Lucrest has been the strongest rebel pressure point for generations.
 
 Its rebellion, resource leverage, fertile land, rivers, mountain access, and Ermerus bloodline inheritance make it too dangerous for Vys to tolerate indefinitely.
 
@@ -343,7 +351,7 @@ Lucrest falls under Regulatus by force.
 
 This conquest wounds the city but does not erase rebellion. Rebels are forced out of the cities and toward the desert, where they align with scattered villages and unite them around the purpose of fighting back. They have little food, little metal, limited water, and few stable supply routes. Their strength becomes mobility, village trust, hidden wells, night movement, and shared anger against Regulatus.
 
-### Arumis Enters By Alliance
+### 450 AVD — Arumis Enters By Alliance
 
 Arumis watches Lucrest fall carefully.
 
@@ -357,23 +365,9 @@ By accepting Regulatus through alliance instead of conquest, Arumis protects its
 
 The difference matters later. Lucrest enters Regulatus wounded by force. Arumis enters Regulatus carrying knowledge, compromise, resentment, and the foundations of a future power shift.
 
-### Public Alignment Layer
+### 600 AVD — Virtuasti Fortress And Division Structure
 
-The first social layer is public alignment.
-
-In Vys, everyone is Regulatus in public. This does not mean everyone believes. It means everyone says they believe, because public life in Vys leaves almost no safe room for visible doubt.
-
-The Scutis make this possible.
-
-As the protective division of the Virtuasti, the Scutis guard streets, civic buildings, gates, rituals, statue ceremonies, government offices, and public gatherings. Over time, protection becomes visibility. They notice who attends, who hesitates, who speaks incorrectly, who avoids oaths, who receives visitors, and who appears too detached from public loyalty.
-
-Because of this, hiding non-Regulatus sympathy inside Vys becomes extremely difficult.
-
-Vys does not only punish disobedience. It makes loyalty performable, observable, and expected.
-
-### Virtuasti Fortress And Division Structure
-
-By Era Three, rebellion has moved beyond individual cities and become an independent faction. Lucrest remains the strongest rebel memory, and the roads between Vys and Lucrest become strategically important.
+By 600 AVD, rebellion has moved beyond individual cities and become an independent faction. Lucrest remains the strongest rebel memory, and the roads between Vys and Lucrest remain strategically important.
 
 The Virtuasti answer this by building a fortress city between Vys and Lucrest.
 
@@ -389,11 +383,17 @@ From this fortress, the Virtuasti divide into three main forces:
 
 This division matters because rebellion no longer has one face. Regulatus needs soldiers who can attack, guards who can protect, and shadows who can find what cannot be fought openly.
 
+The Virtuasti do not follow ordinary government rules or civic law. They are Regulatus-aligned, but they do not answer to the normal institutions that govern citizens, officials, courts, or city administrations. Their authority comes from Virtus, the Banner of Viriatus, military prestige, and the belief that they carry the purpose of Regulatus more purely than slower institutions can.
+
+The government may rule cities. The courts may judge citizens. Lux Aeterna may spread aid and moral control. But the Virtuasti act when they decide Regulatus is threatened.
+
+They are loyal to Regulatus, but not obedient to the government.
+
 The Virtuasti do not yet become human-augmented soldiers in this era, but this structure creates the military order that later makes augmentation possible.
 
-### Lux Aeterna
+### 750 AVD — Lux Aeterna And Gladiator Houses Spread
 
-During the Consolidation And Industrial Rise Era, a woman from Rutare's line founds Lux Aeterna, a religious charitable order carrying the Ventari name.
+During this period, a woman from Rutare's line founds Lux Aeterna, a religious charitable order carrying the Ventari name.
 
 Publicly, Lux Aeterna exists to help the poor: food, shelter, orphan care, burial rites, basic medical aid, and moral guidance.
 
@@ -413,13 +413,13 @@ Through the appearance of mercy, the Ventari web spreads deeper.
 
 As the Virtuasti become feared and honored, Lux Aeterna creates its own military branch under the justification of purifying lands and cities. The Virtuasti do not acknowledge Lux Aeterna as a true rival. They see themselves as the pride of the military and the force that enforces Regulatus where charity, courts, and speeches are too weak. Lux cares more about the comparison than Virtus does.
 
-### Gladiator Houses
-
-Gladiator Houses rise during the Consolidation And Industrial Rise Era as a side faction.
+Gladiator Houses rise during this same period as a side faction.
 
 They do not exist to rule cities or replace Regulatus. They exist because the ruling families need a controlled way to measure strength without open conflict, and the masses need spectacle to release pressure.
 
 Families sponsor fighters as public proof of wealth, discipline, training, and prestige. Arena victories become a safer substitute for direct house conflict.
+
+Most gladiators come from the northern cities, where clan pride, oath culture, hard-land survival, and warrior reputation make arena fighting socially understandable. Lucrest contributes captured rebels and disgraced fighters. Arumis contributes dock workers, miners, debtors, and sponsored fighters from corrupt trade networks.
 
 The Gladiator Houses remain useful to many powers. The Virtuasti watch them for recruits. Lux Aeterna tends to the wounded and poor around the arenas. Rebels use crowds, betting houses, and fighter networks to pass messages or infiltrate Regulatus-controlled spaces. Neutral traders profit from weapons, wagers, contracts, and sponsorships.
 
@@ -439,9 +439,35 @@ A Gladiator's starting pressure is simple:
 
 From there, a Gladiator can become a champion, recruit, rebel contact, protected asset, or escaped fighter depending on choices.
 
+### 900 AVD — Northern War Pressure Peaks
+
+By 900 AVD, the northern cities have become more than a source of gladiators.
+
+Northern culture values oath, visible strength, clan honor, harsh-land pride, gods, blessing rites, and warrior reputation. Northern warriors do not use magic as fireballs or visible spells. Their rites are blessings used to ask gods, ancestors, land, sky, storms, and the remembered dead for strength, fortitude, courage, endurance, and protection.
+
+A common northern blessing is:
+
+> Salt my wounds. Sharpen my axe.
+
+Over time, the North sees its warriors turned into southern spectacle, recruitment, and political measurement. Some fighters return home with fame. Others return with hatred.
+
+This pressure becomes war.
+
+The Northern War rises during Era Three and reaches its peak before the era ends. The North is not simply Rebel or Regulatus. It is its own alignment layer: clan-bound, oath-bound, culturally separate, and resistant to being measured by Vys law or records.
+
+### 1000 AVD — Era Three Ends
+
+By 1000 AVD, Era Three has turned early expansion into mature systems.
+
+Lucrest is under Regulatus by force, but its wound survives through rebellion and memory. Arumis is under Regulatus by alliance, but its knowledge, industry, and resentment survive intact. The Virtuasti are an autonomous military order divided into Spatis, Scutis, and Umbris. Lux Aeterna has spread mercy as visibility. Gladiator Houses have become a side faction used by every power. The North has been introduced as a distinct cultural pressure, and the Northern War has ended or been contained enough that open war does not define the start of Era Four.
+
+Arumis's universities, metallurgy, engineering, medicine, and industry have had centuries to mature. The world is ready for Devaar's external augmentation rise.
+
 ---
 
 ## Era Four — Game World / Preservation And Augmentation Era
+
+Era Four runs from roughly 1000 AVD to 3000 AVD.
 
 Era Four is the main playable world-state before Erit's far-future era.
 
@@ -492,6 +518,8 @@ It is becoming the world that will later make cyberpunk possible.
 ---
 
 ## Era Five — Erit Era
+
+Era Five begins after roughly 3000 AVD.
 
 Status: not built yet.
 
