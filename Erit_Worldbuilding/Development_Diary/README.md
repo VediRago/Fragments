@@ -4,9 +4,9 @@ This folder separates the Erit World development diary by day.
 
 The purpose is to make the design trail easier to read as the worldbuilding grows.
 
-The original combined diary remains here:
+The current combined diary remains here:
 
-[../00_Development_Diary.md](../00_Development_Diary.md)
+[00_Development_Diary.md](00_Development_Diary.md)
 
 ## Reading Order
 
