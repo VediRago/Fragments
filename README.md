@@ -60,7 +60,7 @@ For the polished worldbuilding sample, read:
 
 For the longer design trail behind that sample, read:
 
-[Erit World — Development Diary](01_Reference/Worlds/Erit_World/00_Development_Diary.md)
+[Erit Worldbuilding — Development Diary](Erit_Worldbuilding/00_Development_Diary.md)
 
 The case study is the public-facing version.
 
