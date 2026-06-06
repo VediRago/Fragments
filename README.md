@@ -28,7 +28,6 @@ Recommended reading order:
 5. [Regulatus](Erit_Worldbuilding/01_History/02_Regulatus.md)
 6. [House Ventari](Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)
 7. [NPC Emotional State Model](Erit_Worldbuilding/04_NPC_Systems/NPC_Emotional_State_Model.md)
-8. [Quest Example — Chip Removal](Erit_Worldbuilding/05_Quest_Examples/Quest_Example_Chip_Removal.md)
 
 For a shorter public-facing overview, use the portfolio route:
 
