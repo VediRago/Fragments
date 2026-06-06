@@ -6,12 +6,12 @@ This project is very early. I started it on **20/05/2026**, so the material here
 
 I am not presenting this as professional narrative design work.
 
-I am presenting it as evidence of what I have started learning:
+I am presenting it as a record of what I am trying to understand:
 
-- how to build from emotional cause instead of random lore
-- how character wounds can become family patterns and world systems
-- how a repeated detail can become a clue, then a reveal, then a payoff
-- how world pressure can create possible quests, conflicts, and consequences
+- whether emotional causes can make lore feel less random
+- whether character wounds can grow into family patterns and world systems
+- whether a repeated detail can become a clue, then a reveal, then a payoff
+- whether world pressure can lead toward quests, conflicts, and consequences
 
 This repository contains portfolio pages, prose samples, character notes, act structure, early drafts, worldbuilding files, and reference material.
 
