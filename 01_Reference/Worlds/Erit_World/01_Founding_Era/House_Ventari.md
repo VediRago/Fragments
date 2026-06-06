@@ -34,7 +34,7 @@ The original goal is not to create a moral order.
 
 The goal is control.
 
-House Ventari uses public displeasure with the old Rome-derived order to justify reshaping it.
+House Ventari uses public displeasure with the old Rome-derived order to justify replacing it.
 
 Viriatus becomes the proof that Ventari discipline can create what the old order failed to protect.
 
@@ -118,16 +118,17 @@ People become willing to accept Ventari discipline because it promises:
 - order
 - survival
 
-This acceptance gives House Ventari the emotional permission to reshape the old order.
+This acceptance gives House Ventari the emotional permission to replace the old order.
 
 ### Public Claim
 
 House Ventari's public argument becomes:
 
 > Old Rome failed its people.  
-> House Ventari disciplined the impossible.  
-> Viriatus conquered because Ventari order gave him purpose.  
-> Therefore Ventari order should rule what Viriatus won.
+> House Ventari trained, taught, and shaped Viriatus.  
+> Viriatus's victories proved what Ventari discipline could produce.  
+> The old order had lost the right to continue.  
+> Regulatus replaced it.
 
 This is not yet full Regulatus.
 
@@ -275,9 +276,9 @@ Devaar belongs much later, after rejection, time, medicine, preservation, chips,
 > Ecalus starts the plot  
 > -> House Ventari hides Viriatus's origin to keep control of his interpretation  
 > -> old Rome-derived failures create fear, hunger, humiliation, and resentment  
-> -> House Ventari uses public displeasure to justify reshaping the old order  
-> -> Viriatus becomes weapon, proof, advantage, and myth  
-> -> House Ventari publicly claims that Ventari discipline gave Viriatus purpose  
+> -> House Ventari uses public displeasure to justify replacing the old order  
+> -> Viriatus becomes trained asset, proof, advantage, and myth  
+> -> House Ventari publicly claims that Ventari discipline shaped Viriatus  
 > -> Viriatus becomes beloved and powerful  
 > -> Ecalus begins loving him as the son he wished he had  
 > -> the Ventari siblings feel displaced by someone they do not see as blood  
