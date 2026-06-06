@@ -66,6 +66,12 @@ He survives, but his lower body is permanently damaged.
 
 After Augunar, he is maimed, barely able to walk, and still expected to carry duty.
 
+The wound changes him.
+
+Before Augunar, Ilunis is strong, useful, and proud.
+
+After Augunar, he becomes ruthless.
+
 While Ilunis carries wounds from serving the family, Viriatus rises.
 
 Viriatus is loved by soldiers, common people, and eventually by Ecalus himself.
@@ -99,6 +105,15 @@ This makes Augunar important because it gives Ilunis a wound that is both public
 
 That contradiction lets Ermerus manipulate him later.
 
+Augunar also teaches Ilunis a harsh lesson:
+
+> Mercy did not save my body.  
+> Softness did not protect the lands.  
+> Pain is the cost of order.  
+> If something threatens the bloodline, it must be cut out.
+
+This is where his ruthlessness begins.
+
 ---
 
 ## Emotion
@@ -114,6 +129,8 @@ Ilunis feels:
 - fear of being replaced
 - fear that Viriatus will erase the meaning of his suffering
 - desire to be acknowledged by Ecalus and the family
+- shame at feeling maimed and useless under Viriatus's shadow
+- hunger to feel powerful again
 
 His wound is visible through the body.
 
@@ -124,6 +141,10 @@ This makes his resentment easier to hide behind honor.
 He can tell himself his anger is not jealousy.
 
 He can tell himself it is loyalty.
+
+He can also tell himself that ruthlessness is not cruelty.
+
+It is the only way to remain useful.
 
 ---
 
@@ -147,11 +168,26 @@ Ilunis's reason becomes:
 > He is replacing us.  
 > Killing him protects the bloodline.
 
+A deeper private reason also forms:
+
+> If I can still enforce pain, I am not powerless.  
+> If I can punish, command, and cut away threats, I am still strong.
+
 This turns private jealousy into family duty.
+
+It also turns violence into restored power.
 
 ---
 
 ## Behavior
+
+Ilunis becomes ruthless after Augunar.
+
+He accepts violence as necessary.
+
+He accepts pain as the cost of order.
+
+He can stab Viriatus because he already believes duty is allowed to be cruel.
 
 Ilunis kills Viriatus.
 
@@ -177,6 +213,14 @@ He can survive as:
 - the one who did what had to be done
 
 Duty becomes the only version of the act he can survive.
+
+Killing Viriatus gives Ilunis a feeling he had lost after Augunar:
+
+> power.
+
+This does not heal him.
+
+It teaches him to seek power through judgment, punishment, and force.
 
 ---
 
@@ -304,6 +348,12 @@ He is not merely a rival.
 
 He makes Ilunis's suffering look replaceable.
 
+Murder gives Ilunis a terrible restoration:
+
+> Augunar took his body.  
+> Viriatus took his shadow.  
+> Killing Viriatus gives him power again.
+
 ---
 
 ## Relationship To Ecalus Ventari
@@ -372,6 +422,16 @@ But it is also fragile.
 
 Because the line begins with a masked murder, its descendants may inherit instability around honor, guilt, duty, and internal family disputes.
 
+Their contradiction is:
+
+> they punish betrayal while descending from betrayal.
+
+Their deeper emotional inheritance is:
+
+> law as restored control  
+> punishment as proof of strength  
+> force as a cure for humiliation
+
 ---
 
 ## Modern Echo
@@ -410,6 +470,7 @@ A character shaped by the Ilunis line may:
 - resent people who are loved without sacrifice
 - hide personal anger behind official responsibility
 - see rebellion as personal betrayal against order
+- use authority to feel powerful where they feel personally broken
 
 They should not all be cruel.
 
