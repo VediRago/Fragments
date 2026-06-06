@@ -31,9 +31,9 @@ The current worldbuilding chain is:
 > Sera sees a statue  
 > -> the statue belongs to Viriatus  
 > -> Viriatus is a displaced child found after a light falls from the heavens  
-> -> Servan find him first  
+> -> Servan, the first people to find him, discover him before House Ventari takes control  
 > -> House Ventari hides his origin because revealing it would make him impossible to keep  
-> -> House Ventari shapes him into weapon, proof, advantage, and myth  
+> -> House Ventari trains, teaches, shapes, and uses him as an asset for control  
 > -> public displeasure with the old order lets Ventari discipline look like rescue  
 > -> Viriatus's victories make House Ventari look capable of creating order where old Rome failed  
 > -> Ecalus begins treating Viriatus like the son he wished he had  
@@ -43,7 +43,7 @@ The current worldbuilding chain is:
 > -> Ermerus turns the murder into a public noble death  
 > -> Ermerus declares Regulatus  
 > -> AVD begins when Regulatus is declared, not when Viriatus privately dies  
-> -> founding lines carry different wounds forward  
+> -> founding siblings carry different wounds forward through family behavior  
 > -> later houses and systems grow from those wounds  
 > -> Erit's era inherits identity control, medical dependency, law, status, and pressure
 
@@ -83,7 +83,11 @@ House Ventari does not publicly justify reshaping Rome by revealing Viriatus's h
 
 They hide that origin because if people know a child fell from the heavens, everyone has a reason to claim him, fear him, worship him, or destroy him.
 
-Their public justification comes from the old order's failures instead.
+Publicly, they frame Viriatus as a child they trained, taught, disciplined, and shaped.
+
+His victories become proof that Ventari discipline works.
+
+Their public justification comes from the old order's failures.
 
 ### Experience
 
@@ -114,9 +118,10 @@ People become willing to accept Ventari discipline because it promises protectio
 This creates the stage where Viriatus can become public proof:
 
 > Old Rome failed its people.  
-> House Ventari disciplined the impossible.  
-> Viriatus conquered because Ventari order gave him purpose.  
-> Therefore Ventari order should rule what Viriatus won.
+> House Ventari trained, taught, and shaped Viriatus.  
+> Viriatus's victories proved what Ventari discipline could produce.  
+> The old order had lost the right to continue.  
+> Regulatus replaced it.
 
 ## Example — Ilunis Ventari
 
@@ -251,6 +256,8 @@ Regulatus is not only law, religion, or government policy.
 
 It is a method of life built from public memory, grief, pride, hierarchy, gratitude, usefulness, discipline, and belonging.
 
+It is taught through family honor, law, work, status, ceremony, education, and daily obedience.
+
 From the inside, it does not feel like oppression.
 
 It feels like:
@@ -303,6 +310,8 @@ Possible system relationships include:
 - Outsider
 - Performer / Manipulator
 
+A Performer / Manipulator knows the system is constructed but acts as if it is sacred because that performance keeps power stable.
+
 House Ventari belongs closest to Performer / Manipulator.
 
 They know the reason behind Regulatus, but act as if the public meaning is sacred.
@@ -340,6 +349,8 @@ A quest should follow:
 Example:
 
 A character needs illegal chip removal.
+
+The chip system belongs to later Devaar and medical history, where bodily treatment, identity, and control become tied together.
 
 The obstacle is not only technical.
 
