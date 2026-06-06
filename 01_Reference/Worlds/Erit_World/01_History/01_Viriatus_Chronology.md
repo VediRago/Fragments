@@ -20,7 +20,7 @@ The displaced founder whose stolen legacy is used by House Ventari to establish 
 
 ### House Ventari
 
-The house that hides Viriatus's arrival, shapes him, and uses him as an asset for control.
+The house that hides Viriatus's arrival, teaches him, trains him, shapes him, and uses him as an asset for control.
 
 Later, Ermerus and Ilunis turn his death into the foundation for Regulatus.
 
@@ -62,7 +62,7 @@ So the order is:
 
 > ACD / Celcinus Calendar  
 > -> Viriatus found around age eleven, but uncertain  
-> -> Viriatus shaped and used by House Ventari  
+> -> Viriatus taught, trained, shaped, and used by House Ventari  
 > -> House Ventari uses old Rome's failures and public displeasure to justify replacing the old order  
 > -> House Ventari wages actual conflict against the old Roman order while justifying it through public displeasure  
 > -> Viriatus becomes the military proof used by House Ventari during the defeat and replacement of the old order  
@@ -212,7 +212,7 @@ Public story:
 
 Private truth:
 
-> Ilunis killed Viriatus after Ermerus turned his wound into family duty.
+> Ilunis killed Viriatus after Ermerus turned his jealousy and wound into duty.
 
 Political use:
 
@@ -345,7 +345,7 @@ Teresta remains distant from the true center of the plot.
 
 Private truth:
 
-> Ilunis kills Viriatus after Ermerus manipulates him.
+> Ilunis kills Viriatus after Ermerus turns his jealousy and wound into duty.
 
 Public story:
 
