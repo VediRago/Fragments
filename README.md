@@ -4,9 +4,9 @@ I'm Diogo, and I'm working toward a career in game development.
 
 I currently work full-time in glass manufacturing and build this project outside of work.
 
-**Fragments** is an ongoing narrative project I started on **20/05/2026**. It began as a personal writing project and became a way for me to explore narrative design, character connection, structure, emotional payoff, and reader discovery.
+**Fragments** is an ongoing narrative project I started on **20/05/2026**. It began as a personal writing project and became a way for me to explore narrative design, character connection, structure, emotional payoff, worldbuilding logic, and reader discovery.
 
-This repository contains the project itself: portfolio pages, prose samples, character notes, act structure, early drafts, and reference material.
+This repository contains the project itself: portfolio pages, prose samples, character notes, act structure, early drafts, worldbuilding files, and reference material.
 
 ## Start Here
 
@@ -22,18 +22,27 @@ Recommended reading order:
 4. [Narrative Design Case Studies](05_Portfolio/02_Narrative_Design_Case_Studies.md)
 5. [Selected Prose](05_Portfolio/03_Selected_Prose.md)
 6. [Development Process](05_Portfolio/04_Development_Process.md)
+7. [Erit Worldbuilding Case Study](05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
 
-## Development Diary
+## Worldbuilding Process
 
-If you want to see how the worldbuilding process develops step by step, read:
+For the polished worldbuilding sample, read:
+
+[Erit Worldbuilding Case Study](05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
+
+For the longer design trail behind that sample, read:
 
 [Erit World — Development Diary](01_Reference/Worlds/Erit_World/00_Development_Diary.md)
 
-This file is not a lore encyclopedia. It shows the design trail behind Erit's world: what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
+The case study is the public-facing version.
 
-It is the clearest place to see the project method in action:
+The diary is the working-process version. It shows what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
 
-> story pressure -> emotional cause -> behavior -> system -> world pressure -> possible quest or character consequence
+The current worldbuilding method is:
+
+> experience -> emotion -> reason -> behavior  
+> behavior -> atmosphere -> history  
+> world pressure -> character need -> obstacle -> approaches -> consequence
 
 ## Repository Structure
 
