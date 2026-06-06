@@ -52,21 +52,42 @@ If he can be useful, he can stay near power without having to prove he deserves 
 
 ## Relationship To Viriatus
 
-Rutare is threatened by Viriatus in a different way from Ilunis.
+Rutare does not hate Viriatus.
 
-Ilunis sees Viriatus as a rival of strength.
+He likes him.
 
-Rutare sees Viriatus as proof that presence can defeat inheritance.
+Viriatus does not look at Rutare the way the Ventari siblings do.
+
+To the family, Rutare is heir, weakness, obligation, embarrassment, or a problem to protect.
+
+To Viriatus, Rutare can feel like a person.
+
+That matters because Rutare spends much of his life being treated as a role he cannot fulfil.
+
+Viriatus's presence still hurts him, but not because Rutare wants him dead.
+
+It hurts because Viriatus shows what Rutare cannot be.
 
 Viriatus can walk into a room and make people believe.
 
 Rutare cannot.
 
-That hurts Rutare because he was born into the place Viriatus seems naturally able to occupy.
-
 Viriatus does not need Rutare's documents, titles, or inheritance to feel powerful to others.
 
 That makes Rutare's inherited role feel hollow.
+
+So Rutare's feeling toward Viriatus is conflicted:
+
+- affection, because Viriatus does not reduce him to failure
+- shame, because Viriatus shows what Rutare lacks
+- pressure, because Rutare knows the official story of Viriatus's death is false
+- anguish, because the dead person was one of the few who did not make him feel like only an inadequate heir
+
+This is why Rutare carries the truth differently from Ilunis.
+
+Ilunis turns his wound into violence.
+
+Rutare turns his wound into procedure, silence, and eventually confession.
 
 ## Why Thinking Is Dangerous
 
@@ -76,11 +97,13 @@ He avoids thinking because direct thought would force him to face things he cann
 
 - he knows the official story of Viriatus's death is false
 - he knows he did not stop it
+- he knows Viriatus did not deserve what happened
+- he knows he liked Viriatus and still stayed silent
 - he knows he is heir but not strong
 - he knows others command rooms he cannot command
 - he knows his usefulness may be the only thing keeping him from being useless
 
-If he thinks directly, he has to feel guilt, fear, inadequacy, and helplessness.
+If he thinks directly, he has to feel guilt, grief, fear, inadequacy, and helplessness.
 
 Procedure gives him a way to move without facing those feelings.
 
@@ -133,7 +156,13 @@ He does not have the strength to stop it.
 
 He does not become a rebel.
 
-He leaks truth through weakness, pressure, and need rather than ideology.
+He carries anguish because Viriatus was not only a political symbol to him.
+
+Viriatus was someone who had treated him differently from the rest of the family.
+
+That makes the silence harder to survive.
+
+He leaks truth through weakness, pressure, grief, and need rather than ideology.
 
 He later tells Teresta because she treats him with care and he needs to share the pressure.
 
