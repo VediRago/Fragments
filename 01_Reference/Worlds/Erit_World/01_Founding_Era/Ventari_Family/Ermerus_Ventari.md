@@ -27,6 +27,10 @@ But his own private legacy becomes uncontrolled because of bastard or disputed c
 
 This becomes the root irony of the Fracture Era.
 
+He makes a world where legitimacy matters.
+
+Later, his own line becomes vulnerable because legitimacy becomes the weapon used against it.
+
 ## Ilunis Manipulation Line
 
 Ermerus manipulates Ilunis through the line:
@@ -39,6 +43,10 @@ The hinge is:
 
 Ermerus turns Ilunis's jealousy into duty.
 
+He does not need to directly command the murder.
+
+He gives Ilunis a story where killing Viriatus feels like restoring the family.
+
 Later, he turns public grief into Regulatus.
 
 ## Founding Era Role
@@ -50,8 +58,43 @@ Later, he turns public grief into Regulatus.
 - Uses public grief to declare Regulatus.
 - Begins AVD through public declaration, not private death.
 
+## Aftermath Control
+
+After Ilunis kills Viriatus, Ermerus controls the aftermath.
+
+The truth is dangerous because the murder happens privately during family mourning.
+
+Ermerus protects House Ventari by creating a false direction for blame.
+
+He convinces the guards that the Civel stole jewelry during the mourning period.
+
+The Civel are killed.
+
+This removes witnesses and turns confusion into procedure.
+
+The public story becomes:
+
+> Viriatus died a noble death in war.
+
+The private truth remains:
+
+> Viriatus was murdered while grieving Ecalus as a son.
+
+## Regulatus Use
+
+Ermerus does not create Regulatus because he is sacred or devout.
+
+He creates Regulatus because public grief can be shaped into order.
+
+Regulatus becomes the tool that turns a hidden crime into mass control.
+
 ## Later Consequence
 
 Ermerus creates the first controlled legacy of the new era.
 
 But because his own bloodline becomes disputed, later Rutare and Ilunis descendants use legitimacy and blood purity to take power away from his line.
+
+This is the central irony:
+
+> Ermerus weaponizes blood to remove Viriatus.  
+> Later, blood is weaponized against Ermerus's descendants.
