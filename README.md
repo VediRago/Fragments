@@ -17,27 +17,32 @@ I am using the project to test:
 
 ## Start Here
 
-For a quick public overview, begin with the portfolio route:
-
-[Portfolio/README.md](Portfolio/README.md)
+The strongest current material is the worldbuilding and systems work around Erit's world.
 
 Recommended reading order:
 
-1. [Project Overview](Portfolio/Project_Overview.md)
-2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
-3. [Development Process](Portfolio/Development_Process.md)
-4. [Selected Prose](Portfolio/Selected_Prose.md)
-5. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
+1. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
+2. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/00_Development_Diary.md)
+3. [Erit Worldbuilding README](Erit_Worldbuilding/README.md)
+4. [Viriatus and Regulatus Origin](Erit_Worldbuilding/01_History/00_Viriatus_Regulatus_Origin.md)
+5. [Regulatus](Erit_Worldbuilding/01_History/02_Regulatus.md)
+6. [House Ventari](Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)
+7. [NPC Emotional State Model](Erit_Worldbuilding/04_NPC_Systems/NPC_Emotional_State_Model.md)
+8. [Quest Example — Chip Removal](Erit_Worldbuilding/05_Quest_Examples/Quest_Example_Chip_Removal.md)
+
+For a shorter public-facing overview, use the portfolio route:
+
+[Portfolio/README.md](Portfolio/README.md)
 
 ## Project Branches
 
 This repository currently contains two connected project branches and one public-facing branch.
 
-### Portfolio
+### Erit Worldbuilding
 
-[Portfolio/README.md](Portfolio/README.md)
+[Erit_Worldbuilding/README.md](Erit_Worldbuilding/README.md)
 
-The public-facing branch: clean summaries, selected samples, and learning-process notes.
+The strongest current branch: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, NPC behavior, quest pressure, and the world Erit inherits.
 
 ### Fragments Story
 
@@ -45,25 +50,23 @@ The public-facing branch: clean summaries, selected samples, and learning-proces
 
 The main story branch: prose, characters, acts, Unity, scene bridges, emotional payoff, and reader perception.
 
-### Erit Worldbuilding
+### Portfolio
 
-[Erit_Worldbuilding/README.md](Erit_Worldbuilding/README.md)
+[Portfolio/README.md](Portfolio/README.md)
 
-The worldbuilding branch: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, and the world Erit inherits.
+A shorter public-facing branch with clean summaries, selected samples, and learning-process notes. This is useful for a quick overview, but it is not the full development trail.
 
 ## Worldbuilding Process
 
-For the polished worldbuilding sample, read:
-
-[Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
-
-For the longer design trail behind that sample, read:
+For the full working-process version of Erit's worldbuilding, read:
 
 [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/00_Development_Diary.md)
 
-The case study is the public-facing version.
+The diary shows what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
 
-The diary is the working-process version. It shows what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
+For the shorter case-study version, read:
+
+[Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
 
 The current worldbuilding method I am testing is:
 
@@ -77,9 +80,9 @@ The repo-wide clarity rule is here:
 
 ## Repository Structure
 
-- `Portfolio/` — public-facing route with the overview, samples, case study, and process notes.
-- `Fragments_Story/` — main story branch with project foundation, development history, characters, acts, prose, bridges, cosmology, and reference material.
 - `Erit_Worldbuilding/` — worldbuilding branch for Viriatus, House Ventari, Regulatus, method notes, systems, quests, and the world Erit inherits.
+- `Fragments_Story/` — main story branch with project foundation, development history, characters, acts, prose, bridges, cosmology, and reference material.
+- `Portfolio/` — shorter public-facing route with the overview, samples, case study, and process notes.
 
 ## Note On AI Use
 
@@ -89,6 +92,6 @@ The creative direction, constraints, world logic, character decisions, correctio
 
 ## Note
 
-The portfolio route is the best public entry point.
+This repository is a working record of learning and development, not a finished game portfolio.
 
-The deeper reference files are part of my working process. They are useful for understanding the scale of Fragments and Erit Worldbuilding, but they are not required reading before the portfolio pages.
+The strongest current evidence of the process is in the Erit worldbuilding files. The portfolio route is shorter and cleaner, but it does not contain the full development trail.
