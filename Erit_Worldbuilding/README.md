@@ -38,13 +38,15 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 
 - `00_Development_Diary.md`
 - `00_Common_Terms.md`
-- `00_Overview/Calendar_And_Eras.md`
+- `00_Method/README.md`
+- `00_Method/Worldbuilding_Method.md`
 - `01_Displaced_Founder.md`
-- `02_Regulatus.md`
 - `01_History/00_Viriatus_Regulatus_Origin.md`
 - `01_History/01_Viriatus_Chronology.md`
-- `01_Founding_Era/House_Ventari.md`
-- `01_Founding_Era/Ventari_Family/README.md`
+- `01_History/02_Calendar_And_Eras.md`
+- `01_History/02_Regulatus.md`
+- `02_Founding_Era/House_Ventari.md`
+- `02_Founding_Era/Ventari_Family/README.md`
 
 ## Method
 
@@ -53,12 +55,25 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 - `00_Method/Method_Hierarchy.md`
 - `00_Method/Rules.md`
 
+## History
+
+- `01_History/00_Viriatus_Regulatus_Origin.md`
+- `01_History/01_Viriatus_Chronology.md`
+- `01_History/02_Calendar_And_Eras.md`
+- `01_History/02_Regulatus.md`
+
 ## Founding Family
 
-- `01_Founding_Era/Ventari_Family/Ermerus_Ventari.md`
-- `01_Founding_Era/Ventari_Family/Rutare_Ventari.md`
-- `01_Founding_Era/Ventari_Family/Ilunis_Ventari.md`
-- `01_Founding_Era/Ventari_Family/Teresta_Ventari.md`
+- `02_Founding_Era/House_Ventari.md`
+- `02_Founding_Era/Ventari_Family/README.md`
+- `02_Founding_Era/Ventari_Family/Ermerus_Ventari.md`
+- `02_Founding_Era/Ventari_Family/Rutare_Ventari.md`
+- `02_Founding_Era/Ventari_Family/Ilunis_Ventari.md`
+- `02_Founding_Era/Ventari_Family/Teresta_Ventari.md`
+
+## Doctrine
+
+- `01_History/02_Regulatus.md`
 
 ## Systems / NPC And Quest Logic
 
