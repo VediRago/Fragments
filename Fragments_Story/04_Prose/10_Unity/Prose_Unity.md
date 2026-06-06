@@ -7,9 +7,9 @@ Fingers slowly curl into a fist with the raise of her arm—
 “I”
 
 Slams it.  
-  
+   
 Launching the body forward, scattering tears with the impact.  
-  
+   
 “I grr” 
 
 As she lifts her head opposing a tear sliding across her cheek—
@@ -24,7 +24,7 @@ And slams it, her fist detaching it from her face as the back of the head hits a
 
 And when they meet
 
-The vibration sooths her.
+The vibration soothes her.
 
 No tears.
 
@@ -37,7 +37,7 @@ Just a blur until it all settles on Erit's body.
 “Ggnha”
 
 She throws the back of her head against machine rolling until it stops at the connection port on her arm.
-While her eyes gather the distance shes already lifting herself towards the table.
+While her eyes gather the distance she’s already lifting herself towards the table.
 Her fingers slide gently over Erit's arm until they reach the cable. 
 In one motion, turning hers while disconnecting.
 
@@ -115,7 +115,7 @@ As the woman glances back—
 
 “School day, you know that!”
 
-“I don’t...”
+“I don’t..."
 
 “I don’t wanna!”
 
@@ -137,7 +137,7 @@ Shoving a man against the wall as the tip of the gun presses against his chest.
 
 “Hey pretty guy, those pockets full?”
 
-“Hey pretty guy those pockets...”
+“Hey pretty guy those pockets..."
 
 The barrel slides across his face stopping between the eyes.
 
@@ -223,11 +223,8 @@ Cars...
 
 Light.
 
-“It get it now” as she lifts her head to see the bright sky.
+“I get it now” as she lifts her head to see the bright sky.
 
-The doctor glaces over his shoulders stopping as he was about to leave the door.
+The doctor glances over his shoulder, stopping as he is about to leave through the door.
 
 She murmurs, “It never ends”
-
-
-
