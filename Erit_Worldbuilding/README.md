@@ -86,6 +86,12 @@ For the public-facing summary, read:
 
 - `../Portfolio/Erit_Worldbuilding_Case_Study.md`
 
+For the process trail, read:
+
+- `Development_Diary/README.md`
+
+The development diary is included because it shows the design process behind the branch: what was built, why it mattered, what it connected to, what should come next, and what constraints had to remain in place so *Fragments* stayed coherent.
+
 ## Folder Map
 
 ### Method
@@ -117,6 +123,14 @@ For the public-facing summary, read:
 - `05_Systems/NPC_Emotional_State_Model.md`
 - `05_Systems/NPC_System_Relationship_Model.md`
 - `05_Systems/Quest_Example_Chip_Removal.md`
+
+### Development Diary
+
+- `Development_Diary/README.md`
+- `Development_Diary/2026-06-04.md`
+- `Development_Diary/2026-06-05.md`
+- `Development_Diary/2026-06-06.md`
+- `00_Development_Diary.md`
 
 ## Development Note
 
