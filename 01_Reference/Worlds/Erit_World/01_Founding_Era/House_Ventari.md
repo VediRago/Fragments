@@ -38,6 +38,31 @@ Regulatus is the order used to control the masses inside it.
 
 Over generations, Ventari expansion and Regulatus control allow the dynasty to control the world.
 
+## Name Bridge
+
+The four founding Ventari siblings are also keys.
+
+Together, their first letters form **ERIT**:
+
+- **E**rmerus Ventari
+- **R**utare Ventari
+- **I**lunis Ventari
+- **T**eresta Ventari
+
+This creates a hidden bridge between the oldest dynastic structure of the world and Erit herself.
+
+**Erit** carries the sense of **will be / shall be**.
+
+This mirrors **Será** in Portuguese, which also means **will be**.
+
+So Sera and Erit are linked through the idea of becoming, future state, and what something will become.
+
+The four founding lines also become bridges to Erit because their initials form her name.
+
+This is not meant to be public in-world knowledge by default.
+
+It is a structural key for the world and the story.
+
 ## Public Justification Method
 
 House Ventari's public justification follows the core method.
