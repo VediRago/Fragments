@@ -71,66 +71,62 @@ This is the bridge between worldbuilding and interactive storytelling.
 
 ## Recommended Reading Path
 
-For a quick review, start here:
+For the current review path, start here:
 
-1. `00_Method/Worldbuilding_Method.md`
-2. `01_History/00_Viriatus_Regulatus_Origin.md`
-3. `01_History/02_Regulatus.md`
-4. `02_Founding_Era/House_Ventari.md`
-5. `02_Founding_Era/Ventari_Family/README.md`
-6. `03_Devaar_Rise_Era/README.md`
-7. `05_Systems/NPC_Emotional_State_Model.md`
-8. `05_Systems/Quest_Example_Chip_Removal.md`
+1. [Erit Worldbuilding Case Study](../Portfolio/Erit_Worldbuilding_Case_Study.md)
+2. [Calendar and Eras](01_History/Calendar_And_Eras.md)
+3. [Erit Worldbuilding — Development Diary](Development_Diary/00_Development_Diary.md)
+4. [Worldbuilding Method](00_Method/Worldbuilding_Method.md)
 
-For the public-facing summary, read:
+For deeper reference, read:
 
-- `../Portfolio/Erit_Worldbuilding_Case_Study.md`
-
-For the process trail, read:
-
-- `Development_Diary/README.md`
-
-The development diary is included because it shows the design process behind the branch: what was built, why it mattered, what it connected to, what should come next, and what constraints had to remain in place so *Fragments* stayed coherent.
+- [Viriatus and the Origin of Regulatus](01_History/00_Viriatus_Regulatus_Origin.md)
+- [Regulatus](01_History/02_Regulatus.md)
+- [House Ventari — Founding Era](02_Founding_Era/House_Ventari.md)
+- [Ventari Family — Founding Era](02_Founding_Era/Ventari_Family/README.md)
+- [Devaar Rise Era](03_Devaar_Rise_Era/README.md)
+- [NPC Emotional State Model](05_Systems/NPC_Emotional_State_Model.md)
+- [NPC System Relationship Model](05_Systems/NPC_System_Relationship_Model.md)
 
 ## Folder Map
 
 ### Method
 
-- `00_Method/README.md`
-- `00_Method/Worldbuilding_Method.md`
-- `00_Method/Method_Hierarchy.md`
-- `00_Method/Rules.md`
+- [00_Method/README.md](00_Method/README.md)
+- [00_Method/Worldbuilding_Method.md](00_Method/Worldbuilding_Method.md)
+- [00_Method/Method_Hierarchy.md](00_Method/Method_Hierarchy.md)
+- [00_Method/Rules.md](00_Method/Rules.md)
 
 ### History
 
-- `01_History/00_Viriatus_Regulatus_Origin.md`
-- `01_History/01_Viriatus_Chronology.md`
-- `01_History/02_Calendar_And_Eras.md`
-- `01_History/02_Regulatus.md`
+- [01_History/00_Viriatus_Regulatus_Origin.md](01_History/00_Viriatus_Regulatus_Origin.md)
+- [01_History/01_Viriatus_Chronology.md](01_History/01_Viriatus_Chronology.md)
+- [01_History/Calendar_And_Eras.md](01_History/Calendar_And_Eras.md)
+- [01_History/02_Regulatus.md](01_History/02_Regulatus.md)
 
 ### Founding Era
 
-- `02_Founding_Era/House_Ventari.md`
-- `02_Founding_Era/Ventari_Family/README.md`
-- `02_Founding_Era/Ventari_Family/Ermerus_Ventari.md`
-- `02_Founding_Era/Ventari_Family/Rutare_Ventari.md`
-- `02_Founding_Era/Ventari_Family/Ilunis_Ventari.md`
-- `02_Founding_Era/Ventari_Family/Teresta_Ventari.md`
+- [02_Founding_Era/House_Ventari.md](02_Founding_Era/House_Ventari.md)
+- [02_Founding_Era/Ventari_Family/README.md](02_Founding_Era/Ventari_Family/README.md)
+- [02_Founding_Era/Ventari_Family/Ermerus_Ventari.md](02_Founding_Era/Ventari_Family/Ermerus_Ventari.md)
+- [02_Founding_Era/Ventari_Family/Rutare_Ventari.md](02_Founding_Era/Ventari_Family/Rutare_Ventari.md)
+- [02_Founding_Era/Ventari_Family/Ilunis_Ventari.md](02_Founding_Era/Ventari_Family/Ilunis_Ventari.md)
+- [02_Founding_Era/Ventari_Family/Teresta_Ventari.md](02_Founding_Era/Ventari_Family/Teresta_Ventari.md)
 
 ### Systems / NPC And Quest Logic
 
-- `05_Systems/README.md`
-- `05_Systems/NPC_Emotional_State_Model.md`
-- `05_Systems/NPC_System_Relationship_Model.md`
-- `05_Systems/Quest_Example_Chip_Removal.md`
+- [05_Systems/README.md](05_Systems/README.md)
+- [05_Systems/NPC_Emotional_State_Model.md](05_Systems/NPC_Emotional_State_Model.md)
+- [05_Systems/NPC_System_Relationship_Model.md](05_Systems/NPC_System_Relationship_Model.md)
+- [05_Systems/Quest_Example_Chip_Removal.md](05_Systems/Quest_Example_Chip_Removal.md)
 
 ### Development Diary
 
-- `Development_Diary/README.md`
-- `Development_Diary/2026-06-04.md`
-- `Development_Diary/2026-06-05.md`
-- `Development_Diary/2026-06-06.md`
-- `00_Development_Diary.md`
+- [Development_Diary/README.md](Development_Diary/README.md)
+- [Development_Diary/00_Development_Diary.md](Development_Diary/00_Development_Diary.md)
+- [Development_Diary/2026-06-04.md](Development_Diary/2026-06-04.md)
+- [Development_Diary/2026-06-05.md](Development_Diary/2026-06-05.md)
+- [Development_Diary/2026-06-06.md](Development_Diary/2026-06-06.md)
 
 ## Development Note
 
