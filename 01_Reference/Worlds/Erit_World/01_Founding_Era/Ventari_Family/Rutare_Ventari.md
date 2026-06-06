@@ -181,7 +181,7 @@ He may preserve:
 - dates
 - mourning records
 - guard rosters
-- missing Servan records
+- missing Civel records
 - funeral inventories
 - inconsistent witness notes
 - procedural fragments that do not match the public story
