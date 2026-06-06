@@ -150,6 +150,12 @@ Teresta's line is pushed away by that same family and later returns by becoming 
 
 Teresta's line eventually turns exclusion into preservation.
 
+<!-- FUTURE-ERA MATERIAL START
+The following material belongs mostly to later era sorting, especially Devaar Rise Era and Erit Era.
+It is kept here temporarily so the Teresta line's full causal chain is not lost.
+Do not treat these sections as Founding Era events.
+FUTURE-ERA MATERIAL END -->
+
 ## Later Consequence
 
 Teresta does not immediately create House Devaar.
@@ -260,6 +266,14 @@ Teresta's descendants may eventually control:
 This line eventually leads toward Erit and House Devaar.
 
 That means Erit's family power is rooted in a rejected daughter-line that returned to authority by making medicine necessary.
+
+<!-- FUTURE-ERA MATERIAL START
+Future sorting note:
+- Daughter-line rejection belongs mostly to the Fracture Era once that era is expanded.
+- Doctor marriage, augmentation, chip acceptance, medical crisis, and House Devaar rise belong mostly to Devaar Rise Era.
+- Erit's inherited family pressure belongs mostly to Erit Era.
+Until those files are expanded, this Teresta file keeps the chain together.
+FUTURE-ERA MATERIAL END -->
 
 ## Key Question
 
