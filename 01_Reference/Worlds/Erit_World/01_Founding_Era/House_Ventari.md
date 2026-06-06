@@ -28,13 +28,67 @@ The original goal is not to create a moral order.
 
 The goal is control.
 
-House Ventari uses Viriatus to seize control of the old Rome-derived order and begin transforming it into a new empire.
+House Ventari uses public displeasure with the old Rome-derived order to justify reshaping it.
 
-Empiran is the later word for that empire.
+Viriatus becomes the proof that Ventari discipline can create what the old order failed to protect.
+
+Empiran is the later word for the empire that grows from this transformation.
 
 Regulatus is the order used to control the masses inside it.
 
 Over generations, Ventari expansion and Regulatus control allow the dynasty to control the world.
+
+## Public Justification Method
+
+House Ventari's public justification follows the core method.
+
+### Experience
+
+The old Rome-derived order is corrupt, starving, losing important lands, being seized by enemies, and failing to protect families.
+
+Officials protect themselves while ordinary people bury sons, lose homes, and suffer hunger.
+
+### Emotion
+
+The public emotional wound is:
+
+- fear
+- hunger
+- humiliation
+- resentment
+- betrayal
+- grief
+- exhaustion
+
+### Reason
+
+The reasoning House Ventari encourages is:
+
+> If the old order cannot feed us, defend us, protect our families, or hold our lands, then it has lost the right to rule.
+
+### Behavior
+
+People become willing to accept Ventari discipline because it promises:
+
+- protection
+- food
+- stability
+- victory
+- order
+- survival
+
+### Public Claim
+
+House Ventari's public argument becomes:
+
+> Old Rome failed its people.  
+> House Ventari disciplined the impossible.  
+> Viriatus conquered because Ventari order gave him purpose.  
+> Therefore Ventari order should rule what Viriatus won.
+
+This is not yet full Regulatus.
+
+It is the political and emotional seed that Regulatus later makes permanent.
 
 ## Relationship To Regulatus
 
@@ -54,7 +108,7 @@ To House Ventari, Regulatus is a tool of control.
 
 Ecalus starts the plot.
 
-He hides the truth of Viriatus's arrival and uses him as proof that House Ventari has been chosen, favored, or uniquely capable of shaping the future.
+He hides the truth of Viriatus's arrival and publicly frames Viriatus as proof that House Ventari can shape rare power through discipline, education, hierarchy, and purpose.
 
 At first, Ecalus uses Viriatus as weapon, proof, and advantage.
 
@@ -126,8 +180,10 @@ Devaar belongs much later, after rejection, time, medicine, preservation, chips,
 
 > Ecalus starts the plot  
 > -> House Ventari hides Viriatus's origin  
+> -> old Rome-derived failures create fear, hunger, humiliation, and resentment  
+> -> House Ventari uses public displeasure to justify reshaping the old order  
 > -> Viriatus becomes weapon, proof, advantage, and myth  
-> -> House Ventari uses him to seize control of the old Rome-derived order  
+> -> House Ventari publicly claims that Ventari discipline gave Viriatus purpose  
 > -> Viriatus becomes beloved and powerful  
 > -> Ecalus begins loving him as the son he wished he had  
 > -> the Ventari children are wounded differently  
@@ -145,4 +201,4 @@ Do not treat the Founding Era as a clean institutional chart.
 
 This is not yet a stable system.
 
-It is a family plot, a hidden crime, and a public interpretation that becomes world order.
+It is a family plot, public displeasure, a hidden crime, and a public interpretation that becomes world order.
