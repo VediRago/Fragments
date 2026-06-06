@@ -4,18 +4,9 @@
 
 This file defines Viriatus as a person before he becomes statue, doctrine, calendar marker, public proof, or stolen founder.
 
-It explains why Viriatus trusts House Ventari, why he fights for its project, why people gather emotional meaning around him, why the Ventari siblings experience him differently, and why his death can be transformed into Regulatus after Ecalus dies.
+It consolidates the useful canon from the older history notes about Viriatus's chronology and displaced-founder role so those notes do not need to remain as separate files.
 
-This file should prevent Viriatus from becoming only:
-
-- miracle child
-- weapon
-- conqueror
-- founder
-- statue
-- doctrine
-
-He is those things historically because other people turn him into them.
+Viriatus is historically remembered as a miracle child, weapon, conqueror, founder, statue, and doctrine because other people turn him into those things.
 
 Privately, he is a displaced child who wants belonging, continuity, and a world where precious things do not disappear without meaning.
 
@@ -28,10 +19,10 @@ Canon for the Founding Era.
 This file should remain consistent with:
 
 - `Erit_Worldbuilding/01_History/00_Viriatus_Regulatus_Origin.md`
-- `Erit_Worldbuilding/01_History/01_Viriatus_Chronology.md`
-- `Erit_Worldbuilding/01_History/01_Displaced_Founder.md`
+- `Erit_Worldbuilding/01_History/Timeline_And_Era_Summaries.md`
 - `Erit_Worldbuilding/02_Founding_Era/Ecalus_Ventari.md`
 - `Erit_Worldbuilding/02_Founding_Era/House_Ventari.md`
+- `Erit_Worldbuilding/02_Founding_Era/Viriatus_Murder_Sequence.md`
 - `Erit_Worldbuilding/02_Founding_Era/Ventari_Family/Ermerus_Ventari.md`
 - `Erit_Worldbuilding/02_Founding_Era/Ventari_Family/Rutare_Ventari.md`
 - `Erit_Worldbuilding/02_Founding_Era/Ventari_Family/Ilunis_Ventari.md`
@@ -51,6 +42,24 @@ Locked points:
 ## Core Question
 
 How does a displaced child become a world conqueror without realizing he is also becoming someone else's argument?
+
+---
+
+## Core Role
+
+Viriatus is the displaced human child who becomes the historical hinge of Erit's world.
+
+He is not part of the main emotional cast of Fragments, and he should not explain Unity. His purpose is to make Erit's world feel like it has a foundation that grows from displacement, myth, survival biology, family longing, power, betrayal, and controlled memory without revealing the deeper cosmology.
+
+He arrives in Roman history after a light appears before Servans working under House Ventari.
+
+He appears young, around eleven or in his early teens, but nobody can verify his true age because he does not belong to this world. His original civilization may have tracked time differently, or his age may not have been understood in a way Roman-derived society could measure.
+
+He comes from a far more advanced human civilization, but the people who first encounter him do not understand displacement. They interpret him through the beliefs, fears, and power structures of their own time.
+
+Over time, his presence pushes Rome away from known history and toward the world that eventually produces Erit, the Devaar family, augmentation, preservation, Regulatus, House Ventari, and the Empiran order.
+
+He becomes the founder who never ruled, but whose stolen legacy helped create the nation.
 
 ---
 
@@ -84,16 +93,7 @@ Rome gives him the first version of that dream he can touch.
 
 ### Emotion
 
-This creates:
-
-- longing
-- loneliness
-- gratitude
-- fear of disappearance
-- hunger for family
-- hunger for legacy
-- attachment to the people who give him structure
-- vulnerability to anyone who promises continuity
+This creates longing, loneliness, gratitude, fear of disappearance, hunger for family, hunger for legacy, attachment to the people who give him structure, and vulnerability to anyone who promises continuity.
 
 ### Reason
 
@@ -149,27 +149,39 @@ This matters because House Ventari later teaches him that order is the cure for 
 
 ---
 
+## His Strength
+
+Viriatus does not possess simple constant superpower.
+
+His body comes from a harsher survival reality where humans lived under constant danger.
+
+His stress response developed differently.
+
+His adrenaline is stronger, lasts longer, and can create extreme bursts under fear, panic, threat, protective instinct, or survival pressure.
+
+Important rule:
+
+> His strength is not constant power. It is an extreme survival response.
+
+This keeps him vulnerable.
+
+He can be frightened, confused, used, trained, loved, and shaped.
+
+House Ventari learns to present his strength as proof of discipline, but the private truth is more complicated.
+
+Viriatus's body responds to danger.
+
+House Ventari turns that response into political meaning.
+
+---
+
 ## What House Ventari Gives Him
 
 House Ventari gives Viriatus real things.
 
 The care is not fake from Viriatus's point of view.
 
-House Ventari gives him:
-
-- shelter
-- food
-- language
-- reading
-- writing
-- Roman-derived culture
-- discipline
-- warfare
-- household belonging
-- a family name
-- a father figure through Ecalus
-- a place in the world
-- a reason to use his strength
+House Ventari gives him shelter, food, language, reading, writing, Roman-derived culture, discipline, warfare, household belonging, a family name, a father figure through Ecalus, a place in the world, and a reason to use his strength.
 
 This is why Viriatus's loyalty is believable.
 
@@ -203,15 +215,7 @@ Viriatus does not believe he is conquering for vanity.
 
 He believes he is helping create a civilization where collapse, hunger, disorder, and disappearance can be controlled.
 
-House Ventari teaches him that:
-
-- disorder destroys families
-- weakness invites conquest
-- divided rule lets people suffer
-- discipline protects what love alone cannot protect
-- conquest can be correction if the old order has failed
-- hierarchy can preserve continuity
-- strength should be used to make the world stable
+House Ventari teaches him that disorder destroys families, weakness invites conquest, divided rule lets people suffer, discipline protects what love alone cannot protect, conquest can be correction if the old order has failed, hierarchy can preserve continuity, and strength should be used to make the world stable.
 
 Viriatus accepts these ideas because they answer his wound.
 
@@ -227,69 +231,17 @@ That reason becomes the emotional path from displaced child to conqueror.
 
 ---
 
-## His Strength
-
-Viriatus does not possess simple constant superpower.
-
-His body comes from a harsher survival reality where humans lived under constant danger.
-
-His stress response developed differently.
-
-His adrenaline is stronger, lasts longer, and can create extreme bursts under:
-
-- fear
-- panic
-- threat
-- protective instinct
-- survival pressure
-
-Important rule:
-
-> His strength is not constant power. It is an extreme survival response.
-
-This keeps him vulnerable.
-
-He can be frightened, confused, used, trained, loved, and shaped.
-
-House Ventari learns to present his strength as proof of discipline, but the private truth is more complicated.
-
-Viriatus's body responds to danger.
-
-House Ventari turns that response into political meaning.
-
----
-
 ## Why He Fights
 
 Viriatus fights because several pressures combine.
 
-### Experience
+Old Rome is framed as weak, corrupt, exploitative, hungry, and unable to protect families. House Ventari gives him belonging and structure. His body can protect, defeat, and terrify in ways others cannot. His origin wound makes continuity and legacy feel sacred. Ecalus treats his victories as proof that Ventari discipline can save civilization.
 
-- Old Rome is framed as weak, corrupt, exploitative, hungry, and unable to protect families.
-- House Ventari gives him belonging and structure.
-- His body can protect, defeat, and terrify in ways others cannot.
-- His origin wound makes continuity and legacy feel sacred.
-- Ecalus treats his victories as proof that Ventari discipline can save civilization.
-
-### Emotion
-
-Viriatus feels:
-
-- gratitude toward House Ventari
-- anger at disorder
-- fear of loss
-- need for permanence
-- pride in usefulness
-- attachment to Ecalus
-- belief that his strength can protect what weaker systems failed to protect
-
-### Reason
+Viriatus feels gratitude toward House Ventari, anger at disorder, fear of loss, need for permanence, pride in usefulness, attachment to Ecalus, and belief that his strength can protect what weaker systems failed to protect.
 
 He reasons that if House Ventari's order can protect families, feed people, hold lands, and prevent collapse, then fighting for that order is not selfish conquest.
 
 It is correction.
-
-### Behavior
 
 He becomes the military proof used by House Ventari to defeat and replace the old Roman-derived order.
 
@@ -334,15 +286,7 @@ So House Ventari hides the arrival and sells the transformation.
 
 Publicly, Viriatus becomes proof.
 
-Privately, he still wants what he has always wanted:
-
-- to belong
-- to be loved
-- to be permanent
-- to matter beyond death
-- to have family
-- to pass something forward
-- to prevent precious things from vanishing without meaning
+Privately, he still wants what he has always wanted: to belong, to be loved, to be permanent, to matter beyond death, to have family, to pass something forward, and to prevent precious things from vanishing without meaning.
 
 This private identity matters because it makes the later theft more cruel.
 
@@ -370,14 +314,7 @@ This is how usefulness becomes love.
 
 ### Viriatus's Experience
 
-To Viriatus, Ecalus becomes:
-
-- rescuer
-- teacher
-- father figure
-- source of purpose
-- the person who gives his strength meaning
-- the person who gives him a family frame
+To Viriatus, Ecalus becomes rescuer, teacher, father figure, source of purpose, the person who gives his strength meaning, and the person who gives him a family frame.
 
 Viriatus does not see the full machinery behind Ecalus's care.
 
@@ -387,12 +324,7 @@ He does not fully understand how his victories are being turned into Ventari aut
 
 ### Ecalus's Experience
 
-To Ecalus, Viriatus becomes:
-
-- the child who gives him Rome
-- the weapon that proves his ambition right
-- the son he wished he had
-- the future his bloodline did not provide
+To Ecalus, Viriatus becomes the child who gives him Rome, the weapon that proves his ambition right, the son he wished he had, and the future his bloodline did not provide.
 
 Ecalus's love begins before his final years, during conquest.
 
@@ -412,20 +344,9 @@ Viriatus can respect Ermerus as a Ventari blood son and as someone skilled with 
 
 But Viriatus does not understand that his own public meaning is becoming more powerful than Ermerus's inheritance claim.
 
-### Ermerus's Experience
-
-Ermerus sees Viriatus as:
-
-- useful to House Ventari
-- loved by Ecalus
-- admired by soldiers
-- mythologized by common people
-- a living center people could gather around after Ecalus dies
-- proof that blood is not enough
+Ermerus sees Viriatus as useful to House Ventari, loved by Ecalus, admired by soldiers, mythologized by common people, a living center people could gather around after Ecalus dies, and proof that blood is not enough.
 
 This is intolerable because Ermerus's later claim depends on blood, legitimacy, and controlled interpretation.
-
-### Result
 
 Viriatus does not need to betray Ermerus to threaten him.
 
@@ -445,17 +366,9 @@ Viriatus can make Rutare feel like a person rather than only an inadequate heir.
 
 This matters because Rutare spends much of his life being treated as a role he cannot fulfill.
 
-To the family, Rutare is:
-
-- heir
-- weakness
-- obligation
-- embarrassment
-- problem to protect
+To the family, Rutare is heir, weakness, obligation, embarrassment, and a problem to protect.
 
 To Viriatus, Rutare can feel like a person.
-
-### Why This Matters
 
 Viriatus's kindness or ordinary respect does not remove Rutare's shame.
 
@@ -470,8 +383,6 @@ Rutare cannot.
 Viriatus does not need documents, titles, or inheritance to feel powerful to others.
 
 That makes Rutare's inherited role feel hollow.
-
-### Result
 
 After Viriatus dies, Rutare carries the truth with anguish because the dead person was not only a political symbol.
 
@@ -491,8 +402,6 @@ After the Battle of Augunar, Ilunis is maimed and can barely walk.
 
 He loses the proof of worth the family trained him to use.
 
-### Viriatus's Effect On Ilunis
-
 Viriatus becomes the living proof that Ilunis's sacrifice did not earn him what he wanted.
 
 Ilunis gave his body to House Ventari.
@@ -501,15 +410,11 @@ Ecalus gave his pride to Viriatus.
 
 To Ilunis, that feels like a broken exchange.
 
-### What Viriatus Does Not See
-
 Viriatus may understand pain, usefulness, and battle, but he does not fully understand that his presence has become the standard Ilunis cannot escape.
 
 Viriatus does not need to humiliate Ilunis directly.
 
 His victories, Ecalus's affection, and public admiration humiliate Ilunis by comparison.
-
-### Result
 
 Ermerus later gives Ilunis's jealousy the shape of duty.
 
@@ -529,19 +434,7 @@ She learns the truth later through Rutare.
 
 Her relationship to Viriatus matters less as direct rivalry and more as moral revelation.
 
-### What Viriatus Reveals To Teresta
-
-Viriatus reveals what House Ventari is capable of doing to a person:
-
-- taking him in
-- shaping him
-- using him
-- loving him through usefulness
-- stealing his public meaning
-- murdering him when his living presence becomes inconvenient
-- turning the murder into ceremony and doctrine
-
-### Result
+Viriatus reveals what House Ventari is capable of doing to a person: taking him in, shaping him, using him, loving him through usefulness, stealing his public meaning, murdering him when his living presence becomes inconvenient, and turning the murder into ceremony and doctrine.
 
 When Teresta learns the truth, Regulatus becomes false at its root.
 
@@ -600,15 +493,7 @@ House Ventari controls what Viriatus is allowed to understand about his own mean
 
 Viriatus's death can become Regulatus because his life already holds public emotional meaning.
 
-Before he dies, he is:
-
-- beloved by soldiers
-- feared by enemies
-- admired by citizens
-- mythologized by common people
-- seen as the true force behind the reshaped Rome
-- loved by Ecalus as the son he wished he had
-- dangerous to the siblings' inheritance because people could gather around him after Ecalus
+Before he dies, he is beloved by soldiers, feared by enemies, admired by citizens, mythologized by common people, seen as the true force behind the reshaped Rome, loved by Ecalus as the son he wished he had, and dangerous to the siblings' inheritance because people could gather around him after Ecalus.
 
 After Ecalus dies, Viriatus becomes vulnerable because he is grieving as a son.
 
@@ -642,24 +527,9 @@ He does not create Regulatus.
 
 This distinction must stay clear.
 
-Viriatus provides:
+Viriatus provides victories, public admiration, conquest, proof of Ventari discipline, emotional grief after death, and a stolen legacy House Ventari can use.
 
-- victories
-- public admiration
-- conquest
-- proof of Ventari discipline
-- emotional grief after death
-- a stolen legacy House Ventari can use
-
-Ermerus provides:
-
-- interpretation
-- public story
-- controlled grief
-- ceremony
-- doctrine
-- the declaration of Regulatus
-- the beginning of AVD
+Ermerus provides interpretation, public story, controlled grief, ceremony, doctrine, the declaration of Regulatus, and the beginning of AVD.
 
 So the correct historical chain is:
 
@@ -752,7 +622,7 @@ House Ventari builds its claim on having formed him.
 
 ### Viriatus's Age Is Uncertain
 
-He appears around eleven when found, but nobody can verify his true age because he does not belong to this world.
+He appears around eleven or in his early teens when found, but nobody can verify his true age because he does not belong to this world.
 
 ### Viriatus's Tragedy
 
