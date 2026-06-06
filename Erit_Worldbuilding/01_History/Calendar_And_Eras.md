@@ -6,6 +6,41 @@ This file locks the broad calendar and era structure for Erit's world.
 
 It should explain when eras begin and why they matter.
 
+## Development Origin Of The Calendar
+
+The calendar began from a practical worldbuilding need.
+
+At the start of Erit's worldbuilding, the timeline was hard to place because the world had no calendar. Without a calendar, it was unclear how far Erit's era was from the founding events.
+
+The first useful question became:
+
+> What if the calendar began after someone important died?
+
+That question created the path toward Viriatus.
+
+Development chain:
+
+> the world needed a calendar  
+> -> the calendar needed a founding wound  
+> -> the founding wound became the death of an important figure  
+> -> that figure became Viriatus  
+> -> Viriatus is a displaced child found after a light falls from the heavens  
+> -> Servan find him before House Ventari takes control  
+> -> House Ventari hides his origin because revealing it would make him impossible to keep uncontested  
+> -> House Ventari teaches, trains, shapes, and uses him as an asset for control  
+> -> public displeasure with the old order lets Ventari discipline look like rescue  
+> -> Viriatus's victories make House Ventari look capable of creating order where old Rome failed  
+> -> Ecalus begins treating Viriatus like the son he wished he had  
+> -> the Ventari siblings feel displaced by someone they do not see as blood  
+> -> after Ecalus dies, Viriatus becomes the obvious public figure for what comes next  
+> -> Ilunis kills Viriatus privately after Ermerus turns jealousy into duty  
+> -> Ermerus turns the murder into a public noble death  
+> -> Ermerus declares Regulatus  
+> -> AVD begins when Regulatus is declared, not when Viriatus privately dies  
+> -> founding siblings carry different wounds forward through family behavior  
+> -> later houses and systems grow from those wounds  
+> -> Erit's era inherits identity control, medical dependency, law, status, and pressure
+
 ## Calendar Layers
 
 ### ACD / Celcinus Calendar
