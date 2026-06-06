@@ -20,7 +20,9 @@ The displaced founder whose stolen legacy is used by House Ventari to establish 
 
 ### House Ventari
 
-The house that hides Viriatus's arrival, shapes him, uses him, kills him, and later rules through the doctrine built from his death.
+The house that hides Viriatus's arrival, shapes him, and uses him as an asset for control.
+
+Later, Ermerus and Ilunis turn his death into the foundation for Regulatus.
 
 ### Ecalus Ventari
 
@@ -28,7 +30,7 @@ Working name for the Ventari father.
 
 Ecalus Ventari begins by using Viriatus as a weapon, proof, and advantage.
 
-Near death, he begins to see Viriatus as the son he never truly had, or the son he wishes his own sons had been.
+Near death, he begins to see Viriatus as the son he wished he had.
 
 He dies before creating the next order.
 
@@ -61,10 +63,10 @@ So the order is:
 > ACD / Celcinus Calendar  
 > -> Viriatus found around age eleven, but uncertain  
 > -> Viriatus shaped and used by House Ventari  
-> -> House Ventari uses old Rome's failures and public displeasure to justify reshaping the old order  
-> -> House Ventari wages ideological war against the old Roman order  
-> -> Viriatus defeats the old order  
-> -> Viriatus conquers beyond Rome and proves Ventari order  
+> -> House Ventari uses old Rome's failures and public displeasure to justify replacing the old order  
+> -> House Ventari wages actual conflict against the old Roman order while justifying it through public displeasure  
+> -> Viriatus becomes the military proof used by House Ventari during the defeat and replacement of the old order  
+> -> Viriatus conquers beyond Rome and proves what Ventari discipline can produce  
 > -> Ecalus Ventari dies before establishing the next step  
 > -> Ermerus takes the reins  
 > -> Ilunis kills Viriatus privately  
@@ -101,15 +103,15 @@ This era includes:
 - Viriatus appearing around eleven years old, though nobody can confirm his true age
 - Viriatus being taught, trained, shaped, and used
 - Ecalus Ventari using Viriatus as proof, weapon, and advantage
-- House Ventari using public displeasure with the old Roman order as justification for reshaping it
+- House Ventari using public displeasure with the old Roman order as justification for replacing it
 - war against the old Roman order
-- Viriatus defeating the old order
+- Viriatus becoming the military proof used by House Ventari during the defeat and replacement of the old order
 - Viriatus conquering beyond Rome
-- the public beginning to see Viriatus as the one who should lead civilization
-- Ecalus slowly beginning to care for Viriatus as a son
+- the public beginning to see Viriatus as the one who should lead civilization after Ecalus
+- Ecalus slowly beginning to care for Viriatus as the son he wished he had
 - Ermerus watching that emotional shift
 - Ilunis becoming maimed and resentful
-- Viriatus becoming too loved and symbolically dangerous
+- Viriatus's public meaning becoming dangerous to the siblings' control of what comes after Ecalus
 
 ### 3. Old Order War
 
@@ -168,9 +170,10 @@ This creates a stage where Viriatus can become proof.
 The message becomes:
 
 > Old Rome failed its people.  
-> House Ventari disciplined the impossible.  
-> Viriatus conquered because Ventari order gave him purpose.  
-> Therefore Ventari order should rule what Viriatus won.
+> House Ventari trained, taught, and shaped Viriatus.  
+> Viriatus's victories proved what Ventari discipline could produce.  
+> The old order had lost the right to continue.  
+> Regulatus replaced it.
 
 This is not yet full Regulatus.
 
@@ -184,8 +187,8 @@ This makes the Ventari claim much larger.
 
 House Ventari can say:
 
-> Our discipline did not only save Rome.  
-> It conquered the world.
+> Our discipline did not only defeat the old order.  
+> It created the force that conquered beyond it.
 
 The propaganda shifts from opposition to destiny.
 
@@ -195,9 +198,9 @@ Then the danger reverses.
 
 People begin to see House Ventari as important because of Viriatus, not Viriatus as important because of House Ventari.
 
-This inversion is what makes Viriatus dangerous.
+This inversion is what makes Viriatus dangerous to the siblings' control of what comes after Ecalus.
 
-He becomes loved beyond ownership.
+His public meaning grows beyond what the siblings can safely control while he is alive.
 
 ### 5. Viriatus's Death And The Masked War Story
 
@@ -225,7 +228,9 @@ Year 0 AVD begins when Regulatus comes into play publicly.
 
 This is the new era moment.
 
-Ermerus uses the death, the war story, and public grief to declare the order that will preserve what Viriatus won.
+Ermerus uses the death, the war story, and public grief to declare Regulatus.
+
+Regulatus replaces the old order with a system of obedience, gratitude, hierarchy, usefulness, belonging, and control.
 
 Calendar result:
 
@@ -271,9 +276,9 @@ It is emotional, historical, and doctrinal.
 
 They can say:
 
-> We formed Viriatus.  
-> Viriatus proved order.  
-> Regulatus preserves what he won.  
+> We trained Viriatus.  
+> Viriatus's victories proved what our discipline could produce.  
+> Regulatus preserves the order his death made necessary.  
 > Therefore, our rule preserves civilization.
 
 This is how House Ventari turns Viriatus's stolen legacy into full authority.
@@ -308,7 +313,7 @@ House Ventari frames the old Roman order as weak, corrupt, exploitative, starvin
 
 Viriatus becomes the proof that Ventari discipline can create the strength Rome lost.
 
-The old order is defeated.
+The old order is defeated and later replaced by Regulatus.
 
 ### Year -10 to -4 AVD / Late ACD — World Conquest And Love
 
@@ -316,7 +321,7 @@ Viriatus conquers beyond Rome.
 
 House Ventari uses every victory as proof of its method.
 
-People begin to love Viriatus beyond House Ventari's control.
+People begin to love Viriatus in a way that could outrank the siblings' control after Ecalus.
 
 Ecalus Ventari begins seeing him less as a tool and more as the son he wished he had.
 
@@ -328,7 +333,7 @@ Ilunis becomes increasingly jealous, maimed, and resentful.
 
 Ecalus Ventari weakens and dies before establishing the next step.
 
-Ermerus realizes Viriatus cannot be fully owned alive.
+Ermerus realizes Viriatus's living public meaning could outrank the siblings after Ecalus's death.
 
 Ilunis's wound becomes usable.
 
@@ -418,42 +423,8 @@ into:
 
 This is the bridge into Regulatus.
 
-### AVD Begins With Regulatus
+### Regulatus Is The Replacement
 
-AVD does not begin merely because Viriatus dies.
+House Ventari does not guide the old order into reform.
 
-AVD begins when Ermerus turns the death into the declared new era of Regulatus.
-
-This makes the calendar part of doctrine, not just recordkeeping.
-
-### Rutare Makes It Durable
-
-Ermerus creates the meaning.
-
-Rutare helps make the meaning unavoidable through procedure, records, permissions, and civic machinery.
-
-### Ilunis Makes The Death Possible
-
-Ilunis is the hand.
-
-Ermerus is the whisper.
-
-Ilunis survives by wearing the mask of duty.
-
-### Teresta Learns Too Late
-
-Teresta does not know the truth at first.
-
-She discovers later that the Regulatus order was built on a masked murder.
-
-This discovery helps explain her distance from House Ventari.
-
----
-
-## Open Questions
-
-- How many years pass between Viriatus being found and his death?
-- Does AVD become official immediately, or does it become standardized within the first few years of Regulatus?
-- How much does common society know about Viriatus's non-Roman origin?
-- Does the official story say he was born among common people, discovered in war, raised by Ventari, or chosen by circumstance?
-- What is the older Celcinus calendar's exact structure?
+House Ventari uses public displeasure, Viriatus's victories, Viriatus's death, and public grief to replace the old order with Regulatus.
