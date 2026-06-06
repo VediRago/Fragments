@@ -38,13 +38,13 @@ The main question behind this part is:
 
 Start here if you want to read Fragments as a story, prose, and structure project.
 
-1. [What I Started Noticing About Story Structure](00_Narrative_Design_Thesis.md)
+1. [What I Started Noticing About Story Structure](00_Story_Structure_Starting_Idea.md)
 2. [Project Overview](01_Project_Overview.md)
 3. [Story and Worldbuilding Learning Notes](02_Story_And_Worldbuilding_Learning_Notes.md)
 4. [Selected Prose](03_Selected_Prose.md)
 5. [Development Process](04_Development_Process.md)
-6. [Narrative Design Approach I Am Testing](05_Narrative_Design_Approach.md)
-7. [About Me as a Narrative Designer](06_About_Me_Narrative_Designer.md)
+6. [Current Storybuilding Approach](05_Current_Storybuilding_Approach.md)
+7. [About Me](06_About_Me.md)
 
 ---
 
