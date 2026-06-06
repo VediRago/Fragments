@@ -36,6 +36,7 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 
 ## Start Here
 
+- `00_Development_Diary.md`
 - `00_Common_Terms.md`
 - `00_Overview/Calendar_And_Eras.md`
 - `01_Displaced_Founder.md`
@@ -51,11 +52,12 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 - `01_Founding_Era/Ventari_Family/Ilunis_Ventari.md`
 - `01_Founding_Era/Ventari_Family/Teresta_Ventari.md`
 
-## NPC And Quest Logic
+## Systems / NPC And Quest Logic
 
-- `08_NPC_Emotional_State_Model.md`
-- `09_NPC_System_Relationship_Model.md`
-- `05_Quest_Example_Chip_Removal.md`
+- `05_Systems/README.md`
+- `05_Systems/NPC_Emotional_State_Model.md`
+- `05_Systems/NPC_System_Relationship_Model.md`
+- `05_Systems/Quest_Example_Chip_Removal.md`
 
 ## Best Public Sample
 
