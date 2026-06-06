@@ -180,6 +180,68 @@ Duty becomes the only version of the act he can survive.
 
 ---
 
+## Private Death Scene
+
+Viriatus is not killed on an open battlefield.
+
+He is killed in a private moment of weakness.
+
+After Ecalus dies, the family gathers to mourn him.
+
+Viriatus is present with the siblings because Ecalus had come to see him as a son.
+
+Teresta is away and does not witness the truth.
+
+Rutare breaks down crying and panicking.
+
+Ermerus is composed enough to understand that the moment can be shaped.
+
+Viriatus kneels over Ecalus's casket.
+
+In that moment, Viriatus is not conqueror, symbol, or public hero.
+
+He is a grieving son.
+
+That is what makes him vulnerable.
+
+Ilunis sees the outsider mourning Ecalus as a son while Ilunis stands maimed by the life he gave to the family.
+
+The wound Ermerus named becomes action.
+
+Ilunis drives a knife into Viriatus's back while Viriatus kneels over Ecalus's casket.
+
+This is the private truth.
+
+---
+
+## Ermerus Covers The Death
+
+Ermerus controls the aftermath.
+
+He has Civel bury or move the body.
+
+Then he convinces the guards that those Civel stole jewelry while the family was mourning.
+
+The Civel are killed.
+
+This removes witnesses and gives the violence a believable explanation inside the house.
+
+The public never receives the private truth.
+
+The public story becomes:
+
+> Viriatus died a noble death in war.
+
+This makes Ermerus's role essential.
+
+Ilunis kills the man.
+
+Ermerus kills the evidence.
+
+Then Ermerus gives the world a story it can believe.
+
+---
+
 ## Relationship To Ermerus
 
 Ermerus sees Ilunis's jealousy before Ilunis fully understands it.
@@ -337,8 +399,6 @@ That makes them more grounded than simple enforcers.
 
 ## Key Questions
 
-- How exactly does Ilunis kill Viriatus?
-- Does Ilunis act alone, or does he arrange the death inside a battle so the war story can survive?
 - How much does Ilunis understand about Ermerus manipulating him?
 - Does Ilunis regret the killing immediately, later, or never?
 - Does Rutare suspect Ilunis's role while formalizing the official story?
