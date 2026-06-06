@@ -127,6 +127,35 @@ To citizens, Regulatus feels like order.
 
 To House Ventari, Regulatus is a tool of control.
 
+## Viriatus And The Sibling Threat
+
+Viriatus is not an external threat to House Ventari.
+
+He strengthens House Ventari's public rise.
+
+He never escapes the family physically.
+
+The danger is inside the family.
+
+After Ecalus begins treating Viriatus like the son he wished he had, the Ventari siblings feel displaced by someone they do not see as blood.
+
+After Ecalus dies, public adoration makes Viriatus the obvious figure around whom the reshaped Rome could gather.
+
+To the siblings, this is intolerable because:
+
+- Viriatus is not their blood
+- Ecalus seemed to care for him more than them
+- his public meaning could outrank their inheritance
+- the future after Ecalus might gather around him instead of them
+
+The murder is therefore driven by jealousy, blood legitimacy, succession pressure, and the siblings' desire to control what comes after Ecalus.
+
+Ermerus shapes Ilunis's wound into duty.
+
+Ilunis kills Viriatus.
+
+Ermerus turns the death into Regulatus.
+
 ## Founding Authority Map
 
 ### Ecalus Ventari
@@ -211,7 +240,8 @@ Devaar belongs much later, after rejection, time, medicine, preservation, chips,
 > -> House Ventari publicly claims that Ventari discipline gave Viriatus purpose  
 > -> Viriatus becomes beloved and powerful  
 > -> Ecalus begins loving him as the son he wished he had  
-> -> the Ventari children are wounded differently  
+> -> the Ventari siblings feel displaced by someone they do not see as blood  
+> -> after Ecalus dies, Viriatus becomes the obvious public figure for the reshaped Rome  
 > -> Ermerus turns Ilunis's jealousy into duty  
 > -> Ilunis kills Viriatus privately  
 > -> Ermerus controls the aftermath  
