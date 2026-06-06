@@ -19,13 +19,13 @@ I am using the project to test:
 
 Recommended reading order:
 
-1. [Portfolio Overview](Portfolio/README.md)
-2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
-3. [Calendar and Eras](Erit_Worldbuilding/01_History/Calendar_And_Eras.md)
-4. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
-5. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
+1. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
+2. [Calendar and Eras](Erit_Worldbuilding/01_History/Calendar_And_Eras.md)
+3. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
+4. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
+5. [Portfolio Overview](Portfolio/README.md)
 
-The case study shows the shorter version of the worldbuilding process. The calendar file shows the first practical challenge that led back to the emperor statue already inside the prose. The development diary and method files show the longer working trail behind the process.
+The case study is the strongest first click because it shows how a practical worldbuilding problem led back to a detail already inside the prose. The calendar file shows the first practical challenge that led to the timeline, eras, and the emperor statue. The development diary and method files show the longer working trail behind the process.
 
 ## Project Branches
 
