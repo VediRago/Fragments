@@ -242,6 +242,28 @@ Then Ermerus gives the world a story it can believe.
 
 ---
 
+## Rutare And Teresta
+
+Rutare witnesses enough to understand that the official version is false.
+
+He panics because he does not have the strength to stop what happens or challenge the siblings afterward.
+
+He survives by letting procedure carry the lie.
+
+Teresta does not witness the killing because she is away.
+
+She learns the truth later through Rutare.
+
+Teresta treats Rutare with care, which gives him a rare place where he is not only controlled by the family.
+
+In an attempt to share the pressure he has been carrying, Rutare tells her what happened.
+
+This becomes the path by which Teresta discovers that the sacred order was built on a masked murder.
+
+Her later distance from House Ventari grows from that discovery.
+
+---
+
 ## Relationship To Ermerus
 
 Ermerus sees Ilunis's jealousy before Ilunis fully understands it.
@@ -401,6 +423,4 @@ That makes them more grounded than simple enforcers.
 
 - How much does Ilunis understand about Ermerus manipulating him?
 - Does Ilunis regret the killing immediately, later, or never?
-- Does Rutare suspect Ilunis's role while formalizing the official story?
-- When does Teresta learn that Ilunis killed Viriatus?
 - How do Ilunis's descendants remember him: hero, protector, judge, or hidden murderer?
