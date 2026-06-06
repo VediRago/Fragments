@@ -333,7 +333,7 @@ By Era Three, most institutions of power are held by descendants of the founding
 
 Core transformation:
 
-> Lucrest conquered by force -> Arumis allied by strategy -> Regulatus broadens -> knowledge and industry begin shifting power
+> Lucrest accepts Regulatus under force -> Arumis enters by alliance -> three-city resources consolidate -> institutions mature -> technology begins turning away from swords, shields, and horses
 
 ### 200 AVD — Era Three Begins
 
@@ -341,27 +341,49 @@ By 200 AVD, Regulatus is no longer a young order. Its laws, records, public ritu
 
 The major bloodline institutions are already recognizable. Rutare's descendants dominate administration, records, recognition, and the soft-control roots that later become Lux Aeterna. Ilunis's descendants dominate military authority, courts, law, force, and the Virtuasti. Ermerus's descendants carry the contradiction of legitimacy into Lucrest and the rebellion. Teresta's line survives through Arumis, teaching, private memory, and academic influence.
 
-### 300 AVD — Lucrest Falls By Force
+By this point, family has become structure.
+
+### 300 AVD — Lucrest Accepts Regulatus Under Force
 
 By 300 AVD, Lucrest has been the strongest rebel pressure point for generations.
 
 Its rebellion, resource leverage, fertile land, rivers, mountain access, and Ermerus bloodline inheritance make it too dangerous for Vys to tolerate indefinitely.
 
-Lucrest falls under Regulatus by force.
+Lucrest does not fall through a glorious final battle.
 
-This conquest wounds the city but does not erase rebellion. Rebels are forced out of the cities and toward the desert, where they align with scattered villages and unite them around the purpose of fighting back. They have little food, little metal, limited water, and few stable supply routes. Their strength becomes mobility, village trust, hidden wells, night movement, and shared anger against Regulatus.
+By the time Regulatus moves to occupy it, the Virtuasti fortress is already close, and the city understands the cost of open resistance. Lucrest surrenders to avoid bloodshed.
+
+This surrender is not loyalty. It is survival.
+
+Regulatus is imposed. River access, food stores, routes, and public authority come under control, but Lucrest's resentment does not disappear.
+
+The Virtuasti are close enough to make resistance feel impossible, but they do not have time to establish daily rule. Lux Aeterna wins the crowd first because the city needs food, medicine, burial rites, shelter, orphan care, and comfort after surrender.
+
+Virtus makes resistance terrifying. Lux makes surrender bearable.
+
+The conquest wounds the city but does not erase rebellion. The Novacula Rebels cannot depend on Lucrest as an open city heart after this. They move toward the desert, where they align with scattered villages that value freedom more than comfort.
+
+The Novacula have little wealth to offer. What they offer is fear. They attack anyone trying to bring Regulatus into the sands, making outside control costly. The villages shelter them, share water when they can, hide routes, and pass warnings. In return, the Novacula make outsiders afraid to enter carelessly.
+
+The desert people may joke, gamble, scam for extra coins, and chase anything shiny, but they understand the value of freedom clearly. They would rather bargain with danger than be safely owned.
 
 ### 450 AVD — Arumis Enters By Alliance
 
-Arumis watches Lucrest fall carefully.
+Arumis watches Lucrest surrender under force carefully.
 
-After Lucrest is beaten, Vys begins building military strength toward Arumis. Arumis understands that open resistance would make it the next target.
+After Lucrest is absorbed, Vys begins building military strength toward Arumis. Arumis understands that open resistance would make it the next target.
 
 Arumis gives in by alliance.
 
 This is not loyalty. It is preservation.
 
-By accepting Regulatus through alliance instead of conquest, Arumis protects its universities, metallurgy, port trade, mining knowledge, engineering, and internal networks.
+By accepting Regulatus through alliance instead of conquest, Arumis protects its universities, metallurgy, port trade, mining knowledge, engineering, medicine, and internal networks.
+
+Arumis becomes known as the city of medicine and knowledge.
+
+This does not happen suddenly. Arumis begins as a port city sustained by fishing, trade, coal, and iron. Teresta's removal from Vys gives the city a different starting point because she spends her life teaching. Her daughter Miria takes her place, turning teaching into inherited work.
+
+Over centuries, Arumis's universities, academies, metallurgy, engineering, mining knowledge, and care practices mature together. By the end of Era Three, Arumis is no longer only useful because of trade. It is useful because it knows how to study, repair, refine, teach, and preserve.
 
 The difference matters later. Lucrest enters Regulatus wounded by force. Arumis enters Regulatus carrying knowledge, compromise, resentment, and the foundations of a future power shift.
 
@@ -413,11 +435,21 @@ Through the appearance of mercy, the Ventari web spreads deeper.
 
 As the Virtuasti become feared and honored, Lux Aeterna creates its own military branch under the justification of purifying lands and cities. The Virtuasti do not acknowledge Lux Aeterna as a true rival. They see themselves as the pride of the military and the force that enforces Regulatus where charity, courts, and speeches are too weak. Lux cares more about the comparison than Virtus does.
 
+Lux Aeterna also begins marching toward desert settlements under the claim of spreading the light. The march is presented as mercy, not conquest. Lux brings food, water, medicine, shelter, burial rites, orphan care, and moral guidance to villages with scarce resources.
+
+To desperate communities, this help is real. It also extends Ventari visibility. Villages helped by Lux become recorded, known, and morally indebted. Rebel movement becomes harder to hide when the people feeding them also depend on Lux supplies.
+
 Gladiator Houses rise during this same period as a side faction.
 
 They do not exist to rule cities or replace Regulatus. They exist because the ruling families need a controlled way to measure strength without open conflict, and the masses need spectacle to release pressure.
 
 Families sponsor fighters as public proof of wealth, discipline, training, and prestige. Arena victories become a safer substitute for direct house conflict.
+
+The first formal gladiator competition is remembered as the First Arena Measure.
+
+The Ilunis line wins the first competition.
+
+This victory matters because Ilunis already carries military force, courts, law, and the Virtuasti legacy. Winning the First Arena Measure confirms their public image as the line of strength.
 
 Most gladiators come from the northern cities, where clan pride, oath culture, hard-land survival, and warrior reputation make arena fighting socially understandable. Lucrest contributes captured rebels and disgraced fighters. Arumis contributes dock workers, miners, debtors, and sponsored fighters from corrupt trade networks.
 
@@ -455,11 +487,43 @@ This pressure becomes war.
 
 The Northern War rises during Era Three and reaches its peak before the era ends. The North is not simply Rebel or Regulatus. It is its own alignment layer: clan-bound, oath-bound, culturally separate, and resistant to being measured by Vys law or records.
 
+During the Northern War, the Virtuasti attempt to take several northern villages. They expect discipline, armor, reputation, and military purpose to break local resistance quickly.
+
+They underestimate the cold.
+
+The northern villages do not fight like southern cities. They use weather, terrain, hidden paths, winter hunger, ambushes, clan oaths, and blessing rites to endure longer than the Virtuasti expect.
+
+The defeat matters because it proves that Virtus cannot simply carry Regulatus everywhere by force. To the Virtuasti, the loss is humiliation. To the North, it becomes proof of harsh-land pride: southern strength fails when the land itself refuses them.
+
 ### 1000 AVD — Era Three Ends
 
 By 1000 AVD, Era Three has turned early expansion into mature systems.
 
 Lucrest is under Regulatus by force, but its wound survives through rebellion and memory. Arumis is under Regulatus by alliance, but its knowledge, industry, and resentment survive intact. The Virtuasti are an autonomous military order divided into Spatis, Scutis, and Umbris. Lux Aeterna has spread mercy as visibility. Gladiator Houses have become a side faction used by every power. The North has been introduced as a distinct cultural pressure, and the Northern War has ended or been contained enough that open war does not define the start of Era Four.
+
+After Lucrest accepts Regulatus under force and Arumis enters through alliance, Vys gains access to the resources of all three major cities.
+
+Vys provides central authority, government, law, public alignment, and administrative control.
+
+Lucrest provides food, rivers, fertile lands, and water systems.
+
+Arumis provides medicine, knowledge, coal, iron, metallurgy, universities, and port access.
+
+This consolidation matters because Regulatus no longer survives only through declaration, bloodline authority, or military pressure. It now has a material base.
+
+Vys also begins to change visually.
+
+The old city was built to perform permanence: pale stone, polished halls, old banners, civic steps, statues, and ceremonial spaces. That beauty belonged to the age when Vys wanted to look eternal.
+
+After the consolidation of Vys, Lucrest, and Arumis, metal and concrete begin replacing older pearl-like civic structures.
+
+The change is not only aesthetic. It shows that Vys is no longer trying only to appear ancient and legitimate. It is becoming heavier, more industrial, more durable, and more controlling.
+
+By 1000 AVD, swords and shields still exist, but they are no longer the unquestioned center of power.
+
+Guns begin replacing older battlefield dominance. Horses fade from major military and civic systems as engines and early cars slowly appear. The change is uneven: rich cities, military institutions, and Arumis workshops adopt new machines first, while poorer regions keep older tools longer.
+
+Era Three ends when old beauty starts turning into infrastructure.
 
 Arumis's universities, metallurgy, engineering, medicine, and industry have had centuries to mature. The world is ready for Devaar's external augmentation rise.
 
@@ -469,9 +533,31 @@ Arumis's universities, metallurgy, engineering, medicine, and industry have had 
 
 Era Four runs from roughly 1000 AVD to 3000 AVD.
 
-Era Four is the main playable world-state before Erit's far-future era.
+Era Four is the main playable world-state before Erit's far-future era, but the game world does not begin at the start of the era. It begins late in Era Four, around 2600 AVD, when the major systems have become mature enough for player choice.
 
 By this period, the institutions born from Viriatus's death have matured into government, courts, military divisions, charity networks, rebel factions, gladiator houses, and the Virtuasti order.
+
+### Solar Flare Famine
+
+Early in Era Four, a solar flare strikes hard enough to damage surface life and destroy large portions of exposed crops.
+
+This does not end civilization.
+
+It breaks confidence.
+
+The main cities had entered Era Four believing that the three-city consolidation made them secure: Vys held authority, Lucrest held food and rivers, and Arumis held knowledge, medicine, coal, iron, metallurgy, and port access.
+
+The flare proves that structure is fragile.
+
+Crop failure creates famine, trade disruption, rationing, sickness, and stagnation. The great cities do not collapse into total brutality, but they enter a dark-age-like dip where progress slows and survival becomes the central question again.
+
+This is the opening pressure that allows House Devaar to rise.
+
+When food systems fail and bodies weaken, preservation becomes power. Arumis medicine and knowledge become more valuable than old military prestige. Lux Aeterna expands relief. Regulatus tightens control. The Novacula gain anger to recruit from. The Virtuasti protect ration routes and suppress unrest.
+
+Devaar becomes dangerous because it offers what the old order cannot: survival after the surface fails.
+
+### Devaar Rise
 
 The major shift is House Devaar.
 
@@ -481,7 +567,7 @@ This takeover does not begin as open conquest. It begins as preservation. Arumis
 
 People accept Devaar because Devaar offers what other powers cannot: survival.
 
-A wounded soldier can fight again. A sick worker can return to labor. A dying child can be stabilized. A noble can extend life. A Virtuasti soldier can become more effective. A city damaged by war can rebuild its population through treatment and replacement systems.
+A wounded soldier can fight again. A sick worker can return to labor. A dying child can be stabilized. A noble can extend life. A Virtuasti soldier can become more effective. A city damaged by famine can rebuild its population through treatment and replacement systems.
 
 This makes Devaar the best option.
 
@@ -507,9 +593,17 @@ Era Five augmentation moves inside it.
 
 ### Era Four Game World State
 
-By Era Four, the game world exists inside a shift.
+By around 2600 AVD, the game world exists inside a mature shift.
 
-Regulatus still structures public life. The Virtuasti enforce order. Lux Aeterna offers aid, moral guidance, and purification. Rebels resist dependency from desert villages, hidden routes, and old city wounds. Gladiator Houses remain useful to every side. Devaar turns augmentation into the path by which House Ventari power begins taking over the world again.
+Regulatus still structures public life. The Virtuasti enforce order. Lux Aeterna offers aid, moral guidance, and purification. Novacula Rebels resist dependency from desert villages, hidden routes, and old city wounds. Gladiator Houses remain useful to every side. Devaar turns augmentation into the path by which House Ventari power begins taking over the world again.
+
+The Novacula attack the roads.
+
+The North pressures the seas.
+
+Vys comes under extreme pressure.
+
+This is the best playable moment because the systems are mature enough to understand, but not so fixed that the player cannot affect them.
 
 The world is not cyberpunk yet.
 
