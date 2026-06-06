@@ -2,19 +2,9 @@
 
 This is the best public starting point for reviewing **Fragments**.
 
-## Short Pitch
+## Start Here
 
-**Fragments** is an early development portfolio for story, prose, worldbuilding, and game-facing structure.
-
-I am using one ongoing project to show how I think through character emotion, hidden connections, world pressure, revision, and clear documentation.
-
-The project is early and self-taught. I started it on **20/05/2026** while working full-time outside the games industry.
-
-This portfolio is not meant to present finished professional work.
-
-It is meant to show evidence of how I think, revise, organize complex material, and turn character and world details into clearer story and game-facing structure.
-
-## Quick Review Path
+Read these first so the portfolio does not send you into a deeper folder without context.
 
 1. [Project Overview](Project_Overview.md)  
    Shows what Fragments is, what this portfolio is trying to demonstrate, and how the story and worldbuilding branches connect.
@@ -30,6 +20,18 @@ It is meant to show evidence of how I think, revise, organize complex material, 
 
 5. [Worldbuilding Method](../Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)  
    Shows the method behind the Erit files: starting from people and pressure before building systems.
+
+## Short Pitch
+
+**Fragments** is an early development portfolio for story, prose, worldbuilding, and game-facing structure.
+
+I am using one ongoing project to show how I think through character emotion, hidden connections, world pressure, revision, and clear documentation.
+
+The project is early and self-taught. I started it on **20/05/2026** while working full-time outside the games industry.
+
+This portfolio is not meant to present finished professional work.
+
+It is meant to show evidence of how I think, revise, organize complex material, and turn character and world details into clearer story and game-facing structure.
 
 ## Full Reading Path
 
