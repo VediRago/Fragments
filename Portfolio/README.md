@@ -23,7 +23,9 @@ Read these first so the portfolio does not send you into a deeper folder without
 
 ## Short Pitch
 
-**Fragments** is an early development portfolio for story, prose, worldbuilding, and game-facing structure.
+**Fragments** asks: if infinity can produce every possible version of a life, what happens when one version reaches the outcome that should never exist?
+
+The story follows different lives, realities, and outcomes until the impossible is reached.
 
 I am using one ongoing project to show how I think through character emotion, hidden connections, world pressure, revision, and clear documentation.
 
