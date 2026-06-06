@@ -78,7 +78,7 @@ Teresta herself is not fully cast out immediately.
 
 The rejection lands more clearly on the next generation: Teresta's daughter-line.
 
-Ilunis, or Ilunis's line, causes or enforces this daughter-line expulsion.
+Ilunis's line later enforces this daughter-line expulsion.
 
 This happens because Teresta's distance leaves her line politically vulnerable.
 
