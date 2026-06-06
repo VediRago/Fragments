@@ -2,7 +2,9 @@
 
 This file clarifies how unlikely events should be understood inside Fragments.
 
-What looks obvious from the author/system level may not be obvious to a reader, so this rule exists to prevent the story from accidentally making rare events feel like chosen destiny or random convenience.
+What looks obvious from the author or system level may not be obvious to a reader, so this rule exists to prevent the story from accidentally making rare events feel like chosen destiny, divine guidance, or random convenience.
+
+This is an internal logic note, not a rule the story needs to explain directly.
 
 ## Core Rule
 
@@ -26,6 +28,8 @@ So an event can be:
 - statistically inevitable somewhere across total possibility
 - not personally chosen by the system
 - not random from the system's full outcome scale
+
+This rule protects the story from treating rare events as proof that Qalm wants something.
 
 ## Working Phrase
 
