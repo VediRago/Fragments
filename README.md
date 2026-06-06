@@ -13,9 +13,29 @@ I am presenting it as a record of what I am trying to understand:
 - whether a repeated detail can become a clue, then a reveal, then a payoff
 - whether world pressure can lead toward quests, conflicts, and consequences
 
+## Start Here
+
+For a quick public overview, begin with the portfolio route:
+
+[Portfolio/README.md](Portfolio/README.md)
+
+Recommended reading order:
+
+1. [Project Overview](Portfolio/Project_Overview.md)
+2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
+3. [Development Process](Portfolio/Development_Process.md)
+4. [Selected Prose](Portfolio/Selected_Prose.md)
+5. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
+
 ## Project Branches
 
 This repository currently contains two connected project branches and one public-facing branch.
+
+### Portfolio
+
+[Portfolio/README.md](Portfolio/README.md)
+
+The public-facing branch: clean summaries, selected samples, and learning-process notes.
 
 ### Fragments Story
 
@@ -28,27 +48,6 @@ The main story branch: prose, characters, acts, Unity, scene bridges, emotional 
 [Erit_Worldbuilding/README.md](Erit_Worldbuilding/README.md)
 
 The worldbuilding branch: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, and the world Erit inherits.
-
-### Portfolio
-
-[Portfolio/README.md](Portfolio/README.md)
-
-The public-facing branch: clean summaries, selected samples, and learning-process notes.
-
-## Start Here
-
-For a quick public overview, begin with the portfolio route:
-
-[Portfolio/README.md](Portfolio/README.md)
-
-Recommended reading order:
-
-1. [Portfolio Index](Portfolio/Index.md)
-2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
-3. [Story and Worldbuilding Learning Notes](Portfolio/Story_And_Worldbuilding_Learning_Notes.md)
-4. [Selected Prose](Portfolio/Selected_Prose.md)
-5. [Development Process](Portfolio/Development_Process.md)
-6. [About Me](Portfolio/About_Me.md)
 
 ## Worldbuilding Process
 
