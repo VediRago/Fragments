@@ -28,9 +28,11 @@ The original goal is not to create a moral order.
 
 The goal is control.
 
-House Ventari uses Viriatus to control the Empiran.
+House Ventari uses Viriatus to control the old order's transition into the emerging Empiran order.
 
-Over time, that control expands until the Ventari dynasty eventually controls the world.
+After Regulatus and AVD, that emerging order consolidates into the Empiran.
+
+Over generations, Ventari expansion turns Empiran rule into world rule.
 
 ## Relationship To Regulatus
 
@@ -123,7 +125,7 @@ Devaar belongs much later, after rejection, time, medicine, preservation, chips,
 > Ecalus starts the plot  
 > -> House Ventari hides Viriatus's origin  
 > -> Viriatus becomes weapon, proof, advantage, and myth  
-> -> House Ventari uses him to control the Empiran  
+> -> House Ventari uses him to control the old order's transition into the emerging Empiran order  
 > -> Viriatus becomes beloved and powerful  
 > -> Ecalus begins loving him as the son he wished he had  
 > -> the Ventari children are wounded differently  
@@ -131,7 +133,8 @@ Devaar belongs much later, after rejection, time, medicine, preservation, chips,
 > -> Ilunis kills Viriatus privately  
 > -> Ermerus controls the aftermath  
 > -> public grief becomes Regulatus  
-> -> AVD begins when Regulatus is declared
+> -> AVD begins when Regulatus is declared  
+> -> the emerging Empiran order consolidates after Regulatus
 
 ## Constraint
 
