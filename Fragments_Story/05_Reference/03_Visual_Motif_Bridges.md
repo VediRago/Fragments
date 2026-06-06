@@ -44,9 +44,25 @@ Windows and sky often represent life outside the room: movement, continuation, p
 
 Lucreta looks toward life through the window before collapse.
 
+### Sera Function
+
+Bright sky enters through Sera's broken apartment while she is still alone.
+
+This matters because the sky is not introduced because of Kael. It belongs to Sera first.
+
+For Sera, the bright sky marks life entering a ruined space before she knows who she will share it with.
+
+The apartment is broken, but the sky makes it possible for the space to become shelter rather than only ruin.
+
 ### Later Function
 
 The hospital girl moving toward the window after Unity echoes that same reaching motion, but the meaning changes. The window no longer only points toward life being missed. It points toward life continuing.
+
+The bright sky changes across the story:
+
+- Lucreta: life outside the room, the future she will not reach.
+- Sera: life entering a ruined space before attachment has fully arrived.
+- Hospital girl: evidence that life continues after the condition no longer resolves.
 
 ### Boundary Rule
 
