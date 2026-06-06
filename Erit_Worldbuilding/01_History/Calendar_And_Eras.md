@@ -4,7 +4,11 @@
 
 This file locks the broad calendar and era structure for Erit's world.
 
-It should explain when eras begin and why they matter.
+It explains how the calendar was created, why the era structure exists, and which historical moments define the calendar.
+
+For the readable event timeline and era summaries, see:
+
+[Timeline And Era Summaries — Erit World](Timeline_And_Era_Summaries.md)
 
 ## Development Origin Of The Calendar
 
@@ -85,42 +89,13 @@ After Regulatus and AVD, that empire consolidates.
 
 Over generations, Ventari expansion and Regulatus control allow the dynasty to control the world.
 
-## Broad Timeline
+## Timeline Reference
 
-> ACD / Celcinus Calendar  
-> -> light falls from the heavens  
-> -> Viriatus is found young, appearing around 11, age uncertain  
-> -> Servan find him first  
-> -> House Ventari takes control of him  
-> -> Ecalus Ventari hides the truth and starts the plot  
-> -> House Ventari trains, teaches, shapes, and uses Viriatus as an asset for control  
-> -> House Ventari uses public displeasure with the old Rome-derived order to justify replacing it  
-> -> Viriatus becomes the military proof House Ventari uses during the defeat and replacement of the old order  
-> -> Viriatus conquers beyond Rome under Ventari control  
-> -> Ventari power expands  
-> -> Ecalus dies before creating the new order  
-> -> family mourns Ecalus  
-> -> Teresta is away  
-> -> Rutare cries or panics  
-> -> Viriatus kneels over Ecalus's casket as a grieving son  
-> -> Ilunis stabs Viriatus in the back  
-> -> Ermerus controls the aftermath  
-> -> Servan witnesses are accused of stealing jewelry during mourning  
-> -> Servan witnesses are killed  
-> -> public story becomes noble death in war  
-> -> Ermerus declares Regulatus  
-> -> Year 0 AVD begins  
-> -> Regulatus consolidates mass control inside the emerging empire  
-> -> Empiran becomes the later word for that empire  
-> -> Ventari rule consolidates  
-> -> over generations, Ventari expansion and Regulatus control allow the dynasty to control the world  
-> -> Fracture Era follows Ermerus's bloodline irony  
-> -> Devaar Rise Era follows after a major time jump  
-> -> Erit Era follows many generations later
+The full readable sequence of events belongs in:
 
-## Timeline Lock
+[Timeline And Era Summaries — Erit World](Timeline_And_Era_Summaries.md)
 
-The order must stay clear:
+The short lock order is:
 
 > Viriatus conquers under Ventari control  
 > -> Ecalus dies  
@@ -143,7 +118,7 @@ Regulatus is what allows the empire to consolidate as a controllable order after
 
 ### 01 — Founding Era
 
-Detailed summary: [Era One Summary — Founding Era And Year 0 AVD](../02_Founding_Era/Era_One_Summary.md)
+Readable timeline summary: [Founding Era — From Viriatus's Arrival To Year 0 AVD](Timeline_And_Era_Summaries.md#founding-era--from-viriatuss-arrival-to-year-0-avd)
 
 Dramatic function:
 
@@ -158,6 +133,8 @@ Core transformation:
 > hidden origin -> Ventari control -> public displeasure -> Viriatus as trained asset and proof -> private murder -> Regulatus replaces the old order
 
 ### 02 — Fracture Era
+
+Readable timeline summary: [Era Two — Fracture Era](Timeline_And_Era_Summaries.md#era-two--fracture-era)
 
 Dramatic function:
 
@@ -177,6 +154,8 @@ Core transformation:
 
 ### 03 — Devaar Rise Era
 
+Readable timeline summary: [Era Three — Devaar Rise Era](Timeline_And_Era_Summaries.md#era-three--devaar-rise-era)
+
 Dramatic function:
 
 > how the rejected Teresta line returned
@@ -194,6 +173,8 @@ Core transformation:
 > rejected line -> medical usefulness -> bodily dependency -> restored authority
 
 ### 04 — Erit Era
+
+Readable timeline summary: [Era Four — Erit Era](Timeline_And_Era_Summaries.md#era-four--erit-era)
 
 Dramatic function:
 
@@ -213,6 +194,6 @@ Core transformation:
 
 Do not build all eras equally yet.
 
-The active focus is the Founding Era.
+The active focus is the Founding Era and the transition pressure that will create Era Two.
 
 The other eras exist to hold future consequences without forcing them into the first generation.
