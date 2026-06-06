@@ -273,9 +273,11 @@ Kaelor's military division becomes more than battlefield command. Elsera's court
 
 Around 30 AVD, Varric Ilunis returns from pilgrimage carrying the Banner of Viriatus.
 
-The journey does not make him religious. It gives him purpose. Varric sees how Viriatus's name still carries honor, pride, and public memory beyond Vys. To him, that name should not remain only statue, ritual, or speech. It should become a standard soldiers can gather under.
+Varric creates the Virtuasti, an independent banner-force built around Virtus: valor, disciplined strength, public honor, pride, duty, and the public memory of Viriatus.
 
-Varric creates the Virtuasti, an independent banner-force built around purpose, honor, pride, duty, and the public memory of Viriatus.
+Publicly, the Virtuasti claim they carry Viriatus's purpose forward. Privately, their leadership understands why that claim is useful. Viriatus is the conqueror, the statue, and the name people admire, fear, and want to join. Framing Regulatus as Viriatus's way gives the order honor, pride, and recruitment power that Ermerus's name could never provide.
+
+The Virtuasti play ignorant when necessary. They do not need the public story to be fully true. They need it to work.
 
 The Virtuasti are separate from Kaelor's formal military division and Elsera's courts. Their focus is the rebels, and their purpose is to abolish those who oppose Regulatus.
 
@@ -321,21 +323,121 @@ The next era inherits a world where Lucrest will be forced under Regulatus by co
 
 ## Era Three — Consolidation And Industrial Rise Era
 
-Status: not built yet.
+Era Three begins around 200 AVD.
 
-This era happens after Era Two and before the medical/augmentation era.
-
-Lucrest falls under Regulatus by force.
-
-Arumis enters Regulatus by alliance after seeing Vys prepare to turn its army toward the city. This is not loyalty. It is preservation.
-
-By accepting Regulatus through alliance instead of conquest, Arumis protects its universities, metallurgy, port trade, mining knowledge, engineering, and internal networks.
+The long gap after 40 AVD lets the family conflicts of Era Two become inherited city structures, institutions, factions, and economic pressure. By this point, Viriatus is no longer remembered by most people as a living man. He is statue, oath, banner, ritual, public memory, and recruitment language.
 
 This era explains how Regulatus becomes a broader multi-city order while Arumis begins the power shift that later makes medicine, preservation, and augmentation possible.
 
 Core transformation:
 
 > Lucrest conquered by force -> Arumis allied by strategy -> Regulatus broadens -> knowledge and industry begin shifting power
+
+### Lucrest Falls By Force
+
+By Era Three, Lucrest has been the strongest rebel pressure point for generations.
+
+Its rebellion, resource leverage, fertile land, rivers, mountain access, and Ermerus bloodline inheritance make it too dangerous for Vys to tolerate indefinitely.
+
+Lucrest falls under Regulatus by force.
+
+This conquest wounds the city but does not erase rebellion. Rebels are forced out of the cities and toward the desert, where they align with scattered villages and unite them around the purpose of fighting back. They have little food, little metal, limited water, and few stable supply routes. Their strength becomes mobility, village trust, hidden wells, night movement, and shared anger against Regulatus.
+
+### Arumis Enters By Alliance
+
+Arumis watches Lucrest fall carefully.
+
+After Lucrest is beaten, Vys begins building military strength toward Arumis. Arumis understands that open resistance would make it the next target.
+
+Arumis gives in by alliance.
+
+This is not loyalty. It is preservation.
+
+By accepting Regulatus through alliance instead of conquest, Arumis protects its universities, metallurgy, port trade, mining knowledge, engineering, and internal networks.
+
+The difference matters later. Lucrest enters Regulatus wounded by force. Arumis enters Regulatus carrying knowledge, compromise, resentment, and the foundations of a future power shift.
+
+### Public Alignment Layer
+
+The first social layer is public alignment.
+
+In Vys, everyone is Regulatus in public. This does not mean everyone believes. It means everyone says they believe, because public life in Vys leaves almost no safe room for visible doubt.
+
+The Scutis make this possible.
+
+As the protective division of the Virtuasti, the Scutis guard streets, civic buildings, gates, rituals, statue ceremonies, government offices, and public gatherings. Over time, protection becomes visibility. They notice who attends, who hesitates, who speaks incorrectly, who avoids oaths, who receives visitors, and who appears too detached from public loyalty.
+
+Because of this, hiding non-Regulatus sympathy inside Vys becomes extremely difficult.
+
+Vys does not only punish disobedience. It makes loyalty performable, observable, and expected.
+
+### Virtuasti Fortress And Division Structure
+
+By Era Three, rebellion has moved beyond individual cities and become an independent faction. Lucrest remains the strongest rebel memory, and the roads between Vys and Lucrest become strategically important.
+
+The Virtuasti answer this by building a fortress city between Vys and Lucrest.
+
+The fortress is not only a defensive position. It is a training center, recruitment site, command base, and symbolic proof that the Virtuasti have become more than Varric Ilunis's original banner-force.
+
+Leadership remains tied to one branch of the Ilunis line.
+
+From this fortress, the Virtuasti divide into three main forces:
+
+- **Spatis** — offensive force used to pursue and destroy rebel groups.
+- **Scutis** — protective force assigned to defend cities, routes, civic centers, and Regulatus-aligned populations.
+- **Umbris** — assassins and spies used for infiltration, sabotage, intelligence, and the removal of hidden threats.
+
+This division matters because rebellion no longer has one face. Regulatus needs soldiers who can attack, guards who can protect, and shadows who can find what cannot be fought openly.
+
+The Virtuasti do not yet become human-augmented soldiers in this era, but this structure creates the military order that later makes augmentation possible.
+
+### Lux Aeterna
+
+During the Consolidation And Industrial Rise Era, a woman from Rutare's line founds Lux Aeterna, a religious charitable order carrying the Ventari name.
+
+Publicly, Lux Aeterna exists to help the poor: food, shelter, orphan care, burial rites, basic medical aid, and moral guidance.
+
+This gives Ventari a benevolent image.
+
+It also spreads control.
+
+The poor are not reached first by soldiers or courts, but by people offering bread, blankets, medicine, names, prayers, and protection. Families helped by Lux Aeterna become recorded, known, and morally indebted.
+
+To the desperate, the order means light.
+
+To Regulatus, it means visibility.
+
+Lux Aeterna does not replace Regulatus authority. It extends it into places official government cannot easily reach.
+
+Through the appearance of mercy, the Ventari web spreads deeper.
+
+As the Virtuasti become feared and honored, Lux Aeterna creates its own military branch under the justification of purifying lands and cities. The Virtuasti do not acknowledge Lux Aeterna as a true rival. They see themselves as the pride of the military and the force that enforces Regulatus where charity, courts, and speeches are too weak. Lux cares more about the comparison than Virtus does.
+
+### Gladiator Houses
+
+Gladiator Houses rise during the Consolidation And Industrial Rise Era as a side faction.
+
+They do not exist to rule cities or replace Regulatus. They exist because the ruling families need a controlled way to measure strength without open conflict, and the masses need spectacle to release pressure.
+
+Families sponsor fighters as public proof of wealth, discipline, training, and prestige. Arena victories become a safer substitute for direct house conflict.
+
+The Gladiator Houses remain useful to many powers. The Virtuasti watch them for recruits. Lux Aeterna tends to the wounded and poor around the arenas. Rebels use crowds, betting houses, and fighter networks to pass messages or infiltrate Regulatus-controlled spaces. Neutral traders profit from weapons, wagers, contracts, and sponsorships.
+
+Because of this, Gladiator Houses become a side faction: not loyal enough to be trusted, not rebellious enough to be destroyed, and too useful for every side to ignore.
+
+### Starting Class — Gladiator
+
+A Gladiator begins as a sponsored fighter tied to one of the Gladiator Houses.
+
+This class does not begin fully loyal to Regulatus, the Rebels, Lux Aeterna, or the Virtuasti. Instead, the Gladiator begins inside a side faction that all major powers use.
+
+The arenas turn violence into public order. Noble families sponsor champions to measure strength without open war. The masses receive spectacle. Regulatus receives controlled pressure. The Virtuasti scout exceptional fighters. Lux Aeterna tends the wounded and poor. Rebels use crowds and betting houses to pass messages.
+
+A Gladiator's starting pressure is simple:
+
+> their body has value because other people can use it.
+
+From there, a Gladiator can become a champion, recruit, rebel contact, protected asset, or escaped fighter depending on choices.
 
 ---
 
