@@ -18,13 +18,30 @@ YYYY-MM-DD_Artifact_Name/
 
 **Type:** Early concept / editorial synopsis / psychological sci-fi prototype  
 **Status:** Historical artifact  
-**Current Canon:** No  
+**Current Canon:** No
 
 ### Why Preserved
 
 This appears to be one of the earliest surviving ancestors of Fragments.
 
-It contains an early direct formulation of fragmented identity, recognition without understanding, continuity of consciousness, and the possibility that two apparently separate people may never have been truly separate.
+It explores fragmented identity directly through a psychological sci-fi premise involving two girls, technology, emotional sterility, and the possibility that they were never truly separate people.
+
+It contains an early direct formulation of fragmented identity, recognition before understanding, continuity of consciousness, and the possibility that two apparently separate people may never have been truly separate.
+
+### What Survived
+
+- fragmented identity
+- recognition before understanding
+- continuity of consciousness
+- emotional familiarity without explanation
+- self-recognition through another person
+- fear of losing the self
+
+### What Changed
+
+- The story later moved away from direct consciousness replacement as the central mechanism.
+- The relationship became less about a twist and more about emotional recognition before understanding.
+- The concept evolved from shared-consciousness explanation toward pattern-based continuity and residue.
 
 ### Historical Punch
 
@@ -38,7 +55,7 @@ The question did not.
 
 **Type:** Early structural concept / story-shaping attempt  
 **Status:** Historical artifact  
-**Current Canon:** No  
+**Current Canon:** No
 
 ### Why Preserved
 
@@ -62,7 +79,7 @@ This is where the idea started becoming a story instead of only a thought experi
 
 **Type:** Prototype / convergence imagery / ending-state exploration  
 **Status:** Historical artifact  
-**Current Canon:** No  
+**Current Canon:** No
 
 ### Why Preserved
 
@@ -80,7 +97,7 @@ The image survived long after its original explanation disappeared.
 
 **Type:** First large structure / story bible / concept consolidation  
 **Status:** Historical artifact  
-**Current Canon:** No  
+**Current Canon:** No
 
 ### Why Preserved
 
@@ -106,9 +123,9 @@ The story was largely discovered before the reasons it worked were understood.
 
 ## 2026-06-02 — Current Fragments Discoveries
 
-**Type:** Development notes / portfolio discoveries / narrative design reflection  
+**Type:** Development notes / portfolio discoveries / story structure reflection  
 **Status:** Current development record  
-**Current Canon:** Partially, as author-facing design notes  
+**Current Canon:** Partially, as author-facing development notes
 
 ### Why Preserved
 
