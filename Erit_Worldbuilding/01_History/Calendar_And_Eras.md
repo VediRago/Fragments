@@ -22,7 +22,7 @@ Development chain:
 
 > the world needed a calendar  
 > -> the calendar needed a founding wound  
-> -> the founding wound became the death of an important figure  
+> -> that founding wound became the death of an important figure  
 > -> that figure became Viriatus  
 > -> Viriatus is a displaced child found after a light falls from the heavens  
 > -> Servan find him before House Ventari takes control  
@@ -30,7 +30,7 @@ Development chain:
 > -> House Ventari teaches, trains, shapes, and uses him as an asset for control  
 > -> public displeasure with the old order lets Ventari discipline look like rescue  
 > -> Viriatus's victories make House Ventari look capable of creating order where old Rome failed  
-> -> Ecalus begins treating Viriatus like the son he wished he had  
+> -> Ecalus begins loving Viriatus during conquest, but that love becomes visible near death  
 > -> the Ventari siblings feel displaced by someone they do not see as blood  
 > -> after Ecalus dies, Viriatus becomes the obvious public figure for what comes next  
 > -> Ilunis kills Viriatus privately after Ermerus turns jealousy into duty  
@@ -142,6 +142,8 @@ Regulatus is what allows the empire to consolidate as a controllable order after
 ## Four Eras
 
 ### 01 — Founding Era
+
+Detailed summary: [Era One Summary — Founding Era And Year 0 AVD](../02_Founding_Era/Era_One_Summary.md)
 
 Dramatic function:
 
