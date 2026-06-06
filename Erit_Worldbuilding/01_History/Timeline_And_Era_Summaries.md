@@ -319,27 +319,57 @@ The next era inherits a world where Lucrest will be forced under Regulatus by co
 
 ---
 
-## Era Three — Devaar Rise Era
+## Era Three — Consolidation And Industrial Rise Era
 
 Status: not built yet.
 
-This era happens after a major time jump.
+This era happens after Era Two and before the medical/augmentation era.
 
-Teresta's line, once pushed out, returns through usefulness. Medicine, preservation, chips, augmentation, and bodily dependency become the path back into power.
+Lucrest falls under Regulatus by force.
 
-House Devaar forms or rises in this era.
+Arumis enters Regulatus by alliance after seeing Vys prepare to turn its army toward the city. This is not loyalty. It is preservation.
+
+By accepting Regulatus through alliance instead of conquest, Arumis protects its universities, metallurgy, port trade, mining knowledge, engineering, and internal networks.
+
+This era explains how Regulatus becomes a broader multi-city order while Arumis begins the power shift that later makes medicine, preservation, and augmentation possible.
+
+Core transformation:
+
+> Lucrest conquered by force -> Arumis allied by strategy -> Regulatus broadens -> knowledge and industry begin shifting power
 
 ---
 
-## Era Four — Erit Era
+## Era Four — Preservation And Augmentation Era
 
 Status: not built yet.
 
-This is the modern inherited world of Erit's branch.
+This era bridges Arumis's industrial and academic rise with the far-future cyberpunk world Erit inherits.
+
+Medicine, preservation, human augmentation, treatment access, identity systems, and bodily dependency become central.
+
+The Virtuasti evolve toward elite human-augmented soldiers during or before this era.
+
+House Devaar forms or rises through usefulness, preservation, and control over survival systems.
+
+Core transformation:
+
+> industrial knowledge -> medical preservation -> augmentation -> bodily dependency -> Devaar authority
+
+---
+
+## Era Five — Erit Era
+
+Status: not built yet.
+
+This is the far-future, cyberpunk-like inherited world of Erit's branch.
 
 By this era, House Devaar has major power through medicine, preservation, chips, augmentation, and treatment access.
 
-The old Ventari wounds survive through daily systems: identity, access, law, status, dependency, and control.
+The old Ventari wounds survive through daily systems: identity, access, law, status, dependency, augmentation, surveillance, and control.
+
+Core transformation:
+
+> old wounds -> inherited systems -> cyberpunk pressure -> lived identity control
 
 ---
 
@@ -347,4 +377,6 @@ The old Ventari wounds survive through daily systems: identity, access, law, sta
 
 Do not build all eras equally yet.
 
-The active focus is the Founding Era and the transition pressure that will create Era Two.
+The active focus is the Founding Era, the Fracture And Expansion Era, and the transition pressure that will create the Consolidation And Industrial Rise Era.
+
+The later eras exist to hold future consequences without forcing cyberpunk-era systems too early.
