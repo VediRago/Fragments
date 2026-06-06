@@ -38,12 +38,12 @@ The main question behind this part is:
 
 Start here if you want to read Fragments as a story, prose, and structure project.
 
-1. [What I Started Noticing About Story Structure](../05_Portfolio/00_Story_Structure_Starting_Idea.md)
-2. [Project Overview](../05_Portfolio/01_Project_Overview.md)
+1. [What I Started Noticing About Story Structure](Story_Structure_Starting_Idea.md)
+2. [Project Overview](Project_Overview.md)
 3. [Story and Worldbuilding Learning Notes](Story_And_Worldbuilding_Learning_Notes.md)
 4. [Selected Prose](Selected_Prose.md)
 5. [Development Process](Development_Process.md)
-6. [Current Storybuilding Approach](../05_Portfolio/05_Current_Storybuilding_Approach.md)
+6. [Current Storybuilding Approach](Current_Storybuilding_Approach.md)
 7. [About Me](About_Me.md)
 
 ---

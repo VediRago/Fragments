@@ -1,6 +1,6 @@
 # Erit Worldbuilding
 
-This folder is the doorway for the **Erit Worldbuilding** branch.
+This folder is the active project folder for the **Erit Worldbuilding** branch.
 
 Erit's world has grown into its own major project branch, separate from the main Fragments story files.
 
@@ -34,31 +34,37 @@ No important world detail should exist only because it sounds interesting.
 
 Every system should explain what pressure created it, who benefits, who is hurt, and why it survives.
 
-## Current Source Files
+## Start Here
 
-The Erit files still mostly live in the older structure while the repo is being reorganized.
+- `00_Common_Terms.md`
+- `00_Overview/Calendar_And_Eras.md`
+- `01_Displaced_Founder.md`
+- `02_Regulatus.md`
+- `01_History/00_Viriatus_Regulatus_Origin.md`
+- `01_Founding_Era/House_Ventari.md`
+- `01_Founding_Era/Ventari_Family/README.md`
 
-Use these current locations for now:
+## Founding Family
 
-- `01_Reference/Worlds/Erit_World/README.md`
-- `01_Reference/Worlds/Erit_World/00_Development_Diary.md`
-- `01_Reference/Worlds/Erit_World/00_Common_Terms.md`
-- `01_Reference/Worlds/Erit_World/00_Overview/Calendar_And_Eras.md`
-- `01_Reference/Worlds/Erit_World/01_Displaced_Founder.md`
-- `01_Reference/Worlds/Erit_World/01_History/`
-- `01_Reference/Worlds/Erit_World/01_Founding_Era/`
-- `01_Reference/Worlds/Erit_World/02_Regulatus.md`
-- `01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md`
-- `01_Reference/Worlds/Erit_World/09_NPC_System_Relationship_Model.md`
+- `01_Founding_Era/Ventari_Family/Ermerus_Ventari.md`
+- `01_Founding_Era/Ventari_Family/Rutare_Ventari.md`
+- `01_Founding_Era/Ventari_Family/Ilunis_Ventari.md`
+- `01_Founding_Era/Ventari_Family/Teresta_Ventari.md`
+
+## NPC And Quest Logic
+
+- `08_NPC_Emotional_State_Model.md`
+- `09_NPC_System_Relationship_Model.md`
+- `05_Quest_Example_Chip_Removal.md`
 
 ## Best Public Sample
 
 The public-facing summary is here:
 
-- `05_Portfolio/07_Erit_Worldbuilding_Case_Study.md`
+- `../Portfolio/Erit_Worldbuilding_Case_Study.md`
 
-## Rule
+## Migration Note
 
-Do not move Erit files here until links and references are checked.
+The old files still exist under `01_Reference/Worlds/Erit_World/` until the safety pass is complete.
 
-For now, this folder is a clean project doorway so Erit Worldbuilding is visible as its own branch.
+Do not delete old paths until links and references are checked.
