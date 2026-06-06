@@ -16,6 +16,9 @@ The original combined diary remains here:
 2. [2026-06-05](2026-06-05.md)  
    Tightens the foundation. Locks House Ventari, clarifies Viriatus, develops House Devaar direction, creates the NPC system relationship model, and defines next priorities.
 
+3. [2026-06-06](2026-06-06.md)  
+   Records the repository structure update: portfolio case study, folder guide, separated diary entries, and the new era structure for Erit's world.
+
 ## Diary Purpose
 
 Each diary entry should record:
