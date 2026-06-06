@@ -23,13 +23,25 @@ Recommended reading order:
 5. [Selected Prose](05_Portfolio/03_Selected_Prose.md)
 6. [Development Process](05_Portfolio/04_Development_Process.md)
 
+## Development Diary
+
+If you want to see how the worldbuilding process develops step by step, read:
+
+[Erit World — Development Diary](01_Reference/Worlds/Erit_World/00_Development_Diary.md)
+
+This file is not a lore encyclopedia. It shows the design trail behind Erit's world: what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
+
+It is the clearest place to see the project method in action:
+
+> story pressure -> emotional cause -> behavior -> system -> world pressure -> possible quest or character consequence
+
 ## Repository Structure
 
 - `05_Portfolio/` — the best entry point for readers, recruiters, and collaborators
 - `04_Prose/` — selected prose scenes and excerpts
 - `03_Acts/` — act structure and story progression
 - `02_Characters/` — character reference files
-- `01_Reference/` — deeper internal notes, systems, bridges, and Unity material
+- `01_Reference/` — deeper internal notes, systems, bridges, worldbuilding, and Unity material
 - `00_Project/` — project-level planning and overview material
 - `95_Portfolio_Assets/` — exported documents and supporting assets
 
