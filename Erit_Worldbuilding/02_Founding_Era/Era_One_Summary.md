@@ -66,6 +66,16 @@ Servans working under House Ventari see a light appear in front of them.
 
 Then a child appears.
 
+Servans are servants of the house.
+
+They are not a separate people, ethnicity, faction, or rival institution.
+
+Their importance comes from their position inside House Ventari's private world:
+
+- close enough to see what elites hide
+- low-status enough to be disbelieved, blamed, punished, or removed
+- dependent enough that their testimony can be controlled by the house that employs them
+
 They take the child to Ecalus and say he fell from the heavens.
 
 Ecalus first thinks they are mocking him.
@@ -84,11 +94,20 @@ So Ecalus chooses control through shelter instead of open cruelty.
 
 ---
 
-## First Erasure
+## First Servan Erasure
 
 The Servans are dangerous because they know the true origin.
 
-If their version spreads, Viriatus could become divine, public, contested, or claimed by rival houses, priests, soldiers, or the people.
+If their version spreads, Viriatus could become:
+
+- divine
+- public
+- contested
+- claimed by rival houses
+- claimed by priests
+- claimed by soldiers
+- claimed by the people
+- impossible for House Ventari to keep uncontested
 
 House Ventari would lose control over his meaning.
 
@@ -330,6 +349,10 @@ This accusation explains confusion around the mourning period through a lower-st
 
 It also removes people who could contradict the family-controlled version of events.
 
+Even if every Servan does not see the blade itself, their presence threatens the clean version House Ventari needs.
+
+Their testimony could show that Viriatus died during family mourning, not in war.
+
 The Servans are killed.
 
 This repeats the origin pattern.
@@ -337,6 +360,12 @@ This repeats the origin pattern.
 At Viriatus's arrival, Servans see the truth first and are erased so House Ventari can control his origin.
 
 At Viriatus's death, Servans again become disposable so House Ventari can control his meaning.
+
+The Servan accusation does not become the main heroic public story.
+
+It functions as internal cover.
+
+It gives guards and household enforcers a reason to remove witnesses before the public story fully hardens.
 
 ---
 
@@ -455,25 +484,25 @@ Era Two begins from this irony:
 > -> Viriatus becomes the obvious living center of what comes next  
 > -> Ermerus turns Ilunis's wound into family duty  
 > -> Ilunis murders Viriatus privately  
-> -> Servan witnesses are blamed and killed  
-> -> public story becomes noble death in war  
-> -> Ermerus declares Regulatus  
-> -> Year 0 AVD begins  
-> -> Era Two inherits Regulatus, the official story, and the unstable bloodline that created both
+> -> Servan witnesses are blamed and erased  
+> -> Ermerus turns Viriatus's death into noble public sacrifice  
+> -> Regulatus is declared  
+> -> Year 0 AVD begins
 
 ---
 
 ## Consistency Notes
 
-- Viriatus's origin is hidden.
-- House Ventari does not publicly reveal that origin.
-- Publicly, Viriatus is framed as trained, taught, disciplined, and shaped by House Ventari.
-- Viriatus conquers under Ventari control.
+- Servans are servants of the house.
+- Servans are not a separate people, ethnicity, faction, or rival institution.
+- Servans find Viriatus first after seeing the light.
+- Ecalus first thinks they are mocking him.
+- Viriatus injures a guard while protecting the Servans from visible punishment.
+- Ecalus removes the Servans quietly because their testimony threatens Ventari control and because Viriatus must not see the people who first protected him killed.
+- Viriatus is never told that the Servans were erased.
+- House Ventari does not publicly reveal Viriatus's origin.
+- Publicly, Viriatus is framed as someone House Ventari formed.
+- Ecalus begins loving Viriatus during conquest, but that love becomes visible near death.
 - Viriatus does not create Regulatus.
-- Ecalus starts the plot but dies before personally creating the final order.
-- Ecalus begins loving Viriatus during conquest, but the love becomes visible near death.
-- Ilunis kills Viriatus privately after Ecalus dies.
-- Ermerus controls the aftermath and declares Regulatus.
-- Year 0 AVD begins when Regulatus is declared, not when Viriatus privately dies.
-- The public story is noble death in war.
-- The private truth is murder during family mourning.
+- Ermerus turns Viriatus's death into Regulatus.
+- AVD begins when Regulatus is declared, not when the private murder occurs.
