@@ -19,15 +19,18 @@ I am using the project to test:
 
 The strongest current material is the worldbuilding and systems work around Erit's world.
 
+The first worldbuilding challenge was practical: I needed a calendar and timeline for Erit's eras. That question led back to the emperor statue already inside the prose, and from there Viriatus, Regulatus, House Ventari, and the later world systems began to form.
+
 Recommended reading order:
 
 1. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
-2. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
-3. [Erit Worldbuilding README](Erit_Worldbuilding/README.md)
-4. [Viriatus and Regulatus Origin](Erit_Worldbuilding/01_History/00_Viriatus_Regulatus_Origin.md)
-5. [Regulatus](Erit_Worldbuilding/01_History/02_Regulatus.md)
-6. [House Ventari](Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)
-7. [NPC Emotional State Model](Erit_Worldbuilding/04_NPC_Systems/NPC_Emotional_State_Model.md)
+2. [Calendar and Eras](Erit_Worldbuilding/01_History/Calendar_And_Eras.md)
+3. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
+4. [Erit Worldbuilding README](Erit_Worldbuilding/README.md)
+5. [Viriatus and Regulatus Origin](Erit_Worldbuilding/01_History/00_Viriatus_Regulatus_Origin.md)
+6. [Regulatus](Erit_Worldbuilding/01_History/02_Regulatus.md)
+7. [House Ventari](Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)
+8. [NPC Emotional State Model](Erit_Worldbuilding/04_NPC_Systems/NPC_Emotional_State_Model.md)
 
 For a shorter public-facing overview, use the portfolio route:
 
