@@ -84,7 +84,7 @@ The current direction is that this figure becomes known as **Viriatus**.
 
 His true origin is hidden by the family that takes him in. If the news spread that a child fell from the heavens, other houses, priests, generals, and senators would fight to possess him. Because of that, the family treats the truth as a liability.
 
-The foundation comes from what happens because he exists. Servan witness the light fall and find him afterward. The family realizes the child is impossible and dangerous to reveal. The witnesses become a liability because their story could start conflicts over possession of the child. The child is hidden, trained, educated, reshaped, and used. His enhanced survival response becomes useful to that family in war and power-building. Rome teaches him hierarchy, language, family, household, love, and legacy. His origin wound makes family, children, blood, memory, and continuation emotionally important. He cannot create his own bloodline, so the dynastic lines come from the family that used him. After his death, his image remains useful while his agency is gone.
+The foundation comes from what happens because he exists. Servan witness the light fall and find him afterward. The family realizes the child has power and an origin the old order cannot explain. The witnesses become a liability because their story could start conflicts over possession of the child. The child is hidden, taught, trained, shaped, and used. His enhanced survival response becomes useful to that family in war and power-building. Rome teaches him hierarchy, language, family, household, love, and legacy. His origin wound makes family, children, blood, memory, and continuation emotionally important. He cannot create his own bloodline, so the dynastic lines come from the family that used him. After his death, his image remains useful while his agency is gone.
 
 He becomes the historical hinge because he is the first stone: Rome changes around his displacement, body, usefulness, betrayal, and preservation as a symbol.
 
@@ -140,7 +140,9 @@ The constraint I found useful is this:
 
 Worldbuilding should create pressure before any quest or scene begins.
 
-For Erit's world, the current major systems include a Roman-derived civilization shaped by Viriatus and the family that used him; four founding lines named Ermerus, Rutare, Ilunis, and Teresta; Regulatus as a method of pride, identity, order, and emotional control; Rutare shaping government, records, procedure, and civic administration; Ilunis shaping law, judgment, military authority, and sanctioned violence; Ermerus shaping legitimacy, reputation, public memory, diplomacy, and narrative control; and Teresta leading toward medicine, augmentation, chips, bodily identification, and the Devaar family.
+For Erit's world, the current major systems include a Roman-derived civilization created after House Ventari uses Viriatus's presence, victories, image, and stolen death to replace the old order with Regulatus. Viriatus does not knowingly create that political system. House Ventari builds it from what he becomes to them and to the public.
+
+The world also includes four founding lines named Ermerus, Rutare, Ilunis, and Teresta; Regulatus as a method of pride, identity, order, and emotional control; Rutare's line shaping government, records, procedure, and civic administration; Ilunis's line shaping law, judgment, military authority, and sanctioned violence; Ermerus's line shaping legitimacy, reputation, public memory, diplomacy, and narrative control; and Teresta's line leading toward medicine, augmentation, chips, bodily identification, and the Devaar family.
 
 Those systems also touch citizenship, identification status, augmentation access, medical authority, gladiator spectacle, and rebels who see stable order as control rather than freedom.
 
@@ -160,7 +162,7 @@ The four founding lines are not political departments first.
 
 They are human imbalances that harden into dynastic systems.
 
-Rutare's pressure and protection become government through procedure. Ilunis's usefulness and violence become law, judgment, and punishment. Teresta's distance and rejection become medicine, augmentation, and bodily control. Ermerus's freedom without discipline becomes charm, legitimacy conflict, and narrative control.
+Rutare's pressure, protection, guilt, and fear of uselessness become government through procedure. Ilunis's overuse, maiming, jealousy, and duty become law, judgment, punishment, and force. Teresta's rejection, distance, study, and need to prove continuity become medicine, preservation, augmentation, and bodily control. Ermerus's freedom without discipline becomes charm, interpretation, legitimacy conflict, and control through meaning.
 
 This same logic applies to NPCs.
 
