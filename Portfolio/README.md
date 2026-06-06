@@ -1,33 +1,72 @@
 # Portfolio
 
-This folder is the doorway for public-facing portfolio material.
+This is the best public starting point for reviewing **Fragments**.
 
-The portfolio branch is for clean summaries, selected samples, and learning-process notes.
+The project is early and self-taught. I started it on **20/05/2026** while working full-time outside the games industry.
 
-It should help a reader understand the project without needing to open every working file.
+This portfolio is not meant to present finished professional work.
 
-## Current Source Files
+It is meant to show:
 
-The portfolio files still live in the older structure while the repo is being reorganized.
+- what I am trying to understand
+- how I test story and worldbuilding ideas
+- how I connect character, history, pressure, and consequence
+- how the project changed through questioning and revision
 
-Use this current location for now:
+## Recommended Reading Path
 
-- `05_Portfolio/README.md`
+Read these first. They are the clean public route.
 
-Recommended public reading path:
+1. [Main Repository README](../README.md)
+2. [Current Portfolio Index](../05_Portfolio/README.md)
+3. [Erit Worldbuilding Case Study](../05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
+4. [Story and Worldbuilding Learning Notes](../05_Portfolio/02_Story_And_Worldbuilding_Learning_Notes.md)
+5. [Selected Prose](../05_Portfolio/03_Selected_Prose.md)
+6. [Development Process](../05_Portfolio/04_Development_Process.md)
+7. [About Me](../05_Portfolio/06_About_Me.md)
 
-1. `README.md`
-2. `05_Portfolio/README.md`
-3. `05_Portfolio/07_Erit_Worldbuilding_Case_Study.md`
-4. `05_Portfolio/02_Story_And_Worldbuilding_Learning_Notes.md`
-5. `05_Portfolio/03_Selected_Prose.md`
-6. `05_Portfolio/04_Development_Process.md`
-7. `05_Portfolio/06_About_Me.md`
+## Project Branches
 
-## Rule
+The repo is being separated into two connected branches.
 
-Portfolio files should be clear, honest, and public-facing.
+### Fragments Story
 
-They should not pretend the project is finished or professional work.
+[Fragments Story](../Fragments_Story/README.md)
 
-They should explain what is being tested, what is being learned, and where to read next.
+This branch is for the main story: characters, prose, acts, Unity, emotional payoff, and reader perception.
+
+### Erit Worldbuilding
+
+[Erit Worldbuilding](../Erit_Worldbuilding/README.md)
+
+This branch is for the worldbuilding: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, and the world Erit inherits.
+
+## Strongest Current Sample
+
+The strongest current public-facing sample is:
+
+[Erit Worldbuilding Case Study](../05_Portfolio/07_Erit_Worldbuilding_Case_Study.md)
+
+It shows how one small story detail, an emperor statue, started turning into a founder, propaganda system, calendar, family history, ideology, NPC model, and quest pressure.
+
+## What To Expect
+
+Some deeper files are working notes, not polished presentation.
+
+The public route above is the intended review path.
+
+The deeper folders exist to preserve the development trail and keep the causal logic clear.
+
+## Core Rule
+
+The repo follows this clarity rule:
+
+[Canon Clarity Rules](../00_Project/00_Canon_Clarity_Rules.md)
+
+Every important worldbuilding or character claim should explain the why:
+
+> experience -> emotion -> reason -> behavior -> consequence
+
+Ambiguity can exist inside the world as propaganda, myth, or disputed history.
+
+The project notes should not be ambiguous by accident.
