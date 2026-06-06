@@ -35,8 +35,6 @@ The worldbuilding branch: Viriatus, House Ventari, Regulatus, founding families,
 
 The public-facing branch: clean summaries, selected samples, and learning-process notes.
 
-The older source files still exist in their current folders while the repo is being reorganized. The new top-level folders are becoming the active public routes.
-
 ## Start Here
 
 For a quick public overview, begin with the portfolio route:
@@ -78,16 +76,9 @@ The repo-wide clarity rule is here:
 
 ## Repository Structure
 
-- `Fragments_Story/` — doorway for the main story branch
-- `Erit_Worldbuilding/` — doorway for the Erit worldbuilding branch
-- `Portfolio/` — active public-facing route
-- `05_Portfolio/` — older portfolio source files, kept temporarily during migration
-- `04_Prose/` — selected prose scenes and excerpts
-- `03_Acts/` — act structure and story progression
-- `02_Characters/` — character reference files
-- `01_Reference/` — deeper internal notes, systems, bridges, worldbuilding, and Unity material
-- `00_Project/` — project-level planning, rules, and overview material
-- `95_Portfolio_Assets/` — exported documents and supporting assets
+- `Portfolio/` — public-facing route with the overview, samples, case study, and process notes.
+- `Fragments_Story/` — main story branch with project foundation, development history, characters, acts, prose, bridges, cosmology, and reference material.
+- `Erit_Worldbuilding/` — worldbuilding branch for Viriatus, House Ventari, Regulatus, method notes, systems, quests, and the world Erit inherits.
 
 ## Note On AI Use
 
