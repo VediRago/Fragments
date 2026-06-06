@@ -192,9 +192,9 @@ It would expose that the new order began with siblings killing the adopted son t
 
 Ermerus protects House Ventari by creating a false direction for blame.
 
-He convinces the guards that the Civel stole jewelry during the mourning period.
+He convinces the guards that the Servan witnesses stole jewelry during the mourning period.
 
-The Civel are killed.
+The Servan witnesses are killed.
 
 This removes witnesses and gives people a simpler explanation for the confusion around the mourning period.
 
