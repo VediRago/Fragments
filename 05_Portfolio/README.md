@@ -40,7 +40,7 @@ Start here if you want to read Fragments as a story, prose, and structure projec
 
 1. [What I Started Noticing About Story Structure](00_Narrative_Design_Thesis.md)
 2. [Project Overview](01_Project_Overview.md)
-3. [Narrative Design Learning Notes](02_Narrative_Design_Case_Studies.md)
+3. [Story and Worldbuilding Learning Notes](02_Story_And_Worldbuilding_Learning_Notes.md)
 4. [Selected Prose](03_Selected_Prose.md)
 5. [Development Process](04_Development_Process.md)
 6. [Narrative Design Approach I Am Testing](05_Narrative_Design_Approach.md)
