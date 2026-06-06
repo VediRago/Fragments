@@ -22,7 +22,7 @@ I did not start with theory. I started with scenes, feelings, and questions, the
 
 That is why these files are written as observations instead of rules.
 
-They are not meant to say I already know narrative design.
+They are not meant to say I already know how games are made professionally.
 
 They are meant to show what I am noticing while trying to learn.
 
@@ -77,37 +77,40 @@ Start here if you want to see what I am testing with the worldbuilding.
 1. [Erit Worldbuilding Case Study](Erit_Worldbuilding_Case_Study.md)  
    A cleaned-up sample showing how one statue started turning into a founder, calendar, ideology, dynasty structure, NPC model, and quest pressure.
 
-### World Logic
+### Erit Worldbuilding Branch
 
-2. [Worldbuilding Method](../01_Reference/Worlds/00_Worldbuilding_Method.md)  
+2. [Erit Worldbuilding README](../Erit_Worldbuilding/README.md)  
+   The active Erit branch doorway.
+
+3. [Worldbuilding Method](../Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)  
    Explains the method I am testing: starting from story pressure, then building systems underneath it.
 
-3. [Three Rules — Treasure Map, Key, Treasure](../01_Reference/Worlds/03_Rules.md)  
+4. [Three Rules — Treasure Map, Key, Treasure](../Erit_Worldbuilding/00_Method/Rules.md)  
    Explains a pattern I noticed: details can be noticed first, understood later, and paid off emotionally.
 
-4. [Displaced Founder](../01_Reference/Worlds/Erit_World/01_Displaced_Founder.md)  
+5. [Displaced Founder](../Erit_Worldbuilding/01_Displaced_Founder.md)  
    Defines Viriatus as the displaced child who becomes the first stone of Erit's world.
 
-5. [Regulatus](../01_Reference/Worlds/Erit_World/02_Regulatus.md)  
+6. [Regulatus](../Erit_Worldbuilding/01_History/02_Regulatus.md)  
    Shows early thinking about belief, pride, order, gratitude, usefulness, loyalty, and discipline.
 
 ### Findings
 
-6. [Erit World Development Diary](../01_Reference/Worlds/Erit_World/00_Development_Diary.md)  
+7. [Erit World Development Diary](../Erit_Worldbuilding/00_Development_Diary.md)  
    Shows what was built, what questions appeared, what connected to other pieces, and what had to stay limited.
 
-7. [House Ventari — Founding Era](../01_Reference/Worlds/Erit_World/01_Founding_Era/House_Ventari.md)  
-   Tests how House Ventari uses public displeasure, Viriatus, and Regulatus to transform the old order.
+8. [House Ventari — Founding Era](../Erit_Worldbuilding/02_Founding_Era/House_Ventari.md)  
+   Tests how House Ventari uses public displeasure, Viriatus, and Regulatus to replace the old order.
 
-8. [Ventari Family — Founding Era](../01_Reference/Worlds/Erit_World/01_Founding_Era/Ventari_Family/README.md)  
+9. [Ventari Family — Founding Era](../Erit_Worldbuilding/02_Founding_Era/Ventari_Family/README.md)  
    Tests the founding siblings as emotional causes that later become historical pressure.
 
-9. [NPC Emotional State Model](../01_Reference/Worlds/Erit_World/08_NPC_Emotional_State_Model.md)  
+10. [NPC Emotional State Model](../Erit_Worldbuilding/05_Systems/NPC_Emotional_State_Model.md)  
    Shows early thinking about how people may speak, react, obey, resist, or justify what they do based on pressure and emotional history.
 
 ### Quest Examples
 
-10. [Quest Example — Chip Removal](../01_Reference/Worlds/Erit_World/05_Quest_Example_Chip_Removal.md)  
+11. [Quest Example — Chip Removal](../Erit_Worldbuilding/05_Systems/Quest_Example_Chip_Removal.md)  
    Tests how a playable problem might appear after the world pressure already exists.
 
 ---
