@@ -61,7 +61,7 @@ The deeper folders exist to preserve the development trail and keep the causal l
 
 The repo follows this clarity rule:
 
-[Canon Clarity Rules](../00_Project/00_Canon_Clarity_Rules.md)
+[Canon Clarity Rules](../Erit_Worldbuilding/00_Method/Canon_Clarity_Rules.md)
 
 Every important worldbuilding or character claim should explain the why:
 

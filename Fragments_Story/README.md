@@ -2,35 +2,38 @@
 
 This folder is the doorway for the main **Fragments** story branch.
 
-It is for:
-
-- main story structure
-- character arcs
-- prose
-- acts
-- Unity
-- bridges between scenes, reveals, and emotional payoff
+It is for story structure, character arcs, prose, acts, Unity, bridges between scenes, reveals, and emotional payoff.
 
 The story branch should answer:
 
 > How do Sera, Kael, the parents, and the larger Fragments structure create meaning through experience, perception, loss, and recognition?
 
-## Current Source Files
+## Story Areas
 
-The main story files still mostly live in the older structure while the repo is being reorganized.
+- `00_Project/` — project foundation and current story framing.
+- `01_Development_History/` — draft history, early versions, and source artifacts.
+- `02_Characters/` — character files and emotional arcs.
+- `03_Acts/` — act structure and story progression.
+- `04_Prose/` — prose scenes and excerpts.
+- `05_Reference/` — deeper bridge, Unity, cosmology, perception, and pattern notes.
 
-Use these current locations for now:
+## Reference Areas
 
-- `02_Characters/`
-- `03_Acts/`
-- `04_Prose/`
-- `01_Reference/91_Unity_Explained.md`
-- `01_Reference/92_Bridges/`
-- `92_Bridges/`
-- `93_Patterns/`
+Use these files for deeper story logic:
+
+- `05_Reference/00_Bridge_Index.md`
+- `05_Reference/01_Act_Emotional_Map.md`
+- `05_Reference/03_Visual_Motif_Bridges.md`
+- `05_Reference/05_Misdirection_Bridges.md`
+- `05_Reference/90_Cosmology.md`
+- `05_Reference/91_Unity_Explained.md`
+- `05_Reference/People_Before_System.md`
+- `05_Reference/Luck_vs_Outcome.md`
 
 ## Rule
 
-Do not move story files here until links and references are checked.
+Keep this branch focused on the main Fragments story.
 
-For now, this folder is a clean project doorway so Fragments Story is separated from Erit Worldbuilding.
+Worldbuilding files for Erit belong in `../Erit_Worldbuilding/`.
+
+Canon clarity rules live in `../Erit_Worldbuilding/00_Method/Canon_Clarity_Rules.md`.
