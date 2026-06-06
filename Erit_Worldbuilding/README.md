@@ -42,6 +42,7 @@ Every system should explain what pressure created it, who benefits, who is hurt,
 - `01_Displaced_Founder.md`
 - `02_Regulatus.md`
 - `01_History/00_Viriatus_Regulatus_Origin.md`
+- `01_History/01_Viriatus_Chronology.md`
 - `01_Founding_Era/House_Ventari.md`
 - `01_Founding_Era/Ventari_Family/README.md`
 
