@@ -209,11 +209,11 @@ This is history because the atmosphere becomes calendar, record, doctrine, and i
 
 Use this only when turning existing world pressure into a playable situation:
 
-> world pressure -> character need -> obstacle -> possible approaches -> consequence
+> world pressure -> experience -> emotion -> reason -> behavior -> playable problem -> possible approaches -> consequence -> layer update
 
-This is not the core creation method.
+This is not a separate creation method.
 
-It is an output.
+It is the core method extended into gameplay output.
 
 It should only be used after the world already contains pressure.
 
@@ -221,25 +221,57 @@ Quest logic should not be forced into background creation.
 
 A quest becomes strong when it feels like the playable expression of history, not an errand placed on top of lore.
 
+World pressure creates the situation.
+
+Experience is how that pressure is lived by a person, group, place, or institution.
+
+Emotion is what that lived pressure produces internally.
+
+Reason is the belief, justification, wound, or logic that forms from that emotion.
+
+Behavior is what the person, group, or institution repeatedly does because of that reason.
+
+Playable problem appears when that behavior creates a situation the player can interact with.
+
+Possible approaches are the authored ways the player can engage the problem.
+
+Consequence is what happens because of the player's action.
+
+Layer update shows whether the result reinforces, weakens, or shifts a local layer or future pressure.
+
+The consequence should update the world layer, not automatically rewrite the active quest.
+
 ---
 
 ## Example — Chip Removal Quest
 
-The chip removal quest should not begin with the core method.
+The chip removal quest should not begin by inventing an objective first.
 
-It begins after the world already has pressure.
+It begins after the world already has pressure, and then follows the same cause-and-effect method into gameplay.
 
 World pressure:
 
 > chips are tied to identification, medicine, records, surveillance, belonging, and the Teresta-to-Devaar path of bodily control.
 
-Character need:
+Experience:
 
-> someone wants to join the rebels but cannot remain visible to the system.
+> someone who wants to join the rebels cannot remain visible to the system because the chip still ties their body to identity, treatment, records, and surveillance.
 
-Obstacle:
+Emotion:
 
-> removing the chip requires illegal clinic access, medical skill, tools, codes, or a doctor willing to risk status and punishment.
+> fear of being found, shame at still depending on the system, urgency, distrust, and the desire to disappear without dying.
+
+Reason:
+
+> as long as the chip remains, the system still owns part of the body; removal becomes the price of freedom, even if it is dangerous.
+
+Behavior:
+
+> they seek illegal help, hide from official clinics, lie about symptoms, avoid scans, and pressure others to take risks.
+
+Playable problem:
+
+> chip removal is illegal, medically dangerous, and socially threatening because identity, treatment, and surveillance are tied to the body.
 
 Possible approaches:
 
@@ -248,6 +280,10 @@ Possible approaches:
 Consequence:
 
 > security response, medical access lost, trust gained, doctor harmed, clinic closed, rebel suspicion changed, or future treatment blocked.
+
+Layer update:
+
+> the outcome reinforces, weakens, or shifts local trust in Devaar medicine, rebel access to treatment, clinic surveillance, or district fear.
 
 This quest works because everything before it already exists:
 
@@ -277,7 +313,7 @@ The method grows by depth:
    > experience -> emotion -> reason -> behavior -> atmosphere -> history
 
 4. Quest / gameplay output  
-   > world pressure -> character need -> obstacle -> possible approaches -> consequence
+   > world pressure -> experience -> emotion -> reason -> behavior -> playable problem -> possible approaches -> consequence -> layer update
 
 A meaningful NPC in a quest may carry all previous layers plus quest logic.
 
@@ -287,7 +323,7 @@ A city usually needs atmosphere.
 
 A civilization-defining system usually needs history.
 
-A playable quest needs world pressure and consequence.
+A playable quest needs world pressure, a playable problem, consequence, and a layer update.
 
 ---
 
@@ -327,7 +363,7 @@ That clinic exists because Teresta's line and later House Devaar turned medicine
 
 Quest output:
 
-> world pressure -> character need -> obstacle -> possible approaches -> consequence
+> world pressure -> experience -> emotion -> reason -> behavior -> playable problem -> possible approaches -> consequence -> layer update
 
 The player needs illegal chip removal.
 
