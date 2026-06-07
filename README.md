@@ -70,11 +70,11 @@ flowchart TD
     I --> J
     J --> K
     K -. may affect future .-> A
-    K -. may affect future .-> F
-    K -. may affect future .-> G
+    A -. shapes future .-> F
+    F -. changes .-> G
 ```
 
-This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, reason creates behavior, and repeated behavior creates atmosphere. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers, affecting future behavior or atmosphere.
+This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, reason creates behavior, and repeated behavior creates atmosphere. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers. Changed layers can shape future behavior, and changed behavior can affect atmosphere.
 
 Full document:
 
