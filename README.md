@@ -16,18 +16,13 @@ Through this project, I am testing:
 - whether world pressure can lead toward quests, conflicts, and consequences
 - whether a layer-based method can help NPCs, districts, factions, and quests react without breaking immersion
 
-## Start Here
+## What This Repository Shows
 
-Recommended reading order:
+This repository is not meant to show a finished game.
 
-1. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)
-2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
-3. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
-4. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
-5. [Story Structure / Starting Idea](Portfolio/Development_Process.md)
-6. [Portfolio Overview](Portfolio/README.md)
+It is meant to show how I am learning to build connected worldbuilding, character logic, NPC behavior, atmosphere, and quest structure.
 
-The method examples are the strongest first click because they show how the current process was discovered, tested, and applied across foundation history, factions, layers, NPCs, and quests. The case study shows a shorter public-facing example. The method file shows the hierarchy behind the process. The diary shows the fuller working trail behind the case study and method. The story-structure file shows how Fragments began from images, scenes, and feelings before the larger architecture existed.
+The strongest part of the project right now is the Erit worldbuilding branch, where I am testing whether world pressure can create believable factions, NPCs, quests, and consequences instead of treating them as separate pieces.
 
 ## Current Method Finding
 
@@ -75,6 +70,19 @@ This simplified loop shows the tested method: pressure creates experience, exper
 Full document:
 
 [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)
+
+## Start Here
+
+Recommended reading order:
+
+1. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)
+2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
+3. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
+4. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
+5. [Story Structure / Starting Idea](Portfolio/Development_Process.md)
+6. [Portfolio Overview](Portfolio/README.md)
+
+The method examples are the strongest first click because they show how the current process was discovered, tested, and applied across foundation history, factions, layers, NPCs, and quests. The case study shows a shorter public-facing example. The method file shows the hierarchy behind the process. The diary shows the fuller working trail behind the case study and method. The story-structure file shows how Fragments began from images, scenes, and feelings before the larger architecture existed.
 
 ## Project Branches
 
