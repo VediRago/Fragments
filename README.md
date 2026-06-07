@@ -78,8 +78,8 @@ Recommended reading order:
 1. [Method Summary](Portfolio/Summaries/Method_Summary.md)  
    Short version of the pressure / layer / NPC / quest method.
 
-2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)  
-   Portfolio-facing overview of the Erit worldbuilding branch.
+2. [Erit Worldbuilding Summary](Portfolio/Summaries/Erit_Worldbuilding_Summary.md)  
+   Short version of how the Erit worldbuilding branch grew from the calendar problem, Viriatus, House Ventari, and AVD.
 
 3. [Current Storybuilding Approach](Portfolio/Current_Storybuilding_Approach.md)  
    Short explanation of clues, repeated details, reveals, and payoff.
@@ -87,10 +87,13 @@ Recommended reading order:
 4. [Development Process](Portfolio/Development_Process.md)  
    How I am organizing the project and tracking decisions.
 
-5. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)  
+5. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)  
+   Full case-study version of the Erit worldbuilding branch.
+
+6. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)  
    Full working document with examples, tests, and current conclusions.
 
-6. [Development Diary](Erit_Worldbuilding/00_Development/Diary_Method_Validation.md)  
+7. [Development Diary](Erit_Worldbuilding/00_Development/Diary_Method_Validation.md)  
    Rawer notes showing how the method evolved during testing.
 
 The first links are shorter summaries. The full method file and diary are there for anyone who wants to see the working trail behind the summaries.
