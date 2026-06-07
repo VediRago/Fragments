@@ -2,8 +2,9 @@
 
 I'm Diogo Oliveira. I currently work full-time in glass manufacturing, and I am building **Fragments** outside of work as a hobby project.
 
-This project is very early. I started it on **20/05/2026**, so the material here represents roughly **15 days of learning, testing, writing, and restructuring**.
-
+This project is very early. I started it on **20/05/2026**
+The Worldbuilding started **05/06/2026**
+The Method for NPC and Quests **07/06/2026**
 I am not presenting this as finished professional game development work.
 
 I am presenting it as a record of what I am trying to understand:
