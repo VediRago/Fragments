@@ -67,9 +67,7 @@ flowchart TD
 
 This simplified loop shows the current test model: pressure creates experience, experience creates emotion, emotion creates reason, and reason creates behavior. Atmosphere was added later after testing showed that repeated behavior could make the world feel coherent. Quests can create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers as outcomes. Layer outcomes can shape future behavior, and changed behavior can affect future atmosphere.
 
-Full document:
-
-[Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)
+For a shorter version, start with the Method Summary below. The full method document is linked from there.
 
 ## Start Here
 
