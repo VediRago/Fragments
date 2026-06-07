@@ -20,11 +20,11 @@ Through this project, I am testing:
 
 This is not a finished game.
 
-Right now, I am using this repo to track how I build connected worldbuilding, character logic, NPC behavior, atmosphere, and quest structure.
+I am using this repo to track how I build connected worldbuilding, character logic, NPC behavior, atmosphere, and quest structure.
 
-What I am focused on right now is the Erit worldbuilding branch, where I am testing whether world pressure can create believable factions, NPCs, quests, and consequences instead of treating them as separate pieces.
+My current focus is the Erit worldbuilding branch, where I am testing whether world pressure can create factions, NPCs, quests, and consequences that feel connected instead of separate.
 
-## Current Working Method
+## Current Method
 
 While building Erit's world, I started writing down a method for connecting worldbuilding, factions, NPCs, atmosphere, and quests through cause and consequence.
 
@@ -38,11 +38,9 @@ Later testing added **Atmosphere** as the result of repeated behavior:
 
 After that, I added **Layers** to explain why different cities, factions, districts, or NPCs can experience similar pressure but react differently.
 
-For quests, the test expanded into:
+For quests, the method is being tested like this:
 
 > Starting Layer → Pressure → Experience → Emotion → Reason → Behavior → Atmosphere → Quest Logic → Player Choice → Consequence → Possible Layer Outcome
-
-The main finding so far is that behavior and atmosphere often do not need to be forced separately. When the earlier steps are clear, behavior tends to appear naturally. When behavior repeats across a place, group, or NPC, atmosphere begins to appear. Quests can then be found inside that atmosphere instead of being placed on top of it.
 
 ```mermaid
 flowchart TD
@@ -65,40 +63,40 @@ flowchart TD
     M --> N[Future Atmosphere]
 ```
 
-This simplified loop shows the current test model: pressure creates experience, experience creates emotion, emotion creates reason, and reason creates behavior. Atmosphere was added later after testing showed that repeated behavior could make the world feel coherent. Quests can create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers as outcomes. Layer outcomes can shape future behavior, and changed behavior can affect future atmosphere.
+This is the simplified loop I am testing. A consequence may reinforce, weaken, or shift a mutable layer. That can change future behavior, and repeated behavior can change atmosphere.
 
 For a shorter version, start with the Method Summary below. The full method document is linked from there.
 
 ## Start Here
 
-Recommended reading order:
+These are the shortest entry points.
 
 1. [Method Summary](Portfolio/Summaries/Method_Summary.md)  
-   Short version of the pressure / layer / NPC / quest method.
+   Short version of the pressure, layer, NPC, and quest method.
 
 2. [Erit Worldbuilding Summary](Portfolio/Summaries/Erit_Worldbuilding_Summary.md)  
-   Short version of how the Erit worldbuilding branch grew from the calendar problem, Viriatus, House Ventari, and AVD.
+   How the Erit branch grew from a calendar problem into Viriatus, House Ventari, AVD, and Regulatus.
 
 3. [Storybuilding Summary](Portfolio/Summaries/Storybuilding_Summary.md)  
-   Short explanation of clues, repeated details, reveals, reader participation, and Unity.
+   Short version of the approach to clues, realization, repeated details, and payoff.
 
 4. [Development Process Summary](Portfolio/Summaries/Development_Process_Summary.md)  
-   Short version of how I am tracking revisions, early anchors, prose changes, and what I am learning from the work.
+   How I am organizing the project and tracking changes over time.
 
 5. [Development Diary Summary](Portfolio/Summaries/Development_Diary_Summary.md)  
-   Short version of the working trail from early Erit worldbuilding to the current method tests.
+   Short version of the working trail from early worldbuilding to the current method tests.
 
-The summary files link to the fuller working documents for anyone who wants to go deeper.
+Each summary links to its fuller working document.
 
 ## Project Branches
 
-This repository currently contains two connected project branches and one public-facing branch.
+This repository currently has two working branches and one shorter portfolio route.
 
 ### Erit Worldbuilding
 
 [Erit_Worldbuilding/README.md](Erit_Worldbuilding/README.md)
 
-What I am focused on right now: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, NPC behavior, quest pressure, and the world Erit inherits.
+The branch I am focused on right now: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, NPC behavior, quest pressure, and the world Erit inherits.
 
 ### Fragments Story
 
@@ -110,33 +108,13 @@ The main story branch: prose, characters, acts, Unity, scene bridges, emotional 
 
 [Portfolio/README.md](Portfolio/README.md)
 
-A shorter public-facing branch with clean summaries, selected samples, and learning-process notes. This is useful for a quick overview, but it is not the full development trail.
-
-## Worldbuilding Process
-
-For the shorter case-study version, read:
-
-[Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
-
-For the full working-process version of Erit's worldbuilding, read:
-
-[Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
-
-The diary shows what questions appeared, why details mattered, what connected back to Fragments, and what had to stay constrained so the main story remained intact.
-
-The current worldbuilding method I am testing is documented here:
-
-[Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)
-
-The repo-wide clarity rule is here:
-
-[Canon Clarity Rules](Erit_Worldbuilding/00_Method/Canon_Clarity_Rules.md)
+The shorter public-facing route with summaries, selected samples, and process notes.
 
 ## Repository Structure
 
 - `Erit_Worldbuilding/` — worldbuilding branch for Viriatus, House Ventari, Regulatus, method notes, systems, quests, and the world Erit inherits.
 - `Fragments_Story/` — main story branch with project foundation, development history, characters, acts, prose, bridges, cosmology, and reference material.
-- `Portfolio/` — shorter public-facing route with the overview, samples, case study, and process notes.
+- `Portfolio/` — shorter public-facing route with summaries, selected samples, case studies, and process notes.
 
 ## Note On AI Use
 
@@ -148,4 +126,4 @@ The creative direction, constraints, world logic, character decisions, correctio
 
 This repository is a working record of learning and development, not a finished game portfolio.
 
-The current evidence of the process is in the Erit worldbuilding files. The portfolio route is shorter and cleaner, but it does not contain the full development trail.
+The portfolio route is the quickest way to read it. The project folders contain the fuller working trail.
