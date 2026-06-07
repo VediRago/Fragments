@@ -1,23 +1,5 @@
 # Development Process
 
-Fragments started on **20/05/2026**.
-
-I build it outside of work while working full-time in glass manufacturing.
-
-The project did not begin as a complete outline. It began with images, scenes, and feelings that seemed connected: a girl in a hospital, a woman near a window, two girls under pressure, a collapse, and the sense that these moments belonged together.
-
-As I kept writing, the project grew by asking one question after another.
-
-Why did these scenes feel connected?
-
-What was actually carrying the emotion?
-
-How much needed to be explained?
-
-How much could be removed?
-
----
-
 ## Early Versions
 
 The earliest files are useful because they show where the project started.
