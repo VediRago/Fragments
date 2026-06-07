@@ -47,31 +47,19 @@ The main finding so far is that behavior and atmosphere often do not need to be 
 
 ```mermaid
 flowchart TD
-    A[Starting Layer]
-    B[Pressure]
-    C[Experience]
-    D[Emotion]
-    E[Reason]
-    F[Behavior]
-    G[Atmosphere]
-    H[Quest Logic]
-    I[Player Choice]
-    J[Consequence]
-    K[Possible Layer Outcome]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    H --> I
-    I --> J
-    J --> K
-    K -. may affect future .-> A
-    A -. shapes future .-> F
-    F -. changes .-> G
+    A[Starting Layer] --> B[Pressure]
+    B --> C[Experience]
+    C --> D[Emotion]
+    D --> E[Reason]
+    E --> F[Behavior]
+    F --> G[Atmosphere]
+    G --> H[Quest Logic]
+    H --> I[Player Choice]
+    I --> J[Consequence]
+    J --> K[Possible Layer Outcome]
+    K --> L[Future Starting Layer]
+    L --> M[Future Behavior]
+    M --> N[Future Atmosphere]
 ```
 
 This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, reason creates behavior, and repeated behavior creates atmosphere. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers. Changed layers can shape future behavior, and changed behavior can affect atmosphere.
