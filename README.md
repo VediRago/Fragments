@@ -34,7 +34,11 @@ The method examples are the strongest first click because they show how the curr
 
 While building Erit's world, I started documenting a method for making worldbuilding, factions, NPCs, atmosphere, and quests feel connected through cause and consequence.
 
-The core chain began as:
+The first worldbuilding chain used for Viriatus, House Ventari, and the family foundation was:
+
+> Pressure → Experience → Emotion → Reason → Behavior
+
+From that foundation, later testing added **Atmosphere** as the result of repeated behavior:
 
 > Pressure → Experience → Emotion → Reason → Behavior → Atmosphere
 
@@ -48,27 +52,26 @@ The main finding so far is that behavior and atmosphere often do not need to be 
 
 ```mermaid
 flowchart TD
-    A[Starting Layer] --> B[Pressure]
-    B --> C[Experience]
-    C --> D[Emotion]
-    D --> E[Reason]
-    E --> F[Behavior]
-    F --> G[Atmosphere]
-    G --> H[Quest Logic]
-    H --> I[Player Choice]
-    I --> J[Consequence]
+    A[Pressure] --> B[Experience]
+    B --> C[Emotion]
+    C --> D[Reason]
+    D --> E[Behavior]
+    E --> F[Atmosphere]
+    F --> G[Quest Logic]
+    G --> H[Player Choice]
+    H --> I[Consequence]
 
-    J --> K[Reinforce Layer]
-    J --> L[Weaken Layer]
-    J --> M[Shift Layer]
+    I --> J[Reinforce Layer]
+    I --> K[Weaken Layer]
+    I --> L[Shift Layer]
 
-    K --> N[Future Behavior]
-    L --> N
-    M --> N
-    N --> O[Future Atmosphere]
+    J --> M[Future Behavior]
+    K --> M
+    L --> M
+    M --> N[Future Atmosphere]
 ```
 
-This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, reason creates behavior, and repeated behavior creates atmosphere. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers as outcomes. Layer outcomes can shape future behavior, and changed behavior can affect future atmosphere.
+This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, and reason creates behavior. Atmosphere was added later after testing showed that repeated behavior could make the world feel coherent. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers as outcomes. Layer outcomes can shape future behavior, and changed behavior can affect future atmosphere.
 
 Full document:
 
