@@ -1,18 +1,23 @@
 # Method Summary
 
-This is the short version of the method I am currently testing in the Erit worldbuilding branch.
+This is the short version of the method I am testing in the Erit worldbuilding branch.
 
-I started with a simple problem: quests, NPCs, and places can feel disconnected when they do not react to what is happening around them. I wanted to test whether worldbuilding could begin from cause and consequence instead of adding lore, factions, NPCs, and quests as separate pieces.
+I began with a problem I kept noticing in games: quests, NPCs, and places can feel disconnected when they do not react to what is happening around them.
+
+I wanted to see if worldbuilding could start from cause and consequence, instead of treating lore, factions, NPCs, and quests as separate pieces.
 
 ## First Chain
 
-The first chain I used for the foundation of the world was:
+The first chain I used was:
 
 Pressure → Experience → Emotion → Reason → Behavior
 
-This was used while building Viriatus, House Ventari, and the early family foundation.
+This was used for Viriatus, House Ventari, and the early family foundation.
 
-The idea was simple: pressure creates an experience, the experience creates emotion, emotion creates a reason, and that reason creates behavior.
+Pressure creates an experience.  
+Experience creates emotion.  
+Emotion creates a reason.  
+Reason creates behavior.
 
 ## Atmosphere
 
@@ -26,7 +31,7 @@ Pressure → Experience → Emotion → Reason → Behavior → Atmosphere
 
 ## Layers
 
-The next problem was that pressure alone was not enough.
+Pressure alone was not enough.
 
 The same pressure can affect different people, cities, or factions in different ways. That led to the layer idea.
 
@@ -46,7 +51,7 @@ Some layers are fluid, such as districts, local moods, gangs, crowds, and undeci
 
 Some layers are locked, such as major factions, institutions, doctrine, and important characters with a fixed role.
 
-This matters because player choice should not make a faction suddenly stop being itself.
+Player choice should not make a faction suddenly stop being itself.
 
 ## NPCs
 
@@ -72,9 +77,9 @@ The outcome may reinforce, weaken, or shift a mutable layer, but only after the 
 
 ## Current Finding
 
-The main finding so far is that behavior and atmosphere often do not need to be added separately.
+Behavior and atmosphere often do not need to be added separately.
 
-When pressure, experience, emotion, reason, and layer are clear, behavior usually becomes easier to find.
+When pressure, experience, emotion, reason, and layer are clear, behavior becomes easier to find.
 
 When behavior repeats, atmosphere starts to appear.
 
