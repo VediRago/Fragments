@@ -2,14 +2,13 @@
 
 I'm Diogo Oliveira. I currently work full-time in glass manufacturing, and I am building **Fragments** outside of work as a hobby project.
 
-This project is very early. I started it on **20/05/2026**
-The Worldbuilding started **05/06/2026**
-The Method for NPC and Quests **07/06/2026**
+This project is very early. I started **Fragments** on **20/05/2026**. The worldbuilding began on **05/06/2026**, and the NPC / quest method started on **07/06/2026**.
+
 I am not presenting this as finished professional game development work.
 
-I am presenting it as a record of what I am trying to understand:
+I am presenting it as a record of what I am trying to understand and test.
 
-I am using the project to test:
+Through this project, I am testing:
 
 - whether emotional causes can make lore feel less random
 - whether character wounds can grow into family patterns and world systems
