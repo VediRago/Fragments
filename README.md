@@ -56,13 +56,18 @@ flowchart TD
     G --> H[Quest Logic]
     H --> I[Player Choice]
     I --> J[Consequence]
-    J --> K[Possible Layer Outcome]
-    K --> L[Future Starting Layer]
-    L --> M[Future Behavior]
-    M --> N[Future Atmosphere]
+
+    J --> K[Reinforce Layer]
+    J --> L[Weaken Layer]
+    J --> M[Shift Layer]
+
+    K --> N[Future Behavior]
+    L --> N
+    M --> N
+    N --> O[Future Atmosphere]
 ```
 
-This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, reason creates behavior, and repeated behavior creates atmosphere. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers. Changed layers can shape future behavior, and changed behavior can affect atmosphere.
+This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, reason creates behavior, and repeated behavior creates atmosphere. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers as outcomes. Layer outcomes can shape future behavior, and changed behavior can affect future atmosphere.
 
 Full document:
 
