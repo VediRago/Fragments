@@ -10,17 +10,11 @@ It is a record of what changed while I was building, testing, correcting, and re
 
 ## Where The Worldbuilding Started
 
-The Erit worldbuilding started from a practical need:
+The Erit worldbuilding started with the calendar problem that led to Viriatus, House Ventari, AVD, and Regulatus.
 
-> How do I make a calendar for Erit's world so I can place the eras in a timeline?
+I keep the full version of that trail in the Erit Worldbuilding Summary.
 
-That question led back to a detail already inside **Fragments**: the emperor's statue.
-
-Instead of adding a calendar from outside the story, I used that statue as the seed.
-
-That became Viriatus, House Ventari, the AVD calendar, and the public story of Regulatus.
-
-From there, the world started growing through pressure, family wounds, public memory, and systems of control.
+In the diary, the more useful part is what changed after that: the work started moving from isolated lore files into a connected method for factions, city pressure, NPC behavior, atmosphere, and quests.
 
 ## What Changed While Testing
 
