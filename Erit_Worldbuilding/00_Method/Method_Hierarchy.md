@@ -207,39 +207,33 @@ This is history because the atmosphere becomes calendar, record, doctrine, and i
 
 ## Quest Output Method — Gameplay Level
 
-Use this only when turning existing world pressure into a playable situation:
+Use this only when the existing chain has produced conditions that can become playable:
 
-> world pressure -> experience -> emotion -> reason -> behavior -> playable problem -> possible approaches -> consequence -> layer update
+> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
 This is not a separate creation method.
 
-It is the core method extended into gameplay output.
-
-It should only be used after the world already contains pressure.
+It is the same method reaching the gameplay layer.
 
 Quest logic should not be forced into background creation.
 
-A quest becomes strong when it feels like the playable expression of history, not an errand placed on top of lore.
+A quest becomes strong when it feels like the playable expression of history, pressure, behavior, and atmosphere, not an errand placed on top of lore.
 
-World pressure creates the situation.
+Experience is what happened or what pressure is being lived by a person, group, place, or institution.
 
-Experience is how that pressure is lived by a person, group, place, or institution.
-
-Emotion is what that lived pressure produces internally.
+Emotion is what that experience produces internally.
 
 Reason is the belief, justification, wound, or logic that forms from that emotion.
 
 Behavior is what the person, group, or institution repeatedly does because of that reason.
 
-Playable problem appears when that behavior creates a situation the player can interact with.
+Atmosphere appears when behavior becomes visible enough to create a felt environment.
 
-Possible approaches are the authored ways the player can engage the problem.
+Quest logic appears when that atmosphere and behavior naturally create needs, obstacles, choices, and consequences.
 
-Consequence is what happens because of the player's action.
+The quest should feel like the last expression of the chain, not a different formula.
 
-Layer update shows whether the result reinforces, weakens, or shifts a local layer or future pressure.
-
-The consequence should update the world layer, not automatically rewrite the active quest.
+Active quest structure should not automatically rewrite itself whenever world pressure changes. Updated pressure can shape future quest logic, future atmosphere, future NPC behavior, and future hooks.
 
 ---
 
@@ -247,15 +241,11 @@ The consequence should update the world layer, not automatically rewrite the act
 
 The chip removal quest should not begin by inventing an objective first.
 
-It begins after the world already has pressure, and then follows the same cause-and-effect method into gameplay.
-
-World pressure:
-
-> chips are tied to identification, medicine, records, surveillance, belonging, and the Teresta-to-Devaar path of bodily control.
+It begins after the world already contains pressure, and then follows the same cause-and-effect method into gameplay.
 
 Experience:
 
-> someone who wants to join the rebels cannot remain visible to the system because the chip still ties their body to identity, treatment, records, and surveillance.
+> chips are tied to identification, medicine, records, surveillance, belonging, and the Teresta-to-Devaar path of bodily control. Someone who wants to join the rebels cannot remain visible to the system because the chip still ties their body to identity, treatment, records, and surveillance.
 
 Emotion:
 
@@ -267,23 +257,15 @@ Reason:
 
 Behavior:
 
-> they seek illegal help, hide from official clinics, lie about symptoms, avoid scans, and pressure others to take risks.
+> they seek illegal help, hide from official clinics, lie about symptoms, avoid scans, pressure others to take risks, and treat medical visibility as a threat.
 
-Playable problem:
+Atmosphere:
 
-> chip removal is illegal, medically dangerous, and socially threatening because identity, treatment, and surveillance are tied to the body.
+> clinics feel clean but dangerous, records feel like traps, scans create panic, rebel spaces carry bodily fear, and medical help becomes mixed with suspicion.
 
-Possible approaches:
+Quest logic:
 
-> violence, stealth, disguise, persuasion, theft, blackmail, or finding a sympathetic doctor.
-
-Consequence:
-
-> security response, medical access lost, trust gained, doctor harmed, clinic closed, rebel suspicion changed, or future treatment blocked.
-
-Layer update:
-
-> the outcome reinforces, weakens, or shifts local trust in Devaar medicine, rebel access to treatment, clinic surveillance, or district fear.
+> the player is pulled into chip removal because the behavior and atmosphere have created needs, obstacles, choices, and consequences: illegal treatment, clinic access, surveillance risk, doctor loyalty, rebel trust, medical danger, and future pressure around Devaar medicine.
 
 This quest works because everything before it already exists:
 
@@ -313,7 +295,7 @@ The method grows by depth:
    > experience -> emotion -> reason -> behavior -> atmosphere -> history
 
 4. Quest / gameplay output  
-   > world pressure -> experience -> emotion -> reason -> behavior -> playable problem -> possible approaches -> consequence -> layer update
+   > experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
 A meaningful NPC in a quest may carry all previous layers plus quest logic.
 
@@ -323,7 +305,7 @@ A city usually needs atmosphere.
 
 A civilization-defining system usually needs history.
 
-A playable quest needs world pressure, a playable problem, consequence, and a layer update.
+A playable quest needs the same chain to reach quest logic naturally.
 
 ---
 
@@ -363,11 +345,11 @@ That clinic exists because Teresta's line and later House Devaar turned medicine
 
 Quest output:
 
-> world pressure -> experience -> emotion -> reason -> behavior -> playable problem -> possible approaches -> consequence -> layer update
+> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
 The player needs illegal chip removal.
 
-The doctor becomes an obstacle, ally, witness, victim, or future consequence depending on player choice.
+The doctor becomes an obstacle, ally, witness, victim, or future consequence because the quest role is produced by the same chain, not pasted on first.
 
 This NPC feels grounded because the quest role is the last layer, not the first.
 
