@@ -18,9 +18,7 @@ Through this project, I am testing:
 
 ## What This Repository Is For
 
-This is not a finished game.
-
-I am using this repo to track how I build connected worldbuilding, character logic, NPC behavior, atmosphere, and quest structure.
+This is a working record, not a finished game.
 
 My current focus is the Erit worldbuilding branch, where I am testing whether world pressure can create factions, NPCs, quests, and consequences that feel connected instead of separate.
 
@@ -44,23 +42,24 @@ For quests, the method is being tested like this:
 
 ```mermaid
 flowchart TD
-    A[Pressure] --> B[Experience]
-    B --> C[Emotion]
-    C --> D[Reason]
-    D --> E[Behavior]
-    E --> F[Atmosphere]
-    F --> G[Quest Logic]
-    G --> H[Player Choice]
-    H --> I[Consequence]
+    A[Starting Layer] --> B[Pressure]
+    B --> C[Experience]
+    C --> D[Emotion]
+    D --> E[Reason]
+    E --> F[Behavior]
+    F --> G[Atmosphere]
+    G --> H[Quest Logic]
+    H --> I[Player Choice]
+    I --> J[Consequence]
 
-    I --> J[Reinforce Layer]
-    I --> K[Weaken Layer]
-    I --> L[Shift Layer]
+    J --> K[Reinforce Layer]
+    J --> L[Weaken Layer]
+    J --> M[Shift Layer]
 
-    J --> M[Future Behavior]
-    K --> M
-    L --> M
-    M --> N[Future Atmosphere]
+    K --> N[Future Behavior]
+    L --> N
+    M --> N
+    N --> O[Future Atmosphere]
 ```
 
 This is the simplified loop I am testing. A consequence may reinforce, weaken, or shift a mutable layer. That can change future behavior, and repeated behavior can change atmosphere.
