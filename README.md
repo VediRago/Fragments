@@ -6,7 +6,7 @@ This project is very early. I started **Fragments** on **20/05/2026**. The world
 
 I am not presenting this as finished professional game development work.
 
-I am presenting it as a record of what I am trying to understand and test.
+I am using this repository to track what I am trying to understand and test.
 
 Through this project, I am testing:
 
@@ -16,27 +16,27 @@ Through this project, I am testing:
 - whether world pressure can lead toward quests, conflicts, and consequences
 - whether a layer-based method can help NPCs, districts, factions, and quests react without breaking immersion
 
-## What This Repository Shows
+## What This Repository Is For
 
-This repository is not meant to show a finished game.
+This is not a finished game.
 
-It is meant to show how I am learning to build connected worldbuilding, character logic, NPC behavior, atmosphere, and quest structure.
+Right now, I am using this repo to track how I build connected worldbuilding, character logic, NPC behavior, atmosphere, and quest structure.
 
 What I am focused on right now is the Erit worldbuilding branch, where I am testing whether world pressure can create believable factions, NPCs, quests, and consequences instead of treating them as separate pieces.
 
-## Current Method Finding
+## Current Working Method
 
-While building Erit's world, I started documenting a method for making worldbuilding, factions, NPCs, atmosphere, and quests feel connected through cause and consequence.
+While building Erit's world, I started writing down a method for connecting worldbuilding, factions, NPCs, atmosphere, and quests through cause and consequence.
 
 The first worldbuilding chain used for Viriatus, House Ventari, and the family foundation was:
 
 > Pressure → Experience → Emotion → Reason → Behavior
 
-From that foundation, later testing added **Atmosphere** as the result of repeated behavior:
+Later testing added **Atmosphere** as the result of repeated behavior:
 
 > Pressure → Experience → Emotion → Reason → Behavior → Atmosphere
 
-Testing later added **Layers**, which explain why different cities, factions, districts, or NPCs can experience similar pressure but react differently.
+After that, I added **Layers** to explain why different cities, factions, districts, or NPCs can experience similar pressure but react differently.
 
 For quests, the test expanded into:
 
@@ -65,7 +65,7 @@ flowchart TD
     M --> N[Future Atmosphere]
 ```
 
-This simplified loop shows the tested method: pressure creates experience, experience creates emotion, emotion creates reason, and reason creates behavior. Atmosphere was added later after testing showed that repeated behavior could make the world feel coherent. Quests can then create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers as outcomes. Layer outcomes can shape future behavior, and changed behavior can affect future atmosphere.
+This simplified loop shows the current test model: pressure creates experience, experience creates emotion, emotion creates reason, and reason creates behavior. Atmosphere was added later after testing showed that repeated behavior could make the world feel coherent. Quests can create player choices and consequences. Those consequences may reinforce, weaken, or shift mutable layers as outcomes. Layer outcomes can shape future behavior, and changed behavior can affect future atmosphere.
 
 Full document:
 
@@ -82,7 +82,7 @@ Recommended reading order:
 5. [Story Structure / Starting Idea](Portfolio/Development_Process.md)
 6. [Portfolio Overview](Portfolio/README.md)
 
-The method examples are the strongest first click because they show how the current process was discovered, tested, and applied across foundation history, factions, layers, NPCs, and quests. The case study shows a shorter public-facing example. The method file shows the hierarchy behind the process. The diary shows the fuller working trail behind the case study and method. The story-structure file shows how Fragments began from images, scenes, and feelings before the larger architecture existed.
+The method examples are the best first click because they show how the current process was discovered, tested, and applied across foundation history, factions, layers, NPCs, and quests. The case study is the shorter public-facing version. The method file shows the hierarchy behind the process. The diary shows the fuller working trail behind the case study and method. The story-structure file shows how Fragments began from images, scenes, and feelings before the larger architecture existed.
 
 ## Project Branches
 
@@ -92,7 +92,7 @@ This repository currently contains two connected project branches and one public
 
 [Erit_Worldbuilding/README.md](Erit_Worldbuilding/README.md)
 
-The strongest current branch: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, NPC behavior, quest pressure, and the world Erit inherits.
+What I am focused on right now: Viriatus, House Ventari, Regulatus, founding families, Devaar, identity control, medical dependency, NPC behavior, quest pressure, and the world Erit inherits.
 
 ### Fragments Story
 
@@ -142,4 +142,4 @@ The creative direction, constraints, world logic, character decisions, correctio
 
 This repository is a working record of learning and development, not a finished game portfolio.
 
-The strongest current evidence of the process is in the Erit worldbuilding files. The portfolio route is shorter and cleaner, but it does not contain the full development trail.
+The current evidence of the process is in the Erit worldbuilding files. The portfolio route is shorter and cleaner, but it does not contain the full development trail.
