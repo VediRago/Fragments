@@ -172,6 +172,18 @@ The useful chain I found is:
 
 > experience → emotion → reason → behavior → atmosphere → quest logic
 
+Experience is the pressure or lived history a character, city, faction, or culture has gone through.
+
+Emotion is the feeling produced by that experience.
+
+Reason is how that person or group explains the feeling to themselves.
+
+Behavior is what they repeatedly do because of that reasoning.
+
+Atmosphere is what the player feels once many behaviors accumulate in the same place.
+
+Quest logic appears when those behaviors create needs, obstacles, choices, and consequences.
+
 A city should not only say it is afraid.
 
 The player should feel fear through behavior: quieter public spaces, guarded speech, people watching who listens, rebels hiding deeper, guards overreacting, and citizens policing themselves before authority arrives.
@@ -214,4 +226,10 @@ The portfolio value is not the amount of lore.
 
 The portfolio value is the process:
 
-> story pressure → emotional cause → system logic → behavior → consequence.
+> experience → emotion → reason → behavior → atmosphere → quest logic
+
+For portfolio explanation, **experience** should be understood broadly.
+
+It can be the lived pressure of a character, the historical wound of a faction, the conditions of a city, or the repeated reality of an entire culture.
+
+The method asks what happened, what it made people feel, how they explained that feeling, what behavior came from it, what atmosphere that behavior created, and what quests or conflicts naturally emerge from that atmosphere.
