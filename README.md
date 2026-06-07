@@ -22,7 +22,7 @@ This repository is not meant to show a finished game.
 
 It is meant to show how I am learning to build connected worldbuilding, character logic, NPC behavior, atmosphere, and quest structure.
 
-The strongest part of the project right now is the Erit worldbuilding branch, where I am testing whether world pressure can create believable factions, NPCs, quests, and consequences instead of treating them as separate pieces.
+What I am focused on right now is the Erit worldbuilding branch, where I am testing whether world pressure can create believable factions, NPCs, quests, and consequences instead of treating them as separate pieces.
 
 ## Current Method Finding
 
