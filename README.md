@@ -46,23 +46,14 @@ For quests, the test expanded into:
 The main finding so far is that behavior and atmosphere often do not need to be forced separately. When the earlier steps are clear, behavior tends to appear naturally. When behavior repeats across a place, group, or NPC, atmosphere begins to appear. Quests can then be found inside that atmosphere instead of being placed on top of it.
 
 ```mermaid
-flowchart TB
-    A[World Pressure]
-    B[Factions & Layers]
-    C[NPC Behavior]
-    D[Atmosphere]
-    E[Quest Logic]
-    F[Player Choice]
-    G[Consequences]
-    H[Layer Outcomes]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
+flowchart TD
+    A[World Pressure] --> B[Factions and Layers]
+    B --> C[NPC Behavior]
+    C --> D[Atmosphere]
+    D --> E[Quest Logic]
+    E --> F[Player Choice]
+    F --> G[Consequences]
+    G --> H[Layer Outcomes]
     H --> C
     H --> D
 ```
