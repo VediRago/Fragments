@@ -26,81 +26,43 @@ My current focus is the Erit worldbuilding branch, where I am testing whether wo
 
 While building Erit's world, I started writing down a method for connecting worldbuilding, factions, NPCs, atmosphere, and quests through cause and consequence.
 
-The core chain I am testing is:
+The first worldbuilding chain used for Viriatus, House Ventari, and the family foundation was:
 
-> Experience → Emotion → Reason → Behavior → Atmosphere → Quest Logic
+> Pressure → Experience → Emotion → Reason → Behavior
 
-I use three layers to control where the pressure comes from and what can change afterward.
+Later testing added **Atmosphere** as the result of repeated behavior:
 
-```text
-                           ┌────────────────────────────┐
-                           │ 1. Define World Pressure   │
-                           │ Layer 1                    │
-                           │ Events shaping the world   │
-                           └─────────────┬──────────────┘
-                                         │
-                  ┌──────────────────────┴──────────────────────┐
-                  │                                             │
-        ┌─────────▼─────────┐                       ┌───────────▼──────────┐
-        │ 2A. Read City      │                       │ 2B. Read Faction     │
-        │ Layer 2            │                       │ Layer 2              │
-        │ Fluid / Mutable    │                       │ Locked               │
-        └─────────┬─────────┘                       └───────────┬──────────┘
-                  │                                             │
-        ┌─────────▼─────────┐                       ┌───────────▼──────────┐
-        │ 3A. Select NPC    │                       │ 3B. Select NPC       │
-        │ Patient / Nurse   │                       │ Guard                │
-        │ Layer 3            │                       │ Layer 3              │
-        └─────────┬─────────┘                       └───────────┬──────────┘
-                  │                                             │
-        ┌─────────▼─────────┐                       ┌───────────▼──────────┐
-        │ 4A. Derive        │                       │ 4B. Derive           │
-        │ Behavior          │                       │ Behavior             │
-        │ Fluid             │                       │ Anchored             │
-        └─────────┬─────────┘                       └───────────┬──────────┘
-                  │                                             │
-        ┌─────────▼─────────┐                       ┌───────────▼──────────┐
-        │ 5A. Build         │                       │ 5B. Build            │
-        │ Atmosphere        │                       │ Atmosphere           │
-        │ Local / Fluid     │                       │ Faction-Anchored     │
-        └─────────┬─────────┘                       └───────────┬──────────┘
-                  │                                             │
-                  └──────────────────────┬──────────────────────┘
-                                         │
-                           ┌─────────────▼──────────────┐
-                           │ 6. Expose Quest Logic      │
-                           │ Patient / Nurse / Guard    │
-                           │ now create conflict        │
-                           └─────────────┬──────────────┘
-                                         │
-                           ┌─────────────▼──────────────┐
-                           │ 7. Player Choice           │
-                           └─────────────┬──────────────┘
-                                         │
-                  ┌──────────────────────┴──────────────────────┐
-                  │                                             │
-        ┌─────────▼─────────┐                       ┌───────────▼──────────┐
-        │ 8A. Update City    │                       │ 8B. Guard Reaction   │
-        │ Mutable Outcome    │                       │ Faction belief stays │
-        │ Loops back         │                       │ locked               │
-        └─────────┬─────────┘                       └──────────────────────┘
-                  │
-                  └─────────────── returns to Step 2A
+> Pressure → Experience → Emotion → Reason → Behavior → Atmosphere
+
+After that, I added **Layers** to explain why different cities, factions, districts, or NPCs can experience similar pressure but react differently.
+
+For quests, the method is being tested like this:
+
+> Starting Layer → Pressure → Experience → Emotion → Reason → Behavior → Atmosphere → Quest Logic → Player Choice → Consequence → Possible Layer Outcome
+
+```mermaid
+flowchart TD
+    A[Starting Layer] --> B[Pressure]
+    B --> C[Experience]
+    C --> D[Emotion]
+    D --> E[Reason]
+    E --> F[Behavior]
+    F --> G[Atmosphere]
+    G --> H[Quest Logic]
+    H --> I[Player Choice]
+    I --> J[Consequence]
+
+    J --> K[Reinforce Layer]
+    J --> L[Weaken Layer]
+    J --> M[Shift Layer]
+
+    K --> N[Future Behavior]
+    L --> N
+    M --> N
+    N --> O[Future Atmosphere]
 ```
 
-Layer 1 defines the world pressure.
-
-Layer 2 splits that pressure into two states: cities and districts are fluid, while factions stay locked to their core beliefs.
-
-Layer 3 selects the NPC types affected by those pressures.
-
-For each NPC type, I run the same chain:
-
-> Experience → Emotion → Reason → Behavior
-
-Repeated behavior builds atmosphere. Atmosphere exposes quest logic.
-
-A player choice can update the mutable city layer. A faction NPC, such as a guard, can react or change intensity, but one quest does not rewrite the faction belief.
+This is the simplified loop I am testing. A consequence may reinforce, weaken, or shift a mutable layer. That can change future behavior, and repeated behavior can change atmosphere.
 
 For a shorter version, start with the Method Summary below. The full method document is linked from there.
 
@@ -163,4 +125,4 @@ The creative direction, constraints, world logic, character decisions, correctio
 
 This repository is a working record of learning and development, not a finished game portfolio.
 
-The portfolio route is the quickest way to read it.
+The portfolio route is the quickest way to read it. The project folders contain the fuller working trail.
