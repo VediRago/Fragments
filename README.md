@@ -75,14 +75,25 @@ Full document:
 
 Recommended reading order:
 
-1. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)
-2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)
-3. [Worldbuilding Method](Erit_Worldbuilding/00_Method/Worldbuilding_Method.md)
-4. [Erit Worldbuilding — Development Diary](Erit_Worldbuilding/Development_Diary/00_Development_Diary.md)
-5. [Story Structure / Starting Idea](Portfolio/Development_Process.md)
-6. [Portfolio Overview](Portfolio/README.md)
+1. [Method Summary](Portfolio/Summaries/Method_Summary.md)  
+   Short version of the pressure / layer / NPC / quest method.
 
-The method examples are the best first click because they show how the current process was discovered, tested, and applied across foundation history, factions, layers, NPCs, and quests. The case study is the shorter public-facing version. The method file shows the hierarchy behind the process. The diary shows the fuller working trail behind the case study and method. The story-structure file shows how Fragments began from images, scenes, and feelings before the larger architecture existed.
+2. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)  
+   Portfolio-facing overview of the Erit worldbuilding branch.
+
+3. [Current Storybuilding Approach](Portfolio/Current_Storybuilding_Approach.md)  
+   Short explanation of clues, repeated details, reveals, and payoff.
+
+4. [Development Process](Portfolio/Development_Process.md)  
+   How I am organizing the project and tracking decisions.
+
+5. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)  
+   Full working document with examples, tests, and current conclusions.
+
+6. [Development Diary](Erit_Worldbuilding/00_Development/Diary_Method_Validation.md)  
+   Rawer notes showing how the method evolved during testing.
+
+The first links are shorter summaries. The full method file and diary are there for anyone who wants to see the working trail behind the summaries.
 
 ## Project Branches
 
