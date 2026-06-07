@@ -84,8 +84,8 @@ Recommended reading order:
 3. [Storybuilding Summary](Portfolio/Summaries/Storybuilding_Summary.md)  
    Short explanation of clues, repeated details, reveals, reader participation, and Unity.
 
-4. [Development Process](Portfolio/Development_Process.md)  
-   How I am organizing the project and tracking decisions.
+4. [Development Process Summary](Portfolio/Summaries/Development_Process_Summary.md)  
+   Short version of how I am tracking revisions, early anchors, prose changes, and what I am learning from the work.
 
 5. [Erit Worldbuilding Case Study](Portfolio/Erit_Worldbuilding_Case_Study.md)  
    Full case-study version of the Erit worldbuilding branch.
@@ -93,10 +93,13 @@ Recommended reading order:
 6. [Current Storybuilding Approach](Portfolio/Current_Storybuilding_Approach.md)  
    Full working document for the current storybuilding approach.
 
-7. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)  
+7. [Development Process](Portfolio/Development_Process.md)  
+   Full process note showing how the project changed from early versions into the current structure.
+
+8. [Method Creation Examples](Erit_Worldbuilding/00_Method/Method_Creation_Examples.md)  
    Full working document with examples, tests, and current conclusions.
 
-8. [Development Diary](Erit_Worldbuilding/00_Development/Diary_Method_Validation.md)  
+9. [Development Diary](Erit_Worldbuilding/00_Development/Diary_Method_Validation.md)  
    Rawer notes showing how the method evolved during testing.
 
 The first links are shorter summaries. The full method file and diary are there for anyone who wants to see the working trail behind the summaries.
