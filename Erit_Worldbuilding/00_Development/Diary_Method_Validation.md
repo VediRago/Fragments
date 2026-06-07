@@ -84,6 +84,39 @@ Stories emerge from those consequences.
 
 ---
 
+## Structured Method Examples
+
+A dedicated method examples file has been added here:
+
+[Method Creation Examples](../00_Method/Method_Creation_Examples.md)
+
+This file documents the current version of the discovery process, including:
+
+- the origin of the method
+- the foundation examples
+- layers
+- faction examples
+- locked and fluid layers
+- district reaction testing
+- atmosphere emergence
+- NPC testing
+- NPC layer change testing
+- quest structure testing
+
+The current working chain is:
+
+Layer -> Pressure -> Experience -> Emotion -> Reason -> Behavior -> Atmosphere -> Quest Logic -> Player Choice -> Consequence -> Possible Layer Outcome
+
+The most important current finding is that behavior and atmosphere do not need to be forced separately.
+
+When layer, pressure, experience, emotion, and reason are clear, behavior often appears naturally.
+
+When behavior repeats across a place, group, or NPC, atmosphere begins to appear.
+
+Quests can then be found inside that atmosphere instead of being placed on top of it.
+
+---
+
 ## Current Limitations
 
 The framework has not yet been stress-tested extensively.
