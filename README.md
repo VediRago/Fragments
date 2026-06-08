@@ -22,6 +22,14 @@ This is a working record, not a finished game.
 
 My current focus is the Erit worldbuilding branch, where I am testing whether world pressure can create factions, NPCs, quests, and consequences that feel connected instead of separate.
 
+## Current Test Slice
+
+The current playable / reviewable systems test is here:
+
+[Layer System Test — Twine Prototype](Erit_Worldbuilding/Twine/Layer_System_Test/Layer_Test.html)
+
+This is a vertical slice for testing the Vys pressure system. It is not a finished game section. It exists to test whether faction actions, NPC behavior, city pressure, and future quest logic can influence each other without becoming simple reputation bars.
+
 ## Current Method
 
 While building Erit's world, I started writing down a method for connecting worldbuilding, factions, NPCs, atmosphere, and quests through cause and consequence.
