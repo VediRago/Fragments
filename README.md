@@ -26,7 +26,9 @@ My current focus is the Erit worldbuilding branch, where I am testing whether wo
 
 The current playable / reviewable systems test is here:
 
-[Layer System Test — Twine Prototype](Erit_Worldbuilding/Twine/Layer_System_Test/Layer%20Test.html)
+[Play the Layer System Test — Twine Prototype](https://vedirago.github.io/Fragments/Erit_Worldbuilding/Twine/Layer%20System/Index.html)
+
+[View the Twine source file](Erit_Worldbuilding/Twine/Layer%20System/Index.html)
 
 This is a vertical slice for testing the Vys pressure system. It is not a finished game section. It exists to test whether faction actions, NPC behavior, city pressure, and future quest logic can influence each other without becoming simple reputation bars.
 
