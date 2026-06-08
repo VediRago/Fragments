@@ -48,27 +48,6 @@ For quests, the method is being tested like this:
 
 > Starting Layer → Pressure → Experience → Emotion → Reason → Behavior → Atmosphere → Quest Logic → Player Choice → Consequence → Possible Layer Outcome
 
-```mermaid
-flowchart TD
-    A[Starting Layer] --> B[Pressure]
-    B --> C[Experience]
-    C --> D[Emotion]
-    D --> E[Reason]
-    E --> F[Behavior]
-    F --> G[Atmosphere]
-    G --> H[Quest Logic]
-    H --> I[Player Choice]
-    I --> J[Consequence]
-
-    J --> K[Reinforce Layer]
-    J --> L[Weaken Layer]
-    J --> M[Shift Layer]
-
-    K --> N[Future Behavior]
-    L --> N
-    M --> N
-    N --> O[Future Atmosphere]
-```
 
 ### Twine Prototype
 
@@ -88,7 +67,6 @@ Both feed into shared city pressure, and that pressure can change the city state
 
 The goal is to test whether quests can create systemic consequences instead of isolated scripted outcomes.
 
-Current simplified implementation:
 
 ```text
 Faction Action -> Layer 2
