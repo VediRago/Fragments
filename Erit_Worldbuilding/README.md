@@ -2,7 +2,7 @@
 
 This folder documents the **Erit Worldbuilding** branch of *Fragments*.
 
-This branch was built as a focused worldbuilding and narrative-design exercise over roughly **two days**, outside of full-time work. It is not presented as a finished game world. It is presented as evidence of process: how a single image in prose can expand into history, belief, institutions, family behavior, social pressure, and game-facing quest logic.
+This branch was built as a focused worldbuilding exercise over roughly **two days**, outside of full-time work. It is not presented as a finished game world. It is presented as evidence of process: how a single image in prose can expand into history, belief, institutions, family behavior, social pressure, and quest logic.
 
 The starting image was simple:
 
@@ -23,11 +23,11 @@ It demonstrates:
 - turning a prose detail into a world system
 - building history from emotional cause rather than decoration
 - connecting family behavior to public belief and institutional power
-- designing ideology without making the society feel cartoonishly evil
+- creating ideology without making the society feel cartoonishly evil
 - creating social systems that explain who benefits, who suffers, and why the system survives
-- translating world pressure into NPC behavior, quest logic, and player-facing narrative design
+- testing whether world pressure can become NPC behavior, quests, choices, and consequences
 
-The main design chain is:
+The main development chain is:
 
 > experience -> emotion -> reason -> behavior -> atmosphere -> history -> systems -> quest logic
 
@@ -54,20 +54,23 @@ Later, House Devaar rises through medicine, augmentation, preservation systems, 
 
 The result is a society where control does not only come from violence. It comes from care, survival, medical need, family obligation, public gratitude, and fear of loss.
 
-## Why This Matters For Narrative Design
+## Current Test Slice
 
-The goal of this branch is to make the world produce narrative pressure naturally.
+The current playable / reviewable systems test for this branch is:
 
-A player-facing problem should not appear because the story needs a quest. It should appear because the world already contains a pressure point.
+[Layer System Test — Twine Prototype](Twine/Layer_System_Test/Layer%20Test.html)
 
-Examples of the intended design direction:
+This prototype tests the Vys pressure system in Twine.
 
-- an identification chip is not just a cyberpunk object; it is proof of belonging, surveillance, treatment access, and class position
-- a medical procedure is not just technology; it can be care, dependency, coercion, debt, or survival depending on the character
-- a family name is not just lore; it changes how NPCs react, trust, fear, obey, or resist
-- an act of help may be read as kindness, obligation, insult, manipulation, or threat depending on the NPC's history
+It uses three layers:
 
-This is the bridge between worldbuilding and interactive storytelling.
+- Layer 1 — City / World State
+- Layer 2 — Faction Pressure
+- Layer 3 — NPC / Local Behavior
+
+The test checks whether faction actions, NPC behavior, city pressure, and future quest logic can influence each other without becoming simple reputation bars.
+
+It is not a finished game section. It is a vertical slice for testing the method described in this folder.
 
 ## Recommended Reading Path
 
@@ -120,6 +123,10 @@ For deeper reference, read:
 - [05_Systems/NPC_System_Relationship_Model.md](05_Systems/NPC_System_Relationship_Model.md)
 - [05_Systems/Quest_Example_Chip_Removal.md](05_Systems/Quest_Example_Chip_Removal.md)
 
+### Twine Prototype
+
+- [Twine/Layer_System_Test/Layer Test.html](Twine/Layer_System_Test/Layer%20Test.html)
+
 ### Development Diary
 
 - [Development_Diary/README.md](Development_Diary/README.md)
@@ -130,6 +137,6 @@ For deeper reference, read:
 
 ## Development Note
 
-This branch was built quickly, so some files may still be in migration or refinement. The important part is the design process: emotional origin, historical consequence, social normalization, systemic pressure, and player-facing narrative use.
+This branch was built quickly, so some files may still be in migration or refinement. The important part is the process: emotional origin, historical consequence, social normalization, systemic pressure, and player-facing use.
 
 Old files may still exist under `01_Reference/Worlds/Erit_World/` until the safety pass is complete. Do not delete old paths until links and references are checked.
