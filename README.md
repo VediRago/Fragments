@@ -62,7 +62,38 @@ flowchart TD
     N --> O[Future Atmosphere]
 ```
 
-This is the simplified loop I am testing. A consequence may reinforce, weaken, or shift a mutable layer. That can change future behavior, and repeated behavior can change atmosphere.
+### Twine Prototype
+
+On 2026-06-08, I began testing this method in Twine through a small Vys prototype.
+
+The prototype currently uses three layers:
+
+- Layer 1 — City / World State
+- Layer 2 — Faction Pressure
+- Layer 3 — NPC / Local Behavior
+
+Layer 2 and Layer 3 influence each other's effectiveness, but they do not change each other's identity.
+
+Faction actions remain faction actions. NPC behavior remains NPC behavior.
+
+Both feed into shared city pressure, and that pressure can change the city state. The changed city state then affects future NPC behavior, faction access, location mood, and quest logic.
+
+The goal is to test whether quests can create systemic consequences instead of isolated scripted outcomes.
+
+Current simplified implementation:
+
+```text
+Faction Action -> Layer 2
+NPC Behavior -> Layer 3
+
+Layer 2 + Layer 3 -> Pressure
+Pressure -> Layer 1 City State
+Layer 1 -> Future Behavior / Atmosphere / Quest Logic
+```
+
+This Twine prototype is not a finished game section. It is a systems test for the pressure, layer, NPC, faction, and quest method.
+
+This is the simplified loop I am testing. A consequence may reinforce or weaken the effectiveness of a layer, and enough accumulated pressure may shift the city state. This can change future behavior, and repeated behavior can change atmosphere.
 
 For a shorter version, start with the Method Summary below. The full method document is linked from there.
 
