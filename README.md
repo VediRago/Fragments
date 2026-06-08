@@ -26,7 +26,7 @@ My current focus is the Erit worldbuilding branch, where I am testing whether wo
 
 The current playable / reviewable systems test is here:
 
-[Layer System Test — Twine Prototype](Erit_Worldbuilding/Twine/Layer_System_Test/Layer_Test.html)
+[Layer System Test — Twine Prototype](Erit_Worldbuilding/Twine/Layer_System_Test/Layer%20Test.html)
 
 This is a vertical slice for testing the Vys pressure system. It is not a finished game section. It exists to test whether faction actions, NPC behavior, city pressure, and future quest logic can influence each other without becoming simple reputation bars.
 
@@ -48,27 +48,6 @@ For quests, the method is being tested like this:
 
 > Starting Layer → Pressure → Experience → Emotion → Reason → Behavior → Atmosphere → Quest Logic → Player Choice → Consequence → Possible Layer Outcome
 
-```mermaid
-flowchart TD
-    A[Starting Layer] --> B[Pressure]
-    B --> C[Experience]
-    C --> D[Emotion]
-    D --> E[Reason]
-    E --> F[Behavior]
-    F --> G[Atmosphere]
-    G --> H[Quest Logic]
-    H --> I[Player Choice]
-    I --> J[Consequence]
-
-    J --> K[Reinforce Layer]
-    J --> L[Weaken Layer]
-    J --> M[Shift Layer]
-
-    K --> N[Future Behavior]
-    L --> N
-    M --> N
-    N --> O[Future Atmosphere]
-```
 
 ### Twine Prototype
 
@@ -88,7 +67,6 @@ Both feed into shared city pressure, and that pressure can change the city state
 
 The goal is to test whether quests can create systemic consequences instead of isolated scripted outcomes.
 
-Current simplified implementation:
 
 ```text
 Faction Action -> Layer 2
