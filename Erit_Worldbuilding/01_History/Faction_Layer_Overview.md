@@ -24,7 +24,7 @@ A faction is a pressure system.
 For later quest design, every faction should be read through:
 
 ```txt
-experience -> emotion -> reason -> behavior -> atmosphere -> history
+experience -> emotion -> reason -> behavior -> atmosphere 
 ```
 
 For NPCs, public alignment and private belief may differ.
