@@ -29,6 +29,107 @@ For game-facing material, extend it into:
 
 No major worldbuilding claim should exist only because it sounds interesting.
 
+## 2026-06-08 — Twine Layer System Finding
+
+Today I began testing the Erit / Vys layer method directly in Twine.
+
+The main finding is that the layers should not be treated as simple reputation bars or direct outcome switches.
+
+The current working model is:
+
+- Layer 1 — City / World State
+- Layer 2 — Faction Pressure
+- Layer 3 — NPC / Local Behavior
+
+Layer 2 and Layer 3 influence each other's effectiveness, but they do not change each other's identity.
+
+A faction remains itself. Scutis does not become Novacula. Novacula does not become Scutis.
+
+What changes is how strongly their actions land inside the current social condition of Vys.
+
+If Scutis acts while NPC behavior already favors Scutis obedience, the Scutis action gains momentum.
+
+If Scutis acts while NPC behavior favors Novacula resistance, the Scutis action still happens, but its impact is reduced.
+
+The same applies in reverse for Novacula.
+
+NPC behavior also receives pressure from faction conditions. Local obedience spreads more easily when Scutis pressure is strong. Local resistance spreads more easily when Novacula pressure is strong. Opposing faction pressure does not erase NPC behavior, but it reduces how strongly that behavior can affect the city.
+
+This creates the current loop:
+
+```text
+NPC action -> Layer 3
+Faction action -> Layer 2
+
+Layer 2 and Layer 3 modify each other's effectiveness
+
+Layer 2 + Layer 3 -> Pressure
+
+Pressure -> Layer 1 City State
+
+Layer 1 City State -> future NPC behavior, faction access, location mood, and quest logic
+```
+
+The important design correction is:
+
+```text
+Actor decides layer.
+Pressure decides city.
+City decides future context.
+```
+
+This means a worker helping hide supplies is Layer 3 because the actor is local / NPC behavior.
+
+A Scutis operation is Layer 2 because the actor is organized faction pressure.
+
+A faction can unlock access to local behavior, but the resulting action still belongs to the layer of the actor carrying it out.
+
+Example:
+
+If Novacula trust unlocks an option to move supplies through the worker district, the action can still resolve through Layer 3 because the visible effect is local worker behavior, rumor, hunger, and district cooperation.
+
+The current Twine implementation is built to scale by keeping quest passages separate from the city-state calculation.
+
+Quest passages only set the current layer value:
+
+```twine
+(set: $layer2CurrentValue to 4)
+```
+
+or:
+
+```twine
+(set: $layer3CurrentValue to -2)
+```
+
+The pressure passage aggregates both values:
+
+```twine
+(set: $pressureVysControl to $pressureVysControl + $layer2CurrentValue)
+(set: $pressureVysControl to $pressureVysControl + $layer3CurrentValue)
+
+(set: $layer2CurrentValue to 0)
+(set: $layer3CurrentValue to 0)
+
+(goto: "Layer 1")
+```
+
+Layer 1 then checks whether Vys changes state.
+
+The purpose of the Twine prototype is to test whether this produces believable social movement:
+
+- factions push
+- NPCs obey, resist, delay, or cooperate
+- pressure changes the city
+- the changed city alters future behavior
+- consequences become systemic instead of individually scripted
+
+This is now the clearest game-facing version of the development rule:
+
+```text
+experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
+```
+
 ## Locked Canon Notes
 
 - House Ventari hides Viriatus's arrival, trains him, teaches him, shapes him, and uses him as an asset for control.
