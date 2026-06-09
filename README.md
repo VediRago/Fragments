@@ -36,30 +36,29 @@ This is a vertical slice for testing the Vys pressure system. It is not a finish
 
 While building Erit's world, I started writing down a method for connecting worldbuilding, factions, NPCs, atmosphere, and quests through cause and consequence.
 
-The first worldbuilding chain used for Viriatus, House Ventari, and the family foundation was:
+The core method is:
 
-> Pressure → Experience → Emotion → Reason → Behavior
+> experience -> emotion -> reason -> behavior
 
-Later testing added **Atmosphere** as the result of repeated behavior:
+Repeated behavior can create atmosphere.
 
-> Pressure → Experience → Emotion → Reason → Behavior → Atmosphere
+For world history, the chain can extend into:
 
-After that, I added **Layers** to explain why different cities, factions, districts, or NPCs can experience similar pressure but react differently.
+> experience -> emotion -> reason -> behavior -> atmosphere -> history
 
-For quests, the method is being tested like this:
+For game-facing material, the chain can extend into:
 
-> Starting Layer → Pressure → Experience → Emotion → Reason → Behavior → Atmosphere → Quest Logic → Player Choice → Consequence → Possible Layer Outcome
+> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
+Pressure and layers are not a replacement for that method. They are how I am testing the method at different scales.
 
-### Twine Prototype
-
-On 2026-06-08, I began testing this method in Twine through a small Vys prototype.
-
-The prototype currently uses three layers:
+In the current Twine prototype, the layers are:
 
 - Layer 1 — City / World State
 - Layer 2 — Faction Pressure
 - Layer 3 — NPC / Local Behavior
+
+These labels belong to this first small test. The deeper idea is that layers represent different scales of experience, influence, and change.
 
 Layer 2 and Layer 3 influence each other's effectiveness, but they do not change each other's identity.
 
@@ -68,7 +67,6 @@ Faction actions remain faction actions. NPC behavior remains NPC behavior.
 Both feed into shared city pressure, and that pressure can change the city state. The changed city state then affects future NPC behavior, faction access, location mood, and quest logic.
 
 The goal is to test whether quests can create systemic consequences instead of isolated scripted outcomes.
-
 
 ```text
 Faction Action -> Layer 2
