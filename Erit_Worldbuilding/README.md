@@ -27,15 +27,25 @@ It demonstrates:
 - creating social systems that explain who benefits, who suffers, and why the system survives
 - testing whether world pressure can become NPC behavior, quests, choices, and consequences
 
-The main development chain is:
+The core method is:
 
-> experience -> emotion -> reason -> behavior -> atmosphere -> history -> systems -> quest logic
+> experience -> emotion -> reason -> behavior
+
+Repeated behavior can create atmosphere.
+
+For world history, the chain can extend into:
+
+> experience -> emotion -> reason -> behavior -> atmosphere -> history
+
+For game-facing material, it can extend into:
+
+> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
 No important world detail should exist only because it sounds interesting.
 
 Every system should answer:
 
-- What pressure created it?
+- What experience or pressure created it?
 - Who benefits from it?
 - Who is harmed by it?
 - Why do ordinary people accept it?
@@ -58,7 +68,9 @@ The result is a society where control does not only come from violence. It comes
 
 The current playable / reviewable systems test for this branch is:
 
-[Layer System Test — Twine Prototype](Twine/Layer_System_Test/Layer%20Test.html)
+[Play the Layer System Test — Twine Prototype](https://vedirago.github.io/Fragments/Erit_Worldbuilding/Twine/Layer%20System/Index.html)
+
+[View the Twine source file](Twine/Layer%20System/Index.html)
 
 This prototype tests the Vys pressure system in Twine.
 
@@ -67,6 +79,8 @@ It uses three layers:
 - Layer 1 — City / World State
 - Layer 2 — Faction Pressure
 - Layer 3 — NPC / Local Behavior
+
+These labels belong to this first small test. The deeper idea is that layers represent different scales of experience, influence, and change.
 
 The test checks whether faction actions, NPC behavior, city pressure, and future quest logic can influence each other without becoming simple reputation bars.
 
@@ -125,7 +139,7 @@ For deeper reference, read:
 
 ### Twine Prototype
 
-- [Twine/Layer_System_Test/Layer Test.html](Twine/Layer_System_Test/Layer%20Test.html)
+- [Twine/Layer System/Index.html](Twine/Layer%20System/Index.html)
 
 ### Development Diary
 
