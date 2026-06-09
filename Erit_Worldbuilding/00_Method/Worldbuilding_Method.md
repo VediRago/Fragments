@@ -142,7 +142,7 @@ Worldbuilding should create pressure before any quest or scene begins.
 
 For Erit's world, the current major systems include a Roman-derived civilization created after House Ventari uses Viriatus's presence, victories, image, and stolen death to replace the old order with Regulatus. Viriatus does not knowingly create that political system. House Ventari builds it from what he becomes to them and to the public.
 
-The world also includes four founding lines named Ermerus, Rutare, Ilunis, and Teresta; Regulatus as a method of pride, identity, order, and emotional control; Rutare's line shaping government, records, procedure, and civic administration; Ilunis's line shaping law, judgment, military authority, and sanctioned violence; Ermerus's line shaping legitimacy, reputation, public memory, diplomacy, and narrative control; and Teresta's line leading toward medicine, augmentation, chips, bodily identification, and the Devaar family.
+The world also includes four founding lines named Ermerus, Rutare, Ilunis, and Teresta; Regulatus as a method of pride, identity, order, and emotional control; Rutare's line shaping government, records, procedure, and civic administration; Ilunis's line shaping law, judgment, military authority, and sanctioned violence; Ermerus's line shaping legitimacy, reputation, public memory, diplomacy, and meaning control; and Teresta's line leading toward medicine, augmentation, chips, bodily identification, and the Devaar family.
 
 Those systems also touch citizenship, identification status, augmentation access, medical authority, gladiator spectacle, and rebels who see stable order as control rather than freedom.
 
@@ -154,9 +154,9 @@ The world should make these conflicts feel inevitable.
 
 ---
 
-## Step 6 — Emotional Cause Becomes Behavior
+## Step 6 — Experience Becomes Behavior
 
-The current direction is to build world systems from emotional cause and consequence.
+The current direction is to build world systems from cause and consequence.
 
 The four founding lines are not political departments first.
 
@@ -164,25 +164,25 @@ They are human imbalances that harden into dynastic systems.
 
 Rutare's pressure, protection, guilt, and fear of uselessness become government through procedure. Ilunis's overuse, maiming, jealousy, and duty become law, judgment, punishment, and force. Teresta's rejection, distance, study, and need to prove continuity become medicine, preservation, augmentation, and bodily control. Ermerus's freedom without discipline becomes charm, interpretation, legitimacy conflict, and control through meaning.
 
-This same logic applies to NPCs.
-
-NPC behavior should come from emotional history, location pressure, group identity, and personal background.
+This same logic applies to NPCs, factions, cities, and cultures, but the goal is not to claim that people are simple or predictable.
 
 The useful chain I found is:
 
-> experience → emotion → reason → behavior → atmosphere → quest logic
+> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
-Experience is the pressure or lived history a character, city, faction, or culture has gone through.
+Experience is the lived pressure, history, or situation a character, city, faction, or culture has gone through.
 
-Emotion is the feeling produced by that experience.
+Emotion is the state shaped by that experience.
 
-Reason is how that person or group explains the feeling to themselves.
+Reason is how that emotional state makes sense when it meets a situation.
 
-Behavior is what they repeatedly do because of that reasoning.
+Behavior is what follows from that reasoning.
 
 Atmosphere is what the player feels once many behaviors accumulate in the same place.
 
 Quest logic appears when those behaviors create needs, obstacles, choices, and consequences.
+
+The important correction is that emotion does not directly force behavior. The same emotion can create different behavior depending on the experience behind it and the situation it meets.
 
 A city should not only say it is afraid.
 
@@ -210,25 +210,23 @@ This keeps the world deep without making any single file too heavy.
 
 ---
 
-## Design Value
-
-This method shows narrative design beyond quest construction.
+## Why The Method Matters
 
 A quest is one possible output.
 
-The deeper skill is building a world where conflict already exists before the player arrives.
+The deeper value is building a world where conflict already exists before the player arrives.
 
 Fragments remains experimental.
 
-The connected worlds can still support game-facing design samples because their systems are strong enough to generate choices, consequences, NPC behavior, and branching situations naturally.
+The connected worlds can still support game-facing samples because their systems are strong enough to generate choices, consequences, NPC behavior, and branching situations naturally.
 
-The portfolio value is not the amount of lore.
+The value is not the amount of lore.
 
-The portfolio value is the process:
+The value is the process:
 
-> experience → emotion → reason → behavior → atmosphere → quest logic
+> experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 
-For portfolio explanation, **experience** should be understood broadly.
+For explanation, **experience** should be understood broadly.
 
 It can be the lived pressure of a character, the historical wound of a faction, the conditions of a city, or the repeated reality of an entire culture.
 
