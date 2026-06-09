@@ -130,6 +130,62 @@ This is now the clearest game-facing version of the development rule:
 experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 ```
 
+### 2026-06-08 — Layer Meaning Clarification
+
+After testing the Twine version, I need to be more careful with how I describe the layers.
+
+The layers are not just labels or drawers where I place certain things.
+
+In this first prototype, Layer 3 is NPC / local behavior, Layer 2 is faction pressure, and Layer 1 is city state because that was the clearest small example to test.
+
+That does not mean those labels must always stay the same in every future test.
+
+The more useful idea is that a layer represents a scale of experience, influence, and change.
+
+Layer 3 changes faster and can hold many local actors at once. It does not need to represent one NPC. It can represent many people, groups, or local forces whose actions converge into a shared local outcome.
+
+Layer 2 changes more slowly because institutions, factions, families, or organized groups have more weight and memory. They are not frozen forever, but they are harder to move. In the current prototype they are kept more stable so the test does not become too fluid to read.
+
+Layer 1 is the condition of the city or world area. It shapes what people experience. A city under fear, scarcity, order, or resistance creates different daily experiences, and those experiences affect how people act later.
+
+This means the chain should not be read as emotion directly forcing behavior.
+
+A clearer reading is:
+
+```text
+past experience
++
+current situation
+-> emotional state
+-> reason
+-> behavior
+-> new experience
+```
+
+Behavior then becomes experience for someone else.
+
+If one person is helped, the city may not change.
+
+If many people are helped, harmed, protected, ignored, or pressured over time, those experiences can begin changing local behavior.
+
+Local behavior can then affect faction pressure.
+
+Faction pressure and local behavior can change the city.
+
+The changed city then creates new experiences for people.
+
+The Twine prototype does not try to simulate every person individually. It compresses many local reactions into layer pressure so the city can move without every NPC needing to be fully modeled.
+
+The important rule I want to keep is:
+
+```text
+Experiences create pressure.
+Influence decides how far that pressure spreads.
+Layers decide where that pressure acts.
+```
+
+This keeps the idea flexible without making it a simple good / bad score.
+
 ## Locked Canon Notes
 
 - House Ventari hides Viriatus's arrival, trains him, teaches him, shapes him, and uses him as an asset for control.
