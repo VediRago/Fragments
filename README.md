@@ -1,5 +1,11 @@
 # Fragments
 
+<p align="center">
+  <a href="Portfolio/Noeme/Noeme.mp4">
+    <img src="Portfolio/Noeme/Noeme.gif" width="800" alt="NOEME intro preview">
+  </a>
+</p>
+
 I'm Diogo Oliveira. I currently work full-time in glass manufacturing, and I am building **Fragments** outside of work as a hobby project.
 
 This project is very early. I started **Fragments** on **20/05/2026**. The worldbuilding began on **05/06/2026**, and the NPC / quest method started on **07/06/2026**.
