@@ -22,6 +22,7 @@ The story branch should answer:
 - `03_Acts/` — act structure and story progression.
 - `04_Prose/` — prose scenes and excerpts.
 - `05_Reference/` — deeper bridge, Unity, cosmology, perception, and pattern notes.
+- `06_Concept/` — concept images for worlds, Kael, Sera, and Erit.
 
 ## Reference Areas
 
