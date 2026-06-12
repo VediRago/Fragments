@@ -1,5 +1,11 @@
 # Fragments Story
 
+<p align="center">
+  <a href="../Portfolio/Noeme/Noeme.mp4">
+    <img src="../Portfolio/Noeme/Noeme.gif" width="800" alt="NOEME teaser preview">
+  </a>
+</p>
+
 This folder is the doorway for the main **Fragments** story branch.
 
 It is for story structure, character arcs, prose, acts, Unity, bridges between scenes, reveals, and emotional payoff.
