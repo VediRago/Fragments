@@ -1,34 +1,25 @@
-# Fragments Concept Folder
+# Fragments Concept
 
-This folder is for organizing story concept images, character references, world images, Unity intro panels, edits, and final exports.
+This folder is only for concept images.
 
-## Main flow
+Keep it simple for now.
 
-1. Put new images in `01_UPLOAD_INBOX/To_Sort`.
-2. Move useful images into the right world or character folder.
-3. Put edited versions in `07_Edits`.
-4. Put final usable story/Twine images in `08_Final_Exports`.
-
-## Naming examples
+## Needed folders
 
 ```text
-kael_observation_room_v01_ref.png
-sera_unconscious_floor_v03_final.png
-erit_machine_plugged_v02_needs_fix.png
-facility_dim_lights_v01_world.png
+Concept/
+├── Worlds/
+└── Characters/
+    ├── Kael/
+    ├── Sera/
+    └── Erit/
 ```
 
-## Core character folders
+## Use
 
-- `03_Characters/Kael`
-- `03_Characters/Sera`
-- `03_Characters/Erit`
+- `Worlds/` — locations, backgrounds, rooms, sky, facility, atmosphere.
+- `Characters/Kael/` — Kael references.
+- `Characters/Sera/` — Sera references.
+- `Characters/Erit/` — Erit references.
 
-Each character has:
-
-- `00_Main_Reference`
-- `01_Face_Eyes`
-- `02_Outfits`
-- `03_Poses`
-- `04_Scenes`
-- `99_Rejected_Old`
+No extra folders are needed yet.
